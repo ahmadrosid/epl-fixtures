@@ -23,29 +23,29 @@ The data displayed in 2023 with BST TimeZone.
 
 ### Standings
 
-**Last updated: 12 August 2023, 01:17**
+**Last updated: 12 August 2023, 16:38**
 
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 1 | 1 | 0 | 0 | 3 | 0 | 3 | 3 |
-| 2 | Arsenal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Bournemouth | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Brentford | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Brighton & Hove Albion | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Chelsea | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Crystal Palace | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Everton | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Fulham | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Liverpool | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Luton Town | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Manchester United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Newcastle United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Nottingham Forest | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Sheffield United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Tottenham Hotspur | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 18 | West Ham United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | Wolverhampton Wanderers | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Arsenal | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
+| 3 | Brighton & Hove Albion | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
+| 4 | Bournemouth | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 5 | Crystal Palace | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 6 | Everton | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 7 | Fulham | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 8 | Sheffield United | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 9 | West Ham United | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 10 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Brentford | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Chelsea | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Liverpool | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Manchester United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Newcastle United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Tottenham Hotspur | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Wolverhampton Wanderers | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 18 | Nottingham Forest | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 19 | Luton Town | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
 | 20 | Burnley | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 |
 <!-- END_STANDINGS -->

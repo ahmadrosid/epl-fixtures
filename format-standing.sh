@@ -9,7 +9,7 @@ fi
 
 # Fetch standing stats
 curl --request GET \
-  --url 'https://footballapi.pulselive.com/football/standings?compSeasons=578&altIds=true' \
+  --url 'https://footballapi.pulselive.com/football/standings?compSeasons=578&altIds=true&live=true' \
   --header 'accept: */*' \
   --header 'accept-language: en-US,en;q=0.9,id-ID;q=0.8,id;q=0.7' \
   --header 'authority: footballapi.pulselive.com' \
