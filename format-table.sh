@@ -10,7 +10,7 @@ fi
 cat fixtures.json | jq -r '
 .content[] |
 [
-    .kickoff.label,
+    (.kickoff.label | gsub("^[A-Za-z]+ "; "") | gsub(", [0-9]{4}"; "")),
     .teams[0].team.name,
     (if .teams[0].score then .teams[0].score else "N/A" end),
     .teams[1].team.name,
