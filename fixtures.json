@@ -217,7 +217,7 @@
               "opta": "t17"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -232,8 +232,8 @@
       "phase": "2",
       "attendance": 59984,
       "clock": {
-        "secs": 3960,
-        "label": "66'00"
+        "secs": 5580,
+        "label": "90 +3'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -258,6 +258,17 @@
             "label": "32'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 15340,
+          "assistId": 49259,
+          "clock": {
+            "secs": 4920,
+            "label": "82'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
