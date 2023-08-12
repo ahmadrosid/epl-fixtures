@@ -31,8 +31,13 @@ cat fixtures.json | jq -r '
 join(" | ")
 ' | awk 'BEGIN {print "| Date | Home | Score | Away | Score | Status |"; print "|-------------|--------|--------------|--------|--------------|--------|";} {print "| "$0" |";}' > table_data.txt
 
+OS=$(uname)
 # Delete content between the markers
-sed -i '' '/<!-- START_TABLE -->/,/<!-- END_TABLE -->/{//!d;}' README.md
+if [ "$OS" = "Darwin" ]; then
+    sed -i '' '/<!-- START_TABLE -->/,/<!-- END_TABLE -->/{//!d;}' README.md
+else
+    sed -i '/<!-- START_TABLE -->/,/<!-- END_TABLE -->/{//!d;}' README.md
+fi
 
 # Insert new table data after the start marker
 sed -i '' -e '/<!-- START_TABLE -->/r table_data.txt' README.md

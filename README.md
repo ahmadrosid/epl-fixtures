@@ -46,27 +46,4 @@ The data displayed in 2023 with BST TimeZone.
 | 18 | Sheffield United | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
 | 19 | Luton Town | 1 | 0 | 0 | 1 | 1 | 4 | -3 | 0 |
 | 20 | Burnley | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 |
-| Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
-|----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Brighton & Hove Albion | 1 | 1 | 0 | 0 | 4 | 1 | 3 | 3 |
-| 2 | Manchester City | 1 | 1 | 0 | 0 | 3 | 0 | 3 | 3 |
-| 3 | Arsenal | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
-| 4 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
-| 5 | Fulham | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
-| 6 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 7 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 8 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Brentford | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Chelsea | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Liverpool | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Manchester United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Newcastle United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Tottenham Hotspur | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Wolverhampton Wanderers | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Nottingham Forest | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
-| 17 | Everton | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
-| 18 | Sheffield United | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
-| 19 | Luton Town | 1 | 0 | 0 | 1 | 1 | 4 | -3 | 0 |
-| 20 | Burnley | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 |
-
 <!-- END_STANDINGS -->

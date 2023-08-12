@@ -43,8 +43,14 @@ cat standings.json | jq -r '
 join(" | ")
 ' | awk 'BEGIN {print "| Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |"; print "|----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|";} {print "| "$0" |";}' > standings_table.txt
 
+
+OS=$(uname)
 # Delete content between the standings markers in README.md
-sed -i '' '/<!-- START_STANDINGS -->/,/<!-- END_STANDINGS -->/{//!d;}' README.md
+if [ "$OS" = "Darwin" ]; then
+    sed -i '' '/<!-- START_STANDINGS -->/,/<!-- END_STANDINGS -->/{//!d;}' README.md
+else
+    sed -i '/<!-- START_STANDINGS -->/,/<!-- END_STANDINGS -->/{//!d;}' README.md
+fi
 
 # Insert new standings table data after the start marker in README.md
 sed -i '' -e '/<!-- START_STANDINGS -->/r standings_table.txt' README.md
