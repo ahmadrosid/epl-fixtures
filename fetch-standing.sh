@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Fetching latest standings data..."
+echo "Fetching latest standing stats data..."
 
 # Fetch standing stats
 curl --request GET \
