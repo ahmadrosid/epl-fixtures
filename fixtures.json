@@ -369,8 +369,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 5280,
-        "label": "88'00"
+        "secs": 5580,
+        "label": "90 +3'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -492,9 +492,10 @@
       "neutralGround": false,
       "status": "L",
       "phase": "2",
+      "attendance": 31872,
       "clock": {
-        "secs": 5220,
-        "label": "87'00"
+        "secs": 5520,
+        "label": "90 +2'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -638,8 +639,8 @@
       "phase": "2",
       "attendance": 39940,
       "clock": {
-        "secs": 5160,
-        "label": "86'00"
+        "secs": 5580,
+        "label": "90 +3'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -752,8 +753,8 @@
       "phase": "2",
       "attendance": 31194,
       "clock": {
-        "secs": 5160,
-        "label": "86'00"
+        "secs": 5340,
+        "label": "89'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
