@@ -7,7 +7,6 @@ then
     exit
 fi
 
-# Extract table data including fixture dates into a temporary file
 cat fixtures.json | jq -r '
 .content[] |
 [
@@ -15,11 +14,11 @@ cat fixtures.json | jq -r '
     .teams[0].team.name,
     (if .teams[0].score then .teams[0].score else "N/A" end),
     .teams[1].team.name,
-    (if .teams[1].score then .teams[1].score else "N/A" end)
+    (if .teams[1].score then .teams[1].score else "N/A" end),
+    (if .status == "C" then "Completed" elif .status == "L" then "Live" else "Upcoming" end)
 ] |
 join(" | ")
-' | awk 'BEGIN {print "| Date | Team 1 | Score | Team 2 | Score |"; print "|-------------|--------|--------------|--------|--------------|";} {print "| "$0" |";}' > /tmp/table_data.txt
-
+' | awk 'BEGIN {print "| Date | Home | Score | Away | Score | Status |"; print "|-------------|--------|--------------|--------|--------------|--------|";} {print "| "$0" |";}' > /tmp/table_data.txt
 
 # Delete content between the markers
 sed -i '' '/<!-- START_TABLE -->/,/<!-- END_TABLE -->/{//!d;}' README.md
