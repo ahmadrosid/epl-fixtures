@@ -29,13 +29,13 @@ cat fixtures.json | jq -r '
     (if .status == "C" then "Completed" elif .status == "L" then "Live" else "Upcoming" end)
 ] |
 join(" | ")
-' | awk 'BEGIN {print "| Date | Home | Score | Away | Score | Status |"; print "|-------------|--------|--------------|--------|--------------|--------|";} {print "| "$0" |";}' > /tmp/table_data.txt
+' | awk 'BEGIN {print "| Date | Home | Score | Away | Score | Status |"; print "|-------------|--------|--------------|--------|--------------|--------|";} {print "| "$0" |";}' > table_data.txt
 
 # Delete content between the markers
 sed -i '' '/<!-- START_TABLE -->/,/<!-- END_TABLE -->/{//!d;}' README.md
 
 # Insert new table data after the start marker
-sed -i '' -e '/<!-- START_TABLE -->/r /tmp/table_data.txt' README.md
+sed -i '' -e '/<!-- START_TABLE -->/r table_data.txt' README.md
 
 # Remove the temporary file
-rm /tmp/table_data.txt
+rm table_data.txt

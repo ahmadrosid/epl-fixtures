@@ -41,13 +41,13 @@ cat standings.json | jq -r '
     .overall.points
 ] |
 join(" | ")
-' | awk 'BEGIN {print "| Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |"; print "|----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|";} {print "| "$0" |";}' > /tmp/standings_table.txt
+' | awk 'BEGIN {print "| Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |"; print "|----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|";} {print "| "$0" |";}' > standings_table.txt
 
 # Delete content between the standings markers in README.md
 sed -i '' '/<!-- START_STANDINGS -->/,/<!-- END_STANDINGS -->/{//!d;}' README.md
 
 # Insert new standings table data after the start marker in README.md
-sed -i '' -e '/<!-- START_STANDINGS -->/r /tmp/standings_table.txt' README.md
+sed -i '' -e '/<!-- START_STANDINGS -->/r standings_table.txt' README.md
 
 # Remove the temporary file
-rm /tmp/standings_table.txt
+rm standings_table.txt
