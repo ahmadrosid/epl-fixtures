@@ -228,12 +228,13 @@
         "id": 52
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "attendance": 59984,
       "clock": {
-        "secs": 5580,
-        "label": "90 +3'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -365,11 +366,11 @@
         "id": 914
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 420,
+        "label": "07'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -467,11 +468,11 @@
         "id": 1684
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 300,
+        "label": "05'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -569,11 +570,11 @@
         "id": 31
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 420,
+        "label": "07'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -671,11 +672,11 @@
         "id": 2003
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 360,
+        "label": "06'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
