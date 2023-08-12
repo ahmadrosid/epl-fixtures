@@ -355,7 +355,7 @@
               "opta": "t21"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -367,15 +367,27 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 3540,
+        "label": "59'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 8868,
+          "assistId": 25183,
+          "clock": {
+            "secs": 3060,
+            "label": "51'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93323,
@@ -469,10 +481,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 3540,
+        "label": "59'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -583,10 +595,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 3420,
+        "label": "57'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -673,7 +685,7 @@
               "opta": "t31"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -685,15 +697,27 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 3360,
+        "label": "56'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 16788,
+          "assistId": 5595,
+          "clock": {
+            "secs": 2940,
+            "label": "49'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93327,
