@@ -7,17 +7,18 @@ then
     exit
 fi
 
-# Extract table data into a temporary file
+# Extract table data including fixture dates into a temporary file
 cat fixtures.json | jq -r '
 .content[] |
 [
+    .kickoff.label,
     .teams[0].team.name,
     (if .teams[0].score then .teams[0].score else "N/A" end),
     .teams[1].team.name,
     (if .teams[1].score then .teams[1].score else "N/A" end)
 ] |
 join(" | ")
-' | awk 'BEGIN {print "| Team 1 | Team 1 Score | Team 2 | Team 2 Score |"; print "|--------|--------------|--------|--------------|";} {print "| "$0" |";}' > /tmp/table_data.txt
+' | awk 'BEGIN {print "| Date & Time | Team 1 | Score | Team 2 | Score |"; print "|-------------|--------|--------------|--------|--------------|";} {print "| "$0" |";}' > /tmp/table_data.txt
 
 
 # Delete content between the markers
