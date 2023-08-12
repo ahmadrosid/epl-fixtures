@@ -1,9 +1,9 @@
 # EPL Fixtures
 
-# Fixtures
+### Fixtures
 
 <!-- START_TABLE -->
-| Date & Time | Team 1 | Score | Team 2 | Score |
+| Date | Team 1 | Score | Team 2 | Score |
 |-------------|--------|--------------|--------|--------------|
 | Fri 11 Aug 2023, 20:00 BST | Burnley | 0 | Manchester City | 3 |
 | Sat 12 Aug 2023, 13:00 BST | Arsenal | 2 | Nottingham Forest | 1 |

@@ -18,7 +18,7 @@ cat fixtures.json | jq -r '
     (if .teams[1].score then .teams[1].score else "N/A" end)
 ] |
 join(" | ")
-' | awk 'BEGIN {print "| Date & Time | Team 1 | Score | Team 2 | Score |"; print "|-------------|--------|--------------|--------|--------------|";} {print "| "$0" |";}' > /tmp/table_data.txt
+' | awk 'BEGIN {print "| Date | Team 1 | Score | Team 2 | Score |"; print "|-------------|--------|--------------|--------|--------------|";} {print "| "$0" |";}' > /tmp/table_data.txt
 
 
 # Delete content between the markers
