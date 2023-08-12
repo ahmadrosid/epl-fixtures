@@ -7,24 +7,6 @@ then
     exit
 fi
 
-# Fetch standing stats
-curl --request GET \
-  --url 'https://footballapi.pulselive.com/football/standings?compSeasons=578&altIds=true' \
-  --header 'accept: */*' \
-  --header 'accept-language: en-US,en;q=0.9,id-ID;q=0.8,id;q=0.7' \
-  --header 'authority: footballapi.pulselive.com' \
-  --header 'content-type: application/x-www-form-urlencoded; charset=UTF-8' \
-  --header 'if-none-match: W/"03b2b9bb2d61e889c39f3fa9353769d4a"' \
-  --header 'origin: https://www.premierleague.com' \
-  --header 'referer: https://www.premierleague.com/' \
-  --header 'sec-ch-ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"' \
-  --header 'sec-ch-ua-mobile: ?0' \
-  --header 'sec-ch-ua-platform: "macOS"' \
-  --header 'sec-fetch-dest: empty' \
-  --header 'sec-fetch-mode: cors' \
-  --header 'sec-fetch-site: cross-site' \
-  --header 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36' | jq > standings.json
-
 cat fixtures.json | jq -r '
 .content[] |
 [

@@ -37,5 +37,6 @@ jobs:
           git add -A
           timestamp=$(date -u)
           bash format-table.sh
+          bash format-standing.sh
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
