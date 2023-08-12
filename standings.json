@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1691861437000,
-    "label": "12 August 2023, 18:30",
+    "millis": 1691862401000,
+    "label": "12 August 2023, 18:46",
     "gmtOffset": 1
   },
   "live": true,
@@ -224,6 +224,72 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 4,
+          "startingPosition": 4,
+          "overall": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "home": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "away": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -236,72 +302,6 @@
             "id": 6,
             "altIds": {
               "opta": "t31"
-            }
-          },
-          "position": 4,
-          "startingPosition": 4,
-          "overall": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
-            "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
-            },
-            "source": "OPTA",
-            "id": 45
-          }
-        },
-        {
-          "team": {
-            "name": "Fulham",
-            "club": {
-              "name": "Fulham",
-              "shortName": "Fulham",
-              "abbr": "FUL",
-              "id": 34
-            },
-            "teamType": "FIRST",
-            "shortName": "Fulham",
-            "id": 34,
-            "altIds": {
-              "opta": "t54"
             }
           },
           "position": 5,
@@ -343,6 +343,66 @@
             }
           ],
           "ground": {
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
+            "location": {
+              "latitude": 51.3979,
+              "longitude": -0.085923
+            },
+            "source": "OPTA",
+            "id": 45
+          }
+        },
+        {
+          "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          },
+          "position": 6,
+          "startingPosition": 6,
+          "overall": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "home": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "away": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "ground": {
             "name": "Craven Cottage",
             "city": "London",
             "capacity": 25700,
@@ -370,8 +430,8 @@
               "opta": "t91"
             }
           },
-          "position": 6,
-          "startingPosition": 6,
+          "position": 7,
+          "startingPosition": 7,
           "overall": {
             "played": 1,
             "won": 0,
@@ -430,8 +490,8 @@
               "opta": "t21"
             }
           },
-          "position": 7,
-          "startingPosition": 7,
+          "position": 8,
+          "startingPosition": 8,
           "overall": {
             "played": 1,
             "won": 0,
@@ -471,126 +531,6 @@
         },
         {
           "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "position": 8,
-          "startingPosition": 8,
-          "overall": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "ground": {
-            "name": "Villa Park",
-            "city": "Birmingham",
-            "capacity": 42682,
-            "location": {
-              "latitude": 52.5085,
-              "longitude": -1.88495
-            },
-            "source": "OPTA",
-            "id": 43
-          }
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 9,
-          "startingPosition": 9,
-          "overall": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "away": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
-          }
-        },
-        {
-          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -605,8 +545,8 @@
               "opta": "t94"
             }
           },
-          "position": 10,
-          "startingPosition": 10,
+          "position": 9,
+          "startingPosition": 9,
           "overall": {
             "played": 0,
             "won": 0,
@@ -660,8 +600,8 @@
               "opta": "t8"
             }
           },
-          "position": 11,
-          "startingPosition": 11,
+          "position": 10,
+          "startingPosition": 10,
           "overall": {
             "played": 0,
             "won": 0,
@@ -720,8 +660,8 @@
               "opta": "t14"
             }
           },
-          "position": 12,
-          "startingPosition": 12,
+          "position": 11,
+          "startingPosition": 11,
           "overall": {
             "played": 0,
             "won": 0,
@@ -780,8 +720,8 @@
               "opta": "t1"
             }
           },
-          "position": 13,
-          "startingPosition": 13,
+          "position": 12,
+          "startingPosition": 12,
           "overall": {
             "played": 0,
             "won": 0,
@@ -840,8 +780,8 @@
               "opta": "t6"
             }
           },
-          "position": 14,
-          "startingPosition": 14,
+          "position": 13,
+          "startingPosition": 13,
           "overall": {
             "played": 0,
             "won": 0,
@@ -895,8 +835,8 @@
               "opta": "t39"
             }
           },
-          "position": 15,
-          "startingPosition": 15,
+          "position": 14,
+          "startingPosition": 14,
           "overall": {
             "played": 0,
             "won": 0,
@@ -937,6 +877,66 @@
             },
             "source": "OPTA",
             "id": 913
+          }
+        },
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          },
+          "position": 15,
+          "startingPosition": 15,
+          "overall": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "goalsDifference": -1,
+            "points": 0
+          },
+          "home": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "goalsDifference": -1,
+            "points": 0
+          },
+          "ground": {
+            "name": "Villa Park",
+            "city": "Birmingham",
+            "capacity": 42682,
+            "location": {
+              "latitude": 52.5085,
+              "longitude": -1.88495
+            },
+            "source": "OPTA",
+            "id": 43
           }
         },
         {

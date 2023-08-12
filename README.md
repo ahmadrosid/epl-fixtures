@@ -13,7 +13,7 @@ The data displayed in 2023 with BST TimeZone.
 | 12 Aug, 15:00 | Brighton & Hove Albion | 4 | Luton Town | 1 | Completed |
 | 12 Aug, 15:00 | Everton | 0 | Fulham | 1 | Completed |
 | 12 Aug, 15:00 | Sheffield United | 0 | Crystal Palace | 1 | Completed |
-| 12 Aug, 17:30 | Newcastle United | 0 | Aston Villa | 0 | Live |
+| 12 Aug, 17:30 | Newcastle United | 2 | Aston Villa | 1 | Live |
 | 13 Aug, 14:00 | Brentford | N/A | Tottenham Hotspur | N/A | Upcoming |
 | 13 Aug, 16:30 | Chelsea | N/A | Liverpool | N/A | Upcoming |
 | 14 Aug, 20:00 | Manchester United | N/A | Wolverhampton Wanderers | N/A | Upcoming |
@@ -29,18 +29,18 @@ The data displayed in 2023 with BST TimeZone.
 | 1 | Brighton & Hove Albion | 1 | 1 | 0 | 0 | 4 | 1 | 3 | 3 |
 | 2 | Manchester City | 1 | 1 | 0 | 0 | 3 | 0 | 3 | 3 |
 | 3 | Arsenal | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
-| 4 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
-| 5 | Fulham | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
-| 6 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 7 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 8 | Aston Villa | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 9 | Newcastle United | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 10 | Brentford | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Chelsea | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Liverpool | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Manchester United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Tottenham Hotspur | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Wolverhampton Wanderers | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Newcastle United | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
+| 5 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
+| 6 | Fulham | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
+| 7 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 8 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 9 | Brentford | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Chelsea | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Liverpool | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Manchester United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Tottenham Hotspur | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Wolverhampton Wanderers | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Aston Villa | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
 | 16 | Nottingham Forest | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
 | 17 | Everton | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
 | 18 | Sheffield United | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
