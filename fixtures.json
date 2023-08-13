@@ -1202,8 +1202,8 @@
       "outcome": "D",
       "attendance": 40096,
       "clock": {
-        "secs": 5760,
-        "label": "90 +6'00"
+        "secs": 5700,
+        "label": "90 +5'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
