@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1691937972000,
-    "label": "13 August 2023, 15:46",
+    "millis": 1691938753000,
+    "label": "13 August 2023, 15:59",
     "gmtOffset": 1
   },
   "live": true,
@@ -290,67 +290,6 @@
         },
         {
           "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "position": 5,
-          "startingPosition": 5,
-          "overall": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 1,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 1,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "away": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
-          "ground": {
-            "name": "Gtech Community Stadium",
-            "city": "Brentford",
-            "source": "OPTA",
-            "id": 3977
-          }
-        },
-        {
-          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -365,8 +304,8 @@
               "opta": "t31"
             }
           },
-          "position": 6,
-          "startingPosition": 6,
+          "position": 5,
+          "startingPosition": 5,
           "overall": {
             "played": 1,
             "won": 1,
@@ -397,6 +336,12 @@
             "goalsDifference": 1,
             "points": 3
           },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_EL"
+            }
+          ],
           "ground": {
             "name": "Selhurst Park",
             "city": "London",
@@ -425,8 +370,8 @@
               "opta": "t54"
             }
           },
-          "position": 7,
-          "startingPosition": 7,
+          "position": 6,
+          "startingPosition": 6,
           "overall": {
             "played": 1,
             "won": 1,
@@ -471,6 +416,116 @@
         },
         {
           "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          },
+          "position": 7,
+          "startingPosition": 7,
+          "overall": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "away": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "ground": {
+            "name": "Gtech Community Stadium",
+            "city": "Brentford",
+            "source": "OPTA",
+            "id": 3977
+          }
+        },
+        {
+          "team": {
+            "name": "Tottenham Hotspur",
+            "club": {
+              "name": "Tottenham Hotspur",
+              "shortName": "Spurs",
+              "abbr": "TOT",
+              "id": 21
+            },
+            "teamType": "FIRST",
+            "shortName": "Tottenham Hotspur",
+            "id": 21,
+            "altIds": {
+              "opta": "t6"
+            }
+          },
+          "position": 8,
+          "startingPosition": 8,
+          "overall": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "home": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "ground": {
+            "name": "Tottenham Hotspur Stadium",
+            "city": "London",
+            "source": "OPTA",
+            "id": 1734
+          }
+        },
+        {
+          "team": {
             "name": "Bournemouth",
             "club": {
               "name": "Bournemouth",
@@ -485,8 +540,8 @@
               "opta": "t91"
             }
           },
-          "position": 8,
-          "startingPosition": 8,
+          "position": 9,
+          "startingPosition": 9,
           "overall": {
             "played": 1,
             "won": 0,
@@ -545,8 +600,8 @@
               "opta": "t21"
             }
           },
-          "position": 9,
-          "startingPosition": 9,
+          "position": 10,
+          "startingPosition": 10,
           "overall": {
             "played": 1,
             "won": 0,
@@ -600,8 +655,8 @@
               "opta": "t8"
             }
           },
-          "position": 10,
-          "startingPosition": 10,
+          "position": 11,
+          "startingPosition": 11,
           "overall": {
             "played": 0,
             "won": 0,
@@ -660,8 +715,8 @@
               "opta": "t14"
             }
           },
-          "position": 11,
-          "startingPosition": 11,
+          "position": 12,
+          "startingPosition": 12,
           "overall": {
             "played": 0,
             "won": 0,
@@ -720,8 +775,8 @@
               "opta": "t1"
             }
           },
-          "position": 12,
-          "startingPosition": 12,
+          "position": 13,
+          "startingPosition": 13,
           "overall": {
             "played": 0,
             "won": 0,
@@ -780,8 +835,8 @@
               "opta": "t39"
             }
           },
-          "position": 13,
-          "startingPosition": 13,
+          "position": 14,
+          "startingPosition": 14,
           "overall": {
             "played": 0,
             "won": 0,
@@ -840,8 +895,8 @@
               "opta": "t17"
             }
           },
-          "position": 14,
-          "startingPosition": 14,
+          "position": 15,
+          "startingPosition": 15,
           "overall": {
             "played": 1,
             "won": 0,
@@ -880,61 +935,6 @@
               "longitude": -1.13258
             },
             "id": 1192
-          }
-        },
-        {
-          "team": {
-            "name": "Tottenham Hotspur",
-            "club": {
-              "name": "Tottenham Hotspur",
-              "shortName": "Spurs",
-              "abbr": "TOT",
-              "id": 21
-            },
-            "teamType": "FIRST",
-            "shortName": "Tottenham Hotspur",
-            "id": 21,
-            "altIds": {
-              "opta": "t6"
-            }
-          },
-          "position": 15,
-          "startingPosition": 15,
-          "overall": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 2,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 2,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "ground": {
-            "name": "Tottenham Hotspur Stadium",
-            "city": "London",
-            "source": "OPTA",
-            "id": 1734
           }
         },
         {
