@@ -15,7 +15,7 @@ The data displayed in 2023 with BST TimeZone.
 | 12 Aug, 15:00 | Sheffield United | 0 | Crystal Palace | 1 | Completed |
 | 12 Aug, 17:30 | Newcastle United | 5 | Aston Villa | 1 | Completed |
 | 13 Aug, 14:00 | Brentford | 2 | Tottenham Hotspur | 2 | Live |
-| 13 Aug, 16:30 | Chelsea | N/A | Liverpool | N/A | Upcoming |
+| 13 Aug, 16:30 | Chelsea | 0 | Liverpool | 0 | Upcoming |
 | 14 Aug, 20:00 | Manchester United | N/A | Wolverhampton Wanderers | N/A | Upcoming |
 <!-- END_TABLE -->
 
