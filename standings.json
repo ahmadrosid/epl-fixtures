@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1691939902000,
-    "label": "13 August 2023, 16:18",
+    "millis": 1691944237000,
+    "label": "13 August 2023, 17:30",
     "gmtOffset": 1
   },
   "live": true,
@@ -658,24 +658,24 @@
           "position": 11,
           "startingPosition": 11,
           "overall": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "home": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "away": {
             "played": 0,
@@ -718,14 +718,14 @@
           "position": 12,
           "startingPosition": 12,
           "overall": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "home": {
             "played": 0,
@@ -738,14 +738,14 @@
             "points": 0
           },
           "away": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "ground": {
             "name": "Anfield",
