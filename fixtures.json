@@ -1049,11 +1049,13 @@
         "id": 4003
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "D",
+      "attendance": 17066,
       "clock": {
-        "secs": 4260,
-        "label": "71'00"
+        "secs": 5700,
+        "label": "90 +5'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
