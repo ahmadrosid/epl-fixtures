@@ -1199,6 +1199,7 @@
       "neutralGround": false,
       "status": "C",
       "phase": "F",
+      "outcome": "D",
       "attendance": 40096,
       "clock": {
         "secs": 5760,
