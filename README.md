@@ -15,7 +15,7 @@ The data displayed in 2023 with BST TimeZone.
 | 12 Aug, 15:00 | Sheffield United | 0 | Crystal Palace | 1 | Completed |
 | 12 Aug, 17:30 | Newcastle United | 5 | Aston Villa | 1 | Completed |
 | 13 Aug, 14:00 | Brentford | 2 | Tottenham Hotspur | 2 | Completed |
-| 13 Aug, 16:30 | Chelsea | 0 | Liverpool | 0 | Live |
+| 13 Aug, 16:30 | Chelsea | 0 | Liverpool | 1 | Live |
 | 14 Aug, 20:00 | Manchester United | N/A | Wolverhampton Wanderers | N/A | Upcoming |
 <!-- END_TABLE -->
 
@@ -32,15 +32,15 @@ The data displayed in 2023 with BST TimeZone.
 | 4 | Arsenal | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
 | 5 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
 | 6 | Fulham | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
-| 7 | Brentford | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
-| 8 | Tottenham Hotspur | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
-| 9 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 10 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 11 | Chelsea | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 12 | Liverpool | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 13 | Manchester United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Wolverhampton Wanderers | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Nottingham Forest | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 7 | Liverpool | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
+| 8 | Brentford | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
+| 9 | Tottenham Hotspur | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
+| 10 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 11 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 12 | Manchester United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Wolverhampton Wanderers | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Nottingham Forest | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 15 | Chelsea | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
 | 16 | Everton | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
 | 17 | Sheffield United | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
 | 18 | Luton Town | 1 | 0 | 0 | 1 | 1 | 4 | -3 | 0 |
