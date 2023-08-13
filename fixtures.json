@@ -1197,12 +1197,12 @@
         "id": 30
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
       "attendance": 40096,
       "clock": {
-        "secs": 4680,
-        "label": "78'00"
+        "secs": 5760,
+        "label": "90 +6'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
