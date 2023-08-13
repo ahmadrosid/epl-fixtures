@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1691945443000,
-    "label": "13 August 2023, 17:50",
+    "millis": 1691946629000,
+    "label": "13 August 2023, 18:10",
     "gmtOffset": 1
   },
   "live": true,
@@ -416,66 +416,6 @@
         },
         {
           "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "position": 7,
-          "startingPosition": 7,
-          "overall": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "ground": {
-            "name": "Anfield",
-            "city": "Liverpool",
-            "capacity": 54074,
-            "location": {
-              "latitude": 53.4313,
-              "longitude": -2.96158
-            },
-            "source": "OPTA",
-            "id": 901
-          }
-        },
-        {
-          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -490,8 +430,8 @@
               "opta": "t94"
             }
           },
-          "position": 8,
-          "startingPosition": 8,
+          "position": 7,
+          "startingPosition": 7,
           "overall": {
             "played": 1,
             "won": 0,
@@ -545,8 +485,8 @@
               "opta": "t6"
             }
           },
-          "position": 9,
-          "startingPosition": 9,
+          "position": 8,
+          "startingPosition": 8,
           "overall": {
             "played": 1,
             "won": 0,
@@ -600,8 +540,8 @@
               "opta": "t91"
             }
           },
-          "position": 10,
-          "startingPosition": 10,
+          "position": 9,
+          "startingPosition": 9,
           "overall": {
             "played": 1,
             "won": 0,
@@ -646,6 +586,126 @@
         },
         {
           "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          },
+          "position": 10,
+          "startingPosition": 10,
+          "overall": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "away": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "ground": {
+            "name": "Stamford Bridge",
+            "city": "London",
+            "capacity": 41798,
+            "location": {
+              "latitude": 51.4816,
+              "longitude": -0.191016
+            },
+            "source": "OPTA",
+            "id": 30
+          }
+        },
+        {
+          "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          },
+          "position": 11,
+          "startingPosition": 11,
+          "overall": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "home": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "ground": {
+            "name": "Anfield",
+            "city": "Liverpool",
+            "capacity": 54074,
+            "location": {
+              "latitude": 53.4313,
+              "longitude": -2.96158
+            },
+            "source": "OPTA",
+            "id": 901
+          }
+        },
+        {
+          "team": {
             "name": "West Ham United",
             "club": {
               "name": "West Ham United",
@@ -660,8 +720,8 @@
               "opta": "t21"
             }
           },
-          "position": 11,
-          "startingPosition": 11,
+          "position": 12,
+          "startingPosition": 12,
           "overall": {
             "played": 1,
             "won": 0,
@@ -715,8 +775,8 @@
               "opta": "t1"
             }
           },
-          "position": 12,
-          "startingPosition": 12,
+          "position": 13,
+          "startingPosition": 13,
           "overall": {
             "played": 0,
             "won": 0,
@@ -775,8 +835,8 @@
               "opta": "t39"
             }
           },
-          "position": 13,
-          "startingPosition": 13,
+          "position": 14,
+          "startingPosition": 14,
           "overall": {
             "played": 0,
             "won": 0,
@@ -835,8 +895,8 @@
               "opta": "t17"
             }
           },
-          "position": 14,
-          "startingPosition": 14,
+          "position": 15,
+          "startingPosition": 15,
           "overall": {
             "played": 1,
             "won": 0,
@@ -875,66 +935,6 @@
               "longitude": -1.13258
             },
             "id": 1192
-          }
-        },
-        {
-          "team": {
-            "name": "Chelsea",
-            "club": {
-              "name": "Chelsea",
-              "shortName": "Chelsea",
-              "abbr": "CHE",
-              "id": 4
-            },
-            "teamType": "FIRST",
-            "shortName": "Chelsea",
-            "id": 4,
-            "altIds": {
-              "opta": "t8"
-            }
-          },
-          "position": 15,
-          "startingPosition": 15,
-          "overall": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "away": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "ground": {
-            "name": "Stamford Bridge",
-            "city": "London",
-            "capacity": 41798,
-            "location": {
-              "latitude": 51.4816,
-              "longitude": -0.191016
-            },
-            "source": "OPTA",
-            "id": 30
           }
         },
         {
