@@ -16,7 +16,7 @@ The data displayed in 2023 with BST TimeZone.
 | 12 Aug, 17:30 | Newcastle United | 5 | Aston Villa | 1 | Completed |
 | 13 Aug, 14:00 | Brentford | 2 | Tottenham Hotspur | 2 | Completed |
 | 13 Aug, 16:30 | Chelsea | 1 | Liverpool | 1 | Completed |
-| 14 Aug, 20:00 | Manchester United | 0 | Wolverhampton Wanderers | 0 | Upcoming |
+| 14 Aug, 20:00 | Manchester United | 0 | Wolverhampton Wanderers | 0 | Live |
 <!-- END_TABLE -->
 
 ### Standings
@@ -38,8 +38,8 @@ The data displayed in 2023 with BST TimeZone.
 | 10 | Chelsea | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
 | 11 | Liverpool | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
 | 12 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 13 | Manchester United | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Wolverhampton Wanderers | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Manchester United | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 14 | Wolverhampton Wanderers | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 | 15 | Nottingham Forest | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
 | 16 | Everton | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
 | 17 | Sheffield United | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |

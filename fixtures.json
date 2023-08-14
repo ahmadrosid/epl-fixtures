@@ -1324,11 +1324,11 @@
         "id": 42
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 840,
+        "label": "14'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,

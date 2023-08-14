@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1691948362000,
-    "label": "13 August 2023, 18:39",
+    "millis": 1692043301000,
+    "label": "14 August 2023, 21:01",
     "gmtOffset": 1
   },
   "live": true,
@@ -778,24 +778,24 @@
           "position": 13,
           "startingPosition": 13,
           "overall": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "home": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "away": {
             "played": 0,
@@ -838,14 +838,14 @@
           "position": 14,
           "startingPosition": 14,
           "overall": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "home": {
             "played": 0,
@@ -858,14 +858,14 @@
             "points": 0
           },
           "away": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "ground": {
             "name": "Molineux Stadium",
