@@ -16,7 +16,7 @@ The data displayed in 2023 with BST TimeZone.
 | 12 Aug, 17:30 | Newcastle United | 5 | Aston Villa | 1 | Completed |
 | 13 Aug, 14:00 | Brentford | 2 | Tottenham Hotspur | 2 | Completed |
 | 13 Aug, 16:30 | Chelsea | 1 | Liverpool | 1 | Completed |
-| 14 Aug, 20:00 | Manchester United | 1 | Wolverhampton Wanderers | 0 | Live |
+| 14 Aug, 20:00 | Manchester United | 1 | Wolverhampton Wanderers | 0 | Completed |
 <!-- END_TABLE -->
 
 ### Standings
