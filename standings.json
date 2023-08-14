@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692047053000,
-    "label": "14 August 2023, 22:04",
+    "millis": 1692049026000,
+    "label": "14 August 2023, 22:37",
     "gmtOffset": 1
   },
   "live": true,
@@ -416,6 +416,66 @@
         },
         {
           "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          },
+          "position": 7,
+          "startingPosition": 7,
+          "overall": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "home": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "away": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "ground": {
+            "name": "Old Trafford",
+            "city": "Manchester",
+            "capacity": 75635,
+            "location": {
+              "latitude": 53.4626,
+              "longitude": -2.29103
+            },
+            "source": "OPTA",
+            "id": 42
+          }
+        },
+        {
+          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -430,8 +490,8 @@
               "opta": "t94"
             }
           },
-          "position": 7,
-          "startingPosition": 7,
+          "position": 8,
+          "startingPosition": 8,
           "overall": {
             "played": 1,
             "won": 0,
@@ -485,8 +545,8 @@
               "opta": "t6"
             }
           },
-          "position": 8,
-          "startingPosition": 8,
+          "position": 9,
+          "startingPosition": 9,
           "overall": {
             "played": 1,
             "won": 0,
@@ -540,8 +600,8 @@
               "opta": "t91"
             }
           },
-          "position": 9,
-          "startingPosition": 9,
+          "position": 10,
+          "startingPosition": 10,
           "overall": {
             "played": 1,
             "won": 0,
@@ -600,8 +660,8 @@
               "opta": "t8"
             }
           },
-          "position": 10,
-          "startingPosition": 10,
+          "position": 11,
+          "startingPosition": 11,
           "overall": {
             "played": 1,
             "won": 0,
@@ -660,8 +720,8 @@
               "opta": "t14"
             }
           },
-          "position": 11,
-          "startingPosition": 11,
+          "position": 12,
+          "startingPosition": 12,
           "overall": {
             "played": 1,
             "won": 0,
@@ -720,8 +780,8 @@
               "opta": "t21"
             }
           },
-          "position": 12,
-          "startingPosition": 12,
+          "position": 13,
+          "startingPosition": 13,
           "overall": {
             "played": 1,
             "won": 0,
@@ -761,126 +821,6 @@
         },
         {
           "team": {
-            "name": "Manchester United",
-            "club": {
-              "name": "Manchester United",
-              "shortName": "Man Utd",
-              "abbr": "MUN",
-              "id": 12
-            },
-            "teamType": "FIRST",
-            "shortName": "Man Utd",
-            "id": 12,
-            "altIds": {
-              "opta": "t1"
-            }
-          },
-          "position": 13,
-          "startingPosition": 13,
-          "overall": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "away": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "ground": {
-            "name": "Old Trafford",
-            "city": "Manchester",
-            "capacity": 75635,
-            "location": {
-              "latitude": 53.4626,
-              "longitude": -2.29103
-            },
-            "source": "OPTA",
-            "id": 42
-          }
-        },
-        {
-          "team": {
-            "name": "Wolverhampton Wanderers",
-            "club": {
-              "name": "Wolverhampton Wanderers",
-              "shortName": "Wolves",
-              "abbr": "WOL",
-              "id": 38
-            },
-            "teamType": "FIRST",
-            "shortName": "Wolves",
-            "id": 38,
-            "altIds": {
-              "opta": "t39"
-            }
-          },
-          "position": 14,
-          "startingPosition": 14,
-          "overall": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "ground": {
-            "name": "Molineux Stadium",
-            "city": "Wolverhampton",
-            "capacity": 31500,
-            "location": {
-              "latitude": 52.5904,
-              "longitude": -2.13077
-            },
-            "source": "OPTA",
-            "id": 913
-          }
-        },
-        {
-          "team": {
             "name": "Nottingham Forest",
             "club": {
               "name": "Nottingham Forest",
@@ -895,8 +835,8 @@
               "opta": "t17"
             }
           },
-          "position": 15,
-          "startingPosition": 15,
+          "position": 14,
+          "startingPosition": 14,
           "overall": {
             "played": 1,
             "won": 0,
@@ -953,8 +893,8 @@
               "opta": "t11"
             }
           },
-          "position": 16,
-          "startingPosition": 16,
+          "position": 15,
+          "startingPosition": 15,
           "overall": {
             "played": 1,
             "won": 0,
@@ -1013,8 +953,8 @@
               "opta": "t49"
             }
           },
-          "position": 17,
-          "startingPosition": 17,
+          "position": 16,
+          "startingPosition": 16,
           "overall": {
             "played": 1,
             "won": 0,
@@ -1055,6 +995,66 @@
             },
             "source": "OPTA",
             "id": 206
+          }
+        },
+        {
+          "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          },
+          "position": 17,
+          "startingPosition": 17,
+          "overall": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "goalsDifference": -1,
+            "points": 0
+          },
+          "home": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "goalsDifference": -1,
+            "points": 0
+          },
+          "ground": {
+            "name": "Molineux Stadium",
+            "city": "Wolverhampton",
+            "capacity": 31500,
+            "location": {
+              "latitude": 52.5904,
+              "longitude": -2.13077
+            },
+            "source": "OPTA",
+            "id": 913
           }
         },
         {
