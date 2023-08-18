@@ -33,16 +33,16 @@ The data displayed in 2023 with BST TimeZone.
 | 5 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
 | 6 | Fulham | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
 | 7 | Manchester United | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
-| 8 | Brentford | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
-| 9 | Tottenham Hotspur | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
-| 10 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 11 | Chelsea | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 12 | Liverpool | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 13 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 14 | Nottingham Forest | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 8 | Nottingham Forest | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
+| 9 | Brentford | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
+| 10 | Tottenham Hotspur | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
+| 11 | Bournemouth | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 12 | Chelsea | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 13 | Liverpool | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 14 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
 | 15 | Everton | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
-| 16 | Sheffield United | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
-| 17 | Wolverhampton Wanderers | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
+| 16 | Wolverhampton Wanderers | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
+| 17 | Sheffield United | 2 | 0 | 0 | 2 | 0 | 2 | -2 | 0 |
 | 18 | Luton Town | 1 | 0 | 0 | 1 | 1 | 4 | -3 | 0 |
 | 19 | Burnley | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 |
 | 20 | Aston Villa | 1 | 0 | 0 | 1 | 1 | 5 | -4 | 0 |
