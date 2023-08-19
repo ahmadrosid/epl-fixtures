@@ -8,9 +8,9 @@ The data displayed in 2023 with BST TimeZone.
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
 | 18 Aug, 19:45 | Nottingham Forest | 2 | Sheffield United | 1 | Completed |
-| 19 Aug, 15:00 | Fulham | N/A | Brentford | N/A | Upcoming |
-| 19 Aug, 15:00 | Liverpool | N/A | Bournemouth | N/A | Upcoming |
-| 19 Aug, 15:00 | Wolverhampton Wanderers | N/A | Brighton & Hove Albion | N/A | Upcoming |
+| 19 Aug, 15:00 | Fulham | 0 | Brentford | 0 | Upcoming |
+| 19 Aug, 15:00 | Liverpool | 0 | Bournemouth | 0 | Upcoming |
+| 19 Aug, 15:00 | Wolverhampton Wanderers | 0 | Brighton & Hove Albion | 0 | Upcoming |
 | 19 Aug, 17:30 | Tottenham Hotspur | N/A | Manchester United | N/A | Upcoming |
 | 19 Aug, 20:00 | Manchester City | N/A | Newcastle United | N/A | Upcoming |
 | 20 Aug, 14:00 | Aston Villa | N/A | Everton | N/A | Upcoming |
