@@ -26,7 +26,7 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Brighton & Hove Albion | 2 | 2 | 0 | 0 | 8 | 2 | 6 | 6 |
-| 2 | Brentford | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
+| 2 | Brentford | 2 | 1 | 1 | 0 | 5 | 2 | 3 | 4 |
 | 3 | Liverpool | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
 | 4 | Newcastle United | 1 | 1 | 0 | 0 | 5 | 1 | 4 | 3 |
 | 5 | Manchester City | 1 | 1 | 0 | 0 | 3 | 0 | 3 | 3 |
@@ -34,7 +34,7 @@ The data displayed in 2023 with BST TimeZone.
 | 7 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
 | 8 | Manchester United | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
 | 9 | Nottingham Forest | 2 | 1 | 0 | 1 | 3 | 3 | 0 | 3 |
-| 10 | Fulham | 2 | 1 | 0 | 1 | 1 | 2 | -1 | 3 |
+| 10 | Fulham | 2 | 1 | 0 | 1 | 1 | 3 | -2 | 3 |
 | 11 | Tottenham Hotspur | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
 | 12 | Chelsea | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
 | 13 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |

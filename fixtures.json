@@ -231,8 +231,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4200,
-        "label": "70'00"
+        "secs": 5520,
+        "label": "90 +2'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -354,8 +354,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4200,
-        "label": "70'00"
+        "secs": 5400,
+        "label": "90'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -498,8 +498,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4380,
-        "label": "73'00"
+        "secs": 5520,
+        "label": "90 +2'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
