@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692464302000,
-    "label": "19 August 2023, 17:58",
+    "millis": 1692466220000,
+    "label": "19 August 2023, 18:30",
     "gmtOffset": 1
   },
   "live": true,
@@ -219,6 +219,72 @@
         },
         {
           "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          },
+          "position": 4,
+          "startingPosition": 7,
+          "overall": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 4
+          },
+          "home": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Old Trafford",
+            "city": "Manchester",
+            "capacity": 75635,
+            "location": {
+              "latitude": 53.4626,
+              "longitude": -2.29103
+            },
+            "source": "OPTA",
+            "id": 42
+          }
+        },
+        {
+          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -233,7 +299,7 @@
               "opta": "t4"
             }
           },
-          "position": 4,
+          "position": 5,
           "startingPosition": 1,
           "overall": {
             "played": 1,
@@ -268,7 +334,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -299,7 +365,7 @@
               "opta": "t43"
             }
           },
-          "position": 5,
+          "position": 6,
           "startingPosition": 3,
           "overall": {
             "played": 1,
@@ -331,12 +397,6 @@
             "goalsDifference": 3,
             "points": 3
           },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
           "ground": {
             "name": "Etihad Stadium",
             "city": "Manchester",
@@ -365,7 +425,7 @@
               "opta": "t3"
             }
           },
-          "position": 6,
+          "position": 7,
           "startingPosition": 4,
           "overall": {
             "played": 1,
@@ -425,7 +485,7 @@
               "opta": "t31"
             }
           },
-          "position": 7,
+          "position": 8,
           "startingPosition": 5,
           "overall": {
             "played": 1,
@@ -467,66 +527,6 @@
             },
             "source": "OPTA",
             "id": 45
-          }
-        },
-        {
-          "team": {
-            "name": "Manchester United",
-            "club": {
-              "name": "Manchester United",
-              "shortName": "Man Utd",
-              "abbr": "MUN",
-              "id": 12
-            },
-            "teamType": "FIRST",
-            "shortName": "Man Utd",
-            "id": 12,
-            "altIds": {
-              "opta": "t1"
-            }
-          },
-          "position": 8,
-          "startingPosition": 7,
-          "overall": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "away": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "ground": {
-            "name": "Old Trafford",
-            "city": "Manchester",
-            "capacity": 75635,
-            "location": {
-              "latitude": 53.4626,
-              "longitude": -2.29103
-            },
-            "source": "OPTA",
-            "id": 42
           }
         },
         {
@@ -666,24 +666,24 @@
           "position": 11,
           "startingPosition": 9,
           "overall": {
-            "played": 1,
+            "played": 2,
             "won": 0,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 0,
             "goalsFor": 2,
             "goalsAgainst": 2,
             "goalsDifference": 0,
-            "points": 1
+            "points": 2
           },
           "home": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "away": {
             "played": 1,
