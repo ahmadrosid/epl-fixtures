@@ -7,16 +7,15 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 11 Aug, 20:00 | Burnley | 0 | Manchester City | 3 | Completed |
-| 12 Aug, 13:00 | Arsenal | 2 | Nottingham Forest | 1 | Completed |
-| 12 Aug, 15:00 | Bournemouth | 1 | West Ham United | 1 | Completed |
-| 12 Aug, 15:00 | Brighton & Hove Albion | 4 | Luton Town | 1 | Completed |
-| 12 Aug, 15:00 | Everton | 0 | Fulham | 1 | Completed |
-| 12 Aug, 15:00 | Sheffield United | 0 | Crystal Palace | 1 | Completed |
-| 12 Aug, 17:30 | Newcastle United | 5 | Aston Villa | 1 | Completed |
-| 13 Aug, 14:00 | Brentford | 2 | Tottenham Hotspur | 2 | Completed |
-| 13 Aug, 16:30 | Chelsea | 1 | Liverpool | 1 | Completed |
-| 14 Aug, 20:00 | Manchester United | 1 | Wolverhampton Wanderers | 0 | Completed |
+| 18 Aug, 19:45 | Nottingham Forest | 2 | Sheffield United | 1 | Completed |
+| 19 Aug, 15:00 | Fulham | N/A | Brentford | N/A | Upcoming |
+| 19 Aug, 15:00 | Liverpool | N/A | Bournemouth | N/A | Upcoming |
+| 19 Aug, 15:00 | Wolverhampton Wanderers | N/A | Brighton & Hove Albion | N/A | Upcoming |
+| 19 Aug, 17:30 | Tottenham Hotspur | N/A | Manchester United | N/A | Upcoming |
+| 19 Aug, 20:00 | Manchester City | N/A | Newcastle United | N/A | Upcoming |
+| 20 Aug, 14:00 | Aston Villa | N/A | Everton | N/A | Upcoming |
+| 20 Aug, 16:30 | West Ham United | N/A | Chelsea | N/A | Upcoming |
+| 21 Aug, 20:00 | Crystal Palace | N/A | Arsenal | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
