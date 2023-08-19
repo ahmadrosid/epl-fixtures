@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692458122000,
-    "label": "19 August 2023, 16:15",
+    "millis": 1692459040000,
+    "label": "19 August 2023, 16:30",
     "gmtOffset": 1
   },
   "live": true,
@@ -92,72 +92,6 @@
         },
         {
           "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "position": 2,
-          "startingPosition": 10,
-          "overall": {
-            "played": 2,
-            "won": 1,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 1,
-            "goalsDifference": 1,
-            "points": 4
-          },
-          "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 1,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "away": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Vitality Stadium",
-            "city": "Bournemouth",
-            "capacity": 10783,
-            "location": {
-              "latitude": 50.7349,
-              "longitude": -1.83899
-            },
-            "source": "OPTA",
-            "id": 215
-          }
-        },
-        {
-          "team": {
             "name": "Fulham",
             "club": {
               "name": "Fulham",
@@ -172,7 +106,7 @@
               "opta": "t54"
             }
           },
-          "position": 3,
+          "position": 2,
           "startingPosition": 6,
           "overall": {
             "played": 2,
@@ -238,7 +172,7 @@
               "opta": "t4"
             }
           },
-          "position": 4,
+          "position": 3,
           "startingPosition": 1,
           "overall": {
             "played": 1,
@@ -304,7 +238,7 @@
               "opta": "t43"
             }
           },
-          "position": 5,
+          "position": 4,
           "startingPosition": 3,
           "overall": {
             "played": 1,
@@ -339,7 +273,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_EL"
+              "destination": "EU_CL"
             }
           ],
           "ground": {
@@ -370,7 +304,7 @@
               "opta": "t3"
             }
           },
-          "position": 6,
+          "position": 5,
           "startingPosition": 4,
           "overall": {
             "played": 1,
@@ -402,6 +336,12 @@
             "goalsDifference": 0,
             "points": 0
           },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_EL"
+            }
+          ],
           "ground": {
             "name": "Emirates Stadium",
             "city": "London",
@@ -430,7 +370,7 @@
               "opta": "t31"
             }
           },
-          "position": 7,
+          "position": 6,
           "startingPosition": 5,
           "overall": {
             "played": 1,
@@ -490,7 +430,7 @@
               "opta": "t1"
             }
           },
-          "position": 8,
+          "position": 7,
           "startingPosition": 7,
           "overall": {
             "played": 1,
@@ -550,7 +490,7 @@
               "opta": "t17"
             }
           },
-          "position": 9,
+          "position": 8,
           "startingPosition": 14,
           "overall": {
             "played": 2,
@@ -590,6 +530,66 @@
               "longitude": -1.13258
             },
             "id": 1192
+          }
+        },
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          },
+          "position": 9,
+          "startingPosition": 10,
+          "overall": {
+            "played": 2,
+            "won": 0,
+            "drawn": 2,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 2
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "ground": {
+            "name": "Vitality Stadium",
+            "city": "Bournemouth",
+            "capacity": 10783,
+            "location": {
+              "latitude": 50.7349,
+              "longitude": -1.83899
+            },
+            "source": "OPTA",
+            "id": 215
           }
         },
         {
@@ -649,6 +649,66 @@
         },
         {
           "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          },
+          "position": 11,
+          "startingPosition": 12,
+          "overall": {
+            "played": 2,
+            "won": 0,
+            "drawn": 2,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 2
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "ground": {
+            "name": "Anfield",
+            "city": "Liverpool",
+            "capacity": 54074,
+            "location": {
+              "latitude": 53.4313,
+              "longitude": -2.96158
+            },
+            "source": "OPTA",
+            "id": 901
+          }
+        },
+        {
+          "team": {
             "name": "Tottenham Hotspur",
             "club": {
               "name": "Tottenham Hotspur",
@@ -663,7 +723,7 @@
               "opta": "t6"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 9,
           "overall": {
             "played": 1,
@@ -718,7 +778,7 @@
               "opta": "t8"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 11,
           "overall": {
             "played": 1,
@@ -778,7 +838,7 @@
               "opta": "t21"
             }
           },
-          "position": 13,
+          "position": 14,
           "startingPosition": 13,
           "overall": {
             "played": 1,
@@ -815,66 +875,6 @@
             "city": "London",
             "source": "OPTA",
             "id": 433
-          }
-        },
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "position": 14,
-          "startingPosition": 12,
-          "overall": {
-            "played": 2,
-            "won": 0,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 2,
-            "goalsDifference": -1,
-            "points": 1
-          },
-          "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 1,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "ground": {
-            "name": "Anfield",
-            "city": "Liverpool",
-            "capacity": 54074,
-            "location": {
-              "latitude": 53.4313,
-              "longitude": -2.96158
-            },
-            "source": "OPTA",
-            "id": 901
           }
         },
         {
