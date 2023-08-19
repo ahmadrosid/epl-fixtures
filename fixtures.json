@@ -228,11 +228,11 @@
         "id": 16
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 900,
+        "label": "15'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -319,7 +319,7 @@
               "opta": "t91"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -330,16 +330,28 @@
         "id": 901
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 960,
+        "label": "16'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 25474,
+          "assistId": 10443,
+          "clock": {
+            "secs": 180,
+            "label": "03'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93334,
@@ -421,7 +433,7 @@
               "opta": "t36"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -432,16 +444,28 @@
         "id": 913
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 900,
+        "label": "15'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 117732,
+          "assistId": 31904,
+          "clock": {
+            "secs": 900,
+            "label": "15'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93340,
