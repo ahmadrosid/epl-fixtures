@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692472938000,
-    "label": "19 August 2023, 20:22",
+    "millis": 1692475367000,
+    "label": "19 August 2023, 21:02",
     "gmtOffset": 1
   },
   "live": true,
@@ -92,6 +92,72 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 2,
+          "startingPosition": 1,
+          "overall": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 5,
+            "goalsAgainst": 1,
+            "goalsDifference": 4,
+            "points": 4
+          },
+          "home": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 5,
+            "goalsAgainst": 1,
+            "goalsDifference": 4,
+            "points": 3
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -106,7 +172,7 @@
               "opta": "t94"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 8,
           "overall": {
             "played": 2,
@@ -153,6 +219,72 @@
         },
         {
           "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          },
+          "position": 4,
+          "startingPosition": 3,
+          "overall": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 0,
+            "goalsDifference": 3,
+            "points": 4
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "away": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 0,
+            "goalsDifference": 3,
+            "points": 3
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Etihad Stadium",
+            "city": "Manchester",
+            "capacity": 55000,
+            "location": {
+              "latitude": 53.4832,
+              "longitude": -2.20042
+            },
+            "source": "OPTA",
+            "id": 457
+          }
+        },
+        {
+          "team": {
             "name": "Liverpool",
             "club": {
               "name": "Liverpool",
@@ -167,7 +299,7 @@
               "opta": "t14"
             }
           },
-          "position": 3,
+          "position": 5,
           "startingPosition": 12,
           "overall": {
             "played": 2,
@@ -202,7 +334,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -233,7 +365,7 @@
               "opta": "t6"
             }
           },
-          "position": 4,
+          "position": 6,
           "startingPosition": 9,
           "overall": {
             "played": 2,
@@ -265,143 +397,11 @@
             "goalsDifference": 0,
             "points": 1
           },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
           "ground": {
             "name": "Tottenham Hotspur Stadium",
             "city": "London",
             "source": "OPTA",
             "id": 1734
-          }
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 5,
-          "startingPosition": 1,
-          "overall": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 5,
-            "goalsAgainst": 1,
-            "goalsDifference": 4,
-            "points": 3
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 5,
-            "goalsAgainst": 1,
-            "goalsDifference": 4,
-            "points": 3
-          },
-          "away": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
-          }
-        },
-        {
-          "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "position": 6,
-          "startingPosition": 3,
-          "overall": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 3,
-            "goalsAgainst": 0,
-            "goalsDifference": 3,
-            "points": 3
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 3,
-            "goalsAgainst": 0,
-            "goalsDifference": 3,
-            "points": 3
-          },
-          "ground": {
-            "name": "Etihad Stadium",
-            "city": "Manchester",
-            "capacity": 55000,
-            "location": {
-              "latitude": 53.4832,
-              "longitude": -2.20042
-            },
-            "source": "OPTA",
-            "id": 457
           }
         },
         {

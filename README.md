@@ -12,7 +12,7 @@ The data displayed in 2023 with BST TimeZone.
 | 19 Aug, 15:00 | Liverpool | 3 | Bournemouth | 1 | Completed |
 | 19 Aug, 15:00 | Wolverhampton Wanderers | 1 | Brighton & Hove Albion | 4 | Completed |
 | 19 Aug, 17:30 | Tottenham Hotspur | 2 | Manchester United | 0 | Completed |
-| 19 Aug, 20:00 | Manchester City | 0 | Newcastle United | 0 | Upcoming |
+| 19 Aug, 20:00 | Manchester City | 0 | Newcastle United | 0 | Live |
 | 20 Aug, 14:00 | Aston Villa | N/A | Everton | N/A | Upcoming |
 | 20 Aug, 16:30 | West Ham United | N/A | Chelsea | N/A | Upcoming |
 | 21 Aug, 20:00 | Crystal Palace | N/A | Arsenal | N/A | Upcoming |
@@ -26,11 +26,11 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Brighton & Hove Albion | 2 | 2 | 0 | 0 | 8 | 2 | 6 | 6 |
-| 2 | Brentford | 2 | 1 | 1 | 0 | 5 | 2 | 3 | 4 |
-| 3 | Liverpool | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
-| 4 | Tottenham Hotspur | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
-| 5 | Newcastle United | 1 | 1 | 0 | 0 | 5 | 1 | 4 | 3 |
-| 6 | Manchester City | 1 | 1 | 0 | 0 | 3 | 0 | 3 | 3 |
+| 2 | Newcastle United | 2 | 1 | 1 | 0 | 5 | 1 | 4 | 4 |
+| 3 | Brentford | 2 | 1 | 1 | 0 | 5 | 2 | 3 | 4 |
+| 4 | Manchester City | 2 | 1 | 1 | 0 | 3 | 0 | 3 | 4 |
+| 5 | Liverpool | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
+| 6 | Tottenham Hotspur | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
 | 7 | Arsenal | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
 | 8 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
 | 9 | Nottingham Forest | 2 | 1 | 0 | 1 | 3 | 3 | 0 | 3 |
