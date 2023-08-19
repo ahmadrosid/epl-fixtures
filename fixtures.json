@@ -511,6 +511,7 @@
       "status": "C",
       "phase": "F",
       "outcome": "A",
+      "attendance": 31317,
       "clock": {
         "secs": 6000,
         "label": "90 +10'00"
@@ -670,8 +671,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 180,
-        "label": "03'00"
+        "secs": 1200,
+        "label": "20'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
