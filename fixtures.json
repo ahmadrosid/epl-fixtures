@@ -668,12 +668,12 @@
         "id": 3921
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
       "attendance": 61910,
       "clock": {
-        "secs": 5400,
-        "label": "90'00"
+        "secs": 6000,
+        "label": "90 +10'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -690,15 +690,14 @@
           "description": "G"
         },
         {
-          "personId": 4408,
-          "assistId": 12901,
+          "personId": 67191,
           "clock": {
             "secs": 4980,
             "label": "83'00"
           },
           "phase": "2",
-          "type": "G",
-          "description": "G"
+          "type": "O",
+          "description": "O"
         }
       ],
       "penaltyShootouts": [],
