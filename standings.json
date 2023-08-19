@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692459898000,
-    "label": "19 August 2023, 16:44",
+    "millis": 1692461634000,
+    "label": "19 August 2023, 17:13",
     "gmtOffset": 1
   },
   "live": true,
@@ -47,9 +47,9 @@
             "won": 2,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 5,
+            "goalsFor": 8,
             "goalsAgainst": 1,
-            "goalsDifference": 4,
+            "goalsDifference": 7,
             "points": 6
           },
           "home": {
@@ -67,9 +67,9 @@
             "won": 1,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 1,
+            "goalsFor": 4,
             "goalsAgainst": 0,
-            "goalsDifference": 1,
+            "goalsDifference": 4,
             "points": 3
           },
           "annotations": [
@@ -999,66 +999,6 @@
         },
         {
           "team": {
-            "name": "Wolverhampton Wanderers",
-            "club": {
-              "name": "Wolverhampton Wanderers",
-              "shortName": "Wolves",
-              "abbr": "WOL",
-              "id": 38
-            },
-            "teamType": "FIRST",
-            "shortName": "Wolves",
-            "id": 38,
-            "altIds": {
-              "opta": "t39"
-            }
-          },
-          "position": 17,
-          "startingPosition": 17,
-          "overall": {
-            "played": 2,
-            "won": 0,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 0,
-            "goalsAgainst": 2,
-            "goalsDifference": -2,
-            "points": 0
-          },
-          "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "ground": {
-            "name": "Molineux Stadium",
-            "city": "Wolverhampton",
-            "capacity": 31500,
-            "location": {
-              "latitude": 52.5904,
-              "longitude": -2.13077
-            },
-            "source": "OPTA",
-            "id": 913
-          }
-        },
-        {
-          "team": {
             "name": "Luton Town",
             "club": {
               "name": "Luton Town",
@@ -1073,7 +1013,7 @@
               "opta": "t102"
             }
           },
-          "position": 18,
+          "position": 17,
           "startingPosition": 18,
           "overall": {
             "played": 1,
@@ -1105,12 +1045,6 @@
             "goalsDifference": -3,
             "points": 0
           },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
           "ground": {
             "name": "Kenilworth Road",
             "city": "Luton",
@@ -1134,7 +1068,7 @@
               "opta": "t90"
             }
           },
-          "position": 19,
+          "position": 18,
           "startingPosition": 19,
           "overall": {
             "played": 1,
@@ -1200,7 +1134,7 @@
               "opta": "t7"
             }
           },
-          "position": 20,
+          "position": 19,
           "startingPosition": 20,
           "overall": {
             "played": 1,
@@ -1248,6 +1182,72 @@
             },
             "source": "OPTA",
             "id": 43
+          }
+        },
+        {
+          "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          },
+          "position": 20,
+          "startingPosition": 17,
+          "overall": {
+            "played": 2,
+            "won": 0,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 5,
+            "goalsDifference": -5,
+            "points": 0
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "goalsDifference": -4,
+            "points": 0
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "goalsDifference": -1,
+            "points": 0
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Molineux Stadium",
+            "city": "Wolverhampton",
+            "capacity": 31500,
+            "location": {
+              "latitude": 52.5904,
+              "longitude": -2.13077
+            },
+            "source": "OPTA",
+            "id": 913
           }
         }
       ]

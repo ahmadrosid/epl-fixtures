@@ -229,10 +229,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3360,
+        "label": "56'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -342,10 +342,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 3000,
-        "label": "45 +5'00"
+        "secs": 3360,
+        "label": "56'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -365,8 +365,8 @@
         {
           "personId": 66669,
           "clock": {
-            "secs": 1680,
-            "label": "28'00"
+            "secs": 1620,
+            "label": "27'00"
           },
           "phase": "1",
           "type": "G",
@@ -464,7 +464,7 @@
               "opta": "t36"
             }
           },
-          "score": 1
+          "score": 4
         }
       ],
       "replay": false,
@@ -476,10 +476,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3300,
+        "label": "55'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -493,6 +493,39 @@
             "label": "15'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 31904,
+          "assistId": 117732,
+          "clock": {
+            "secs": 2760,
+            "label": "46'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 8171,
+          "assistId": 125827,
+          "clock": {
+            "secs": 3060,
+            "label": "51'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 8171,
+          "assistId": 125827,
+          "clock": {
+            "secs": 3300,
+            "label": "55'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
