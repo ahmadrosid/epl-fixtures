@@ -13,7 +13,7 @@ The data displayed in 2023 with BST TimeZone.
 | 19 Aug, 15:00 | Wolverhampton Wanderers | 1 | Brighton & Hove Albion | 4 | Completed |
 | 19 Aug, 17:30 | Tottenham Hotspur | 2 | Manchester United | 0 | Completed |
 | 19 Aug, 20:00 | Manchester City | 1 | Newcastle United | 0 | Completed |
-| 20 Aug, 14:00 | Aston Villa | N/A | Everton | N/A | Upcoming |
+| 20 Aug, 14:00 | Aston Villa | 0 | Everton | 0 | Upcoming |
 | 20 Aug, 16:30 | West Ham United | N/A | Chelsea | N/A | Upcoming |
 | 21 Aug, 20:00 | Crystal Palace | N/A | Arsenal | N/A | Upcoming |
 <!-- END_TABLE -->

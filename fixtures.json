@@ -231,6 +231,7 @@
       "status": "C",
       "phase": "F",
       "outcome": "A",
+      "attendance": 24236,
       "clock": {
         "secs": 6000,
         "label": "90 +10'00"
@@ -878,7 +879,8 @@
             "altIds": {
               "opta": "t7"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -895,7 +897,8 @@
             "altIds": {
               "opta": "t11"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -908,6 +911,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
