@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692553893000,
-    "label": "20 August 2023, 18:51",
+    "millis": 1692556269000,
+    "label": "20 August 2023, 19:31",
     "gmtOffset": 1
   },
   "live": true,
@@ -367,9 +367,9 @@
             "won": 1,
             "drawn": 1,
             "lost": 0,
-            "goalsFor": 3,
+            "goalsFor": 4,
             "goalsAgainst": 2,
-            "goalsDifference": 1,
+            "goalsDifference": 2,
             "points": 4
           },
           "home": {
@@ -377,9 +377,9 @@
             "won": 1,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 2,
+            "goalsFor": 3,
             "goalsAgainst": 1,
-            "goalsDifference": 1,
+            "goalsDifference": 2,
             "points": 3
           },
           "away": {
@@ -819,66 +819,6 @@
         },
         {
           "team": {
-            "name": "Chelsea",
-            "club": {
-              "name": "Chelsea",
-              "shortName": "Chelsea",
-              "abbr": "CHE",
-              "id": 4
-            },
-            "teamType": "FIRST",
-            "shortName": "Chelsea",
-            "id": 4,
-            "altIds": {
-              "opta": "t8"
-            }
-          },
-          "position": 14,
-          "startingPosition": 11,
-          "overall": {
-            "played": 2,
-            "won": 0,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 2,
-            "goalsAgainst": 3,
-            "goalsDifference": -1,
-            "points": 1
-          },
-          "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 1,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 2,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "ground": {
-            "name": "Stamford Bridge",
-            "city": "London",
-            "capacity": 41798,
-            "location": {
-              "latitude": 51.4816,
-              "longitude": -0.191016
-            },
-            "source": "OPTA",
-            "id": 30
-          }
-        },
-        {
-          "team": {
             "name": "Bournemouth",
             "club": {
               "name": "Bournemouth",
@@ -893,7 +833,7 @@
               "opta": "t91"
             }
           },
-          "position": 15,
+          "position": 14,
           "startingPosition": 10,
           "overall": {
             "played": 2,
@@ -935,6 +875,66 @@
             },
             "source": "OPTA",
             "id": 215
+          }
+        },
+        {
+          "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          },
+          "position": 15,
+          "startingPosition": 11,
+          "overall": {
+            "played": 2,
+            "won": 0,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 4,
+            "goalsDifference": -2,
+            "points": 1
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "goalsDifference": -2,
+            "points": 0
+          },
+          "ground": {
+            "name": "Stamford Bridge",
+            "city": "London",
+            "capacity": 41798,
+            "location": {
+              "latitude": 51.4816,
+              "longitude": -0.191016
+            },
+            "source": "OPTA",
+            "id": 30
           }
         },
         {

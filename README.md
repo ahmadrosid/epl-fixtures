@@ -30,7 +30,7 @@ The data displayed in 2023 with BST TimeZone.
 | 3 | Brentford | 2 | 1 | 1 | 0 | 5 | 2 | 3 | 4 |
 | 4 | Liverpool | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
 | 5 | Tottenham Hotspur | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
-| 6 | West Ham United | 2 | 1 | 1 | 0 | 3 | 2 | 1 | 4 |
+| 6 | West Ham United | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
 | 7 | Newcastle United | 2 | 1 | 0 | 1 | 5 | 2 | 3 | 3 |
 | 8 | Arsenal | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
 | 9 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
@@ -38,8 +38,8 @@ The data displayed in 2023 with BST TimeZone.
 | 11 | Nottingham Forest | 2 | 1 | 0 | 1 | 3 | 3 | 0 | 3 |
 | 12 | Manchester United | 2 | 1 | 0 | 1 | 1 | 2 | -1 | 3 |
 | 13 | Fulham | 2 | 1 | 0 | 1 | 1 | 3 | -2 | 3 |
-| 14 | Chelsea | 2 | 0 | 1 | 1 | 2 | 3 | -1 | 1 |
-| 15 | Bournemouth | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 |
+| 14 | Bournemouth | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 |
+| 15 | Chelsea | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 |
 | 16 | Sheffield United | 2 | 0 | 0 | 2 | 1 | 3 | -2 | 0 |
 | 17 | Luton Town | 1 | 0 | 0 | 1 | 1 | 4 | -3 | 0 |
 | 18 | Burnley | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 |
