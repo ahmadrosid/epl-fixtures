@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692479231000,
-    "label": "19 August 2023, 22:07",
+    "millis": 1692540108000,
+    "label": "20 August 2023, 15:01",
     "gmtOffset": 1
   },
   "live": true,
@@ -819,6 +819,66 @@
         },
         {
           "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 14,
+          "startingPosition": 15,
+          "overall": {
+            "played": 2,
+            "won": 0,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "goalsDifference": -1,
+            "points": 1
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "goalsDifference": -1,
+            "points": 0
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "ground": {
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
+          }
+        },
+        {
+          "team": {
             "name": "Bournemouth",
             "club": {
               "name": "Bournemouth",
@@ -833,7 +893,7 @@
               "opta": "t91"
             }
           },
-          "position": 14,
+          "position": 15,
           "startingPosition": 10,
           "overall": {
             "played": 2,
@@ -879,62 +939,62 @@
         },
         {
           "team": {
-            "name": "Everton",
+            "name": "Aston Villa",
             "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
             },
             "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
+            "shortName": "Aston Villa",
+            "id": 2,
             "altIds": {
-              "opta": "t11"
+              "opta": "t7"
             }
           },
-          "position": 15,
-          "startingPosition": 15,
+          "position": 16,
+          "startingPosition": 20,
           "overall": {
-            "played": 1,
+            "played": 2,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 0
+            "goalsFor": 1,
+            "goalsAgainst": 5,
+            "goalsDifference": -4,
+            "points": 1
           },
           "home": {
             "played": 1,
             "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "away": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
+            "points": 1
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 5,
+            "goalsDifference": -4,
             "points": 0
           },
           "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
+            "name": "Villa Park",
+            "city": "Birmingham",
+            "capacity": 42682,
             "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
+              "latitude": 52.5085,
+              "longitude": -1.88495
             },
             "source": "OPTA",
-            "id": 31
+            "id": 43
           }
         },
         {
@@ -953,7 +1013,7 @@
               "opta": "t49"
             }
           },
-          "position": 16,
+          "position": 17,
           "startingPosition": 16,
           "overall": {
             "played": 2,
@@ -1013,7 +1073,7 @@
               "opta": "t102"
             }
           },
-          "position": 17,
+          "position": 18,
           "startingPosition": 18,
           "overall": {
             "played": 1,
@@ -1045,6 +1105,12 @@
             "goalsDifference": -3,
             "points": 0
           },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
           "ground": {
             "name": "Kenilworth Road",
             "city": "Luton",
@@ -1068,7 +1134,7 @@
               "opta": "t90"
             }
           },
-          "position": 18,
+          "position": 19,
           "startingPosition": 19,
           "overall": {
             "played": 1,
@@ -1116,72 +1182,6 @@
             },
             "source": "OPTA",
             "id": 47
-          }
-        },
-        {
-          "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "position": 19,
-          "startingPosition": 20,
-          "overall": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 5,
-            "goalsDifference": -4,
-            "points": 0
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 5,
-            "goalsDifference": -4,
-            "points": 0
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Villa Park",
-            "city": "Birmingham",
-            "capacity": 42682,
-            "location": {
-              "latitude": 52.5085,
-              "longitude": -1.88495
-            },
-            "source": "OPTA",
-            "id": 43
           }
         },
         {
