@@ -909,11 +909,13 @@
         "id": 1986
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
+      "attendance": 41694,
       "clock": {
-        "secs": 5100,
-        "label": "85'00"
+        "secs": 6000,
+        "label": "90 +10'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
