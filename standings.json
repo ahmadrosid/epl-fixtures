@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692546228000,
-    "label": "20 August 2023, 16:43",
+    "millis": 1692549063000,
+    "label": "20 August 2023, 17:31",
     "gmtOffset": 1
   },
   "live": true,
@@ -781,14 +781,14 @@
           "position": 13,
           "startingPosition": 11,
           "overall": {
-            "played": 1,
+            "played": 2,
             "won": 0,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 0,
             "goalsFor": 1,
             "goalsAgainst": 1,
             "goalsDifference": 0,
-            "points": 1
+            "points": 2
           },
           "home": {
             "played": 1,
@@ -801,14 +801,14 @@
             "points": 1
           },
           "away": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "ground": {
             "name": "Stamford Bridge",
@@ -841,24 +841,24 @@
           "position": 14,
           "startingPosition": 13,
           "overall": {
-            "played": 1,
+            "played": 2,
             "won": 0,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 0,
             "goalsFor": 1,
             "goalsAgainst": 1,
             "goalsDifference": 0,
-            "points": 1
+            "points": 2
           },
           "home": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "away": {
             "played": 1,

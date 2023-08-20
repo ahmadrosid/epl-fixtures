@@ -37,8 +37,8 @@ The data displayed in 2023 with BST TimeZone.
 | 10 | Nottingham Forest | 2 | 1 | 0 | 1 | 3 | 3 | 0 | 3 |
 | 11 | Manchester United | 2 | 1 | 0 | 1 | 1 | 2 | -1 | 3 |
 | 12 | Fulham | 2 | 1 | 0 | 1 | 1 | 3 | -2 | 3 |
-| 13 | Chelsea | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 14 | West Ham United | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 13 | Chelsea | 2 | 0 | 2 | 0 | 1 | 1 | 0 | 2 |
+| 14 | West Ham United | 2 | 0 | 2 | 0 | 1 | 1 | 0 | 2 |
 | 15 | Bournemouth | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 |
 | 16 | Sheffield United | 2 | 0 | 0 | 2 | 1 | 3 | -2 | 0 |
 | 17 | Luton Town | 1 | 0 | 0 | 1 | 1 | 4 | -3 | 0 |
