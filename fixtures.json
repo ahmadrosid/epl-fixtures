@@ -1201,11 +1201,13 @@
         "id": 45
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "A",
+      "attendance": 24189,
       "clock": {
-        "secs": 5460,
-        "label": "90 +1'00"
+        "secs": 5880,
+        "label": "90 +8'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
