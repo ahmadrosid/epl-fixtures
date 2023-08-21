@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692556285000,
-    "label": "20 August 2023, 19:31",
+    "millis": 1692648093000,
+    "label": "21 August 2023, 21:01",
     "gmtOffset": 1
   },
   "live": true,
@@ -401,6 +401,126 @@
         },
         {
           "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          },
+          "position": 7,
+          "startingPosition": 4,
+          "overall": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "goalsDifference": 1,
+            "points": 4
+          },
+          "home": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "ground": {
+            "name": "Emirates Stadium",
+            "city": "London",
+            "capacity": 60272,
+            "location": {
+              "latitude": 51.5548,
+              "longitude": -0.108533
+            },
+            "source": "OPTA",
+            "id": 52
+          }
+        },
+        {
+          "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          },
+          "position": 8,
+          "startingPosition": 5,
+          "overall": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 4
+          },
+          "home": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "away": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "ground": {
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
+            "location": {
+              "latitude": 51.3979,
+              "longitude": -0.085923
+            },
+            "source": "OPTA",
+            "id": 45
+          }
+        },
+        {
+          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -415,7 +535,7 @@
               "opta": "t4"
             }
           },
-          "position": 7,
+          "position": 9,
           "startingPosition": 1,
           "overall": {
             "played": 2,
@@ -457,126 +577,6 @@
             },
             "source": "OPTA",
             "id": 27
-          }
-        },
-        {
-          "team": {
-            "name": "Arsenal",
-            "club": {
-              "name": "Arsenal",
-              "shortName": "Arsenal",
-              "abbr": "ARS",
-              "id": 1
-            },
-            "teamType": "FIRST",
-            "shortName": "Arsenal",
-            "id": 1,
-            "altIds": {
-              "opta": "t3"
-            }
-          },
-          "position": 8,
-          "startingPosition": 4,
-          "overall": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 1,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 1,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "away": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "ground": {
-            "name": "Emirates Stadium",
-            "city": "London",
-            "capacity": 60272,
-            "location": {
-              "latitude": 51.5548,
-              "longitude": -0.108533
-            },
-            "source": "OPTA",
-            "id": 52
-          }
-        },
-        {
-          "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "position": 9,
-          "startingPosition": 5,
-          "overall": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
-            "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
-            },
-            "source": "OPTA",
-            "id": 45
           }
         },
         {

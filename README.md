@@ -15,7 +15,7 @@ The data displayed in 2023 with BST TimeZone.
 | 19 Aug, 20:00 | Manchester City | 1 | Newcastle United | 0 | Completed |
 | 20 Aug, 14:00 | Aston Villa | 4 | Everton | 0 | Completed |
 | 20 Aug, 16:30 | West Ham United | 3 | Chelsea | 1 | Completed |
-| 21 Aug, 20:00 | Crystal Palace | 0 | Arsenal | 0 | Upcoming |
+| 21 Aug, 20:00 | Crystal Palace | 0 | Arsenal | 0 | Live |
 <!-- END_TABLE -->
 
 ### Standings
@@ -31,9 +31,9 @@ The data displayed in 2023 with BST TimeZone.
 | 4 | Liverpool | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
 | 5 | Tottenham Hotspur | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
 | 6 | West Ham United | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
-| 7 | Newcastle United | 2 | 1 | 0 | 1 | 5 | 2 | 3 | 3 |
-| 8 | Arsenal | 1 | 1 | 0 | 0 | 2 | 1 | 1 | 3 |
-| 9 | Crystal Palace | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
+| 7 | Arsenal | 2 | 1 | 1 | 0 | 2 | 1 | 1 | 4 |
+| 8 | Crystal Palace | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 4 |
+| 9 | Newcastle United | 2 | 1 | 0 | 1 | 5 | 2 | 3 | 3 |
 | 10 | Aston Villa | 2 | 1 | 0 | 1 | 5 | 5 | 0 | 3 |
 | 11 | Nottingham Forest | 2 | 1 | 0 | 1 | 3 | 3 | 0 | 3 |
 | 12 | Manchester United | 2 | 1 | 0 | 1 | 1 | 2 | -1 | 3 |
