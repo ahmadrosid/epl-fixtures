@@ -15,7 +15,7 @@ The data displayed in 2023 with BST TimeZone.
 | 19 Aug, 20:00 | Manchester City | 1 | Newcastle United | 0 | Completed |
 | 20 Aug, 14:00 | Aston Villa | 4 | Everton | 0 | Completed |
 | 20 Aug, 16:30 | West Ham United | 3 | Chelsea | 1 | Completed |
-| 21 Aug, 20:00 | Crystal Palace | N/A | Arsenal | N/A | Upcoming |
+| 21 Aug, 20:00 | Crystal Palace | 0 | Arsenal | 0 | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
