@@ -7,16 +7,16 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 11 Nov, 15:00 GMT | Arsenal | N/A | Burnley | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | Aston Villa | N/A | Fulham | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | Bournemouth | N/A | Newcastle United | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | Brighton & Hove Albion | N/A | Sheffield United | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | Chelsea | N/A | Manchester City | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | Crystal Palace | N/A | Everton | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | Liverpool | N/A | Brentford | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | Manchester United | N/A | Luton Town | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | West Ham United | N/A | Nottingham Forest | N/A | Upcoming |
-| 11 Nov, 15:00 GMT | Wolverhampton Wanderers | N/A | Tottenham Hotspur | N/A | Upcoming |
+| 25 Aug, 20:00 | Chelsea | N/A | Luton Town | N/A | Upcoming |
+| 26 Aug, 12:30 | Bournemouth | N/A | Tottenham Hotspur | N/A | Upcoming |
+| 26 Aug, 15:00 | Arsenal | N/A | Fulham | N/A | Upcoming |
+| 26 Aug, 15:00 | Brentford | N/A | Crystal Palace | N/A | Upcoming |
+| 26 Aug, 15:00 | Everton | N/A | Wolverhampton Wanderers | N/A | Upcoming |
+| 26 Aug, 15:00 | Manchester United | N/A | Nottingham Forest | N/A | Upcoming |
+| 26 Aug, 17:30 | Brighton & Hove Albion | N/A | West Ham United | N/A | Upcoming |
+| 27 Aug, 14:00 | Burnley | N/A | Aston Villa | N/A | Upcoming |
+| 27 Aug, 14:00 | Sheffield United | N/A | Manchester City | N/A | Upcoming |
+| 27 Aug, 16:30 | Newcastle United | N/A | Liverpool | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
