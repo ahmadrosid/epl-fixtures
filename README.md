@@ -7,15 +7,16 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 18 Aug, 19:45 | Nottingham Forest | 2 | Sheffield United | 1 | Completed |
-| 19 Aug, 15:00 | Fulham | 0 | Brentford | 3 | Completed |
-| 19 Aug, 15:00 | Liverpool | 3 | Bournemouth | 1 | Completed |
-| 19 Aug, 15:00 | Wolverhampton Wanderers | 1 | Brighton & Hove Albion | 4 | Completed |
-| 19 Aug, 17:30 | Tottenham Hotspur | 2 | Manchester United | 0 | Completed |
-| 19 Aug, 20:00 | Manchester City | 1 | Newcastle United | 0 | Completed |
-| 20 Aug, 14:00 | Aston Villa | 4 | Everton | 0 | Completed |
-| 20 Aug, 16:30 | West Ham United | 3 | Chelsea | 1 | Completed |
-| 21 Aug, 20:00 | Crystal Palace | 0 | Arsenal | 1 | Completed |
+| 11 Nov, 15:00 GMT | Arsenal | N/A | Burnley | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | Aston Villa | N/A | Fulham | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | Bournemouth | N/A | Newcastle United | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | Brighton & Hove Albion | N/A | Sheffield United | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | Chelsea | N/A | Manchester City | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | Crystal Palace | N/A | Everton | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | Liverpool | N/A | Brentford | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | Manchester United | N/A | Luton Town | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | West Ham United | N/A | Nottingham Forest | N/A | Upcoming |
+| 11 Nov, 15:00 GMT | Wolverhampton Wanderers | N/A | Tottenham Hotspur | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
