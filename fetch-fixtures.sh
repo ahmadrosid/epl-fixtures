@@ -2,7 +2,7 @@
 echo "Fetching latest fixtures data..."
 
 curl --request GET \
-    --url 'https://footballapi.pulselive.com/football/fixtures?statuses=U%2CL%2CC&pageSize=10&page=0&gameweeks=12271&altIds=true&live=true' \
+    --url 'https://footballapi.pulselive.com/football/fixtures?statuses=U,L,C&pageSize=10&startDate=2023-08-25&endDate=2023-08-27&page=0&gameweeks=12271&altIds=true&comps=1' \
     --header 'accept: */*' \
     --header 'accept-language: en-US,en;q=0.9,id-ID;q=0.8,id;q=0.7' \
     --header 'authority: footballapi.pulselive.com' \
