@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 25 Aug, 20:00 | Chelsea | 0 | Luton Town | 0 | Upcoming |
+| 25 Aug, 20:00 | Chelsea | 0 | Luton Town | 0 | Live |
 | 26 Aug, 12:30 | Bournemouth | N/A | Tottenham Hotspur | N/A | Upcoming |
 | 26 Aug, 15:00 | Arsenal | N/A | Fulham | N/A | Upcoming |
 | 26 Aug, 15:00 | Brentford | N/A | Crystal Palace | N/A | Upcoming |
@@ -39,10 +39,10 @@ The data displayed in 2023 with BST TimeZone.
 | 11 | Crystal Palace | 2 | 1 | 0 | 1 | 1 | 1 | 0 | 3 |
 | 12 | Manchester United | 2 | 1 | 0 | 1 | 1 | 2 | -1 | 3 |
 | 13 | Fulham | 2 | 1 | 0 | 1 | 1 | 3 | -2 | 3 |
-| 14 | Bournemouth | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 |
-| 15 | Chelsea | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 |
-| 16 | Sheffield United | 2 | 0 | 0 | 2 | 1 | 3 | -2 | 0 |
-| 17 | Luton Town | 1 | 0 | 0 | 1 | 1 | 4 | -3 | 0 |
+| 14 | Chelsea | 3 | 0 | 2 | 1 | 2 | 4 | -2 | 2 |
+| 15 | Bournemouth | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 |
+| 16 | Luton Town | 2 | 0 | 1 | 1 | 1 | 4 | -3 | 1 |
+| 17 | Sheffield United | 2 | 0 | 0 | 2 | 1 | 3 | -2 | 0 |
 | 18 | Burnley | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 |
 | 19 | Wolverhampton Wanderers | 2 | 0 | 0 | 2 | 1 | 5 | -4 | 0 |
 | 20 | Everton | 2 | 0 | 0 | 2 | 0 | 5 | -5 | 0 |

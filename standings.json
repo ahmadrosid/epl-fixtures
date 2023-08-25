@@ -14,15 +14,15 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692652303000,
-    "label": "21 August 2023, 22:11",
+    "millis": 1692993701000,
+    "label": "25 August 2023, 21:01",
     "gmtOffset": 1
   },
   "live": true,
   "dynamicallyGenerated": false,
   "tables": [
     {
-      "gameWeek": 2,
+      "gameWeek": 3,
       "entries": [
         {
           "team": {
@@ -41,7 +41,7 @@
             }
           },
           "position": 1,
-          "startingPosition": 2,
+          "startingPosition": 1,
           "overall": {
             "played": 2,
             "won": 2,
@@ -107,7 +107,7 @@
             }
           },
           "position": 2,
-          "startingPosition": 3,
+          "startingPosition": 2,
           "overall": {
             "played": 2,
             "won": 2,
@@ -173,7 +173,7 @@
             }
           },
           "position": 3,
-          "startingPosition": 4,
+          "startingPosition": 3,
           "overall": {
             "played": 2,
             "won": 2,
@@ -239,7 +239,7 @@
             }
           },
           "position": 4,
-          "startingPosition": 8,
+          "startingPosition": 4,
           "overall": {
             "played": 2,
             "won": 1,
@@ -300,7 +300,7 @@
             }
           },
           "position": 5,
-          "startingPosition": 12,
+          "startingPosition": 5,
           "overall": {
             "played": 2,
             "won": 1,
@@ -366,7 +366,7 @@
             }
           },
           "position": 6,
-          "startingPosition": 9,
+          "startingPosition": 6,
           "overall": {
             "played": 2,
             "won": 1,
@@ -421,7 +421,7 @@
             }
           },
           "position": 7,
-          "startingPosition": 13,
+          "startingPosition": 7,
           "overall": {
             "played": 2,
             "won": 1,
@@ -476,7 +476,7 @@
             }
           },
           "position": 8,
-          "startingPosition": 1,
+          "startingPosition": 8,
           "overall": {
             "played": 2,
             "won": 1,
@@ -536,7 +536,7 @@
             }
           },
           "position": 9,
-          "startingPosition": 20,
+          "startingPosition": 9,
           "overall": {
             "played": 2,
             "won": 1,
@@ -596,7 +596,7 @@
             }
           },
           "position": 10,
-          "startingPosition": 14,
+          "startingPosition": 10,
           "overall": {
             "played": 2,
             "won": 1,
@@ -654,7 +654,7 @@
             }
           },
           "position": 11,
-          "startingPosition": 5,
+          "startingPosition": 11,
           "overall": {
             "played": 2,
             "won": 1,
@@ -714,7 +714,7 @@
             }
           },
           "position": 12,
-          "startingPosition": 7,
+          "startingPosition": 12,
           "overall": {
             "played": 2,
             "won": 1,
@@ -774,7 +774,7 @@
             }
           },
           "position": 13,
-          "startingPosition": 6,
+          "startingPosition": 13,
           "overall": {
             "played": 2,
             "won": 1,
@@ -819,6 +819,66 @@
         },
         {
           "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          },
+          "position": 14,
+          "startingPosition": 15,
+          "overall": {
+            "played": 3,
+            "won": 0,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 4,
+            "goalsDifference": -2,
+            "points": 2
+          },
+          "home": {
+            "played": 2,
+            "won": 0,
+            "drawn": 2,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 2
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "goalsDifference": -2,
+            "points": 0
+          },
+          "ground": {
+            "name": "Stamford Bridge",
+            "city": "London",
+            "capacity": 41798,
+            "location": {
+              "latitude": 51.4816,
+              "longitude": -0.191016
+            },
+            "source": "OPTA",
+            "id": 30
+          }
+        },
+        {
+          "team": {
             "name": "Bournemouth",
             "club": {
               "name": "Bournemouth",
@@ -833,8 +893,8 @@
               "opta": "t91"
             }
           },
-          "position": 14,
-          "startingPosition": 10,
+          "position": 15,
+          "startingPosition": 14,
           "overall": {
             "played": 2,
             "won": 0,
@@ -879,62 +939,57 @@
         },
         {
           "team": {
-            "name": "Chelsea",
+            "name": "Luton Town",
             "club": {
-              "name": "Chelsea",
-              "shortName": "Chelsea",
-              "abbr": "CHE",
-              "id": 4
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
             },
             "teamType": "FIRST",
-            "shortName": "Chelsea",
-            "id": 4,
+            "shortName": "Luton",
+            "id": 163,
             "altIds": {
-              "opta": "t8"
+              "opta": "t102"
             }
           },
-          "position": 15,
-          "startingPosition": 11,
+          "position": 16,
+          "startingPosition": 17,
           "overall": {
             "played": 2,
             "won": 0,
             "drawn": 1,
             "lost": 1,
-            "goalsFor": 2,
+            "goalsFor": 1,
             "goalsAgainst": 4,
-            "goalsDifference": -2,
+            "goalsDifference": -3,
             "points": 1
           },
           "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 1,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "away": {
-            "played": 1,
+            "played": 0,
             "won": 0,
             "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 3,
-            "goalsDifference": -2,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
             "points": 0
           },
+          "away": {
+            "played": 2,
+            "won": 0,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 4,
+            "goalsDifference": -3,
+            "points": 1
+          },
           "ground": {
-            "name": "Stamford Bridge",
-            "city": "London",
-            "capacity": 41798,
-            "location": {
-              "latitude": 51.4816,
-              "longitude": -0.191016
-            },
-            "source": "OPTA",
-            "id": 30
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "id": 81
           }
         },
         {
@@ -953,7 +1008,7 @@
               "opta": "t49"
             }
           },
-          "position": 16,
+          "position": 17,
           "startingPosition": 16,
           "overall": {
             "played": 2,
@@ -999,61 +1054,6 @@
         },
         {
           "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          },
-          "position": 17,
-          "startingPosition": 18,
-          "overall": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 4,
-            "goalsDifference": -3,
-            "points": 0
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 4,
-            "goalsDifference": -3,
-            "points": 0
-          },
-          "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "id": 81
-          }
-        },
-        {
-          "team": {
             "name": "Burnley",
             "club": {
               "name": "Burnley",
@@ -1069,7 +1069,7 @@
             }
           },
           "position": 18,
-          "startingPosition": 19,
+          "startingPosition": 18,
           "overall": {
             "played": 1,
             "won": 0,
@@ -1135,7 +1135,7 @@
             }
           },
           "position": 19,
-          "startingPosition": 17,
+          "startingPosition": 19,
           "overall": {
             "played": 2,
             "won": 0,
@@ -1201,7 +1201,7 @@
             }
           },
           "position": 20,
-          "startingPosition": 15,
+          "startingPosition": 20,
           "overall": {
             "played": 2,
             "won": 0,
