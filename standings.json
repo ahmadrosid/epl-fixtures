@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692997396000,
-    "label": "25 August 2023, 22:03",
+    "millis": 1692998826000,
+    "label": "25 August 2023, 22:27",
     "gmtOffset": 1
   },
   "live": true,
@@ -482,9 +482,9 @@
             "won": 1,
             "drawn": 1,
             "lost": 1,
-            "goalsFor": 3,
+            "goalsFor": 4,
             "goalsAgainst": 4,
-            "goalsDifference": -1,
+            "goalsDifference": 0,
             "points": 4
           },
           "home": {
@@ -492,9 +492,9 @@
             "won": 1,
             "drawn": 1,
             "lost": 0,
-            "goalsFor": 2,
+            "goalsFor": 3,
             "goalsAgainst": 1,
-            "goalsDifference": 1,
+            "goalsDifference": 2,
             "points": 4
           },
           "away": {
@@ -1059,67 +1059,6 @@
         },
         {
           "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          },
-          "position": 18,
-          "startingPosition": 17,
-          "overall": {
-            "played": 2,
-            "won": 0,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 1,
-            "goalsAgainst": 5,
-            "goalsDifference": -4,
-            "points": 0
-          },
-          "home": {
-            "played": 0,
-            "won": 0,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalsDifference": 0,
-            "points": 0
-          },
-          "away": {
-            "played": 2,
-            "won": 0,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 1,
-            "goalsAgainst": 5,
-            "goalsDifference": -4,
-            "points": 0
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "id": 81
-          }
-        },
-        {
-          "team": {
             "name": "Wolverhampton Wanderers",
             "club": {
               "name": "Wolverhampton Wanderers",
@@ -1134,7 +1073,7 @@
               "opta": "t39"
             }
           },
-          "position": 19,
+          "position": 18,
           "startingPosition": 19,
           "overall": {
             "played": 2,
@@ -1182,6 +1121,67 @@
             },
             "source": "OPTA",
             "id": 913
+          }
+        },
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          },
+          "position": 19,
+          "startingPosition": 17,
+          "overall": {
+            "played": 2,
+            "won": 0,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 6,
+            "goalsDifference": -5,
+            "points": 0
+          },
+          "home": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalsDifference": 0,
+            "points": 0
+          },
+          "away": {
+            "played": 2,
+            "won": 0,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 6,
+            "goalsDifference": -5,
+            "points": 0
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "id": 81
           }
         },
         {
