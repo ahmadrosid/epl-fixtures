@@ -903,11 +903,12 @@
         "id": 1684
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "A",
       "clock": {
-        "secs": 5400,
-        "label": "90'00"
+        "secs": 5820,
+        "label": "90 +7'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
