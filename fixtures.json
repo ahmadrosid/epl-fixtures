@@ -228,11 +228,13 @@
         "id": 914
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "A",
+      "attendance": 10567,
       "clock": {
-        "secs": 5220,
-        "label": "87'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,

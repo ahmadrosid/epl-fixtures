@@ -8,7 +8,7 @@ The data displayed in 2023 with BST TimeZone.
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
 | 25 Aug, 20:00 | Chelsea | 3 | Luton Town | 0 | Completed |
-| 26 Aug, 12:30 | Bournemouth | 0 | Tottenham Hotspur | 2 | Live |
+| 26 Aug, 12:30 | Bournemouth | 0 | Tottenham Hotspur | 2 | Completed |
 | 26 Aug, 15:00 | Arsenal | 0 | Fulham | 0 | Upcoming |
 | 26 Aug, 15:00 | Brentford | 0 | Crystal Palace | 0 | Upcoming |
 | 26 Aug, 15:00 | Everton | 0 | Wolverhampton Wanderers | 0 | Upcoming |
