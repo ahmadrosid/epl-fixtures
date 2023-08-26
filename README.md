@@ -13,7 +13,7 @@ The data displayed in 2023 with BST TimeZone.
 | 26 Aug, 15:00 | Brentford | 1 | Crystal Palace | 1 | Completed |
 | 26 Aug, 15:00 | Everton | 0 | Wolverhampton Wanderers | 1 | Completed |
 | 26 Aug, 15:00 | Manchester United | 3 | Nottingham Forest | 2 | Completed |
-| 26 Aug, 17:30 | Brighton & Hove Albion | 0 | West Ham United | 0 | Upcoming |
+| 26 Aug, 17:30 | Brighton & Hove Albion | 0 | West Ham United | 1 | Live |
 | 27 Aug, 14:00 | Burnley | N/A | Aston Villa | N/A | Upcoming |
 | 27 Aug, 14:00 | Sheffield United | N/A | Manchester City | N/A | Upcoming |
 | 27 Aug, 16:30 | Newcastle United | N/A | Liverpool | N/A | Upcoming |
@@ -27,13 +27,13 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Tottenham Hotspur | 3 | 2 | 1 | 0 | 6 | 2 | 4 | 7 |
-| 2 | Arsenal | 3 | 2 | 1 | 0 | 5 | 3 | 2 | 7 |
-| 3 | Brighton & Hove Albion | 2 | 2 | 0 | 0 | 8 | 2 | 6 | 6 |
-| 4 | Manchester City | 2 | 2 | 0 | 0 | 4 | 0 | 4 | 6 |
-| 5 | Manchester United | 3 | 2 | 0 | 1 | 4 | 4 | 0 | 6 |
-| 6 | Brentford | 3 | 1 | 2 | 0 | 6 | 3 | 3 | 5 |
-| 7 | Liverpool | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
-| 8 | West Ham United | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
+| 2 | West Ham United | 3 | 2 | 1 | 0 | 5 | 2 | 3 | 7 |
+| 3 | Arsenal | 3 | 2 | 1 | 0 | 5 | 3 | 2 | 7 |
+| 4 | Brighton & Hove Albion | 3 | 2 | 0 | 1 | 8 | 3 | 5 | 6 |
+| 5 | Manchester City | 2 | 2 | 0 | 0 | 4 | 0 | 4 | 6 |
+| 6 | Manchester United | 3 | 2 | 0 | 1 | 4 | 4 | 0 | 6 |
+| 7 | Brentford | 3 | 1 | 2 | 0 | 6 | 3 | 3 | 5 |
+| 8 | Liverpool | 2 | 1 | 1 | 0 | 4 | 2 | 2 | 4 |
 | 9 | Chelsea | 3 | 1 | 1 | 1 | 5 | 4 | 1 | 4 |
 | 10 | Crystal Palace | 3 | 1 | 1 | 1 | 2 | 2 | 0 | 4 |
 | 11 | Fulham | 3 | 1 | 1 | 1 | 3 | 5 | -2 | 4 |
