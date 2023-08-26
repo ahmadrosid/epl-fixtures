@@ -355,12 +355,13 @@
         "id": 52
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "D",
       "attendance": 59961,
       "clock": {
-        "secs": 5580,
-        "label": "90 +3'00"
+        "secs": 6060,
+        "label": "90 +11'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -501,11 +502,13 @@
         "id": 4003
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "D",
+      "attendance": 16997,
       "clock": {
-        "secs": 5640,
-        "label": "90 +4'00"
+        "secs": 5700,
+        "label": "90 +5'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -626,11 +629,13 @@
         "id": 31
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "A",
+      "attendance": 38851,
       "clock": {
-        "secs": 5460,
-        "label": "90 +1'00"
+        "secs": 5820,
+        "label": "90 +7'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -740,11 +745,13 @@
         "id": 42
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
+      "attendance": 73595,
       "clock": {
-        "secs": 5460,
-        "label": "90 +1'00"
+        "secs": 6240,
+        "label": "90 +14'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,

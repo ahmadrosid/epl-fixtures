@@ -9,10 +9,10 @@ The data displayed in 2023 with BST TimeZone.
 |-------------|--------|--------------|--------|--------------|--------|
 | 25 Aug, 20:00 | Chelsea | 3 | Luton Town | 0 | Completed |
 | 26 Aug, 12:30 | Bournemouth | 0 | Tottenham Hotspur | 2 | Completed |
-| 26 Aug, 15:00 | Arsenal | 2 | Fulham | 2 | Live |
-| 26 Aug, 15:00 | Brentford | 1 | Crystal Palace | 1 | Live |
-| 26 Aug, 15:00 | Everton | 0 | Wolverhampton Wanderers | 1 | Live |
-| 26 Aug, 15:00 | Manchester United | 3 | Nottingham Forest | 2 | Live |
+| 26 Aug, 15:00 | Arsenal | 2 | Fulham | 2 | Completed |
+| 26 Aug, 15:00 | Brentford | 1 | Crystal Palace | 1 | Completed |
+| 26 Aug, 15:00 | Everton | 0 | Wolverhampton Wanderers | 1 | Completed |
+| 26 Aug, 15:00 | Manchester United | 3 | Nottingham Forest | 2 | Completed |
 | 26 Aug, 17:30 | Brighton & Hove Albion | 0 | West Ham United | 0 | Upcoming |
 | 27 Aug, 14:00 | Burnley | N/A | Aston Villa | N/A | Upcoming |
 | 27 Aug, 14:00 | Sheffield United | N/A | Manchester City | N/A | Upcoming |
