@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1692999296000,
-    "label": "25 August 2023, 22:34",
+    "millis": 1693053036000,
+    "label": "26 August 2023, 13:30",
     "gmtOffset": 1
   },
   "live": true,
@@ -224,6 +224,67 @@
         },
         {
           "team": {
+            "name": "Tottenham Hotspur",
+            "club": {
+              "name": "Tottenham Hotspur",
+              "shortName": "Spurs",
+              "abbr": "TOT",
+              "id": 21
+            },
+            "teamType": "FIRST",
+            "shortName": "Tottenham Hotspur",
+            "id": 21,
+            "altIds": {
+              "opta": "t6"
+            }
+          },
+          "position": 4,
+          "startingPosition": 6,
+          "overall": {
+            "played": 3,
+            "won": 1,
+            "drawn": 2,
+            "lost": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 2,
+            "goalsDifference": 2,
+            "points": 5
+          },
+          "home": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "goalsDifference": 2,
+            "points": 3
+          },
+          "away": {
+            "played": 2,
+            "won": 0,
+            "drawn": 2,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 2
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Tottenham Hotspur Stadium",
+            "city": "London",
+            "source": "OPTA",
+            "id": 1734
+          }
+        },
+        {
+          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -238,7 +299,7 @@
               "opta": "t94"
             }
           },
-          "position": 4,
+          "position": 5,
           "startingPosition": 4,
           "overall": {
             "played": 2,
@@ -273,7 +334,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -299,7 +360,7 @@
               "opta": "t14"
             }
           },
-          "position": 5,
+          "position": 6,
           "startingPosition": 5,
           "overall": {
             "played": 2,
@@ -331,12 +392,6 @@
             "goalsDifference": 0,
             "points": 1
           },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
           "ground": {
             "name": "Anfield",
             "city": "Liverpool",
@@ -347,61 +402,6 @@
             },
             "source": "OPTA",
             "id": 901
-          }
-        },
-        {
-          "team": {
-            "name": "Tottenham Hotspur",
-            "club": {
-              "name": "Tottenham Hotspur",
-              "shortName": "Spurs",
-              "abbr": "TOT",
-              "id": 21
-            },
-            "teamType": "FIRST",
-            "shortName": "Tottenham Hotspur",
-            "id": 21,
-            "altIds": {
-              "opta": "t6"
-            }
-          },
-          "position": 6,
-          "startingPosition": 6,
-          "overall": {
-            "played": 2,
-            "won": 1,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 4,
-            "goalsAgainst": 2,
-            "goalsDifference": 2,
-            "points": 4
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 0,
-            "goalsDifference": 2,
-            "points": 3
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 2,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "ground": {
-            "name": "Tottenham Hotspur Stadium",
-            "city": "London",
-            "source": "OPTA",
-            "id": 1734
           }
         },
         {
@@ -896,24 +896,24 @@
           "position": 15,
           "startingPosition": 14,
           "overall": {
-            "played": 2,
+            "played": 3,
             "won": 0,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 1,
             "goalsFor": 2,
             "goalsAgainst": 4,
             "goalsDifference": -2,
-            "points": 1
+            "points": 2
           },
           "home": {
-            "played": 1,
+            "played": 2,
             "won": 0,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 0,
             "goalsFor": 1,
             "goalsAgainst": 1,
             "goalsDifference": 0,
-            "points": 1
+            "points": 2
           },
           "away": {
             "played": 1,
