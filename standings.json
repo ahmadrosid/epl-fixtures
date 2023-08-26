@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1693072446000,
-    "label": "26 August 2023, 18:54",
+    "millis": 1693077083000,
+    "label": "26 August 2023, 20:11",
     "gmtOffset": 1
   },
   "live": true,
@@ -24,6 +24,67 @@
     {
       "gameWeek": 3,
       "entries": [
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          },
+          "position": 1,
+          "startingPosition": 7,
+          "overall": {
+            "played": 3,
+            "won": 2,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 7,
+            "goalsAgainst": 3,
+            "goalsDifference": 4,
+            "points": 7
+          },
+          "home": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 1,
+            "goalsDifference": 2,
+            "points": 3
+          },
+          "away": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 2,
+            "goalsDifference": 2,
+            "points": 4
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "London Stadium",
+            "city": "London",
+            "source": "OPTA",
+            "id": 433
+          }
+        },
         {
           "team": {
             "name": "Tottenham Hotspur",
@@ -40,7 +101,7 @@
               "opta": "t6"
             }
           },
-          "position": 1,
+          "position": 2,
           "startingPosition": 6,
           "overall": {
             "played": 3,
@@ -83,67 +144,6 @@
             "city": "London",
             "source": "OPTA",
             "id": 1734
-          }
-        },
-        {
-          "team": {
-            "name": "West Ham United",
-            "club": {
-              "name": "West Ham United",
-              "shortName": "West Ham",
-              "abbr": "WHU",
-              "id": 25
-            },
-            "teamType": "FIRST",
-            "shortName": "West Ham",
-            "id": 25,
-            "altIds": {
-              "opta": "t21"
-            }
-          },
-          "position": 2,
-          "startingPosition": 7,
-          "overall": {
-            "played": 3,
-            "won": 2,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 5,
-            "goalsAgainst": 2,
-            "goalsDifference": 3,
-            "points": 7
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 3,
-            "goalsAgainst": 1,
-            "goalsDifference": 2,
-            "points": 3
-          },
-          "away": {
-            "played": 2,
-            "won": 1,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 1,
-            "goalsDifference": 1,
-            "points": 4
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "London Stadium",
-            "city": "London",
-            "source": "OPTA",
-            "id": 433
           }
         },
         {
@@ -235,9 +235,9 @@
             "won": 2,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 8,
-            "goalsAgainst": 3,
-            "goalsDifference": 5,
+            "goalsFor": 9,
+            "goalsAgainst": 5,
+            "goalsDifference": 4,
             "points": 6
           },
           "home": {
@@ -245,9 +245,9 @@
             "won": 1,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 4,
-            "goalsAgainst": 2,
-            "goalsDifference": 2,
+            "goalsFor": 5,
+            "goalsAgainst": 4,
+            "goalsDifference": 1,
             "points": 3
           },
           "away": {
