@@ -1326,7 +1326,7 @@
               "opta": "t14"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -1340,8 +1340,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3660,
-        "label": "61'00"
+        "secs": 5100,
+        "label": "85'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1354,6 +1354,16 @@
             "label": "25'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 70287,
+          "clock": {
+            "secs": 4860,
+            "label": "81'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
