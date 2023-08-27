@@ -1022,7 +1022,7 @@
               "opta": "t90"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -1052,10 +1052,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3420,
+        "label": "57'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1080,6 +1080,17 @@
             "label": "20'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 64282,
+          "assistId": 6210,
+          "clock": {
+            "secs": 2820,
+            "label": "47'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
@@ -1177,10 +1188,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 3000,
-        "label": "45 +5'00"
+        "secs": 3300,
+        "label": "55'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
