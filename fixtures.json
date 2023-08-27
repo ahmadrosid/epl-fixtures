@@ -1051,12 +1051,13 @@
         "id": 47
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "A",
       "attendance": 21591,
       "clock": {
-        "secs": 5460,
-        "label": "90 +1'00"
+        "secs": 5760,
+        "label": "90 +6'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1199,12 +1200,13 @@
         "id": 2003
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "A",
       "attendance": 31336,
       "clock": {
-        "secs": 5280,
-        "label": "88'00"
+        "secs": 5880,
+        "label": "90 +8'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1305,8 +1307,7 @@
             "altIds": {
               "opta": "t4"
             }
-          },
-          "score": 0
+          }
         },
         {
           "team": {
@@ -1323,8 +1324,7 @@
             "altIds": {
               "opta": "t14"
             }
-          },
-          "score": 0
+          }
         }
       ],
       "replay": false,

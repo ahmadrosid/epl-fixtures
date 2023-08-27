@@ -14,9 +14,9 @@ The data displayed in 2023 with BST TimeZone.
 | 26 Aug, 15:00 | Everton | 0 | Wolverhampton Wanderers | 1 | Completed |
 | 26 Aug, 15:00 | Manchester United | 3 | Nottingham Forest | 2 | Completed |
 | 26 Aug, 17:30 | Brighton & Hove Albion | 1 | West Ham United | 3 | Completed |
-| 27 Aug, 14:00 | Burnley | 1 | Aston Villa | 3 | Live |
-| 27 Aug, 14:00 | Sheffield United | 1 | Manchester City | 2 | Live |
-| 27 Aug, 16:30 | Newcastle United | 0 | Liverpool | 0 | Upcoming |
+| 27 Aug, 14:00 | Burnley | 1 | Aston Villa | 3 | Completed |
+| 27 Aug, 14:00 | Sheffield United | 1 | Manchester City | 2 | Completed |
+| 27 Aug, 16:30 | Newcastle United | N/A | Liverpool | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
