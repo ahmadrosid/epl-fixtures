@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1693148806000,
-    "label": "27 August 2023, 16:06",
+    "millis": 1693149802000,
+    "label": "27 August 2023, 16:23",
     "gmtOffset": 1
   },
   "live": true,
@@ -24,6 +24,72 @@
     {
       "gameWeek": 3,
       "entries": [
+        {
+          "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          },
+          "position": 1,
+          "startingPosition": 2,
+          "overall": {
+            "played": 3,
+            "won": 3,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 5,
+            "goalsAgainst": 0,
+            "goalsDifference": 5,
+            "points": 9
+          },
+          "home": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "goalsDifference": 1,
+            "points": 3
+          },
+          "away": {
+            "played": 2,
+            "won": 2,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "goalsDifference": 4,
+            "points": 6
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Etihad Stadium",
+            "city": "Manchester",
+            "capacity": 55000,
+            "location": {
+              "latitude": 53.4832,
+              "longitude": -2.20042
+            },
+            "source": "OPTA",
+            "id": 457
+          }
+        },
         {
           "team": {
             "name": "West Ham United",
@@ -40,7 +106,7 @@
               "opta": "t21"
             }
           },
-          "position": 1,
+          "position": 2,
           "startingPosition": 7,
           "overall": {
             "played": 3,
@@ -101,7 +167,7 @@
               "opta": "t6"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 6,
           "overall": {
             "played": 3,
@@ -144,72 +210,6 @@
             "city": "London",
             "source": "OPTA",
             "id": 1734
-          }
-        },
-        {
-          "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "position": 3,
-          "startingPosition": 2,
-          "overall": {
-            "played": 3,
-            "won": 2,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 4,
-            "goalsAgainst": 0,
-            "goalsDifference": 4,
-            "points": 7
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "away": {
-            "played": 2,
-            "won": 1,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 3,
-            "goalsAgainst": 0,
-            "goalsDifference": 3,
-            "points": 4
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Etihad Stadium",
-            "city": "Manchester",
-            "capacity": 55000,
-            "location": {
-              "latitude": 53.4832,
-              "longitude": -2.20042
-            },
-            "source": "OPTA",
-            "id": 457
           }
         },
         {
@@ -367,9 +367,9 @@
             "won": 2,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 7,
+            "goalsFor": 8,
             "goalsAgainst": 6,
-            "goalsDifference": 1,
+            "goalsDifference": 2,
             "points": 6
           },
           "home": {
@@ -387,9 +387,9 @@
             "won": 1,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 3,
+            "goalsFor": 4,
             "goalsAgainst": 6,
-            "goalsDifference": -3,
+            "goalsDifference": -2,
             "points": 3
           },
           "ground": {
@@ -939,66 +939,6 @@
         },
         {
           "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 16,
-          "startingPosition": 16,
-          "overall": {
-            "played": 3,
-            "won": 0,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 1,
-            "goalsAgainst": 3,
-            "goalsDifference": -2,
-            "points": 1
-          },
-          "home": {
-            "played": 2,
-            "won": 0,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 1
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 2,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
-          }
-        },
-        {
-          "team": {
             "name": "Bournemouth",
             "club": {
               "name": "Bournemouth",
@@ -1013,7 +953,7 @@
               "opta": "t91"
             }
           },
-          "position": 17,
+          "position": 16,
           "startingPosition": 14,
           "overall": {
             "played": 3,
@@ -1059,6 +999,66 @@
         },
         {
           "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 17,
+          "startingPosition": 16,
+          "overall": {
+            "played": 3,
+            "won": 0,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 4,
+            "goalsDifference": -3,
+            "points": 0
+          },
+          "home": {
+            "played": 2,
+            "won": 0,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "goalsDifference": -2,
+            "points": 0
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "goalsDifference": -1,
+            "points": 0
+          },
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
+          }
+        },
+        {
+          "team": {
             "name": "Burnley",
             "club": {
               "name": "Burnley",
@@ -1081,8 +1081,8 @@
             "drawn": 0,
             "lost": 2,
             "goalsFor": 1,
-            "goalsAgainst": 5,
-            "goalsDifference": -4,
+            "goalsAgainst": 6,
+            "goalsDifference": -5,
             "points": 0
           },
           "home": {
@@ -1091,8 +1091,8 @@
             "drawn": 0,
             "lost": 2,
             "goalsFor": 1,
-            "goalsAgainst": 5,
-            "goalsDifference": -4,
+            "goalsAgainst": 6,
+            "goalsDifference": -5,
             "points": 0
           },
           "away": {
