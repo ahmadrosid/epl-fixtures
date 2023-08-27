@@ -1053,9 +1053,10 @@
       "neutralGround": false,
       "status": "L",
       "phase": "2",
+      "attendance": 21591,
       "clock": {
-        "secs": 4260,
-        "label": "71'00"
+        "secs": 5460,
+        "label": "90 +1'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1169,7 +1170,7 @@
               "opta": "t49"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -1187,7 +1188,7 @@
               "opta": "t43"
             }
           },
-          "score": 1
+          "score": 2
         }
       ],
       "replay": false,
@@ -1200,9 +1201,10 @@
       "neutralGround": false,
       "status": "L",
       "phase": "2",
+      "attendance": 31336,
       "clock": {
-        "secs": 4260,
-        "label": "71'00"
+        "secs": 5280,
+        "label": "88'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1214,6 +1216,27 @@
           "clock": {
             "secs": 3780,
             "label": "63'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 14608,
+          "clock": {
+            "secs": 5100,
+            "label": "85'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 16286,
+          "assistId": 14805,
+          "clock": {
+            "secs": 5280,
+            "label": "88'00"
           },
           "phase": "2",
           "type": "G",
@@ -1282,7 +1305,8 @@
             "altIds": {
               "opta": "t4"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -1299,7 +1323,8 @@
             "altIds": {
               "opta": "t14"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -1312,6 +1337,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,

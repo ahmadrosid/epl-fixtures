@@ -15,8 +15,8 @@ The data displayed in 2023 with BST TimeZone.
 | 26 Aug, 15:00 | Manchester United | 3 | Nottingham Forest | 2 | Completed |
 | 26 Aug, 17:30 | Brighton & Hove Albion | 1 | West Ham United | 3 | Completed |
 | 27 Aug, 14:00 | Burnley | 1 | Aston Villa | 3 | Live |
-| 27 Aug, 14:00 | Sheffield United | 0 | Manchester City | 1 | Live |
-| 27 Aug, 16:30 | Newcastle United | N/A | Liverpool | N/A | Upcoming |
+| 27 Aug, 14:00 | Sheffield United | 1 | Manchester City | 2 | Live |
+| 27 Aug, 16:30 | Newcastle United | 0 | Liverpool | 0 | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
@@ -26,7 +26,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Manchester City | 3 | 3 | 0 | 0 | 5 | 0 | 5 | 9 |
+| 1 | Manchester City | 3 | 3 | 0 | 0 | 6 | 1 | 5 | 9 |
 | 2 | West Ham United | 3 | 2 | 1 | 0 | 7 | 3 | 4 | 7 |
 | 3 | Tottenham Hotspur | 3 | 2 | 1 | 0 | 6 | 2 | 4 | 7 |
 | 4 | Arsenal | 3 | 2 | 1 | 0 | 5 | 3 | 2 | 7 |
@@ -42,7 +42,7 @@ The data displayed in 2023 with BST TimeZone.
 | 14 | Nottingham Forest | 3 | 1 | 0 | 2 | 5 | 6 | -1 | 3 |
 | 15 | Wolverhampton Wanderers | 3 | 1 | 0 | 2 | 2 | 5 | -3 | 3 |
 | 16 | Bournemouth | 3 | 0 | 1 | 2 | 2 | 6 | -4 | 1 |
-| 17 | Sheffield United | 3 | 0 | 0 | 3 | 1 | 4 | -3 | 0 |
+| 17 | Sheffield United | 3 | 0 | 0 | 3 | 2 | 5 | -3 | 0 |
 | 18 | Burnley | 2 | 0 | 0 | 2 | 1 | 6 | -5 | 0 |
 | 19 | Luton Town | 2 | 0 | 0 | 2 | 1 | 7 | -6 | 0 |
 | 20 | Everton | 3 | 0 | 0 | 3 | 0 | 6 | -6 | 0 |
