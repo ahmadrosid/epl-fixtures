@@ -7,16 +7,16 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 25 Aug, 20:00 | Chelsea | 3 | Luton Town | 0 | Completed |
-| 26 Aug, 12:30 | Bournemouth | 0 | Tottenham Hotspur | 2 | Completed |
-| 26 Aug, 15:00 | Arsenal | 2 | Fulham | 2 | Completed |
-| 26 Aug, 15:00 | Brentford | 1 | Crystal Palace | 1 | Completed |
-| 26 Aug, 15:00 | Everton | 0 | Wolverhampton Wanderers | 1 | Completed |
-| 26 Aug, 15:00 | Manchester United | 3 | Nottingham Forest | 2 | Completed |
-| 26 Aug, 17:30 | Brighton & Hove Albion | 1 | West Ham United | 3 | Completed |
-| 27 Aug, 14:00 | Burnley | 1 | Aston Villa | 3 | Completed |
-| 27 Aug, 14:00 | Sheffield United | 1 | Manchester City | 2 | Completed |
-| 27 Aug, 16:30 | Newcastle United | 1 | Liverpool | 2 | Completed |
+| 1 Sep, 20:00 | Luton Town | 1 | West Ham United | 2 | Completed |
+| 2 Sep, 12:30 | Sheffield United | 2 | Everton | 2 | Completed |
+| 2 Sep, 15:00 | Brentford | 2 | Bournemouth | 2 | Completed |
+| 2 Sep, 15:00 | Burnley | 2 | Tottenham Hotspur | 5 | Completed |
+| 2 Sep, 15:00 | Chelsea | 0 | Nottingham Forest | 1 | Completed |
+| 2 Sep, 15:00 | Manchester City | 5 | Fulham | 1 | Completed |
+| 2 Sep, 17:30 | Brighton & Hove Albion | 1 | Newcastle United | 0 | Live |
+| 3 Sep, 14:00 | Crystal Palace | N/A | Wolverhampton Wanderers | N/A | Upcoming |
+| 3 Sep, 14:00 | Liverpool | N/A | Aston Villa | N/A | Upcoming |
+| 3 Sep, 16:30 | Arsenal | N/A | Manchester United | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
@@ -29,17 +29,17 @@ The data displayed in 2023 with BST TimeZone.
 | 1 | Manchester City | 4 | 4 | 0 | 0 | 11 | 2 | 9 | 12 |
 | 2 | Tottenham Hotspur | 4 | 3 | 1 | 0 | 11 | 4 | 7 | 10 |
 | 3 | West Ham United | 4 | 3 | 1 | 0 | 9 | 4 | 5 | 10 |
-| 4 | Brighton & Hove Albion | 4 | 2 | 1 | 1 | 9 | 5 | 4 | 7 |
+| 4 | Brighton & Hove Albion | 4 | 3 | 0 | 1 | 10 | 5 | 5 | 9 |
 | 5 | Liverpool | 3 | 2 | 1 | 0 | 6 | 3 | 3 | 7 |
 | 6 | Arsenal | 3 | 2 | 1 | 0 | 5 | 3 | 2 | 7 |
 | 7 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
 | 8 | Aston Villa | 3 | 2 | 0 | 1 | 8 | 6 | 2 | 6 |
 | 9 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
 | 10 | Manchester United | 3 | 2 | 0 | 1 | 4 | 4 | 0 | 6 |
-| 11 | Newcastle United | 4 | 1 | 1 | 2 | 6 | 4 | 2 | 4 |
-| 12 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
-| 13 | Crystal Palace | 3 | 1 | 1 | 1 | 2 | 2 | 0 | 4 |
-| 14 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
+| 11 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
+| 12 | Crystal Palace | 3 | 1 | 1 | 1 | 2 | 2 | 0 | 4 |
+| 13 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
+| 14 | Newcastle United | 4 | 1 | 0 | 3 | 6 | 5 | 1 | 3 |
 | 15 | Wolverhampton Wanderers | 3 | 1 | 0 | 2 | 2 | 5 | -3 | 3 |
 | 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
 | 17 | Sheffield United | 4 | 0 | 1 | 3 | 4 | 7 | -3 | 1 |
