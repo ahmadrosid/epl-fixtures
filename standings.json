@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1693674093000,
-    "label": "2 September 2023, 18:01",
+    "millis": 1693675859000,
+    "label": "2 September 2023, 18:30",
     "gmtOffset": 1
   },
   "live": true,
@@ -214,6 +214,72 @@
         },
         {
           "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          },
+          "position": 4,
+          "startingPosition": 6,
+          "overall": {
+            "played": 4,
+            "won": 2,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 9,
+            "goalsAgainst": 5,
+            "goalsDifference": 4,
+            "points": 7
+          },
+          "home": {
+            "played": 3,
+            "won": 1,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 5,
+            "goalsAgainst": 4,
+            "goalsDifference": 1,
+            "points": 4
+          },
+          "away": {
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 1,
+            "goalsDifference": 3,
+            "points": 3
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Amex Stadium",
+            "city": "Falmer",
+            "capacity": 30750,
+            "location": {
+              "latitude": 50.8606,
+              "longitude": -0.082237
+            },
+            "source": "OPTA",
+            "id": 1684
+          }
+        },
+        {
+          "team": {
             "name": "Liverpool",
             "club": {
               "name": "Liverpool",
@@ -228,7 +294,7 @@
               "opta": "t14"
             }
           },
-          "position": 4,
+          "position": 5,
           "startingPosition": 4,
           "overall": {
             "played": 3,
@@ -263,7 +329,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -294,7 +360,7 @@
               "opta": "t3"
             }
           },
-          "position": 5,
+          "position": 6,
           "startingPosition": 5,
           "overall": {
             "played": 3,
@@ -326,12 +392,6 @@
             "goalsDifference": 1,
             "points": 3
           },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
           "ground": {
             "name": "Emirates Stadium",
             "city": "London",
@@ -342,66 +402,6 @@
             },
             "source": "OPTA",
             "id": 52
-          }
-        },
-        {
-          "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "position": 6,
-          "startingPosition": 6,
-          "overall": {
-            "played": 3,
-            "won": 2,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 9,
-            "goalsAgainst": 5,
-            "goalsDifference": 4,
-            "points": 6
-          },
-          "home": {
-            "played": 2,
-            "won": 1,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 5,
-            "goalsAgainst": 4,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "away": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 4,
-            "goalsAgainst": 1,
-            "goalsDifference": 3,
-            "points": 3
-          },
-          "ground": {
-            "name": "Amex Stadium",
-            "city": "Falmer",
-            "capacity": 30750,
-            "location": {
-              "latitude": 50.8606,
-              "longitude": -0.082237
-            },
-            "source": "OPTA",
-            "id": 1684
           }
         },
         {
@@ -639,6 +639,66 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 11,
+          "startingPosition": 13,
+          "overall": {
+            "played": 4,
+            "won": 1,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 6,
+            "goalsAgainst": 4,
+            "goalsDifference": 2,
+            "points": 4
+          },
+          "home": {
+            "played": 2,
+            "won": 1,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 6,
+            "goalsAgainst": 3,
+            "goalsDifference": 3,
+            "points": 3
+          },
+          "away": {
+            "played": 2,
+            "won": 0,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "goalsDifference": -1,
+            "points": 1
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Chelsea",
             "club": {
               "name": "Chelsea",
@@ -653,7 +713,7 @@
               "opta": "t8"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 10,
           "overall": {
             "played": 4,
@@ -713,7 +773,7 @@
               "opta": "t31"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 11,
           "overall": {
             "played": 3,
@@ -773,7 +833,7 @@
               "opta": "t54"
             }
           },
-          "position": 13,
+          "position": 14,
           "startingPosition": 12,
           "overall": {
             "played": 4,
@@ -815,66 +875,6 @@
             },
             "source": "OPTA",
             "id": 16
-          }
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 14,
-          "startingPosition": 13,
-          "overall": {
-            "played": 3,
-            "won": 1,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 6,
-            "goalsAgainst": 4,
-            "goalsDifference": 2,
-            "points": 3
-          },
-          "home": {
-            "played": 2,
-            "won": 1,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 6,
-            "goalsAgainst": 3,
-            "goalsDifference": 3,
-            "points": 3
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
-            "points": 0
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
           }
         },
         {
