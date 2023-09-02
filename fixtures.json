@@ -992,8 +992,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 2460,
-        "label": "41'00"
+        "secs": 2760,
+        "label": "45 +1'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
