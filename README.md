@@ -40,10 +40,10 @@ The data displayed in 2023 with BST TimeZone.
 | 12 | Fulham | 3 | 1 | 1 | 1 | 3 | 5 | -2 | 4 |
 | 13 | Newcastle United | 3 | 1 | 0 | 2 | 6 | 4 | 2 | 3 |
 | 14 | Nottingham Forest | 3 | 1 | 0 | 2 | 5 | 6 | -1 | 3 |
-| 15 | Wolverhampton Wanderers | 3 | 1 | 0 | 2 | 2 | 5 | -3 | 3 |
-| 16 | Everton | 4 | 1 | 0 | 3 | 1 | 6 | -5 | 3 |
+| 15 | Sheffield United | 4 | 1 | 0 | 3 | 4 | 6 | -2 | 3 |
+| 16 | Wolverhampton Wanderers | 3 | 1 | 0 | 2 | 2 | 5 | -3 | 3 |
 | 17 | Bournemouth | 3 | 0 | 1 | 2 | 2 | 6 | -4 | 1 |
-| 18 | Sheffield United | 4 | 0 | 0 | 4 | 2 | 6 | -4 | 0 |
-| 19 | Burnley | 2 | 0 | 0 | 2 | 1 | 6 | -5 | 0 |
-| 20 | Luton Town | 3 | 0 | 0 | 3 | 2 | 9 | -7 | 0 |
+| 18 | Burnley | 2 | 0 | 0 | 2 | 1 | 6 | -5 | 0 |
+| 19 | Luton Town | 3 | 0 | 0 | 3 | 2 | 9 | -7 | 0 |
+| 20 | Everton | 4 | 0 | 0 | 4 | 1 | 8 | -7 | 0 |
 <!-- END_STANDINGS -->
