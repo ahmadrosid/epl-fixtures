@@ -978,7 +978,7 @@
               "opta": "t4"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -989,11 +989,12 @@
         "id": 1684
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "clock": {
-        "secs": 5520,
-        "label": "90 +2'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1026,6 +1027,17 @@
           "clock": {
             "secs": 4200,
             "label": "70'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 8454,
+          "assistId": 14897,
+          "clock": {
+            "secs": 5520,
+            "label": "90 +2'00"
           },
           "phase": "2",
           "type": "G",
