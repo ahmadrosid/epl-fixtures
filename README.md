@@ -13,7 +13,7 @@ The data displayed in 2023 with BST TimeZone.
 | 2 Sep, 15:00 | Burnley | 2 | Tottenham Hotspur | 5 | Completed |
 | 2 Sep, 15:00 | Chelsea | 0 | Nottingham Forest | 1 | Completed |
 | 2 Sep, 15:00 | Manchester City | 5 | Fulham | 1 | Completed |
-| 2 Sep, 17:30 | Brighton & Hove Albion | 1 | Newcastle United | 0 | Live |
+| 2 Sep, 17:30 | Brighton & Hove Albion | 3 | Newcastle United | 0 | Live |
 | 3 Sep, 14:00 | Crystal Palace | N/A | Wolverhampton Wanderers | N/A | Upcoming |
 | 3 Sep, 14:00 | Liverpool | N/A | Aston Villa | N/A | Upcoming |
 | 3 Sep, 16:30 | Arsenal | N/A | Manchester United | N/A | Upcoming |
@@ -29,7 +29,7 @@ The data displayed in 2023 with BST TimeZone.
 | 1 | Manchester City | 4 | 4 | 0 | 0 | 11 | 2 | 9 | 12 |
 | 2 | Tottenham Hotspur | 4 | 3 | 1 | 0 | 11 | 4 | 7 | 10 |
 | 3 | West Ham United | 4 | 3 | 1 | 0 | 9 | 4 | 5 | 10 |
-| 4 | Brighton & Hove Albion | 4 | 3 | 0 | 1 | 10 | 5 | 5 | 9 |
+| 4 | Brighton & Hove Albion | 4 | 3 | 0 | 1 | 12 | 5 | 7 | 9 |
 | 5 | Liverpool | 3 | 2 | 1 | 0 | 6 | 3 | 3 | 7 |
 | 6 | Arsenal | 3 | 2 | 1 | 0 | 5 | 3 | 2 | 7 |
 | 7 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
@@ -39,7 +39,7 @@ The data displayed in 2023 with BST TimeZone.
 | 11 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
 | 12 | Crystal Palace | 3 | 1 | 1 | 1 | 2 | 2 | 0 | 4 |
 | 13 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
-| 14 | Newcastle United | 4 | 1 | 0 | 3 | 6 | 5 | 1 | 3 |
+| 14 | Newcastle United | 4 | 1 | 0 | 3 | 6 | 7 | -1 | 3 |
 | 15 | Wolverhampton Wanderers | 3 | 1 | 0 | 2 | 2 | 5 | -3 | 3 |
 | 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
 | 17 | Sheffield United | 4 | 0 | 1 | 3 | 4 | 7 | -3 | 1 |
