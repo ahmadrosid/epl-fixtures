@@ -16,7 +16,7 @@ The data displayed in 2023 with BST TimeZone.
 | 2 Sep, 17:30 | Brighton & Hove Albion | 3 | Newcastle United | 1 | Completed |
 | 3 Sep, 14:00 | Crystal Palace | 3 | Wolverhampton Wanderers | 2 | Completed |
 | 3 Sep, 14:00 | Liverpool | 3 | Aston Villa | 0 | Completed |
-| 3 Sep, 16:30 | Arsenal | 3 | Manchester United | 1 | Live |
+| 3 Sep, 16:30 | Arsenal | 3 | Manchester United | 1 | Completed |
 <!-- END_TABLE -->
 
 ### Standings
