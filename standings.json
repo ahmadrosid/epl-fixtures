@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1693682631000,
-    "label": "2 September 2023, 20:23",
+    "millis": 1693749812000,
+    "label": "3 September 2023, 15:03",
     "gmtOffset": 1
   },
   "live": true,
@@ -214,6 +214,72 @@
         },
         {
           "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          },
+          "position": 4,
+          "startingPosition": 4,
+          "overall": {
+            "played": 4,
+            "won": 3,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 7,
+            "goalsAgainst": 3,
+            "goalsDifference": 4,
+            "points": 10
+          },
+          "home": {
+            "played": 2,
+            "won": 2,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 1,
+            "goalsDifference": 3,
+            "points": 6
+          },
+          "away": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 2,
+            "goalsDifference": 1,
+            "points": 4
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Anfield",
+            "city": "Liverpool",
+            "capacity": 54074,
+            "location": {
+              "latitude": 53.4313,
+              "longitude": -2.96158
+            },
+            "source": "OPTA",
+            "id": 901
+          }
+        },
+        {
+          "team": {
             "name": "Brighton & Hove Albion",
             "club": {
               "name": "Brighton and Hove Albion",
@@ -228,7 +294,7 @@
               "opta": "t36"
             }
           },
-          "position": 4,
+          "position": 5,
           "startingPosition": 6,
           "overall": {
             "played": 4,
@@ -263,7 +329,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -276,72 +342,6 @@
             },
             "source": "OPTA",
             "id": 1684
-          }
-        },
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "position": 5,
-          "startingPosition": 4,
-          "overall": {
-            "played": 3,
-            "won": 2,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 6,
-            "goalsAgainst": 3,
-            "goalsDifference": 3,
-            "points": 7
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 3,
-            "goalsAgainst": 1,
-            "goalsDifference": 2,
-            "points": 3
-          },
-          "away": {
-            "played": 2,
-            "won": 1,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 3,
-            "goalsAgainst": 2,
-            "goalsDifference": 1,
-            "points": 4
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
-          "ground": {
-            "name": "Anfield",
-            "city": "Liverpool",
-            "capacity": 54074,
-            "location": {
-              "latitude": 53.4313,
-              "longitude": -2.96158
-            },
-            "source": "OPTA",
-            "id": 901
           }
         },
         {
@@ -478,13 +478,13 @@
           "position": 8,
           "startingPosition": 7,
           "overall": {
-            "played": 3,
+            "played": 4,
             "won": 2,
             "drawn": 0,
-            "lost": 1,
+            "lost": 2,
             "goalsFor": 8,
-            "goalsAgainst": 6,
-            "goalsDifference": 2,
+            "goalsAgainst": 7,
+            "goalsDifference": 1,
             "points": 6
           },
           "home": {
@@ -498,13 +498,13 @@
             "points": 3
           },
           "away": {
-            "played": 2,
+            "played": 3,
             "won": 1,
             "drawn": 0,
-            "lost": 1,
+            "lost": 2,
             "goalsFor": 4,
-            "goalsAgainst": 6,
-            "goalsDifference": -2,
+            "goalsAgainst": 7,
+            "goalsDifference": -3,
             "points": 3
           },
           "ground": {
@@ -639,6 +639,66 @@
         },
         {
           "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          },
+          "position": 11,
+          "startingPosition": 11,
+          "overall": {
+            "played": 4,
+            "won": 1,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 5
+          },
+          "home": {
+            "played": 2,
+            "won": 0,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "goalsDifference": -1,
+            "points": 1
+          },
+          "away": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "goalsDifference": 1,
+            "points": 4
+          },
+          "ground": {
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
+            "location": {
+              "latitude": 51.3979,
+              "longitude": -0.085923
+            },
+            "source": "OPTA",
+            "id": 45
+          }
+        },
+        {
+          "team": {
             "name": "Chelsea",
             "club": {
               "name": "Chelsea",
@@ -653,7 +713,7 @@
               "opta": "t8"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 10,
           "overall": {
             "played": 4,
@@ -699,30 +759,30 @@
         },
         {
           "team": {
-            "name": "Crystal Palace",
+            "name": "Wolverhampton Wanderers",
             "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
             },
             "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
+            "shortName": "Wolves",
+            "id": 38,
             "altIds": {
-              "opta": "t31"
+              "opta": "t39"
             }
           },
-          "position": 12,
-          "startingPosition": 11,
+          "position": 13,
+          "startingPosition": 15,
           "overall": {
-            "played": 3,
+            "played": 4,
             "won": 1,
             "drawn": 1,
-            "lost": 1,
+            "lost": 2,
             "goalsFor": 2,
-            "goalsAgainst": 2,
-            "goalsDifference": 0,
+            "goalsAgainst": 5,
+            "goalsDifference": -3,
             "points": 4
           },
           "home": {
@@ -730,31 +790,31 @@
             "won": 0,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 0,
-            "goalsAgainst": 1,
-            "goalsDifference": -1,
+            "goalsFor": 1,
+            "goalsAgainst": 4,
+            "goalsDifference": -3,
             "points": 0
           },
           "away": {
-            "played": 2,
+            "played": 3,
             "won": 1,
             "drawn": 1,
-            "lost": 0,
-            "goalsFor": 2,
+            "lost": 1,
+            "goalsFor": 1,
             "goalsAgainst": 1,
-            "goalsDifference": 1,
+            "goalsDifference": 0,
             "points": 4
           },
           "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
+            "name": "Molineux Stadium",
+            "city": "Wolverhampton",
+            "capacity": 31500,
             "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
+              "latitude": 52.5904,
+              "longitude": -2.13077
             },
             "source": "OPTA",
-            "id": 45
+            "id": 913
           }
         },
         {
@@ -773,7 +833,7 @@
               "opta": "t54"
             }
           },
-          "position": 13,
+          "position": 14,
           "startingPosition": 12,
           "overall": {
             "played": 4,
@@ -833,7 +893,7 @@
               "opta": "t4"
             }
           },
-          "position": 14,
+          "position": 15,
           "startingPosition": 13,
           "overall": {
             "played": 4,
@@ -875,66 +935,6 @@
             },
             "source": "OPTA",
             "id": 27
-          }
-        },
-        {
-          "team": {
-            "name": "Wolverhampton Wanderers",
-            "club": {
-              "name": "Wolverhampton Wanderers",
-              "shortName": "Wolves",
-              "abbr": "WOL",
-              "id": 38
-            },
-            "teamType": "FIRST",
-            "shortName": "Wolves",
-            "id": 38,
-            "altIds": {
-              "opta": "t39"
-            }
-          },
-          "position": 15,
-          "startingPosition": 15,
-          "overall": {
-            "played": 3,
-            "won": 1,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 2,
-            "goalsAgainst": 5,
-            "goalsDifference": -3,
-            "points": 3
-          },
-          "home": {
-            "played": 1,
-            "won": 0,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 4,
-            "goalsDifference": -3,
-            "points": 0
-          },
-          "away": {
-            "played": 2,
-            "won": 1,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 1,
-            "goalsDifference": 0,
-            "points": 3
-          },
-          "ground": {
-            "name": "Molineux Stadium",
-            "city": "Wolverhampton",
-            "capacity": 31500,
-            "location": {
-              "latitude": 52.5904,
-              "longitude": -2.13077
-            },
-            "source": "OPTA",
-            "id": 913
           }
         },
         {
