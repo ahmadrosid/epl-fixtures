@@ -14,7 +14,7 @@ The data displayed in 2023 with BST TimeZone.
 | 2 Sep, 15:00 | Chelsea | 0 | Nottingham Forest | 1 | Completed |
 | 2 Sep, 15:00 | Manchester City | 5 | Fulham | 1 | Completed |
 | 2 Sep, 17:30 | Brighton & Hove Albion | 3 | Newcastle United | 1 | Completed |
-| 3 Sep, 14:00 | Crystal Palace | 1 | Wolverhampton Wanderers | 1 | Live |
+| 3 Sep, 14:00 | Crystal Palace | 3 | Wolverhampton Wanderers | 1 | Live |
 | 3 Sep, 14:00 | Liverpool | 3 | Aston Villa | 0 | Live |
 | 3 Sep, 16:30 | Arsenal | 0 | Manchester United | 0 | Upcoming |
 <!-- END_TABLE -->
@@ -32,15 +32,15 @@ The data displayed in 2023 with BST TimeZone.
 | 4 | West Ham United | 4 | 3 | 1 | 0 | 9 | 4 | 5 | 10 |
 | 5 | Brighton & Hove Albion | 4 | 3 | 0 | 1 | 12 | 6 | 6 | 9 |
 | 6 | Arsenal | 3 | 2 | 1 | 0 | 5 | 3 | 2 | 7 |
-| 7 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
-| 8 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
-| 9 | Manchester United | 3 | 2 | 0 | 1 | 4 | 4 | 0 | 6 |
-| 10 | Aston Villa | 4 | 2 | 0 | 2 | 8 | 9 | -1 | 6 |
-| 11 | Crystal Palace | 4 | 1 | 2 | 1 | 3 | 3 | 0 | 5 |
+| 7 | Crystal Palace | 4 | 2 | 1 | 1 | 5 | 3 | 2 | 7 |
+| 8 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
+| 9 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
+| 10 | Manchester United | 3 | 2 | 0 | 1 | 4 | 4 | 0 | 6 |
+| 11 | Aston Villa | 4 | 2 | 0 | 2 | 8 | 9 | -1 | 6 |
 | 12 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
-| 13 | Wolverhampton Wanderers | 4 | 1 | 1 | 2 | 3 | 6 | -3 | 4 |
-| 14 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
-| 15 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
+| 13 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
+| 14 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
+| 15 | Wolverhampton Wanderers | 4 | 1 | 0 | 3 | 3 | 8 | -5 | 3 |
 | 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
 | 17 | Sheffield United | 4 | 0 | 1 | 3 | 4 | 7 | -3 | 1 |
 | 18 | Everton | 4 | 0 | 1 | 3 | 2 | 8 | -6 | 1 |
