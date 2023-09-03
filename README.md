@@ -14,8 +14,8 @@ The data displayed in 2023 with BST TimeZone.
 | 2 Sep, 15:00 | Chelsea | 0 | Nottingham Forest | 1 | Completed |
 | 2 Sep, 15:00 | Manchester City | 5 | Fulham | 1 | Completed |
 | 2 Sep, 17:30 | Brighton & Hove Albion | 3 | Newcastle United | 1 | Completed |
-| 3 Sep, 14:00 | Crystal Palace | N/A | Wolverhampton Wanderers | N/A | Upcoming |
-| 3 Sep, 14:00 | Liverpool | N/A | Aston Villa | N/A | Upcoming |
+| 3 Sep, 14:00 | Crystal Palace | 0 | Wolverhampton Wanderers | 0 | Upcoming |
+| 3 Sep, 14:00 | Liverpool | 0 | Aston Villa | 0 | Upcoming |
 | 3 Sep, 16:30 | Arsenal | N/A | Manchester United | N/A | Upcoming |
 <!-- END_TABLE -->
 
