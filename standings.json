@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1693755933000,
-    "label": "3 September 2023, 16:45",
+    "millis": 1693756524000,
+    "label": "3 September 2023, 16:55",
     "gmtOffset": 1
   },
   "live": true,
@@ -428,8 +428,8 @@
             "drawn": 1,
             "lost": 1,
             "goalsFor": 5,
-            "goalsAgainst": 3,
-            "goalsDifference": 2,
+            "goalsAgainst": 4,
+            "goalsDifference": 1,
             "points": 7
           },
           "home": {
@@ -438,8 +438,8 @@
             "drawn": 0,
             "lost": 1,
             "goalsFor": 3,
-            "goalsAgainst": 2,
-            "goalsDifference": 1,
+            "goalsAgainst": 3,
+            "goalsDifference": 0,
             "points": 3
           },
           "away": {
@@ -900,9 +900,9 @@
             "won": 1,
             "drawn": 0,
             "lost": 3,
-            "goalsFor": 3,
+            "goalsFor": 4,
             "goalsAgainst": 8,
-            "goalsDifference": -5,
+            "goalsDifference": -4,
             "points": 3
           },
           "home": {
@@ -920,9 +920,9 @@
             "won": 1,
             "drawn": 0,
             "lost": 2,
-            "goalsFor": 2,
+            "goalsFor": 3,
             "goalsAgainst": 4,
-            "goalsDifference": -2,
+            "goalsDifference": -1,
             "points": 3
           },
           "ground": {
