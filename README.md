@@ -16,7 +16,7 @@ The data displayed in 2023 with BST TimeZone.
 | 2 Sep, 17:30 | Brighton & Hove Albion | 3 | Newcastle United | 1 | Completed |
 | 3 Sep, 14:00 | Crystal Palace | 3 | Wolverhampton Wanderers | 2 | Completed |
 | 3 Sep, 14:00 | Liverpool | 3 | Aston Villa | 0 | Completed |
-| 3 Sep, 16:30 | Arsenal | 0 | Manchester United | 0 | Live |
+| 3 Sep, 16:30 | Arsenal | 1 | Manchester United | 1 | Live |
 <!-- END_TABLE -->
 
 ### Standings
@@ -31,9 +31,9 @@ The data displayed in 2023 with BST TimeZone.
 | 3 | Liverpool | 4 | 3 | 1 | 0 | 9 | 3 | 6 | 10 |
 | 4 | West Ham United | 4 | 3 | 1 | 0 | 9 | 4 | 5 | 10 |
 | 5 | Brighton & Hove Albion | 4 | 3 | 0 | 1 | 12 | 6 | 6 | 9 |
-| 6 | Arsenal | 4 | 2 | 2 | 0 | 5 | 3 | 2 | 8 |
+| 6 | Arsenal | 4 | 2 | 2 | 0 | 6 | 4 | 2 | 8 |
 | 7 | Crystal Palace | 4 | 2 | 1 | 1 | 5 | 4 | 1 | 7 |
-| 8 | Manchester United | 4 | 2 | 1 | 1 | 4 | 4 | 0 | 7 |
+| 8 | Manchester United | 4 | 2 | 1 | 1 | 5 | 5 | 0 | 7 |
 | 9 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
 | 10 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
 | 11 | Aston Villa | 4 | 2 | 0 | 2 | 8 | 9 | -1 | 6 |
