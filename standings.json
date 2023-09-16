@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1694881466000,
-    "label": "16 September 2023, 17:24",
+    "millis": 1694882750000,
+    "label": "16 September 2023, 17:45",
     "gmtOffset": 1
   },
   "live": true,
@@ -44,13 +44,13 @@
           "startingPosition": 1,
           "overall": {
             "played": 5,
-            "won": 4,
-            "drawn": 1,
+            "won": 5,
+            "drawn": 0,
             "lost": 0,
-            "goalsFor": 12,
+            "goalsFor": 14,
             "goalsAgainst": 3,
-            "goalsDifference": 9,
-            "points": 13
+            "goalsDifference": 11,
+            "points": 15
           },
           "home": {
             "played": 2,
@@ -64,13 +64,13 @@
           },
           "away": {
             "played": 3,
-            "won": 2,
-            "drawn": 1,
+            "won": 3,
+            "drawn": 0,
             "lost": 0,
-            "goalsFor": 6,
+            "goalsFor": 8,
             "goalsAgainst": 2,
-            "goalsDifference": 4,
-            "points": 7
+            "goalsDifference": 6,
+            "points": 9
           },
           "annotations": [
             {
@@ -179,8 +179,8 @@
             "won": 4,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 14,
-            "goalsAgainst": 6,
+            "goalsFor": 15,
+            "goalsAgainst": 7,
             "goalsDifference": 8,
             "points": 12
           },
@@ -199,8 +199,8 @@
             "won": 2,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 6,
-            "goalsAgainst": 1,
+            "goalsFor": 7,
+            "goalsAgainst": 2,
             "goalsDifference": 5,
             "points": 6
           },
@@ -243,22 +243,22 @@
           "overall": {
             "played": 5,
             "won": 3,
-            "drawn": 2,
-            "lost": 0,
+            "drawn": 1,
+            "lost": 1,
             "goalsFor": 11,
-            "goalsAgainst": 4,
-            "goalsDifference": 7,
-            "points": 11
+            "goalsAgainst": 5,
+            "goalsDifference": 6,
+            "points": 10
           },
           "home": {
             "played": 2,
             "won": 1,
-            "drawn": 1,
-            "lost": 0,
+            "drawn": 0,
+            "lost": 1,
             "goalsFor": 2,
-            "goalsAgainst": 0,
-            "goalsDifference": 2,
-            "points": 4
+            "goalsAgainst": 1,
+            "goalsDifference": 1,
+            "points": 3
           },
           "away": {
             "played": 3,
@@ -285,67 +285,6 @@
         },
         {
           "team": {
-            "name": "West Ham United",
-            "club": {
-              "name": "West Ham United",
-              "shortName": "West Ham",
-              "abbr": "WHU",
-              "id": 25
-            },
-            "teamType": "FIRST",
-            "shortName": "West Ham",
-            "id": 25,
-            "altIds": {
-              "opta": "t21"
-            }
-          },
-          "position": 5,
-          "startingPosition": 4,
-          "overall": {
-            "played": 5,
-            "won": 3,
-            "drawn": 2,
-            "lost": 0,
-            "goalsFor": 10,
-            "goalsAgainst": 5,
-            "goalsDifference": 5,
-            "points": 11
-          },
-          "home": {
-            "played": 2,
-            "won": 1,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 4,
-            "goalsAgainst": 2,
-            "goalsDifference": 2,
-            "points": 4
-          },
-          "away": {
-            "played": 3,
-            "won": 2,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 6,
-            "goalsAgainst": 3,
-            "goalsDifference": 3,
-            "points": 7
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
-          "ground": {
-            "name": "London Stadium",
-            "city": "London",
-            "source": "OPTA",
-            "id": 433
-          }
-        },
-        {
-          "team": {
             "name": "Arsenal",
             "club": {
               "name": "Arsenal",
@@ -360,7 +299,7 @@
               "opta": "t3"
             }
           },
-          "position": 6,
+          "position": 5,
           "startingPosition": 5,
           "overall": {
             "played": 4,
@@ -392,6 +331,12 @@
             "goalsDifference": 1,
             "points": 3
           },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_EL"
+            }
+          ],
           "ground": {
             "name": "Emirates Stadium",
             "city": "London",
@@ -402,6 +347,61 @@
             },
             "source": "OPTA",
             "id": 52
+          }
+        },
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          },
+          "position": 6,
+          "startingPosition": 4,
+          "overall": {
+            "played": 5,
+            "won": 3,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 10,
+            "goalsAgainst": 7,
+            "goalsDifference": 3,
+            "points": 10
+          },
+          "home": {
+            "played": 2,
+            "won": 1,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 4,
+            "goalsAgainst": 4,
+            "goalsDifference": 0,
+            "points": 3
+          },
+          "away": {
+            "played": 3,
+            "won": 2,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 6,
+            "goalsAgainst": 3,
+            "goalsDifference": 3,
+            "points": 7
+          },
+          "ground": {
+            "name": "London Stadium",
+            "city": "London",
+            "source": "OPTA",
+            "id": 433
           }
         },
         {
@@ -720,8 +720,8 @@
             "won": 2,
             "drawn": 0,
             "lost": 3,
-            "goalsFor": 5,
-            "goalsAgainst": 9,
+            "goalsFor": 6,
+            "goalsAgainst": 10,
             "goalsDifference": -4,
             "points": 6
           },
@@ -730,8 +730,8 @@
             "won": 2,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 4,
-            "goalsAgainst": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 5,
             "goalsDifference": 0,
             "points": 6
           },
@@ -819,6 +819,66 @@
         },
         {
           "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 14,
+          "startingPosition": 17,
+          "overall": {
+            "played": 5,
+            "won": 1,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 5,
+            "goalsAgainst": 7,
+            "goalsDifference": -2,
+            "points": 4
+          },
+          "home": {
+            "played": 3,
+            "won": 0,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 3,
+            "goalsAgainst": 5,
+            "goalsDifference": -2,
+            "points": 1
+          },
+          "away": {
+            "played": 2,
+            "won": 1,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "goalsDifference": 0,
+            "points": 3
+          },
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
+          }
+        },
+        {
+          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -833,7 +893,7 @@
               "opta": "t4"
             }
           },
-          "position": 14,
+          "position": 15,
           "startingPosition": 14,
           "overall": {
             "played": 4,
@@ -893,7 +953,7 @@
               "opta": "t39"
             }
           },
-          "position": 15,
+          "position": 16,
           "startingPosition": 15,
           "overall": {
             "played": 5,
@@ -935,66 +995,6 @@
             },
             "source": "OPTA",
             "id": 913
-          }
-        },
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 16,
-          "startingPosition": 17,
-          "overall": {
-            "played": 5,
-            "won": 0,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 4,
-            "goalsAgainst": 7,
-            "goalsDifference": -3,
-            "points": 2
-          },
-          "home": {
-            "played": 3,
-            "won": 0,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 3,
-            "goalsAgainst": 5,
-            "goalsDifference": -2,
-            "points": 1
-          },
-          "away": {
-            "played": 2,
-            "won": 0,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 2,
-            "goalsDifference": -1,
-            "points": 1
-          },
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
           }
         },
         {
