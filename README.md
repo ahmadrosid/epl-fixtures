@@ -26,8 +26,8 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Manchester City | 4 | 4 | 0 | 0 | 11 | 2 | 9 | 12 |
-| 2 | Liverpool | 5 | 3 | 2 | 0 | 10 | 4 | 6 | 11 |
+| 1 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
+| 2 | Manchester City | 4 | 4 | 0 | 0 | 11 | 2 | 9 | 12 |
 | 3 | Tottenham Hotspur | 4 | 3 | 1 | 0 | 11 | 4 | 7 | 10 |
 | 4 | West Ham United | 4 | 3 | 1 | 0 | 9 | 4 | 5 | 10 |
 | 5 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
@@ -38,9 +38,9 @@ The data displayed in 2023 with BST TimeZone.
 | 10 | Aston Villa | 4 | 2 | 0 | 2 | 8 | 9 | -1 | 6 |
 | 11 | Manchester United | 4 | 2 | 0 | 2 | 5 | 7 | -2 | 6 |
 | 12 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
-| 13 | Wolverhampton Wanderers | 5 | 1 | 1 | 3 | 5 | 9 | -4 | 4 |
-| 14 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
-| 15 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
+| 13 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
+| 14 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
+| 15 | Wolverhampton Wanderers | 5 | 1 | 0 | 4 | 5 | 11 | -6 | 3 |
 | 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
 | 17 | Sheffield United | 4 | 0 | 1 | 3 | 4 | 7 | -3 | 1 |
 | 18 | Everton | 4 | 0 | 1 | 3 | 2 | 8 | -6 | 1 |
