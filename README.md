@@ -27,22 +27,22 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 5 | 5 | 0 | 0 | 14 | 3 | 11 | 15 |
-| 2 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
-| 3 | Brighton & Hove Albion | 5 | 4 | 0 | 1 | 15 | 7 | 8 | 12 |
-| 4 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 11 | 5 | 6 | 10 |
+| 2 | Tottenham Hotspur | 5 | 4 | 1 | 0 | 13 | 5 | 8 | 13 |
+| 3 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
+| 4 | Brighton & Hove Albion | 5 | 4 | 0 | 1 | 15 | 7 | 8 | 12 |
 | 5 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
 | 6 | West Ham United | 5 | 3 | 1 | 1 | 10 | 7 | 3 | 10 |
-| 7 | Crystal Palace | 5 | 2 | 2 | 1 | 6 | 5 | 1 | 8 |
-| 8 | Aston Villa | 5 | 2 | 1 | 2 | 9 | 10 | -1 | 7 |
-| 9 | Fulham | 5 | 2 | 1 | 2 | 5 | 10 | -5 | 7 |
-| 10 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
+| 7 | Aston Villa | 5 | 3 | 0 | 2 | 11 | 10 | 1 | 9 |
+| 8 | Brentford | 5 | 1 | 4 | 0 | 8 | 5 | 3 | 7 |
+| 9 | Crystal Palace | 5 | 2 | 1 | 2 | 6 | 7 | -1 | 7 |
+| 10 | Fulham | 5 | 2 | 1 | 2 | 5 | 10 | -5 | 7 |
 | 11 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
 | 12 | Manchester United | 5 | 2 | 0 | 3 | 6 | 10 | -4 | 6 |
-| 13 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
-| 14 | Sheffield United | 5 | 1 | 1 | 3 | 5 | 7 | -2 | 4 |
-| 15 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
-| 16 | Wolverhampton Wanderers | 5 | 1 | 0 | 4 | 5 | 11 | -6 | 3 |
-| 17 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
+| 13 | Newcastle United | 5 | 1 | 1 | 3 | 7 | 7 | 0 | 4 |
+| 14 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
+| 15 | Wolverhampton Wanderers | 5 | 1 | 0 | 4 | 5 | 11 | -6 | 3 |
+| 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
+| 17 | Sheffield United | 5 | 0 | 1 | 4 | 5 | 9 | -4 | 1 |
 | 18 | Everton | 4 | 0 | 1 | 3 | 2 | 8 | -6 | 1 |
 | 19 | Burnley | 3 | 0 | 0 | 3 | 3 | 11 | -8 | 0 |
 | 20 | Luton Town | 4 | 0 | 0 | 4 | 2 | 10 | -8 | 0 |
