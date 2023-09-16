@@ -26,24 +26,24 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
-| 2 | Manchester City | 4 | 4 | 0 | 0 | 11 | 2 | 9 | 12 |
-| 3 | Tottenham Hotspur | 4 | 3 | 1 | 0 | 11 | 4 | 7 | 10 |
-| 4 | West Ham United | 4 | 3 | 1 | 0 | 9 | 4 | 5 | 10 |
-| 5 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
-| 6 | Brighton & Hove Albion | 4 | 3 | 0 | 1 | 12 | 6 | 6 | 9 |
-| 7 | Crystal Palace | 4 | 2 | 1 | 1 | 5 | 4 | 1 | 7 |
-| 8 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
-| 9 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
-| 10 | Aston Villa | 4 | 2 | 0 | 2 | 8 | 9 | -1 | 6 |
-| 11 | Manchester United | 4 | 2 | 0 | 2 | 5 | 7 | -2 | 6 |
-| 12 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
-| 13 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
+| 1 | Manchester City | 5 | 4 | 1 | 0 | 11 | 2 | 9 | 13 |
+| 2 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
+| 3 | Tottenham Hotspur | 5 | 3 | 2 | 0 | 11 | 4 | 7 | 11 |
+| 4 | West Ham United | 5 | 3 | 2 | 0 | 9 | 4 | 5 | 11 |
+| 5 | Brighton & Hove Albion | 5 | 3 | 1 | 1 | 12 | 6 | 6 | 10 |
+| 6 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
+| 7 | Crystal Palace | 5 | 2 | 2 | 1 | 5 | 4 | 1 | 8 |
+| 8 | Aston Villa | 5 | 2 | 1 | 2 | 8 | 9 | -1 | 7 |
+| 9 | Manchester United | 5 | 2 | 1 | 2 | 5 | 7 | -2 | 7 |
+| 10 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
+| 11 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
+| 12 | Fulham | 5 | 1 | 2 | 2 | 4 | 10 | -6 | 5 |
+| 13 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
 | 14 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
 | 15 | Wolverhampton Wanderers | 5 | 1 | 0 | 4 | 5 | 11 | -6 | 3 |
-| 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
-| 17 | Sheffield United | 4 | 0 | 1 | 3 | 4 | 7 | -3 | 1 |
+| 16 | Sheffield United | 5 | 0 | 2 | 3 | 4 | 7 | -3 | 2 |
+| 17 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
 | 18 | Everton | 4 | 0 | 1 | 3 | 2 | 8 | -6 | 1 |
-| 19 | Luton Town | 3 | 0 | 0 | 3 | 2 | 9 | -7 | 0 |
+| 19 | Luton Town | 4 | 0 | 1 | 3 | 2 | 9 | -7 | 1 |
 | 20 | Burnley | 3 | 0 | 0 | 3 | 3 | 11 | -8 | 0 |
 <!-- END_STANDINGS -->
