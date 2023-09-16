@@ -26,11 +26,11 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Manchester City | 5 | 4 | 1 | 0 | 11 | 2 | 9 | 13 |
-| 2 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
-| 3 | Brighton & Hove Albion | 5 | 4 | 0 | 1 | 13 | 6 | 7 | 12 |
-| 4 | Tottenham Hotspur | 5 | 3 | 2 | 0 | 11 | 4 | 7 | 11 |
-| 5 | West Ham United | 5 | 3 | 2 | 0 | 9 | 4 | 5 | 11 |
+| 1 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
+| 2 | West Ham United | 5 | 4 | 1 | 0 | 10 | 4 | 6 | 13 |
+| 3 | Manchester City | 5 | 4 | 0 | 1 | 11 | 3 | 8 | 12 |
+| 4 | Brighton & Hove Albion | 5 | 4 | 0 | 1 | 13 | 6 | 7 | 12 |
+| 5 | Tottenham Hotspur | 5 | 3 | 2 | 0 | 11 | 4 | 7 | 11 |
 | 6 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
 | 7 | Crystal Palace | 5 | 2 | 2 | 1 | 5 | 4 | 1 | 8 |
 | 8 | Aston Villa | 5 | 2 | 1 | 2 | 8 | 9 | -1 | 7 |
