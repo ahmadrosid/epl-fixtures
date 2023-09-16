@@ -32,11 +32,11 @@ The data displayed in 2023 with BST TimeZone.
 | 4 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 11 | 5 | 6 | 10 |
 | 5 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
 | 6 | West Ham United | 5 | 3 | 1 | 1 | 10 | 7 | 3 | 10 |
-| 7 | Crystal Palace | 5 | 3 | 1 | 1 | 6 | 4 | 2 | 10 |
-| 8 | Fulham | 5 | 2 | 1 | 2 | 5 | 10 | -5 | 7 |
-| 9 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
-| 10 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
-| 11 | Aston Villa | 5 | 2 | 0 | 3 | 8 | 10 | -2 | 6 |
+| 7 | Crystal Palace | 5 | 2 | 2 | 1 | 6 | 5 | 1 | 8 |
+| 8 | Aston Villa | 5 | 2 | 1 | 2 | 9 | 10 | -1 | 7 |
+| 9 | Fulham | 5 | 2 | 1 | 2 | 5 | 10 | -5 | 7 |
+| 10 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
+| 11 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
 | 12 | Manchester United | 5 | 2 | 0 | 3 | 6 | 10 | -4 | 6 |
 | 13 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
 | 14 | Sheffield United | 5 | 1 | 1 | 3 | 5 | 7 | -2 | 4 |

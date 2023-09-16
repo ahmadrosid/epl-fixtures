@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1694882750000,
-    "label": "16 September 2023, 17:45",
+    "millis": 1694883428000,
+    "label": "16 September 2023, 17:57",
     "gmtOffset": 1
   },
   "live": true,
@@ -424,13 +424,13 @@
           "startingPosition": 7,
           "overall": {
             "played": 5,
-            "won": 3,
-            "drawn": 1,
+            "won": 2,
+            "drawn": 2,
             "lost": 1,
             "goalsFor": 6,
-            "goalsAgainst": 4,
-            "goalsDifference": 2,
-            "points": 10
+            "goalsAgainst": 5,
+            "goalsDifference": 1,
+            "points": 8
           },
           "home": {
             "played": 2,
@@ -444,13 +444,13 @@
           },
           "away": {
             "played": 3,
-            "won": 2,
-            "drawn": 1,
+            "won": 1,
+            "drawn": 2,
             "lost": 0,
             "goalsFor": 3,
-            "goalsAgainst": 1,
-            "goalsDifference": 2,
-            "points": 7
+            "goalsAgainst": 2,
+            "goalsDifference": 1,
+            "points": 5
           },
           "ground": {
             "name": "Selhurst Park",
@@ -462,6 +462,66 @@
             },
             "source": "OPTA",
             "id": 45
+          }
+        },
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          },
+          "position": 8,
+          "startingPosition": 10,
+          "overall": {
+            "played": 5,
+            "won": 2,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 9,
+            "goalsAgainst": 10,
+            "goalsDifference": -1,
+            "points": 7
+          },
+          "home": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 5,
+            "goalsAgainst": 1,
+            "goalsDifference": 4,
+            "points": 4
+          },
+          "away": {
+            "played": 3,
+            "won": 1,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 4,
+            "goalsAgainst": 9,
+            "goalsDifference": -5,
+            "points": 3
+          },
+          "ground": {
+            "name": "Villa Park",
+            "city": "Birmingham",
+            "capacity": 42682,
+            "location": {
+              "latitude": 52.5085,
+              "longitude": -1.88495
+            },
+            "source": "OPTA",
+            "id": 43
           }
         },
         {
@@ -480,7 +540,7 @@
               "opta": "t54"
             }
           },
-          "position": 8,
+          "position": 9,
           "startingPosition": 13,
           "overall": {
             "played": 5,
@@ -540,7 +600,7 @@
               "opta": "t94"
             }
           },
-          "position": 9,
+          "position": 10,
           "startingPosition": 8,
           "overall": {
             "played": 4,
@@ -595,7 +655,7 @@
               "opta": "t17"
             }
           },
-          "position": 10,
+          "position": 11,
           "startingPosition": 9,
           "overall": {
             "played": 4,
@@ -635,66 +695,6 @@
               "longitude": -1.13258
             },
             "id": 1192
-          }
-        },
-        {
-          "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "position": 11,
-          "startingPosition": 10,
-          "overall": {
-            "played": 5,
-            "won": 2,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 10,
-            "goalsDifference": -2,
-            "points": 6
-          },
-          "home": {
-            "played": 2,
-            "won": 1,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 4,
-            "goalsAgainst": 1,
-            "goalsDifference": 3,
-            "points": 3
-          },
-          "away": {
-            "played": 3,
-            "won": 1,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 4,
-            "goalsAgainst": 9,
-            "goalsDifference": -5,
-            "points": 3
-          },
-          "ground": {
-            "name": "Villa Park",
-            "city": "Birmingham",
-            "capacity": 42682,
-            "location": {
-              "latitude": 52.5085,
-              "longitude": -1.88495
-            },
-            "source": "OPTA",
-            "id": 43
           }
         },
         {
