@@ -28,7 +28,7 @@ The data displayed in 2023 with BST TimeZone.
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 4 | 4 | 0 | 0 | 11 | 2 | 9 | 12 |
 | 2 | Tottenham Hotspur | 4 | 3 | 1 | 0 | 11 | 4 | 7 | 10 |
-| 3 | Liverpool | 4 | 3 | 1 | 0 | 9 | 3 | 6 | 10 |
+| 3 | Liverpool | 5 | 3 | 1 | 1 | 9 | 4 | 5 | 10 |
 | 4 | West Ham United | 4 | 3 | 1 | 0 | 9 | 4 | 5 | 10 |
 | 5 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
 | 6 | Brighton & Hove Albion | 4 | 3 | 0 | 1 | 12 | 6 | 6 | 9 |
@@ -37,10 +37,10 @@ The data displayed in 2023 with BST TimeZone.
 | 9 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
 | 10 | Aston Villa | 4 | 2 | 0 | 2 | 8 | 9 | -1 | 6 |
 | 11 | Manchester United | 4 | 2 | 0 | 2 | 5 | 7 | -2 | 6 |
-| 12 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
-| 13 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
-| 14 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
-| 15 | Wolverhampton Wanderers | 4 | 1 | 0 | 3 | 4 | 8 | -4 | 3 |
+| 12 | Wolverhampton Wanderers | 5 | 2 | 0 | 3 | 5 | 8 | -3 | 6 |
+| 13 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
+| 14 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
+| 15 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
 | 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
 | 17 | Sheffield United | 4 | 0 | 1 | 3 | 4 | 7 | -3 | 1 |
 | 18 | Everton | 4 | 0 | 1 | 3 | 2 | 8 | -6 | 1 |
