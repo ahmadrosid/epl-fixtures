@@ -27,8 +27,8 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 4 | 4 | 0 | 0 | 11 | 2 | 9 | 12 |
-| 2 | Tottenham Hotspur | 4 | 3 | 1 | 0 | 11 | 4 | 7 | 10 |
-| 3 | Liverpool | 5 | 3 | 1 | 1 | 9 | 4 | 5 | 10 |
+| 2 | Liverpool | 5 | 3 | 2 | 0 | 10 | 4 | 6 | 11 |
+| 3 | Tottenham Hotspur | 4 | 3 | 1 | 0 | 11 | 4 | 7 | 10 |
 | 4 | West Ham United | 4 | 3 | 1 | 0 | 9 | 4 | 5 | 10 |
 | 5 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
 | 6 | Brighton & Hove Albion | 4 | 3 | 0 | 1 | 12 | 6 | 6 | 9 |
@@ -37,8 +37,8 @@ The data displayed in 2023 with BST TimeZone.
 | 9 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
 | 10 | Aston Villa | 4 | 2 | 0 | 2 | 8 | 9 | -1 | 6 |
 | 11 | Manchester United | 4 | 2 | 0 | 2 | 5 | 7 | -2 | 6 |
-| 12 | Wolverhampton Wanderers | 5 | 2 | 0 | 3 | 5 | 8 | -3 | 6 |
-| 13 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
+| 12 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
+| 13 | Wolverhampton Wanderers | 5 | 1 | 1 | 3 | 5 | 9 | -4 | 4 |
 | 14 | Fulham | 4 | 1 | 1 | 2 | 4 | 10 | -6 | 4 |
 | 15 | Newcastle United | 4 | 1 | 0 | 3 | 7 | 7 | 0 | 3 |
 | 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
