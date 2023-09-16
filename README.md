@@ -26,16 +26,16 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
-| 2 | West Ham United | 5 | 4 | 1 | 0 | 10 | 4 | 6 | 13 |
-| 3 | Manchester City | 5 | 4 | 0 | 1 | 11 | 3 | 8 | 12 |
-| 4 | Brighton & Hove Albion | 5 | 4 | 0 | 1 | 13 | 6 | 7 | 12 |
-| 5 | Tottenham Hotspur | 5 | 3 | 2 | 0 | 11 | 4 | 7 | 11 |
+| 1 | Manchester City | 5 | 4 | 1 | 0 | 12 | 3 | 9 | 13 |
+| 2 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
+| 3 | Brighton & Hove Albion | 5 | 4 | 0 | 1 | 13 | 6 | 7 | 12 |
+| 4 | Tottenham Hotspur | 5 | 3 | 2 | 0 | 11 | 4 | 7 | 11 |
+| 5 | West Ham United | 5 | 3 | 2 | 0 | 10 | 5 | 5 | 11 |
 | 6 | Arsenal | 4 | 3 | 1 | 0 | 8 | 4 | 4 | 10 |
-| 7 | Crystal Palace | 5 | 2 | 2 | 1 | 5 | 4 | 1 | 8 |
-| 8 | Aston Villa | 5 | 2 | 1 | 2 | 8 | 9 | -1 | 7 |
-| 9 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
-| 10 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
+| 7 | Crystal Palace | 5 | 3 | 1 | 1 | 6 | 4 | 2 | 10 |
+| 8 | Brentford | 4 | 1 | 3 | 0 | 8 | 5 | 3 | 6 |
+| 9 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
+| 10 | Aston Villa | 5 | 2 | 0 | 3 | 8 | 10 | -2 | 6 |
 | 11 | Manchester United | 5 | 2 | 0 | 3 | 5 | 8 | -3 | 6 |
 | 12 | Fulham | 5 | 1 | 2 | 2 | 4 | 10 | -6 | 5 |
 | 13 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
