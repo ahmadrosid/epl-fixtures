@@ -39,9 +39,9 @@ The data displayed in 2023 with BST TimeZone.
 | 11 | Newcastle United | 5 | 2 | 0 | 3 | 8 | 7 | 1 | 6 |
 | 12 | Nottingham Forest | 4 | 2 | 0 | 2 | 6 | 6 | 0 | 6 |
 | 13 | Manchester United | 5 | 2 | 0 | 3 | 6 | 10 | -4 | 6 |
-| 14 | Chelsea | 4 | 1 | 1 | 2 | 5 | 5 | 0 | 4 |
-| 15 | Wolverhampton Wanderers | 5 | 1 | 0 | 4 | 5 | 11 | -6 | 3 |
-| 16 | Bournemouth | 4 | 0 | 2 | 2 | 4 | 8 | -4 | 2 |
+| 14 | Chelsea | 5 | 1 | 2 | 2 | 5 | 5 | 0 | 5 |
+| 15 | Bournemouth | 5 | 0 | 3 | 2 | 4 | 8 | -4 | 3 |
+| 16 | Wolverhampton Wanderers | 5 | 1 | 0 | 4 | 5 | 11 | -6 | 3 |
 | 17 | Sheffield United | 5 | 0 | 1 | 4 | 5 | 9 | -4 | 1 |
 | 18 | Everton | 4 | 0 | 1 | 3 | 2 | 8 | -6 | 1 |
 | 19 | Burnley | 3 | 0 | 0 | 3 | 3 | 11 | -8 | 0 |
