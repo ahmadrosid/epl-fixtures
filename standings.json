@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1694972184000,
-    "label": "17 September 2023, 18:36",
+    "millis": 1694973794000,
+    "label": "17 September 2023, 19:03",
     "gmtOffset": 1
   },
   "live": true,
@@ -219,6 +219,72 @@
         },
         {
           "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          },
+          "position": 4,
+          "startingPosition": 5,
+          "overall": {
+            "played": 5,
+            "won": 4,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 9,
+            "goalsAgainst": 4,
+            "goalsDifference": 5,
+            "points": 13
+          },
+          "home": {
+            "played": 3,
+            "won": 2,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 7,
+            "goalsAgainst": 4,
+            "goalsDifference": 3,
+            "points": 7
+          },
+          "away": {
+            "played": 2,
+            "won": 2,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "goalsDifference": 2,
+            "points": 6
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Emirates Stadium",
+            "city": "London",
+            "capacity": 60272,
+            "location": {
+              "latitude": 51.5548,
+              "longitude": -0.108533
+            },
+            "source": "OPTA",
+            "id": 52
+          }
+        },
+        {
+          "team": {
             "name": "Brighton & Hove Albion",
             "club": {
               "name": "Brighton and Hove Albion",
@@ -233,7 +299,7 @@
               "opta": "t36"
             }
           },
-          "position": 4,
+          "position": 5,
           "startingPosition": 6,
           "overall": {
             "played": 5,
@@ -268,7 +334,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -281,72 +347,6 @@
             },
             "source": "OPTA",
             "id": 1684
-          }
-        },
-        {
-          "team": {
-            "name": "Arsenal",
-            "club": {
-              "name": "Arsenal",
-              "shortName": "Arsenal",
-              "abbr": "ARS",
-              "id": 1
-            },
-            "teamType": "FIRST",
-            "shortName": "Arsenal",
-            "id": 1,
-            "altIds": {
-              "opta": "t3"
-            }
-          },
-          "position": 5,
-          "startingPosition": 5,
-          "overall": {
-            "played": 5,
-            "won": 3,
-            "drawn": 2,
-            "lost": 0,
-            "goalsFor": 8,
-            "goalsAgainst": 4,
-            "goalsDifference": 4,
-            "points": 11
-          },
-          "home": {
-            "played": 3,
-            "won": 2,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 7,
-            "goalsAgainst": 4,
-            "goalsDifference": 3,
-            "points": 7
-          },
-          "away": {
-            "played": 2,
-            "won": 1,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 0,
-            "goalsDifference": 1,
-            "points": 4
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
-          "ground": {
-            "name": "Emirates Stadium",
-            "city": "London",
-            "capacity": 60272,
-            "location": {
-              "latitude": 51.5548,
-              "longitude": -0.108533
-            },
-            "source": "OPTA",
-            "id": 52
           }
         },
         {
@@ -999,66 +999,6 @@
         },
         {
           "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "position": 17,
-          "startingPosition": 18,
-          "overall": {
-            "played": 5,
-            "won": 0,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 2,
-            "goalsAgainst": 8,
-            "goalsDifference": -6,
-            "points": 2
-          },
-          "home": {
-            "played": 3,
-            "won": 0,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 0,
-            "goalsAgainst": 2,
-            "goalsDifference": -2,
-            "points": 1
-          },
-          "away": {
-            "played": 2,
-            "won": 0,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 2,
-            "goalsAgainst": 6,
-            "goalsDifference": -4,
-            "points": 1
-          },
-          "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
-            "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
-            },
-            "source": "OPTA",
-            "id": 31
-          }
-        },
-        {
-          "team": {
             "name": "Sheffield United",
             "club": {
               "name": "Sheffield United",
@@ -1073,7 +1013,7 @@
               "opta": "t49"
             }
           },
-          "position": 18,
+          "position": 17,
           "startingPosition": 17,
           "overall": {
             "played": 5,
@@ -1105,12 +1045,6 @@
             "goalsDifference": -2,
             "points": 0
           },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
           "ground": {
             "name": "Bramall Lane",
             "city": "Sheffield",
@@ -1121,6 +1055,72 @@
             },
             "source": "OPTA",
             "id": 206
+          }
+        },
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 18,
+          "startingPosition": 18,
+          "overall": {
+            "played": 5,
+            "won": 0,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 2,
+            "goalsAgainst": 9,
+            "goalsDifference": -7,
+            "points": 1
+          },
+          "home": {
+            "played": 3,
+            "won": 0,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "goalsDifference": -3,
+            "points": 0
+          },
+          "away": {
+            "played": 2,
+            "won": 0,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 6,
+            "goalsDifference": -4,
+            "points": 1
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
           }
         },
         {
