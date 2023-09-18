@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1694973794000,
-    "label": "17 September 2023, 19:03",
+    "millis": 1695066317000,
+    "label": "18 September 2023, 20:45",
     "gmtOffset": 1
   },
   "live": true,
@@ -466,6 +466,64 @@
         },
         {
           "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 8,
+          "startingPosition": 9,
+          "overall": {
+            "played": 5,
+            "won": 2,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 6,
+            "goalsAgainst": 6,
+            "goalsDifference": 0,
+            "points": 7
+          },
+          "home": {
+            "played": 2,
+            "won": 1,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "goalsDifference": 1,
+            "points": 4
+          },
+          "away": {
+            "played": 3,
+            "won": 1,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 4,
+            "goalsAgainst": 5,
+            "goalsDifference": -1,
+            "points": 3
+          },
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "id": 1192
+          }
+        },
+        {
+          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -480,7 +538,7 @@
               "opta": "t31"
             }
           },
-          "position": 8,
+          "position": 9,
           "startingPosition": 7,
           "overall": {
             "played": 5,
@@ -540,7 +598,7 @@
               "opta": "t54"
             }
           },
-          "position": 9,
+          "position": 10,
           "startingPosition": 13,
           "overall": {
             "played": 5,
@@ -600,7 +658,7 @@
               "opta": "t94"
             }
           },
-          "position": 10,
+          "position": 11,
           "startingPosition": 8,
           "overall": {
             "played": 5,
@@ -655,7 +713,7 @@
               "opta": "t4"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 14,
           "overall": {
             "played": 5,
@@ -697,64 +755,6 @@
             },
             "source": "OPTA",
             "id": 27
-          }
-        },
-        {
-          "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "position": 12,
-          "startingPosition": 9,
-          "overall": {
-            "played": 4,
-            "won": 2,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 6,
-            "goalsAgainst": 6,
-            "goalsDifference": 0,
-            "points": 6
-          },
-          "home": {
-            "played": 1,
-            "won": 1,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 2,
-            "goalsAgainst": 1,
-            "goalsDifference": 1,
-            "points": 3
-          },
-          "away": {
-            "played": 3,
-            "won": 1,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 4,
-            "goalsAgainst": 5,
-            "goalsDifference": -1,
-            "points": 3
-          },
-          "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "id": 1192
           }
         },
         {
@@ -1142,14 +1142,14 @@
           "position": 19,
           "startingPosition": 20,
           "overall": {
-            "played": 3,
+            "played": 4,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 3,
             "goalsFor": 3,
             "goalsAgainst": 11,
             "goalsDifference": -8,
-            "points": 0
+            "points": 1
           },
           "home": {
             "played": 3,
@@ -1162,14 +1162,14 @@
             "points": 0
           },
           "away": {
-            "played": 0,
+            "played": 1,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalsDifference": 0,
-            "points": 0
+            "points": 1
           },
           "annotations": [
             {
