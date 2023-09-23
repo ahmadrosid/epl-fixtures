@@ -26,7 +26,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Manchester City | 6 | 6 | 0 | 0 | 15 | 3 | 12 | 18 |
+| 1 | Manchester City | 6 | 6 | 0 | 0 | 16 | 3 | 13 | 18 |
 | 2 | Tottenham Hotspur | 5 | 4 | 1 | 0 | 13 | 5 | 8 | 13 |
 | 3 | Liverpool | 5 | 4 | 1 | 0 | 12 | 4 | 8 | 13 |
 | 4 | Arsenal | 5 | 4 | 1 | 0 | 9 | 4 | 5 | 13 |
@@ -35,7 +35,7 @@ The data displayed in 2023 with BST TimeZone.
 | 7 | Aston Villa | 5 | 3 | 0 | 2 | 11 | 10 | 1 | 9 |
 | 8 | Crystal Palace | 6 | 2 | 2 | 2 | 6 | 7 | -1 | 8 |
 | 9 | Fulham | 6 | 2 | 2 | 2 | 5 | 10 | -5 | 8 |
-| 10 | Nottingham Forest | 6 | 2 | 1 | 3 | 7 | 8 | -1 | 7 |
+| 10 | Nottingham Forest | 6 | 2 | 1 | 3 | 7 | 9 | -2 | 7 |
 | 11 | Brentford | 5 | 1 | 3 | 1 | 8 | 6 | 2 | 6 |
 | 12 | Newcastle United | 5 | 2 | 0 | 3 | 8 | 7 | 1 | 6 |
 | 13 | Manchester United | 5 | 2 | 0 | 3 | 6 | 10 | -4 | 6 |
