@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1695495732000,
-    "label": "23 September 2023, 20:02",
+    "millis": 1695499278000,
+    "label": "23 September 2023, 21:01",
     "gmtOffset": 1
   },
   "live": true,
@@ -644,6 +644,66 @@
         },
         {
           "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          },
+          "position": 11,
+          "startingPosition": 13,
+          "overall": {
+            "played": 6,
+            "won": 2,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 6,
+            "goalsAgainst": 10,
+            "goalsDifference": -4,
+            "points": 7
+          },
+          "home": {
+            "played": 3,
+            "won": 2,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 5,
+            "goalsAgainst": 5,
+            "goalsDifference": 0,
+            "points": 6
+          },
+          "away": {
+            "played": 3,
+            "won": 0,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 5,
+            "goalsDifference": -4,
+            "points": 1
+          },
+          "ground": {
+            "name": "Old Trafford",
+            "city": "Manchester",
+            "capacity": 75635,
+            "location": {
+              "latitude": 53.4626,
+              "longitude": -2.29103
+            },
+            "source": "OPTA",
+            "id": 42
+          }
+        },
+        {
+          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -658,7 +718,7 @@
               "opta": "t4"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 12,
           "overall": {
             "played": 5,
@@ -718,7 +778,7 @@
               "opta": "t94"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 11,
           "overall": {
             "played": 6,
@@ -755,66 +815,6 @@
             "city": "Brentford",
             "source": "OPTA",
             "id": 3977
-          }
-        },
-        {
-          "team": {
-            "name": "Manchester United",
-            "club": {
-              "name": "Manchester United",
-              "shortName": "Man Utd",
-              "abbr": "MUN",
-              "id": 12
-            },
-            "teamType": "FIRST",
-            "shortName": "Man Utd",
-            "id": 12,
-            "altIds": {
-              "opta": "t1"
-            }
-          },
-          "position": 13,
-          "startingPosition": 13,
-          "overall": {
-            "played": 5,
-            "won": 2,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 6,
-            "goalsAgainst": 10,
-            "goalsDifference": -4,
-            "points": 6
-          },
-          "home": {
-            "played": 3,
-            "won": 2,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 5,
-            "goalsAgainst": 5,
-            "goalsDifference": 0,
-            "points": 6
-          },
-          "away": {
-            "played": 2,
-            "won": 0,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 1,
-            "goalsAgainst": 5,
-            "goalsDifference": -4,
-            "points": 0
-          },
-          "ground": {
-            "name": "Old Trafford",
-            "city": "Manchester",
-            "capacity": 75635,
-            "location": {
-              "latitude": 53.4626,
-              "longitude": -2.29103
-            },
-            "source": "OPTA",
-            "id": 42
           }
         },
         {
@@ -1059,6 +1059,72 @@
         },
         {
           "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          },
+          "position": 18,
+          "startingPosition": 19,
+          "overall": {
+            "played": 5,
+            "won": 0,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 4,
+            "goalsAgainst": 12,
+            "goalsDifference": -8,
+            "points": 2
+          },
+          "home": {
+            "played": 4,
+            "won": 0,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 3,
+            "goalsAgainst": 11,
+            "goalsDifference": -8,
+            "points": 1
+          },
+          "away": {
+            "played": 1,
+            "won": 0,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "goalsDifference": 0,
+            "points": 1
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Turf Moor",
+            "city": "Burnley",
+            "capacity": 21401,
+            "location": {
+              "latitude": 53.7885,
+              "longitude": -2.23149
+            },
+            "source": "OPTA",
+            "id": 47
+          }
+        },
+        {
+          "team": {
             "name": "Sheffield United",
             "club": {
               "name": "Sheffield United",
@@ -1073,7 +1139,7 @@
               "opta": "t49"
             }
           },
-          "position": 18,
+          "position": 19,
           "startingPosition": 17,
           "overall": {
             "played": 5,
@@ -1121,72 +1187,6 @@
             },
             "source": "OPTA",
             "id": 206
-          }
-        },
-        {
-          "team": {
-            "name": "Burnley",
-            "club": {
-              "name": "Burnley",
-              "shortName": "Burnley",
-              "abbr": "BUR",
-              "id": 43
-            },
-            "teamType": "FIRST",
-            "shortName": "Burnley",
-            "id": 43,
-            "altIds": {
-              "opta": "t90"
-            }
-          },
-          "position": 19,
-          "startingPosition": 19,
-          "overall": {
-            "played": 4,
-            "won": 0,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 4,
-            "goalsAgainst": 12,
-            "goalsDifference": -8,
-            "points": 1
-          },
-          "home": {
-            "played": 3,
-            "won": 0,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 3,
-            "goalsAgainst": 11,
-            "goalsDifference": -8,
-            "points": 0
-          },
-          "away": {
-            "played": 1,
-            "won": 0,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 1,
-            "goalsAgainst": 1,
-            "goalsDifference": 0,
-            "points": 1
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Turf Moor",
-            "city": "Burnley",
-            "capacity": 21401,
-            "location": {
-              "latitude": 53.7885,
-              "longitude": -2.23149
-            },
-            "source": "OPTA",
-            "id": 47
           }
         },
         {
