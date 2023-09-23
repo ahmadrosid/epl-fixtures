@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1695494121000,
-    "label": "23 September 2023, 19:35",
+    "millis": 1695495732000,
+    "label": "23 September 2023, 20:02",
     "gmtOffset": 1
   },
   "live": true,
@@ -586,61 +586,6 @@
         },
         {
           "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "position": 10,
-          "startingPosition": 11,
-          "overall": {
-            "played": 6,
-            "won": 1,
-            "drawn": 4,
-            "lost": 1,
-            "goalsFor": 9,
-            "goalsAgainst": 7,
-            "goalsDifference": 2,
-            "points": 7
-          },
-          "home": {
-            "played": 4,
-            "won": 0,
-            "drawn": 4,
-            "lost": 0,
-            "goalsFor": 6,
-            "goalsAgainst": 6,
-            "goalsDifference": 0,
-            "points": 4
-          },
-          "away": {
-            "played": 2,
-            "won": 1,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 3,
-            "goalsAgainst": 1,
-            "goalsDifference": 2,
-            "points": 3
-          },
-          "ground": {
-            "name": "Gtech Community Stadium",
-            "city": "Brentford",
-            "source": "OPTA",
-            "id": 3977
-          }
-        },
-        {
-          "team": {
             "name": "Nottingham Forest",
             "club": {
               "name": "Nottingham Forest",
@@ -655,7 +600,7 @@
               "opta": "t17"
             }
           },
-          "position": 11,
+          "position": 10,
           "startingPosition": 8,
           "overall": {
             "played": 6,
@@ -713,7 +658,7 @@
               "opta": "t4"
             }
           },
-          "position": 12,
+          "position": 11,
           "startingPosition": 12,
           "overall": {
             "played": 5,
@@ -755,6 +700,61 @@
             },
             "source": "OPTA",
             "id": 27
+          }
+        },
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          },
+          "position": 12,
+          "startingPosition": 11,
+          "overall": {
+            "played": 6,
+            "won": 1,
+            "drawn": 3,
+            "lost": 2,
+            "goalsFor": 9,
+            "goalsAgainst": 9,
+            "goalsDifference": 0,
+            "points": 6
+          },
+          "home": {
+            "played": 4,
+            "won": 0,
+            "drawn": 3,
+            "lost": 1,
+            "goalsFor": 6,
+            "goalsAgainst": 8,
+            "goalsDifference": -2,
+            "points": 3
+          },
+          "away": {
+            "played": 2,
+            "won": 1,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 1,
+            "goalsDifference": 2,
+            "points": 3
+          },
+          "ground": {
+            "name": "Gtech Community Stadium",
+            "city": "Brentford",
+            "source": "OPTA",
+            "id": 3977
           }
         },
         {
@@ -879,6 +879,66 @@
         },
         {
           "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 15,
+          "startingPosition": 18,
+          "overall": {
+            "played": 6,
+            "won": 1,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 10,
+            "goalsDifference": -5,
+            "points": 4
+          },
+          "home": {
+            "played": 3,
+            "won": 0,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "goalsDifference": -3,
+            "points": 0
+          },
+          "away": {
+            "played": 3,
+            "won": 1,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 5,
+            "goalsAgainst": 7,
+            "goalsDifference": -2,
+            "points": 4
+          },
+          "ground": {
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
+          }
+        },
+        {
+          "team": {
             "name": "Wolverhampton Wanderers",
             "club": {
               "name": "Wolverhampton Wanderers",
@@ -893,7 +953,7 @@
               "opta": "t39"
             }
           },
-          "position": 15,
+          "position": 16,
           "startingPosition": 16,
           "overall": {
             "played": 6,
@@ -953,7 +1013,7 @@
               "opta": "t91"
             }
           },
-          "position": 16,
+          "position": 17,
           "startingPosition": 15,
           "overall": {
             "played": 5,
@@ -995,66 +1055,6 @@
             },
             "source": "OPTA",
             "id": 215
-          }
-        },
-        {
-          "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "position": 17,
-          "startingPosition": 18,
-          "overall": {
-            "played": 6,
-            "won": 0,
-            "drawn": 2,
-            "lost": 4,
-            "goalsFor": 3,
-            "goalsAgainst": 10,
-            "goalsDifference": -7,
-            "points": 2
-          },
-          "home": {
-            "played": 3,
-            "won": 0,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 0,
-            "goalsAgainst": 3,
-            "goalsDifference": -3,
-            "points": 0
-          },
-          "away": {
-            "played": 3,
-            "won": 0,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 3,
-            "goalsAgainst": 7,
-            "goalsDifference": -4,
-            "points": 2
-          },
-          "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
-            "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
-            },
-            "source": "OPTA",
-            "id": 31
           }
         },
         {
