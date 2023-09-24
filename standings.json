@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1695566876000,
-    "label": "24 September 2023, 15:47",
+    "millis": 1695568108000,
+    "label": "24 September 2023, 16:08",
     "gmtOffset": 1
   },
   "live": true,
@@ -92,6 +92,72 @@
         },
         {
           "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          },
+          "position": 2,
+          "startingPosition": 5,
+          "overall": {
+            "played": 6,
+            "won": 5,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 17,
+            "goalsAgainst": 8,
+            "goalsDifference": 9,
+            "points": 15
+          },
+          "home": {
+            "played": 4,
+            "won": 3,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 10,
+            "goalsAgainst": 6,
+            "goalsDifference": 4,
+            "points": 9
+          },
+          "away": {
+            "played": 2,
+            "won": 2,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 7,
+            "goalsAgainst": 2,
+            "goalsDifference": 5,
+            "points": 6
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Amex Stadium",
+            "city": "Falmer",
+            "capacity": 30750,
+            "location": {
+              "latitude": 50.8606,
+              "longitude": -0.082237
+            },
+            "source": "OPTA",
+            "id": 1684
+          }
+        },
+        {
+          "team": {
             "name": "Tottenham Hotspur",
             "club": {
               "name": "Tottenham Hotspur",
@@ -106,7 +172,7 @@
               "opta": "t6"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 2,
           "overall": {
             "played": 6,
@@ -167,7 +233,7 @@
               "opta": "t14"
             }
           },
-          "position": 3,
+          "position": 4,
           "startingPosition": 3,
           "overall": {
             "played": 6,
@@ -233,7 +299,7 @@
               "opta": "t3"
             }
           },
-          "position": 4,
+          "position": 5,
           "startingPosition": 4,
           "overall": {
             "played": 6,
@@ -268,7 +334,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -281,72 +347,6 @@
             },
             "source": "OPTA",
             "id": 52
-          }
-        },
-        {
-          "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "position": 5,
-          "startingPosition": 5,
-          "overall": {
-            "played": 6,
-            "won": 4,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 16,
-            "goalsAgainst": 8,
-            "goalsDifference": 8,
-            "points": 13
-          },
-          "home": {
-            "played": 4,
-            "won": 2,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 9,
-            "goalsAgainst": 6,
-            "goalsDifference": 3,
-            "points": 7
-          },
-          "away": {
-            "played": 2,
-            "won": 2,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 7,
-            "goalsAgainst": 2,
-            "goalsDifference": 5,
-            "points": 6
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
-          "ground": {
-            "name": "Amex Stadium",
-            "city": "Falmer",
-            "capacity": 30750,
-            "location": {
-              "latitude": 50.8606,
-              "longitude": -0.082237
-            },
-            "source": "OPTA",
-            "id": 1684
           }
         },
         {
@@ -879,66 +879,6 @@
         },
         {
           "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "position": 15,
-          "startingPosition": 15,
-          "overall": {
-            "played": 6,
-            "won": 0,
-            "drawn": 4,
-            "lost": 2,
-            "goalsFor": 5,
-            "goalsAgainst": 9,
-            "goalsDifference": -4,
-            "points": 4
-          },
-          "home": {
-            "played": 3,
-            "won": 0,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 3,
-            "goalsDifference": -2,
-            "points": 2
-          },
-          "away": {
-            "played": 3,
-            "won": 0,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 4,
-            "goalsAgainst": 6,
-            "goalsDifference": -2,
-            "points": 2
-          },
-          "ground": {
-            "name": "Vitality Stadium",
-            "city": "Bournemouth",
-            "capacity": 10783,
-            "location": {
-              "latitude": 50.7349,
-              "longitude": -1.83899
-            },
-            "source": "OPTA",
-            "id": 215
-          }
-        },
-        {
-          "team": {
             "name": "Everton",
             "club": {
               "name": "Everton",
@@ -953,7 +893,7 @@
               "opta": "t11"
             }
           },
-          "position": 16,
+          "position": 15,
           "startingPosition": 18,
           "overall": {
             "played": 6,
@@ -1013,7 +953,7 @@
               "opta": "t39"
             }
           },
-          "position": 17,
+          "position": 16,
           "startingPosition": 16,
           "overall": {
             "played": 6,
@@ -1055,6 +995,66 @@
             },
             "source": "OPTA",
             "id": 913
+          }
+        },
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          },
+          "position": 17,
+          "startingPosition": 15,
+          "overall": {
+            "played": 6,
+            "won": 0,
+            "drawn": 3,
+            "lost": 3,
+            "goalsFor": 5,
+            "goalsAgainst": 10,
+            "goalsDifference": -5,
+            "points": 3
+          },
+          "home": {
+            "played": 3,
+            "won": 0,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "goalsDifference": -2,
+            "points": 2
+          },
+          "away": {
+            "played": 3,
+            "won": 0,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 4,
+            "goalsAgainst": 7,
+            "goalsDifference": -3,
+            "points": 1
+          },
+          "ground": {
+            "name": "Vitality Stadium",
+            "city": "Bournemouth",
+            "capacity": 10783,
+            "location": {
+              "latitude": 50.7349,
+              "longitude": -1.83899
+            },
+            "source": "OPTA",
+            "id": 215
           }
         },
         {
