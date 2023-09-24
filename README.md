@@ -27,22 +27,22 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 6 | 6 | 0 | 0 | 16 | 3 | 13 | 18 |
-| 2 | Liverpool | 6 | 5 | 1 | 0 | 14 | 5 | 9 | 16 |
-| 3 | Brighton & Hove Albion | 6 | 5 | 0 | 1 | 17 | 8 | 9 | 15 |
+| 2 | Liverpool | 6 | 5 | 1 | 0 | 15 | 5 | 10 | 16 |
+| 3 | Brighton & Hove Albion | 6 | 5 | 0 | 1 | 18 | 8 | 10 | 15 |
 | 4 | Tottenham Hotspur | 6 | 4 | 2 | 0 | 15 | 7 | 8 | 14 |
 | 5 | Arsenal | 6 | 4 | 2 | 0 | 11 | 6 | 5 | 14 |
-| 6 | West Ham United | 6 | 3 | 1 | 2 | 11 | 9 | 2 | 10 |
-| 7 | Aston Villa | 6 | 3 | 1 | 2 | 11 | 10 | 1 | 10 |
+| 6 | Aston Villa | 6 | 4 | 0 | 2 | 12 | 10 | 2 | 12 |
+| 7 | West Ham United | 6 | 3 | 1 | 2 | 11 | 10 | 1 | 10 |
 | 8 | Manchester United | 6 | 3 | 0 | 3 | 7 | 10 | -3 | 9 |
 | 9 | Crystal Palace | 6 | 2 | 2 | 2 | 6 | 7 | -1 | 8 |
 | 10 | Fulham | 6 | 2 | 2 | 2 | 5 | 10 | -5 | 8 |
 | 11 | Nottingham Forest | 6 | 2 | 1 | 3 | 7 | 9 | -2 | 7 |
 | 12 | Newcastle United | 5 | 2 | 0 | 3 | 8 | 7 | 1 | 6 |
 | 13 | Brentford | 6 | 1 | 3 | 2 | 9 | 9 | 0 | 6 |
-| 14 | Chelsea | 6 | 1 | 3 | 2 | 5 | 5 | 0 | 6 |
+| 14 | Chelsea | 6 | 1 | 2 | 3 | 5 | 6 | -1 | 5 |
 | 15 | Everton | 6 | 1 | 1 | 4 | 5 | 10 | -5 | 4 |
 | 16 | Wolverhampton Wanderers | 6 | 1 | 1 | 4 | 6 | 12 | -6 | 4 |
-| 17 | Bournemouth | 6 | 0 | 3 | 3 | 5 | 10 | -5 | 3 |
+| 17 | Bournemouth | 6 | 0 | 3 | 3 | 5 | 11 | -6 | 3 |
 | 18 | Sheffield United | 5 | 0 | 1 | 4 | 5 | 9 | -4 | 1 |
 | 19 | Luton Town | 5 | 0 | 1 | 4 | 3 | 11 | -8 | 1 |
 | 20 | Burnley | 5 | 0 | 1 | 4 | 4 | 13 | -9 | 1 |
