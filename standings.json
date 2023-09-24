@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1695571143000,
-    "label": "24 September 2023, 16:59",
+    "millis": 1695573018000,
+    "label": "24 September 2023, 17:30",
     "gmtOffset": 1
   },
   "live": true,
@@ -646,6 +646,66 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 11,
+          "startingPosition": 12,
+          "overall": {
+            "played": 6,
+            "won": 2,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 7,
+            "goalsDifference": 1,
+            "points": 7
+          },
+          "home": {
+            "played": 3,
+            "won": 2,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 7,
+            "goalsAgainst": 3,
+            "goalsDifference": 4,
+            "points": 6
+          },
+          "away": {
+            "played": 3,
+            "won": 0,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 4,
+            "goalsDifference": -3,
+            "points": 1
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Nottingham Forest",
             "club": {
               "name": "Nottingham Forest",
@@ -660,7 +720,7 @@
               "opta": "t17"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 8,
           "overall": {
             "played": 6,
@@ -700,66 +760,6 @@
               "longitude": -1.13258
             },
             "id": 1192
-          }
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 12,
-          "startingPosition": 12,
-          "overall": {
-            "played": 5,
-            "won": 2,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 7,
-            "goalsDifference": 1,
-            "points": 6
-          },
-          "home": {
-            "played": 3,
-            "won": 2,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 7,
-            "goalsAgainst": 3,
-            "goalsDifference": 4,
-            "points": 6
-          },
-          "away": {
-            "played": 2,
-            "won": 0,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 1,
-            "goalsAgainst": 4,
-            "goalsDifference": -3,
-            "points": 0
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
           }
         },
         {
@@ -1076,24 +1076,24 @@
           "position": 18,
           "startingPosition": 17,
           "overall": {
-            "played": 5,
+            "played": 6,
             "won": 0,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 4,
             "goalsFor": 5,
             "goalsAgainst": 9,
             "goalsDifference": -4,
-            "points": 1
+            "points": 2
           },
           "home": {
-            "played": 3,
+            "played": 4,
             "won": 0,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 2,
             "goalsFor": 3,
             "goalsAgainst": 5,
             "goalsDifference": -2,
-            "points": 1
+            "points": 2
           },
           "away": {
             "played": 2,
