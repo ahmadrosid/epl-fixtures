@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1695568108000,
-    "label": "24 September 2023, 16:08",
+    "millis": 1695569043000,
+    "label": "24 September 2023, 16:24",
     "gmtOffset": 1
   },
   "live": true,
@@ -92,6 +92,72 @@
         },
         {
           "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          },
+          "position": 2,
+          "startingPosition": 3,
+          "overall": {
+            "played": 6,
+            "won": 5,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 14,
+            "goalsAgainst": 5,
+            "goalsDifference": 9,
+            "points": 16
+          },
+          "home": {
+            "played": 3,
+            "won": 3,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 8,
+            "goalsAgainst": 2,
+            "goalsDifference": 6,
+            "points": 9
+          },
+          "away": {
+            "played": 3,
+            "won": 2,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 6,
+            "goalsAgainst": 3,
+            "goalsDifference": 3,
+            "points": 7
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Anfield",
+            "city": "Liverpool",
+            "capacity": 54074,
+            "location": {
+              "latitude": 53.4313,
+              "longitude": -2.96158
+            },
+            "source": "OPTA",
+            "id": 901
+          }
+        },
+        {
+          "team": {
             "name": "Brighton & Hove Albion",
             "club": {
               "name": "Brighton and Hove Albion",
@@ -106,7 +172,7 @@
               "opta": "t36"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 5,
           "overall": {
             "played": 6,
@@ -172,15 +238,15 @@
               "opta": "t6"
             }
           },
-          "position": 3,
+          "position": 4,
           "startingPosition": 2,
           "overall": {
             "played": 6,
             "won": 4,
             "drawn": 2,
             "lost": 0,
-            "goalsFor": 14,
-            "goalsAgainst": 6,
+            "goalsFor": 15,
+            "goalsAgainst": 7,
             "goalsDifference": 8,
             "points": 14
           },
@@ -199,8 +265,8 @@
             "won": 2,
             "drawn": 2,
             "lost": 0,
-            "goalsFor": 10,
-            "goalsAgainst": 5,
+            "goalsFor": 11,
+            "goalsAgainst": 6,
             "goalsDifference": 5,
             "points": 8
           },
@@ -215,72 +281,6 @@
             "city": "London",
             "source": "OPTA",
             "id": 1734
-          }
-        },
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "position": 4,
-          "startingPosition": 3,
-          "overall": {
-            "played": 6,
-            "won": 4,
-            "drawn": 2,
-            "lost": 0,
-            "goalsFor": 13,
-            "goalsAgainst": 5,
-            "goalsDifference": 8,
-            "points": 14
-          },
-          "home": {
-            "played": 3,
-            "won": 2,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 7,
-            "goalsAgainst": 2,
-            "goalsDifference": 5,
-            "points": 7
-          },
-          "away": {
-            "played": 3,
-            "won": 2,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 6,
-            "goalsAgainst": 3,
-            "goalsDifference": 3,
-            "points": 7
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Anfield",
-            "city": "Liverpool",
-            "capacity": 54074,
-            "location": {
-              "latitude": 53.4313,
-              "longitude": -2.96158
-            },
-            "source": "OPTA",
-            "id": 901
           }
         },
         {
@@ -306,8 +306,8 @@
             "won": 4,
             "drawn": 2,
             "lost": 0,
-            "goalsFor": 10,
-            "goalsAgainst": 5,
+            "goalsFor": 11,
+            "goalsAgainst": 6,
             "goalsDifference": 5,
             "points": 14
           },
@@ -316,8 +316,8 @@
             "won": 2,
             "drawn": 2,
             "lost": 0,
-            "goalsFor": 8,
-            "goalsAgainst": 5,
+            "goalsFor": 9,
+            "goalsAgainst": 6,
             "goalsDifference": 3,
             "points": 8
           },
@@ -370,12 +370,12 @@
           "overall": {
             "played": 6,
             "won": 3,
-            "drawn": 2,
-            "lost": 1,
+            "drawn": 1,
+            "lost": 2,
             "goalsFor": 11,
-            "goalsAgainst": 8,
-            "goalsDifference": 3,
-            "points": 11
+            "goalsAgainst": 9,
+            "goalsDifference": 2,
+            "points": 10
           },
           "home": {
             "played": 2,
@@ -390,12 +390,12 @@
           "away": {
             "played": 4,
             "won": 2,
-            "drawn": 2,
-            "lost": 0,
+            "drawn": 1,
+            "lost": 1,
             "goalsFor": 7,
-            "goalsAgainst": 4,
-            "goalsDifference": 3,
-            "points": 8
+            "goalsAgainst": 5,
+            "goalsDifference": 2,
+            "points": 7
           },
           "ground": {
             "name": "London Stadium",
