@@ -33,7 +33,7 @@ The data displayed in 2023 with BST TimeZone.
 | 5 | Arsenal | 6 | 4 | 2 | 0 | 11 | 6 | 5 | 14 |
 | 6 | Aston Villa | 6 | 4 | 0 | 2 | 12 | 10 | 2 | 12 |
 | 7 | West Ham United | 6 | 3 | 1 | 2 | 11 | 10 | 1 | 10 |
-| 8 | Newcastle United | 6 | 3 | 0 | 3 | 15 | 7 | 8 | 9 |
+| 8 | Newcastle United | 6 | 3 | 0 | 3 | 16 | 7 | 9 | 9 |
 | 9 | Manchester United | 6 | 3 | 0 | 3 | 7 | 10 | -3 | 9 |
 | 10 | Crystal Palace | 6 | 2 | 2 | 2 | 6 | 7 | -1 | 8 |
 | 11 | Fulham | 6 | 2 | 2 | 2 | 5 | 10 | -5 | 8 |
@@ -45,5 +45,5 @@ The data displayed in 2023 with BST TimeZone.
 | 17 | Bournemouth | 6 | 0 | 3 | 3 | 5 | 11 | -6 | 3 |
 | 18 | Luton Town | 5 | 0 | 1 | 4 | 3 | 11 | -8 | 1 |
 | 19 | Burnley | 5 | 0 | 1 | 4 | 4 | 13 | -9 | 1 |
-| 20 | Sheffield United | 6 | 0 | 1 | 5 | 5 | 16 | -11 | 1 |
+| 20 | Sheffield United | 6 | 0 | 1 | 5 | 5 | 17 | -12 | 1 |
 <!-- END_STANDINGS -->
