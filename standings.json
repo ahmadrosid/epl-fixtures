@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1696082801000,
-    "label": "30 September 2023, 15:06",
+    "millis": 1696084103000,
+    "label": "30 September 2023, 15:28",
     "gmtOffset": 1
   },
   "live": true,
@@ -158,72 +158,6 @@
         },
         {
           "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "position": 3,
-          "startingPosition": 3,
-          "overall": {
-            "played": 7,
-            "won": 5,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 19,
-            "goalsAgainst": 12,
-            "goalsDifference": 7,
-            "points": 15
-          },
-          "home": {
-            "played": 4,
-            "won": 3,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 11,
-            "goalsAgainst": 6,
-            "goalsDifference": 5,
-            "points": 9
-          },
-          "away": {
-            "played": 3,
-            "won": 2,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 8,
-            "goalsAgainst": 6,
-            "goalsDifference": 2,
-            "points": 6
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Amex Stadium",
-            "city": "Falmer",
-            "capacity": 30750,
-            "location": {
-              "latitude": 50.8606,
-              "longitude": -0.082237
-            },
-            "source": "OPTA",
-            "id": 1684
-          }
-        },
-        {
-          "team": {
             "name": "Aston Villa",
             "club": {
               "name": "Aston Villa",
@@ -238,16 +172,16 @@
               "opta": "t7"
             }
           },
-          "position": 4,
+          "position": 3,
           "startingPosition": 6,
           "overall": {
             "played": 7,
             "won": 5,
             "drawn": 0,
             "lost": 2,
-            "goalsFor": 16,
+            "goalsFor": 18,
             "goalsAgainst": 11,
-            "goalsDifference": 5,
+            "goalsDifference": 7,
             "points": 15
           },
           "home": {
@@ -255,9 +189,9 @@
             "won": 3,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 11,
+            "goalsFor": 13,
             "goalsAgainst": 2,
-            "goalsDifference": 9,
+            "goalsDifference": 11,
             "points": 9
           },
           "away": {
@@ -286,6 +220,72 @@
             },
             "source": "OPTA",
             "id": 43
+          }
+        },
+        {
+          "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          },
+          "position": 4,
+          "startingPosition": 3,
+          "overall": {
+            "played": 7,
+            "won": 5,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 19,
+            "goalsAgainst": 14,
+            "goalsDifference": 5,
+            "points": 15
+          },
+          "home": {
+            "played": 4,
+            "won": 3,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 11,
+            "goalsAgainst": 6,
+            "goalsDifference": 5,
+            "points": 9
+          },
+          "away": {
+            "played": 3,
+            "won": 2,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 8,
+            "goalsAgainst": 8,
+            "goalsDifference": 0,
+            "points": 6
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Amex Stadium",
+            "city": "Falmer",
+            "capacity": 30750,
+            "location": {
+              "latitude": 50.8606,
+              "longitude": -0.082237
+            },
+            "source": "OPTA",
+            "id": 1684
           }
         },
         {

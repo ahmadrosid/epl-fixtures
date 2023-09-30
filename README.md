@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 30 Sep, 12:30 | Aston Villa | 4 | Brighton & Hove Albion | 1 | Live |
+| 30 Sep, 12:30 | Aston Villa | 6 | Brighton & Hove Albion | 1 | Live |
 | 30 Sep, 15:00 | Bournemouth | 0 | Arsenal | 0 | Upcoming |
 | 30 Sep, 15:00 | Everton | 0 | Luton Town | 0 | Upcoming |
 | 30 Sep, 15:00 | Manchester United | 0 | Crystal Palace | 0 | Upcoming |
@@ -29,8 +29,8 @@ The data displayed in 2023 with BST TimeZone.
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 6 | 6 | 0 | 0 | 16 | 3 | 13 | 18 |
 | 2 | Liverpool | 6 | 5 | 1 | 0 | 15 | 5 | 10 | 16 |
-| 3 | Brighton & Hove Albion | 7 | 5 | 0 | 2 | 19 | 12 | 7 | 15 |
-| 4 | Aston Villa | 7 | 5 | 0 | 2 | 16 | 11 | 5 | 15 |
+| 3 | Aston Villa | 7 | 5 | 0 | 2 | 18 | 11 | 7 | 15 |
+| 4 | Brighton & Hove Albion | 7 | 5 | 0 | 2 | 19 | 14 | 5 | 15 |
 | 5 | Tottenham Hotspur | 6 | 4 | 2 | 0 | 15 | 7 | 8 | 14 |
 | 6 | Arsenal | 6 | 4 | 2 | 0 | 11 | 6 | 5 | 14 |
 | 7 | West Ham United | 6 | 3 | 1 | 2 | 11 | 10 | 1 | 10 |
