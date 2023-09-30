@@ -274,8 +274,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4080,
-        "label": "68'00"
+        "secs": 5220,
+        "label": "87'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -407,8 +407,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4020,
-        "label": "67'00"
+        "secs": 5160,
+        "label": "86'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -540,9 +540,10 @@
       "neutralGround": false,
       "status": "L",
       "phase": "2",
+      "attendance": 73428,
       "clock": {
-        "secs": 4140,
-        "label": "69'00"
+        "secs": 5340,
+        "label": "89'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -622,7 +623,7 @@
               "opta": "t4"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -654,8 +655,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4140,
-        "label": "69'00"
+        "secs": 5160,
+        "label": "86'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -671,6 +672,16 @@
           "phase": "1",
           "type": "G",
           "description": "G"
+        },
+        {
+          "personId": 21737,
+          "clock": {
+            "secs": 4560,
+            "label": "76'00"
+          },
+          "phase": "2",
+          "type": "P",
+          "description": "P"
         }
       ],
       "penaltyShootouts": [],
@@ -768,8 +779,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4140,
-        "label": "69'00"
+        "secs": 5340,
+        "label": "89'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -892,9 +903,10 @@
       "neutralGround": false,
       "status": "L",
       "phase": "2",
+      "attendance": 31415,
       "clock": {
-        "secs": 4140,
-        "label": "69'00"
+        "secs": 5340,
+        "label": "89'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -994,7 +1006,8 @@
             "altIds": {
               "opta": "t6"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -1011,7 +1024,8 @@
             "altIds": {
               "opta": "t14"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -1024,6 +1038,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,

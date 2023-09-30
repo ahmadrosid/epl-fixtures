@@ -11,10 +11,10 @@ The data displayed in 2023 with BST TimeZone.
 | 30 Sep, 15:00 | Bournemouth | 0 | Arsenal | 3 | Live |
 | 30 Sep, 15:00 | Everton | 1 | Luton Town | 2 | Live |
 | 30 Sep, 15:00 | Manchester United | 0 | Crystal Palace | 1 | Live |
-| 30 Sep, 15:00 | Newcastle United | 1 | Burnley | 0 | Live |
+| 30 Sep, 15:00 | Newcastle United | 2 | Burnley | 0 | Live |
 | 30 Sep, 15:00 | West Ham United | 2 | Sheffield United | 0 | Live |
 | 30 Sep, 15:00 | Wolverhampton Wanderers | 2 | Manchester City | 1 | Live |
-| 30 Sep, 17:30 | Tottenham Hotspur | N/A | Liverpool | N/A | Upcoming |
+| 30 Sep, 17:30 | Tottenham Hotspur | 0 | Liverpool | 0 | Upcoming |
 | 1 Oct, 14:00 | Nottingham Forest | N/A | Brentford | N/A | Upcoming |
 | 2 Oct, 20:00 | Fulham | N/A | Chelsea | N/A | Upcoming |
 | 3 Oct, 19:30 | Luton Town | N/A | Burnley | N/A | Upcoming |
@@ -34,7 +34,7 @@ The data displayed in 2023 with BST TimeZone.
 | 5 | Brighton & Hove Albion | 7 | 5 | 0 | 2 | 19 | 14 | 5 | 15 |
 | 6 | Tottenham Hotspur | 6 | 4 | 2 | 0 | 15 | 7 | 8 | 14 |
 | 7 | West Ham United | 7 | 4 | 1 | 2 | 13 | 10 | 3 | 13 |
-| 8 | Newcastle United | 7 | 4 | 0 | 3 | 17 | 7 | 10 | 12 |
+| 8 | Newcastle United | 7 | 4 | 0 | 3 | 18 | 7 | 11 | 12 |
 | 9 | Crystal Palace | 7 | 3 | 2 | 2 | 7 | 7 | 0 | 11 |
 | 10 | Manchester United | 7 | 3 | 0 | 4 | 7 | 11 | -4 | 9 |
 | 11 | Fulham | 6 | 2 | 2 | 2 | 5 | 10 | -5 | 8 |
@@ -45,6 +45,6 @@ The data displayed in 2023 with BST TimeZone.
 | 16 | Everton | 7 | 1 | 1 | 5 | 6 | 12 | -6 | 4 |
 | 17 | Luton Town | 6 | 1 | 1 | 4 | 5 | 12 | -7 | 4 |
 | 18 | Bournemouth | 7 | 0 | 3 | 4 | 5 | 14 | -9 | 3 |
-| 19 | Burnley | 6 | 0 | 1 | 5 | 4 | 14 | -10 | 1 |
+| 19 | Burnley | 6 | 0 | 1 | 5 | 4 | 15 | -11 | 1 |
 | 20 | Sheffield United | 7 | 0 | 1 | 6 | 5 | 19 | -14 | 1 |
 <!-- END_STANDINGS -->
