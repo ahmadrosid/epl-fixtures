@@ -14,15 +14,15 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1695579538000,
-    "label": "24 September 2023, 19:18",
+    "millis": 1696077867000,
+    "label": "30 September 2023, 13:44",
     "gmtOffset": 1
   },
   "live": true,
   "dynamicallyGenerated": false,
   "tables": [
     {
-      "gameWeek": 6,
+      "gameWeek": 7,
       "entries": [
         {
           "team": {
@@ -107,7 +107,7 @@
             }
           },
           "position": 2,
-          "startingPosition": 3,
+          "startingPosition": 2,
           "overall": {
             "played": 6,
             "won": 5,
@@ -173,15 +173,15 @@
             }
           },
           "position": 3,
-          "startingPosition": 5,
+          "startingPosition": 3,
           "overall": {
-            "played": 6,
+            "played": 7,
             "won": 5,
             "drawn": 0,
-            "lost": 1,
+            "lost": 2,
             "goalsFor": 18,
-            "goalsAgainst": 8,
-            "goalsDifference": 10,
+            "goalsAgainst": 9,
+            "goalsDifference": 9,
             "points": 15
           },
           "home": {
@@ -195,13 +195,13 @@
             "points": 9
           },
           "away": {
-            "played": 2,
+            "played": 3,
             "won": 2,
             "drawn": 0,
-            "lost": 0,
+            "lost": 1,
             "goalsFor": 7,
-            "goalsAgainst": 2,
-            "goalsDifference": 5,
+            "goalsAgainst": 3,
+            "goalsDifference": 4,
             "points": 6
           },
           "annotations": [
@@ -224,6 +224,72 @@
         },
         {
           "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          },
+          "position": 4,
+          "startingPosition": 6,
+          "overall": {
+            "played": 7,
+            "won": 5,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 13,
+            "goalsAgainst": 10,
+            "goalsDifference": 3,
+            "points": 15
+          },
+          "home": {
+            "played": 3,
+            "won": 3,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 8,
+            "goalsAgainst": 1,
+            "goalsDifference": 7,
+            "points": 9
+          },
+          "away": {
+            "played": 4,
+            "won": 2,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 5,
+            "goalsAgainst": 9,
+            "goalsDifference": -4,
+            "points": 6
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Villa Park",
+            "city": "Birmingham",
+            "capacity": 42682,
+            "location": {
+              "latitude": 52.5085,
+              "longitude": -1.88495
+            },
+            "source": "OPTA",
+            "id": 43
+          }
+        },
+        {
+          "team": {
             "name": "Tottenham Hotspur",
             "club": {
               "name": "Tottenham Hotspur",
@@ -238,8 +304,8 @@
               "opta": "t6"
             }
           },
-          "position": 4,
-          "startingPosition": 2,
+          "position": 5,
+          "startingPosition": 4,
           "overall": {
             "played": 6,
             "won": 4,
@@ -273,7 +339,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -299,8 +365,8 @@
               "opta": "t3"
             }
           },
-          "position": 5,
-          "startingPosition": 4,
+          "position": 6,
+          "startingPosition": 5,
           "overall": {
             "played": 6,
             "won": 4,
@@ -331,12 +397,6 @@
             "goalsDifference": 2,
             "points": 6
           },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
           "ground": {
             "name": "Emirates Stadium",
             "city": "London",
@@ -347,66 +407,6 @@
             },
             "source": "OPTA",
             "id": 52
-          }
-        },
-        {
-          "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "position": 6,
-          "startingPosition": 7,
-          "overall": {
-            "played": 6,
-            "won": 4,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 12,
-            "goalsAgainst": 10,
-            "goalsDifference": 2,
-            "points": 12
-          },
-          "home": {
-            "played": 2,
-            "won": 2,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 7,
-            "goalsAgainst": 1,
-            "goalsDifference": 6,
-            "points": 6
-          },
-          "away": {
-            "played": 4,
-            "won": 2,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 5,
-            "goalsAgainst": 9,
-            "goalsDifference": -4,
-            "points": 6
-          },
-          "ground": {
-            "name": "Villa Park",
-            "city": "Birmingham",
-            "capacity": 42682,
-            "location": {
-              "latitude": 52.5085,
-              "longitude": -1.88495
-            },
-            "source": "OPTA",
-            "id": 43
           }
         },
         {
@@ -426,7 +426,7 @@
             }
           },
           "position": 7,
-          "startingPosition": 6,
+          "startingPosition": 7,
           "overall": {
             "played": 6,
             "won": 3,
@@ -481,7 +481,7 @@
             }
           },
           "position": 8,
-          "startingPosition": 12,
+          "startingPosition": 8,
           "overall": {
             "played": 6,
             "won": 3,
@@ -541,7 +541,7 @@
             }
           },
           "position": 9,
-          "startingPosition": 13,
+          "startingPosition": 9,
           "overall": {
             "played": 6,
             "won": 3,
@@ -601,7 +601,7 @@
             }
           },
           "position": 10,
-          "startingPosition": 9,
+          "startingPosition": 10,
           "overall": {
             "played": 6,
             "won": 2,
@@ -661,7 +661,7 @@
             }
           },
           "position": 11,
-          "startingPosition": 10,
+          "startingPosition": 11,
           "overall": {
             "played": 6,
             "won": 2,
@@ -721,7 +721,7 @@
             }
           },
           "position": 12,
-          "startingPosition": 8,
+          "startingPosition": 12,
           "overall": {
             "played": 6,
             "won": 2,
@@ -779,7 +779,7 @@
             }
           },
           "position": 13,
-          "startingPosition": 11,
+          "startingPosition": 13,
           "overall": {
             "played": 6,
             "won": 1,
@@ -894,7 +894,7 @@
             }
           },
           "position": 15,
-          "startingPosition": 18,
+          "startingPosition": 15,
           "overall": {
             "played": 6,
             "won": 1,
@@ -1014,7 +1014,7 @@
             }
           },
           "position": 17,
-          "startingPosition": 15,
+          "startingPosition": 17,
           "overall": {
             "played": 6,
             "won": 0,
@@ -1074,7 +1074,7 @@
             }
           },
           "position": 18,
-          "startingPosition": 20,
+          "startingPosition": 18,
           "overall": {
             "played": 5,
             "won": 0,
@@ -1201,7 +1201,7 @@
             }
           },
           "position": 20,
-          "startingPosition": 17,
+          "startingPosition": 20,
           "overall": {
             "played": 6,
             "won": 0,
