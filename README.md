@@ -7,13 +7,13 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 30 Sep, 12:30 | Aston Villa | 3 | Brighton & Hove Albion | 1 | Live |
-| 30 Sep, 15:00 | Bournemouth | N/A | Arsenal | N/A | Upcoming |
-| 30 Sep, 15:00 | Everton | N/A | Luton Town | N/A | Upcoming |
-| 30 Sep, 15:00 | Manchester United | N/A | Crystal Palace | N/A | Upcoming |
-| 30 Sep, 15:00 | Newcastle United | N/A | Burnley | N/A | Upcoming |
-| 30 Sep, 15:00 | West Ham United | N/A | Sheffield United | N/A | Upcoming |
-| 30 Sep, 15:00 | Wolverhampton Wanderers | N/A | Manchester City | N/A | Upcoming |
+| 30 Sep, 12:30 | Aston Villa | 4 | Brighton & Hove Albion | 1 | Live |
+| 30 Sep, 15:00 | Bournemouth | 0 | Arsenal | 0 | Upcoming |
+| 30 Sep, 15:00 | Everton | 0 | Luton Town | 0 | Upcoming |
+| 30 Sep, 15:00 | Manchester United | 0 | Crystal Palace | 0 | Upcoming |
+| 30 Sep, 15:00 | Newcastle United | 0 | Burnley | 0 | Upcoming |
+| 30 Sep, 15:00 | West Ham United | 0 | Sheffield United | 0 | Upcoming |
+| 30 Sep, 15:00 | Wolverhampton Wanderers | 0 | Manchester City | 0 | Upcoming |
 | 30 Sep, 17:30 | Tottenham Hotspur | N/A | Liverpool | N/A | Upcoming |
 | 1 Oct, 14:00 | Nottingham Forest | N/A | Brentford | N/A | Upcoming |
 | 2 Oct, 20:00 | Fulham | N/A | Chelsea | N/A | Upcoming |
@@ -29,8 +29,8 @@ The data displayed in 2023 with BST TimeZone.
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 6 | 6 | 0 | 0 | 16 | 3 | 13 | 18 |
 | 2 | Liverpool | 6 | 5 | 1 | 0 | 15 | 5 | 10 | 16 |
-| 3 | Brighton & Hove Albion | 7 | 5 | 0 | 2 | 19 | 11 | 8 | 15 |
-| 4 | Aston Villa | 7 | 5 | 0 | 2 | 15 | 11 | 4 | 15 |
+| 3 | Brighton & Hove Albion | 7 | 5 | 0 | 2 | 19 | 12 | 7 | 15 |
+| 4 | Aston Villa | 7 | 5 | 0 | 2 | 16 | 11 | 5 | 15 |
 | 5 | Tottenham Hotspur | 6 | 4 | 2 | 0 | 15 | 7 | 8 | 14 |
 | 6 | Arsenal | 6 | 4 | 2 | 0 | 11 | 6 | 5 | 14 |
 | 7 | West Ham United | 6 | 3 | 1 | 2 | 11 | 10 | 1 | 10 |

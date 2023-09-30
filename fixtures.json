@@ -62,7 +62,7 @@
               "opta": "t7"
             }
           },
-          "score": 3
+          "score": 4
         },
         {
           "team": {
@@ -93,9 +93,10 @@
       "neutralGround": false,
       "status": "L",
       "phase": "2",
+      "attendance": 40636,
       "clock": {
-        "secs": 3540,
-        "label": "59'00"
+        "secs": 4680,
+        "label": "78'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -139,6 +140,17 @@
           "clock": {
             "secs": 3000,
             "label": "50'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 8658,
+          "assistId": 51423,
+          "clock": {
+            "secs": 3900,
+            "label": "65'00"
           },
           "phase": "2",
           "type": "G",
@@ -207,7 +219,8 @@
             "altIds": {
               "opta": "t91"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -224,7 +237,8 @@
             "altIds": {
               "opta": "t3"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -237,6 +251,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
@@ -303,7 +321,8 @@
             "altIds": {
               "opta": "t11"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -320,7 +339,8 @@
             "altIds": {
               "opta": "t102"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -333,6 +353,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
@@ -399,7 +423,8 @@
             "altIds": {
               "opta": "t1"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -416,7 +441,8 @@
             "altIds": {
               "opta": "t31"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -429,6 +455,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
@@ -495,7 +525,8 @@
             "altIds": {
               "opta": "t4"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -512,7 +543,8 @@
             "altIds": {
               "opta": "t90"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -525,6 +557,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
@@ -591,7 +627,8 @@
             "altIds": {
               "opta": "t21"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -608,7 +645,8 @@
             "altIds": {
               "opta": "t49"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -621,6 +659,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
@@ -687,7 +729,8 @@
             "altIds": {
               "opta": "t39"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -704,7 +747,8 @@
             "altIds": {
               "opta": "t43"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -717,6 +761,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
