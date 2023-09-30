@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 30 Sep, 12:30 | Aston Villa | N/A | Brighton & Hove Albion | N/A | Upcoming |
+| 30 Sep, 12:30 | Aston Villa | 0 | Brighton & Hove Albion | 0 | Upcoming |
 | 30 Sep, 15:00 | Bournemouth | N/A | Arsenal | N/A | Upcoming |
 | 30 Sep, 15:00 | Everton | N/A | Luton Town | N/A | Upcoming |
 | 30 Sep, 15:00 | Manchester United | N/A | Crystal Palace | N/A | Upcoming |
