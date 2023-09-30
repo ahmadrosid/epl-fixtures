@@ -272,10 +272,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 2940,
+        "label": "49'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -395,10 +395,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 2760,
+        "label": "46'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -529,10 +529,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 2940,
+        "label": "49'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -642,10 +642,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3060,
+        "label": "51'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -756,10 +756,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3060,
+        "label": "51'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -881,10 +881,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3060,
+        "label": "51'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
