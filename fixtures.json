@@ -1058,8 +1058,8 @@
       "phase": "2",
       "attendance": 62001,
       "clock": {
-        "secs": 3300,
-        "label": "55'00"
+        "secs": 4500,
+        "label": "75'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
