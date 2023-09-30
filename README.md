@@ -7,16 +7,17 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 1 Sep, 20:00 | Luton Town | 1 | West Ham United | 2 | Completed |
-| 2 Sep, 12:30 | Sheffield United | 2 | Everton | 2 | Completed |
-| 2 Sep, 15:00 | Brentford | 2 | Bournemouth | 2 | Completed |
-| 2 Sep, 15:00 | Burnley | 2 | Tottenham Hotspur | 5 | Completed |
-| 2 Sep, 15:00 | Chelsea | 0 | Nottingham Forest | 1 | Completed |
-| 2 Sep, 15:00 | Manchester City | 5 | Fulham | 1 | Completed |
-| 2 Sep, 17:30 | Brighton & Hove Albion | 3 | Newcastle United | 1 | Completed |
-| 3 Sep, 14:00 | Crystal Palace | 3 | Wolverhampton Wanderers | 2 | Completed |
-| 3 Sep, 14:00 | Liverpool | 3 | Aston Villa | 0 | Completed |
-| 3 Sep, 16:30 | Arsenal | 3 | Manchester United | 1 | Completed |
+| 30 Sep, 12:30 | Aston Villa | N/A | Brighton & Hove Albion | N/A | Upcoming |
+| 30 Sep, 15:00 | Bournemouth | N/A | Arsenal | N/A | Upcoming |
+| 30 Sep, 15:00 | Everton | N/A | Luton Town | N/A | Upcoming |
+| 30 Sep, 15:00 | Manchester United | N/A | Crystal Palace | N/A | Upcoming |
+| 30 Sep, 15:00 | Newcastle United | N/A | Burnley | N/A | Upcoming |
+| 30 Sep, 15:00 | West Ham United | N/A | Sheffield United | N/A | Upcoming |
+| 30 Sep, 15:00 | Wolverhampton Wanderers | N/A | Manchester City | N/A | Upcoming |
+| 30 Sep, 17:30 | Tottenham Hotspur | N/A | Liverpool | N/A | Upcoming |
+| 1 Oct, 14:00 | Nottingham Forest | N/A | Brentford | N/A | Upcoming |
+| 2 Oct, 20:00 | Fulham | N/A | Chelsea | N/A | Upcoming |
+| 3 Oct, 19:30 | Luton Town | N/A | Burnley | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
