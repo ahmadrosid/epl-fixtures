@@ -14,7 +14,7 @@ The data displayed in 2023 with BST TimeZone.
 | 30 Sep, 15:00 | Newcastle United | 2 | Burnley | 0 | Completed |
 | 30 Sep, 15:00 | West Ham United | 2 | Sheffield United | 0 | Completed |
 | 30 Sep, 15:00 | Wolverhampton Wanderers | 2 | Manchester City | 1 | Completed |
-| 30 Sep, 17:30 | Tottenham Hotspur | 1 | Liverpool | 1 | Live |
+| 30 Sep, 17:30 | Tottenham Hotspur | 2 | Liverpool | 1 | Completed |
 | 1 Oct, 14:00 | Nottingham Forest | N/A | Brentford | N/A | Upcoming |
 | 2 Oct, 20:00 | Fulham | N/A | Chelsea | N/A | Upcoming |
 | 3 Oct, 19:30 | Luton Town | N/A | Burnley | N/A | Upcoming |
@@ -28,9 +28,9 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 7 | 6 | 0 | 1 | 17 | 5 | 12 | 18 |
-| 2 | Liverpool | 7 | 5 | 2 | 0 | 16 | 6 | 10 | 17 |
+| 2 | Tottenham Hotspur | 7 | 5 | 2 | 0 | 17 | 8 | 9 | 17 |
 | 3 | Arsenal | 7 | 5 | 2 | 0 | 15 | 6 | 9 | 17 |
-| 4 | Tottenham Hotspur | 7 | 4 | 3 | 0 | 16 | 8 | 8 | 15 |
+| 4 | Liverpool | 7 | 5 | 1 | 1 | 16 | 7 | 9 | 16 |
 | 5 | Aston Villa | 7 | 5 | 0 | 2 | 18 | 11 | 7 | 15 |
 | 6 | Brighton & Hove Albion | 7 | 5 | 0 | 2 | 19 | 14 | 5 | 15 |
 | 7 | West Ham United | 7 | 4 | 1 | 2 | 13 | 10 | 3 | 13 |

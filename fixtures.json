@@ -1025,7 +1025,7 @@
               "opta": "t6"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -1054,12 +1054,13 @@
         "id": 3921
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "attendance": 62001,
       "clock": {
-        "secs": 5700,
-        "label": "90 +5'00"
+        "secs": 5880,
+        "label": "90 +8'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1086,6 +1087,16 @@
           "phase": "1",
           "type": "G",
           "description": "G"
+        },
+        {
+          "personId": 5375,
+          "clock": {
+            "secs": 5760,
+            "label": "90 +6'00"
+          },
+          "phase": "2",
+          "type": "O",
+          "description": "O"
         }
       ],
       "penaltyShootouts": [],
