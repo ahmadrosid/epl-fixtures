@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1696090033000,
-    "label": "30 September 2023, 17:07",
+    "millis": 1696091206000,
+    "label": "30 September 2023, 17:26",
     "gmtOffset": 1
   },
   "live": true,
@@ -47,8 +47,8 @@
             "won": 6,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 16,
-            "goalsAgainst": 4,
+            "goalsFor": 17,
+            "goalsAgainst": 5,
             "goalsDifference": 12,
             "points": 18
           },
@@ -67,8 +67,8 @@
             "won": 3,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 8,
-            "goalsAgainst": 3,
+            "goalsFor": 9,
+            "goalsAgainst": 4,
             "goalsDifference": 5,
             "points": 9
           },
@@ -113,9 +113,9 @@
             "won": 5,
             "drawn": 2,
             "lost": 0,
-            "goalsFor": 13,
+            "goalsFor": 14,
             "goalsAgainst": 6,
-            "goalsDifference": 7,
+            "goalsDifference": 8,
             "points": 17
           },
           "home": {
@@ -133,9 +133,9 @@
             "won": 3,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 4,
+            "goalsFor": 5,
             "goalsAgainst": 0,
-            "goalsDifference": 4,
+            "goalsDifference": 5,
             "points": 9
           },
           "annotations": [
@@ -785,8 +785,8 @@
             "won": 2,
             "drawn": 1,
             "lost": 4,
-            "goalsFor": 7,
-            "goalsAgainst": 12,
+            "goalsFor": 8,
+            "goalsAgainst": 13,
             "goalsDifference": -5,
             "points": 7
           },
@@ -795,8 +795,8 @@
             "won": 1,
             "drawn": 0,
             "lost": 2,
-            "goalsFor": 3,
-            "goalsAgainst": 7,
+            "goalsFor": 4,
+            "goalsAgainst": 8,
             "goalsDifference": -4,
             "points": 3
           },
@@ -1076,8 +1076,8 @@
             "drawn": 3,
             "lost": 4,
             "goalsFor": 5,
-            "goalsAgainst": 13,
-            "goalsDifference": -8,
+            "goalsAgainst": 14,
+            "goalsDifference": -9,
             "points": 3
           },
           "home": {
@@ -1086,8 +1086,8 @@
             "drawn": 2,
             "lost": 2,
             "goalsFor": 1,
-            "goalsAgainst": 5,
-            "goalsDifference": -4,
+            "goalsAgainst": 6,
+            "goalsDifference": -5,
             "points": 2
           },
           "away": {

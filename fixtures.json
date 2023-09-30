@@ -260,7 +260,7 @@
               "opta": "t3"
             }
           },
-          "score": 2
+          "score": 3
         }
       ],
       "replay": false,
@@ -274,8 +274,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2940,
-        "label": "49'00"
+        "secs": 4080,
+        "label": "68'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -298,6 +298,16 @@
             "label": "44'00"
           },
           "phase": "1",
+          "type": "P",
+          "description": "P"
+        },
+        {
+          "personId": 20810,
+          "clock": {
+            "secs": 3180,
+            "label": "53'00"
+          },
+          "phase": "2",
           "type": "P",
           "description": "P"
         }
@@ -397,8 +407,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2760,
-        "label": "46'00"
+        "secs": 4020,
+        "label": "67'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -531,8 +541,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2940,
-        "label": "49'00"
+        "secs": 4140,
+        "label": "69'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -644,8 +654,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3060,
-        "label": "51'00"
+        "secs": 4140,
+        "label": "69'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -758,8 +768,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3060,
-        "label": "51'00"
+        "secs": 4140,
+        "label": "69'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -851,7 +861,7 @@
               "opta": "t39"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -869,7 +879,7 @@
               "opta": "t43"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -883,8 +893,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3060,
-        "label": "51'00"
+        "secs": 4140,
+        "label": "69'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -899,6 +909,27 @@
           "phase": "1",
           "type": "O",
           "description": "O"
+        },
+        {
+          "personId": 52723,
+          "clock": {
+            "secs": 3480,
+            "label": "58'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 20337,
+          "assistId": 51202,
+          "clock": {
+            "secs": 3960,
+            "label": "66'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
         }
       ],
       "penaltyShootouts": [],
