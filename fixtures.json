@@ -1055,10 +1055,11 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
+      "attendance": 62001,
       "clock": {
-        "secs": 3180,
-        "label": "45 +8'00"
+        "secs": 3300,
+        "label": "55'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
