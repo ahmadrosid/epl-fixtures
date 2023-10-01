@@ -15,7 +15,7 @@ The data displayed in 2023 with BST TimeZone.
 | 30 Sep, 15:00 | West Ham United | 2 | Sheffield United | 0 | Completed |
 | 30 Sep, 15:00 | Wolverhampton Wanderers | 2 | Manchester City | 1 | Completed |
 | 30 Sep, 17:30 | Tottenham Hotspur | 2 | Liverpool | 1 | Completed |
-| 1 Oct, 14:00 | Nottingham Forest | 0 | Brentford | 0 | Live |
+| 1 Oct, 14:00 | Nottingham Forest | 1 | Brentford | 1 | Live |
 | 2 Oct, 20:00 | Fulham | N/A | Chelsea | N/A | Upcoming |
 | 3 Oct, 19:30 | Luton Town | N/A | Burnley | N/A | Upcoming |
 <!-- END_TABLE -->
@@ -37,9 +37,9 @@ The data displayed in 2023 with BST TimeZone.
 | 8 | Newcastle United | 7 | 4 | 0 | 3 | 18 | 7 | 11 | 12 |
 | 9 | Crystal Palace | 7 | 3 | 2 | 2 | 7 | 7 | 0 | 11 |
 | 10 | Manchester United | 7 | 3 | 0 | 4 | 7 | 11 | -4 | 9 |
-| 11 | Nottingham Forest | 7 | 2 | 2 | 3 | 7 | 9 | -2 | 8 |
+| 11 | Nottingham Forest | 7 | 2 | 2 | 3 | 8 | 10 | -2 | 8 |
 | 12 | Fulham | 6 | 2 | 2 | 2 | 5 | 10 | -5 | 8 |
-| 13 | Brentford | 7 | 1 | 4 | 2 | 9 | 9 | 0 | 7 |
+| 13 | Brentford | 7 | 1 | 4 | 2 | 10 | 10 | 0 | 7 |
 | 14 | Wolverhampton Wanderers | 7 | 2 | 1 | 4 | 8 | 13 | -5 | 7 |
 | 15 | Chelsea | 6 | 1 | 2 | 3 | 5 | 6 | -1 | 5 |
 | 16 | Everton | 7 | 1 | 1 | 5 | 6 | 12 | -6 | 4 |

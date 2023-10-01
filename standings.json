@@ -14,8 +14,8 @@
     "id": 578
   },
   "timestamp": {
-    "millis": 1696172688000,
-    "label": "1 October 2023, 16:04",
+    "millis": 1696173898000,
+    "label": "1 October 2023, 16:24",
     "gmtOffset": 1
   },
   "live": true,
@@ -667,8 +667,8 @@
             "won": 2,
             "drawn": 2,
             "lost": 3,
-            "goalsFor": 7,
-            "goalsAgainst": 9,
+            "goalsFor": 8,
+            "goalsAgainst": 10,
             "goalsDifference": -2,
             "points": 8
           },
@@ -677,8 +677,8 @@
             "won": 1,
             "drawn": 2,
             "lost": 0,
-            "goalsFor": 3,
-            "goalsAgainst": 2,
+            "goalsFor": 4,
+            "goalsAgainst": 3,
             "goalsDifference": 1,
             "points": 5
           },
@@ -785,8 +785,8 @@
             "won": 1,
             "drawn": 4,
             "lost": 2,
-            "goalsFor": 9,
-            "goalsAgainst": 9,
+            "goalsFor": 10,
+            "goalsAgainst": 10,
             "goalsDifference": 0,
             "points": 7
           },
@@ -805,8 +805,8 @@
             "won": 1,
             "drawn": 1,
             "lost": 1,
-            "goalsFor": 3,
-            "goalsAgainst": 1,
+            "goalsFor": 4,
+            "goalsAgainst": 2,
             "goalsDifference": 2,
             "points": 4
           },
