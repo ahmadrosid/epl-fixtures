@@ -1193,12 +1193,13 @@
         "id": 2548
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "D",
       "attendance": 29004,
       "clock": {
-        "secs": 5280,
-        "label": "88'00"
+        "secs": 6240,
+        "label": "90 +14'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
