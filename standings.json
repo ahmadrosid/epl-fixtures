@@ -641,62 +641,62 @@
         },
         {
           "team": {
-            "name": "Fulham",
+            "name": "Chelsea",
             "club": {
-              "name": "Fulham",
-              "shortName": "Fulham",
-              "abbr": "FUL",
-              "id": 34
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
             },
             "teamType": "FIRST",
-            "shortName": "Fulham",
-            "id": 34,
+            "shortName": "Chelsea",
+            "id": 4,
             "altIds": {
-              "opta": "t54"
+              "opta": "t8"
             }
           },
           "position": 11,
-          "startingPosition": 11,
+          "startingPosition": 14,
           "overall": {
             "played": 7,
             "won": 2,
-            "drawn": 3,
-            "lost": 2,
-            "goalsFor": 5,
-            "goalsAgainst": 10,
-            "goalsDifference": -5,
-            "points": 9
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 7,
+            "goalsAgainst": 6,
+            "goalsDifference": 1,
+            "points": 8
           },
           "home": {
+            "played": 4,
+            "won": 1,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 4,
+            "goalsAgainst": 3,
+            "goalsDifference": 1,
+            "points": 4
+          },
+          "away": {
             "played": 3,
             "won": 1,
             "drawn": 1,
             "lost": 1,
-            "goalsFor": 1,
+            "goalsFor": 3,
             "goalsAgainst": 3,
-            "goalsDifference": -2,
+            "goalsDifference": 0,
             "points": 4
           },
-          "away": {
-            "played": 4,
-            "won": 1,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 4,
-            "goalsAgainst": 7,
-            "goalsDifference": -3,
-            "points": 5
-          },
           "ground": {
-            "name": "Craven Cottage",
+            "name": "Stamford Bridge",
             "city": "London",
-            "capacity": 25700,
+            "capacity": 41798,
             "location": {
-              "latitude": 51.4745,
-              "longitude": -0.220993
+              "latitude": 51.4816,
+              "longitude": -0.191016
             },
             "source": "OPTA",
-            "id": 16
+            "id": 30
           }
         },
         {
@@ -759,6 +759,66 @@
         },
         {
           "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          },
+          "position": 13,
+          "startingPosition": 11,
+          "overall": {
+            "played": 7,
+            "won": 2,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 5,
+            "goalsAgainst": 12,
+            "goalsDifference": -7,
+            "points": 8
+          },
+          "home": {
+            "played": 3,
+            "won": 1,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 5,
+            "goalsDifference": -4,
+            "points": 3
+          },
+          "away": {
+            "played": 4,
+            "won": 1,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 4,
+            "goalsAgainst": 7,
+            "goalsDifference": -3,
+            "points": 5
+          },
+          "ground": {
+            "name": "Craven Cottage",
+            "city": "London",
+            "capacity": 25700,
+            "location": {
+              "latitude": 51.4745,
+              "longitude": -0.220993
+            },
+            "source": "OPTA",
+            "id": 16
+          }
+        },
+        {
+          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -773,7 +833,7 @@
               "opta": "t94"
             }
           },
-          "position": 13,
+          "position": 14,
           "startingPosition": 13,
           "overall": {
             "played": 7,
@@ -828,7 +888,7 @@
               "opta": "t39"
             }
           },
-          "position": 14,
+          "position": 15,
           "startingPosition": 16,
           "overall": {
             "played": 7,
@@ -870,66 +930,6 @@
             },
             "source": "OPTA",
             "id": 913
-          }
-        },
-        {
-          "team": {
-            "name": "Chelsea",
-            "club": {
-              "name": "Chelsea",
-              "shortName": "Chelsea",
-              "abbr": "CHE",
-              "id": 4
-            },
-            "teamType": "FIRST",
-            "shortName": "Chelsea",
-            "id": 4,
-            "altIds": {
-              "opta": "t8"
-            }
-          },
-          "position": 15,
-          "startingPosition": 14,
-          "overall": {
-            "played": 7,
-            "won": 1,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 5,
-            "goalsAgainst": 6,
-            "goalsDifference": -1,
-            "points": 6
-          },
-          "home": {
-            "played": 4,
-            "won": 1,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 4,
-            "goalsAgainst": 3,
-            "goalsDifference": 1,
-            "points": 4
-          },
-          "away": {
-            "played": 3,
-            "won": 0,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 1,
-            "goalsAgainst": 3,
-            "goalsDifference": -2,
-            "points": 2
-          },
-          "ground": {
-            "name": "Stamford Bridge",
-            "city": "London",
-            "capacity": 41798,
-            "location": {
-              "latitude": 51.4816,
-              "longitude": -0.191016
-            },
-            "source": "OPTA",
-            "id": 30
           }
         },
         {
