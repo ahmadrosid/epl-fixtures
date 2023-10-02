@@ -16,7 +16,7 @@ The data displayed in 2023 with BST TimeZone.
 | 30 Sep, 15:00 | Wolverhampton Wanderers | 2 | Manchester City | 1 | Completed |
 | 30 Sep, 17:30 | Tottenham Hotspur | 2 | Liverpool | 1 | Completed |
 | 1 Oct, 14:00 | Nottingham Forest | 1 | Brentford | 1 | Completed |
-| 2 Oct, 20:00 | Fulham | N/A | Chelsea | N/A | Upcoming |
+| 2 Oct, 20:00 | Fulham | 0 | Chelsea | 0 | Upcoming |
 | 3 Oct, 19:30 | Luton Town | N/A | Burnley | N/A | Upcoming |
 <!-- END_TABLE -->
 
