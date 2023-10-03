@@ -1448,6 +1448,7 @@
       "neutralGround": false,
       "status": "C",
       "phase": "F",
+      "outcome": "A",
       "attendance": 10918,
       "clock": {
         "secs": 5880,
@@ -1481,6 +1482,7 @@
         },
         {
           "personId": 19831,
+          "assistId": 13917,
           "clock": {
             "secs": 5100,
             "label": "85'00"
