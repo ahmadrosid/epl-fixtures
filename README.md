@@ -17,7 +17,7 @@ The data displayed in 2023 with BST TimeZone.
 | 30 Sep, 17:30 | Tottenham Hotspur | 2 | Liverpool | 1 | Completed |
 | 1 Oct, 14:00 | Nottingham Forest | 1 | Brentford | 1 | Completed |
 | 2 Oct, 20:00 | Fulham | 0 | Chelsea | 2 | Completed |
-| 3 Oct, 19:30 | Luton Town | 0 | Burnley | 0 | Live |
+| 3 Oct, 19:30 | Luton Town | 0 | Burnley | 1 | Live |
 <!-- END_TABLE -->
 
 ### Standings
@@ -42,9 +42,9 @@ The data displayed in 2023 with BST TimeZone.
 | 13 | Fulham | 7 | 2 | 2 | 3 | 5 | 12 | -7 | 8 |
 | 14 | Brentford | 7 | 1 | 4 | 2 | 10 | 10 | 0 | 7 |
 | 15 | Wolverhampton Wanderers | 7 | 2 | 1 | 4 | 8 | 13 | -5 | 7 |
-| 16 | Luton Town | 7 | 1 | 2 | 4 | 5 | 12 | -7 | 5 |
-| 17 | Everton | 7 | 1 | 1 | 5 | 6 | 12 | -6 | 4 |
-| 18 | Bournemouth | 7 | 0 | 3 | 4 | 5 | 15 | -10 | 3 |
-| 19 | Burnley | 7 | 0 | 2 | 5 | 4 | 15 | -11 | 2 |
+| 16 | Everton | 7 | 1 | 1 | 5 | 6 | 12 | -6 | 4 |
+| 17 | Luton Town | 7 | 1 | 1 | 5 | 5 | 13 | -8 | 4 |
+| 18 | Burnley | 7 | 1 | 1 | 5 | 5 | 15 | -10 | 4 |
+| 19 | Bournemouth | 7 | 0 | 3 | 4 | 5 | 15 | -10 | 3 |
 | 20 | Sheffield United | 7 | 0 | 1 | 6 | 5 | 19 | -14 | 1 |
 <!-- END_STANDINGS -->
