@@ -7,17 +7,19 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 30 Sep, 12:30 | Aston Villa | 6 | Brighton & Hove Albion | 1 | Completed |
-| 30 Sep, 15:00 | Bournemouth | 0 | Arsenal | 4 | Completed |
-| 30 Sep, 15:00 | Everton | 1 | Luton Town | 2 | Completed |
-| 30 Sep, 15:00 | Manchester United | 0 | Crystal Palace | 1 | Completed |
-| 30 Sep, 15:00 | Newcastle United | 2 | Burnley | 0 | Completed |
-| 30 Sep, 15:00 | West Ham United | 2 | Sheffield United | 0 | Completed |
-| 30 Sep, 15:00 | Wolverhampton Wanderers | 2 | Manchester City | 1 | Completed |
-| 30 Sep, 17:30 | Tottenham Hotspur | 2 | Liverpool | 1 | Completed |
 | 1 Oct, 14:00 | Nottingham Forest | 1 | Brentford | 1 | Completed |
 | 2 Oct, 20:00 | Fulham | 0 | Chelsea | 2 | Completed |
 | 3 Oct, 19:30 | Luton Town | 1 | Burnley | 2 | Completed |
+| 7 Oct, 12:30 | Luton Town | 0 | Tottenham Hotspur | 1 | Completed |
+| 7 Oct, 15:00 | Burnley | 1 | Chelsea | 4 | Completed |
+| 7 Oct, 15:00 | Everton | 3 | Bournemouth | 0 | Completed |
+| 7 Oct, 15:00 | Fulham | 3 | Sheffield United | 1 | Completed |
+| 7 Oct, 15:00 | Manchester United | 2 | Brentford | 1 | Completed |
+| 7 Oct, 17:30 | Crystal Palace | 0 | Nottingham Forest | 0 | Live |
+| 8 Oct, 14:00 | Brighton & Hove Albion | N/A | Liverpool | N/A | Upcoming |
+| 8 Oct, 14:00 | West Ham United | N/A | Newcastle United | N/A | Upcoming |
+| 8 Oct, 14:00 | Wolverhampton Wanderers | N/A | Aston Villa | N/A | Upcoming |
+| 8 Oct, 16:30 | Arsenal | N/A | Manchester City | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
