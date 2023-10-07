@@ -15,7 +15,7 @@ The data displayed in 2023 with BST TimeZone.
 | 7 Oct, 15:00 | Everton | 3 | Bournemouth | 0 | Completed |
 | 7 Oct, 15:00 | Fulham | 3 | Sheffield United | 1 | Completed |
 | 7 Oct, 15:00 | Manchester United | 2 | Brentford | 1 | Completed |
-| 7 Oct, 17:30 | Crystal Palace | 0 | Nottingham Forest | 0 | Live |
+| 7 Oct, 17:30 | Crystal Palace | 0 | Nottingham Forest | 0 | Completed |
 | 8 Oct, 14:00 | Brighton & Hove Albion | N/A | Liverpool | N/A | Upcoming |
 | 8 Oct, 14:00 | West Ham United | N/A | Newcastle United | N/A | Upcoming |
 | 8 Oct, 14:00 | Wolverhampton Wanderers | N/A | Aston Villa | N/A | Upcoming |
