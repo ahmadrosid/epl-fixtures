@@ -542,9 +542,9 @@
             "won": 3,
             "drawn": 2,
             "lost": 3,
-            "goalsFor": 10,
+            "goalsFor": 11,
             "goalsAgainst": 7,
-            "goalsDifference": 3,
+            "goalsDifference": 4,
             "points": 11
           },
           "home": {
@@ -562,9 +562,9 @@
             "won": 2,
             "drawn": 1,
             "lost": 1,
-            "goalsFor": 6,
+            "goalsFor": 7,
             "goalsAgainst": 4,
-            "goalsDifference": 2,
+            "goalsDifference": 3,
             "points": 7
           },
           "ground": {
@@ -662,8 +662,8 @@
             "won": 3,
             "drawn": 2,
             "lost": 3,
-            "goalsFor": 6,
-            "goalsAgainst": 12,
+            "goalsFor": 7,
+            "goalsAgainst": 13,
             "goalsDifference": -6,
             "points": 11
           },
@@ -672,8 +672,8 @@
             "won": 2,
             "drawn": 0,
             "lost": 2,
-            "goalsFor": 2,
-            "goalsAgainst": 5,
+            "goalsFor": 3,
+            "goalsAgainst": 6,
             "goalsDifference": -3,
             "points": 6
           },
@@ -1071,8 +1071,8 @@
             "drawn": 1,
             "lost": 6,
             "goalsFor": 7,
-            "goalsAgainst": 19,
-            "goalsDifference": -12,
+            "goalsAgainst": 20,
+            "goalsDifference": -13,
             "points": 4
           },
           "home": {
@@ -1081,8 +1081,8 @@
             "drawn": 0,
             "lost": 5,
             "goalsFor": 4,
-            "goalsAgainst": 15,
-            "goalsDifference": -11,
+            "goalsAgainst": 16,
+            "goalsDifference": -12,
             "points": 0
           },
           "away": {
@@ -1202,8 +1202,8 @@
             "won": 0,
             "drawn": 1,
             "lost": 7,
-            "goalsFor": 5,
-            "goalsAgainst": 20,
+            "goalsFor": 6,
+            "goalsAgainst": 21,
             "goalsDifference": -15,
             "points": 1
           },
@@ -1222,8 +1222,8 @@
             "won": 0,
             "drawn": 0,
             "lost": 4,
-            "goalsFor": 2,
-            "goalsAgainst": 7,
+            "goalsFor": 3,
+            "goalsAgainst": 8,
             "goalsDifference": -5,
             "points": 0
           },
