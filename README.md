@@ -35,16 +35,16 @@ The data displayed in 2023 with BST TimeZone.
 | 6 | Brighton & Hove Albion | 7 | 5 | 0 | 2 | 19 | 14 | 5 | 15 |
 | 7 | West Ham United | 7 | 4 | 1 | 2 | 13 | 10 | 3 | 13 |
 | 8 | Newcastle United | 7 | 4 | 0 | 3 | 18 | 7 | 11 | 12 |
-| 9 | Chelsea | 8 | 3 | 2 | 3 | 11 | 7 | 4 | 11 |
-| 10 | Crystal Palace | 7 | 3 | 2 | 2 | 7 | 7 | 0 | 11 |
-| 11 | Fulham | 8 | 3 | 2 | 3 | 7 | 13 | -6 | 11 |
-| 12 | Brentford | 8 | 2 | 4 | 2 | 11 | 10 | 1 | 10 |
-| 13 | Manchester United | 8 | 3 | 0 | 5 | 7 | 12 | -5 | 9 |
-| 14 | Nottingham Forest | 7 | 2 | 2 | 3 | 8 | 10 | -2 | 8 |
+| 9 | Manchester United | 8 | 4 | 0 | 4 | 9 | 12 | -3 | 12 |
+| 10 | Chelsea | 8 | 3 | 2 | 3 | 11 | 7 | 4 | 11 |
+| 11 | Crystal Palace | 7 | 3 | 2 | 2 | 7 | 7 | 0 | 11 |
+| 12 | Fulham | 8 | 3 | 2 | 3 | 8 | 13 | -5 | 11 |
+| 13 | Nottingham Forest | 7 | 2 | 2 | 3 | 8 | 10 | -2 | 8 |
+| 14 | Brentford | 8 | 1 | 4 | 3 | 11 | 12 | -1 | 7 |
 | 15 | Everton | 8 | 2 | 1 | 5 | 9 | 12 | -3 | 7 |
 | 16 | Wolverhampton Wanderers | 7 | 2 | 1 | 4 | 8 | 13 | -5 | 7 |
 | 17 | Luton Town | 8 | 1 | 1 | 6 | 6 | 15 | -9 | 4 |
 | 18 | Burnley | 8 | 1 | 1 | 6 | 7 | 20 | -13 | 4 |
 | 19 | Bournemouth | 8 | 0 | 3 | 5 | 5 | 18 | -13 | 3 |
-| 20 | Sheffield United | 8 | 0 | 1 | 7 | 6 | 21 | -15 | 1 |
+| 20 | Sheffield United | 8 | 0 | 1 | 7 | 6 | 22 | -16 | 1 |
 <!-- END_STANDINGS -->
