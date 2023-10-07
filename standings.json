@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -102,16 +102,16 @@
             }
           },
           "position": 2,
-          "startingPosition": 4,
+          "startingPosition": 2,
           "overall": {
-            "played": 7,
+            "played": 8,
             "won": 5,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 0,
             "goalsFor": 17,
             "goalsAgainst": 8,
             "goalsDifference": 9,
-            "points": 17
+            "points": 18
           },
           "home": {
             "played": 3,
@@ -124,14 +124,14 @@
             "points": 9
           },
           "away": {
-            "played": 4,
+            "played": 5,
             "won": 2,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 0,
             "goalsFor": 11,
             "goalsAgainst": 6,
             "goalsDifference": 5,
-            "points": 8
+            "points": 9
           },
           "annotations": [
             {
@@ -163,7 +163,7 @@
             }
           },
           "position": 3,
-          "startingPosition": 5,
+          "startingPosition": 3,
           "overall": {
             "played": 7,
             "won": 5,
@@ -229,7 +229,7 @@
             }
           },
           "position": 4,
-          "startingPosition": 2,
+          "startingPosition": 4,
           "overall": {
             "played": 7,
             "won": 5,
@@ -295,7 +295,7 @@
             }
           },
           "position": 5,
-          "startingPosition": 6,
+          "startingPosition": 5,
           "overall": {
             "played": 7,
             "won": 5,
@@ -361,7 +361,7 @@
             }
           },
           "position": 6,
-          "startingPosition": 3,
+          "startingPosition": 6,
           "overall": {
             "played": 7,
             "won": 5,
@@ -536,7 +536,7 @@
             }
           },
           "position": 9,
-          "startingPosition": 10,
+          "startingPosition": 9,
           "overall": {
             "played": 7,
             "won": 3,
@@ -596,7 +596,7 @@
             }
           },
           "position": 10,
-          "startingPosition": 9,
+          "startingPosition": 10,
           "overall": {
             "played": 7,
             "won": 3,
@@ -656,7 +656,7 @@
             }
           },
           "position": 11,
-          "startingPosition": 14,
+          "startingPosition": 11,
           "overall": {
             "played": 7,
             "won": 2,
@@ -774,7 +774,7 @@
             }
           },
           "position": 13,
-          "startingPosition": 11,
+          "startingPosition": 13,
           "overall": {
             "played": 7,
             "won": 2,
@@ -834,7 +834,7 @@
             }
           },
           "position": 14,
-          "startingPosition": 13,
+          "startingPosition": 14,
           "overall": {
             "played": 7,
             "won": 1,
@@ -889,7 +889,7 @@
             }
           },
           "position": 15,
-          "startingPosition": 16,
+          "startingPosition": 15,
           "overall": {
             "played": 7,
             "won": 2,
@@ -934,6 +934,61 @@
         },
         {
           "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          },
+          "position": 16,
+          "startingPosition": 17,
+          "overall": {
+            "played": 8,
+            "won": 1,
+            "drawn": 2,
+            "lost": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 14,
+            "goalsDifference": -8,
+            "points": 5
+          },
+          "home": {
+            "played": 4,
+            "won": 0,
+            "drawn": 2,
+            "lost": 2,
+            "goalsFor": 3,
+            "goalsAgainst": 5,
+            "goalsDifference": -2,
+            "points": 2
+          },
+          "away": {
+            "played": 4,
+            "won": 1,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 3,
+            "goalsAgainst": 9,
+            "goalsDifference": -6,
+            "points": 3
+          },
+          "ground": {
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "id": 81
+          }
+        },
+        {
+          "team": {
             "name": "Everton",
             "club": {
               "name": "Everton",
@@ -948,8 +1003,8 @@
               "opta": "t11"
             }
           },
-          "position": 16,
-          "startingPosition": 15,
+          "position": 17,
+          "startingPosition": 16,
           "overall": {
             "played": 7,
             "won": 1,
@@ -994,61 +1049,6 @@
         },
         {
           "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          },
-          "position": 17,
-          "startingPosition": 18,
-          "overall": {
-            "played": 7,
-            "won": 1,
-            "drawn": 1,
-            "lost": 5,
-            "goalsFor": 6,
-            "goalsAgainst": 14,
-            "goalsDifference": -8,
-            "points": 4
-          },
-          "home": {
-            "played": 3,
-            "won": 0,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 3,
-            "goalsAgainst": 5,
-            "goalsDifference": -2,
-            "points": 1
-          },
-          "away": {
-            "played": 4,
-            "won": 1,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 3,
-            "goalsAgainst": 9,
-            "goalsDifference": -6,
-            "points": 3
-          },
-          "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "id": 81
-          }
-        },
-        {
-          "team": {
             "name": "Burnley",
             "club": {
               "name": "Burnley",
@@ -1064,7 +1064,7 @@
             }
           },
           "position": 18,
-          "startingPosition": 19,
+          "startingPosition": 18,
           "overall": {
             "played": 7,
             "won": 1,
@@ -1130,7 +1130,7 @@
             }
           },
           "position": 19,
-          "startingPosition": 17,
+          "startingPosition": 19,
           "overall": {
             "played": 7,
             "won": 0,
