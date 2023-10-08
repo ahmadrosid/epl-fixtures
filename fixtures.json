@@ -1248,7 +1248,8 @@
             "altIds": {
               "opta": "t36"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -1265,7 +1266,8 @@
             "altIds": {
               "opta": "t14"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -1276,11 +1278,11 @@
         "id": 1684
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 1140,
+        "label": "19'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1349,7 +1351,7 @@
               "opta": "t21"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -1378,16 +1380,28 @@
         "id": 433
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 1080,
+        "label": "18'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 25183,
+          "assistId": 16803,
+          "clock": {
+            "secs": 480,
+            "label": "08'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93399,
@@ -1450,7 +1464,8 @@
             "altIds": {
               "opta": "t39"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -1467,7 +1482,8 @@
             "altIds": {
               "opta": "t7"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -1478,11 +1494,11 @@
         "id": 913
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 1140,
+        "label": "19'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
