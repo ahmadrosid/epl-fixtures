@@ -148,51 +148,51 @@
         },
         {
           "team": {
-            "name": "Liverpool",
+            "name": "Brighton & Hove Albion",
             "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
             },
             "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
+            "shortName": "Brighton",
+            "id": 131,
             "altIds": {
-              "opta": "t14"
+              "opta": "t36"
             }
           },
           "position": 3,
-          "startingPosition": 4,
+          "startingPosition": 6,
           "overall": {
             "played": 8,
-            "won": 5,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 16,
-            "goalsAgainst": 7,
-            "goalsDifference": 9,
-            "points": 17
+            "won": 6,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 20,
+            "goalsAgainst": 14,
+            "goalsDifference": 6,
+            "points": 18
           },
           "home": {
-            "played": 3,
-            "won": 3,
+            "played": 5,
+            "won": 4,
             "drawn": 0,
-            "lost": 0,
-            "goalsFor": 9,
-            "goalsAgainst": 2,
-            "goalsDifference": 7,
-            "points": 9
+            "lost": 1,
+            "goalsFor": 12,
+            "goalsAgainst": 6,
+            "goalsDifference": 6,
+            "points": 12
           },
           "away": {
-            "played": 5,
+            "played": 3,
             "won": 2,
-            "drawn": 2,
+            "drawn": 0,
             "lost": 1,
-            "goalsFor": 7,
-            "goalsAgainst": 5,
-            "goalsDifference": 2,
-            "points": 8
+            "goalsFor": 8,
+            "goalsAgainst": 8,
+            "goalsDifference": 0,
+            "points": 6
           },
           "annotations": [
             {
@@ -201,15 +201,15 @@
             }
           ],
           "ground": {
-            "name": "Anfield",
-            "city": "Liverpool",
-            "capacity": 54074,
+            "name": "Amex Stadium",
+            "city": "Falmer",
+            "capacity": 30750,
             "location": {
-              "latitude": 53.4313,
-              "longitude": -2.96158
+              "latitude": 50.8606,
+              "longitude": -0.082237
             },
             "source": "OPTA",
-            "id": 901
+            "id": 1684
           }
         },
         {
@@ -280,6 +280,72 @@
         },
         {
           "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          },
+          "position": 5,
+          "startingPosition": 4,
+          "overall": {
+            "played": 8,
+            "won": 5,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 16,
+            "goalsAgainst": 8,
+            "goalsDifference": 8,
+            "points": 16
+          },
+          "home": {
+            "played": 3,
+            "won": 3,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 9,
+            "goalsAgainst": 2,
+            "goalsDifference": 7,
+            "points": 9
+          },
+          "away": {
+            "played": 5,
+            "won": 2,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 7,
+            "goalsAgainst": 6,
+            "goalsDifference": 1,
+            "points": 7
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_EL"
+            }
+          ],
+          "ground": {
+            "name": "Anfield",
+            "city": "Liverpool",
+            "capacity": 54074,
+            "location": {
+              "latitude": 53.4313,
+              "longitude": -2.96158
+            },
+            "source": "OPTA",
+            "id": 901
+          }
+        },
+        {
+          "team": {
             "name": "Aston Villa",
             "club": {
               "name": "Aston Villa",
@@ -294,7 +360,7 @@
               "opta": "t7"
             }
           },
-          "position": 5,
+          "position": 6,
           "startingPosition": 5,
           "overall": {
             "played": 8,
@@ -326,12 +392,6 @@
             "goalsDifference": -4,
             "points": 7
           },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
           "ground": {
             "name": "Villa Park",
             "city": "Birmingham",
@@ -342,66 +402,6 @@
             },
             "source": "OPTA",
             "id": 43
-          }
-        },
-        {
-          "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "position": 6,
-          "startingPosition": 6,
-          "overall": {
-            "played": 8,
-            "won": 5,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 19,
-            "goalsAgainst": 14,
-            "goalsDifference": 5,
-            "points": 16
-          },
-          "home": {
-            "played": 5,
-            "won": 3,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 11,
-            "goalsAgainst": 6,
-            "goalsDifference": 5,
-            "points": 10
-          },
-          "away": {
-            "played": 3,
-            "won": 2,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 8,
-            "goalsAgainst": 8,
-            "goalsDifference": 0,
-            "points": 6
-          },
-          "ground": {
-            "name": "Amex Stadium",
-            "city": "Falmer",
-            "capacity": 30750,
-            "location": {
-              "latitude": 50.8606,
-              "longitude": -0.082237
-            },
-            "source": "OPTA",
-            "id": 1684
           }
         },
         {
