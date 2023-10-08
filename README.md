@@ -16,7 +16,7 @@ The data displayed in 2023 with BST TimeZone.
 | 7 Oct, 15:00 | Fulham | 3 | Sheffield United | 1 | Completed |
 | 7 Oct, 15:00 | Manchester United | 2 | Brentford | 1 | Completed |
 | 7 Oct, 17:30 | Crystal Palace | 0 | Nottingham Forest | 0 | Completed |
-| 8 Oct, 14:00 | Brighton & Hove Albion | 1 | Liverpool | 0 | Live |
+| 8 Oct, 14:00 | Brighton & Hove Albion | 1 | Liverpool | 2 | Live |
 | 8 Oct, 14:00 | West Ham United | 1 | Newcastle United | 0 | Live |
 | 8 Oct, 14:00 | Wolverhampton Wanderers | 0 | Aston Villa | 0 | Live |
 | 8 Oct, 16:30 | Arsenal | N/A | Manchester City | N/A | Upcoming |
@@ -30,12 +30,12 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Tottenham Hotspur | 8 | 6 | 2 | 0 | 18 | 8 | 10 | 20 |
-| 2 | Manchester City | 7 | 6 | 0 | 1 | 17 | 5 | 12 | 18 |
-| 3 | Brighton & Hove Albion | 8 | 6 | 0 | 2 | 20 | 14 | 6 | 18 |
+| 2 | Liverpool | 8 | 6 | 1 | 1 | 18 | 8 | 10 | 19 |
+| 3 | Manchester City | 7 | 6 | 0 | 1 | 17 | 5 | 12 | 18 |
 | 4 | Arsenal | 7 | 5 | 2 | 0 | 15 | 6 | 9 | 17 |
-| 5 | Liverpool | 8 | 5 | 1 | 2 | 16 | 8 | 8 | 16 |
-| 6 | Aston Villa | 8 | 5 | 1 | 2 | 18 | 11 | 7 | 16 |
-| 7 | West Ham United | 8 | 5 | 1 | 2 | 14 | 10 | 4 | 16 |
+| 5 | Aston Villa | 8 | 5 | 1 | 2 | 18 | 11 | 7 | 16 |
+| 6 | West Ham United | 8 | 5 | 1 | 2 | 14 | 10 | 4 | 16 |
+| 7 | Brighton & Hove Albion | 8 | 5 | 0 | 3 | 20 | 16 | 4 | 15 |
 | 8 | Newcastle United | 8 | 4 | 0 | 4 | 18 | 8 | 10 | 12 |
 | 9 | Crystal Palace | 8 | 3 | 3 | 2 | 7 | 7 | 0 | 12 |
 | 10 | Manchester United | 8 | 4 | 0 | 4 | 9 | 12 | -3 | 12 |
