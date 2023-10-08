@@ -19,7 +19,7 @@ The data displayed in 2023 with BST TimeZone.
 | 8 Oct, 14:00 | Brighton & Hove Albion | 2 | Liverpool | 2 | Completed |
 | 8 Oct, 14:00 | West Ham United | 2 | Newcastle United | 2 | Completed |
 | 8 Oct, 14:00 | Wolverhampton Wanderers | 1 | Aston Villa | 1 | Completed |
-| 8 Oct, 16:30 | Arsenal | 0 | Manchester City | 0 | Live |
+| 8 Oct, 16:30 | Arsenal | 1 | Manchester City | 0 | Live |
 <!-- END_TABLE -->
 
 ### Standings
@@ -30,8 +30,8 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Tottenham Hotspur | 8 | 6 | 2 | 0 | 18 | 8 | 10 | 20 |
-| 2 | Manchester City | 8 | 6 | 1 | 1 | 17 | 5 | 12 | 19 |
-| 3 | Arsenal | 8 | 5 | 3 | 0 | 15 | 6 | 9 | 18 |
+| 2 | Arsenal | 8 | 6 | 2 | 0 | 16 | 6 | 10 | 20 |
+| 3 | Manchester City | 8 | 6 | 0 | 2 | 17 | 6 | 11 | 18 |
 | 4 | Liverpool | 8 | 5 | 2 | 1 | 18 | 9 | 9 | 17 |
 | 5 | Aston Villa | 8 | 5 | 1 | 2 | 19 | 12 | 7 | 16 |
 | 6 | Brighton & Hove Albion | 8 | 5 | 1 | 2 | 21 | 16 | 5 | 16 |
