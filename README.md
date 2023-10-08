@@ -19,7 +19,7 @@ The data displayed in 2023 with BST TimeZone.
 | 8 Oct, 14:00 | Brighton & Hove Albion | 2 | Liverpool | 2 | Completed |
 | 8 Oct, 14:00 | West Ham United | 2 | Newcastle United | 2 | Completed |
 | 8 Oct, 14:00 | Wolverhampton Wanderers | 1 | Aston Villa | 1 | Completed |
-| 8 Oct, 16:30 | Arsenal | 1 | Manchester City | 0 | Live |
+| 8 Oct, 16:30 | Arsenal | 1 | Manchester City | 0 | Completed |
 <!-- END_TABLE -->
 
 ### Standings
