@@ -7,19 +7,21 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 1 Oct, 14:00 | Nottingham Forest | 1 | Brentford | 1 | Completed |
-| 2 Oct, 20:00 | Fulham | 0 | Chelsea | 2 | Completed |
-| 3 Oct, 19:30 | Luton Town | 1 | Burnley | 2 | Completed |
-| 7 Oct, 12:30 | Luton Town | 0 | Tottenham Hotspur | 1 | Completed |
-| 7 Oct, 15:00 | Burnley | 1 | Chelsea | 4 | Completed |
-| 7 Oct, 15:00 | Everton | 3 | Bournemouth | 0 | Completed |
-| 7 Oct, 15:00 | Fulham | 3 | Sheffield United | 1 | Completed |
-| 7 Oct, 15:00 | Manchester United | 2 | Brentford | 1 | Completed |
-| 7 Oct, 17:30 | Crystal Palace | 0 | Nottingham Forest | 0 | Completed |
-| 8 Oct, 14:00 | Brighton & Hove Albion | 2 | Liverpool | 2 | Completed |
-| 8 Oct, 14:00 | West Ham United | 2 | Newcastle United | 2 | Completed |
-| 8 Oct, 14:00 | Wolverhampton Wanderers | 1 | Aston Villa | 1 | Completed |
-| 8 Oct, 16:30 | Arsenal | 1 | Manchester City | 0 | Completed |
+| 21 Oct, 12:30 | Liverpool | N/A | Everton | N/A | Upcoming |
+| 21 Oct, 15:00 | Bournemouth | N/A | Wolverhampton Wanderers | N/A | Upcoming |
+| 21 Oct, 15:00 | Brentford | N/A | Burnley | N/A | Upcoming |
+| 21 Oct, 15:00 | Manchester City | N/A | Brighton & Hove Albion | N/A | Upcoming |
+| 21 Oct, 15:00 | Newcastle United | N/A | Crystal Palace | N/A | Upcoming |
+| 21 Oct, 15:00 | Nottingham Forest | N/A | Luton Town | N/A | Upcoming |
+| 21 Oct, 17:30 | Chelsea | N/A | Arsenal | N/A | Upcoming |
+| 21 Oct, 20:00 | Sheffield United | N/A | Manchester United | N/A | Upcoming |
+| 22 Oct, 16:30 | Aston Villa | N/A | West Ham United | N/A | Upcoming |
+| 23 Oct, 20:00 | Tottenham Hotspur | N/A | Fulham | N/A | Upcoming |
+| 27 Oct, 20:00 | Crystal Palace | N/A | Tottenham Hotspur | N/A | Upcoming |
+| 28 Oct, 12:30 | Chelsea | N/A | Brentford | N/A | Upcoming |
+| 28 Oct, 15:00 | Arsenal | N/A | Sheffield United | N/A | Upcoming |
+| 28 Oct, 15:00 | Bournemouth | N/A | Burnley | N/A | Upcoming |
+| 28 Oct, 17:30 | Wolverhampton Wanderers | N/A | Newcastle United | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
