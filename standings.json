@@ -21,6 +21,72 @@
       "entries": [
         {
           "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          },
+          "position": 1,
+          "startingPosition": 4,
+          "overall": {
+            "played": 9,
+            "won": 6,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 19,
+            "goalsAgainst": 9,
+            "goalsDifference": 10,
+            "points": 20
+          },
+          "home": {
+            "played": 4,
+            "won": 4,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 10,
+            "goalsAgainst": 2,
+            "goalsDifference": 8,
+            "points": 12
+          },
+          "away": {
+            "played": 5,
+            "won": 2,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 9,
+            "goalsAgainst": 7,
+            "goalsDifference": 2,
+            "points": 8
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Anfield",
+            "city": "Liverpool",
+            "capacity": 54074,
+            "location": {
+              "latitude": 53.4313,
+              "longitude": -2.96158
+            },
+            "source": "OPTA",
+            "id": 901
+          }
+        },
+        {
+          "team": {
             "name": "Tottenham Hotspur",
             "club": {
               "name": "Tottenham Hotspur",
@@ -35,7 +101,7 @@
               "opta": "t6"
             }
           },
-          "position": 1,
+          "position": 2,
           "startingPosition": 1,
           "overall": {
             "played": 8,
@@ -96,7 +162,7 @@
               "opta": "t3"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 2,
           "overall": {
             "played": 8,
@@ -162,7 +228,7 @@
               "opta": "t43"
             }
           },
-          "position": 3,
+          "position": 4,
           "startingPosition": 3,
           "overall": {
             "played": 8,
@@ -210,72 +276,6 @@
             },
             "source": "OPTA",
             "id": 457
-          }
-        },
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "position": 4,
-          "startingPosition": 4,
-          "overall": {
-            "played": 9,
-            "won": 5,
-            "drawn": 3,
-            "lost": 1,
-            "goalsFor": 18,
-            "goalsAgainst": 9,
-            "goalsDifference": 9,
-            "points": 18
-          },
-          "home": {
-            "played": 4,
-            "won": 3,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 9,
-            "goalsAgainst": 2,
-            "goalsDifference": 7,
-            "points": 10
-          },
-          "away": {
-            "played": 5,
-            "won": 2,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 9,
-            "goalsAgainst": 7,
-            "goalsDifference": 2,
-            "points": 8
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Anfield",
-            "city": "Liverpool",
-            "capacity": 54074,
-            "location": {
-              "latitude": 53.4313,
-              "longitude": -2.96158
-            },
-            "source": "OPTA",
-            "id": 901
           }
         },
         {
@@ -819,66 +819,6 @@
         },
         {
           "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "position": 14,
-          "startingPosition": 16,
-          "overall": {
-            "played": 9,
-            "won": 2,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 9,
-            "goalsAgainst": 12,
-            "goalsDifference": -3,
-            "points": 8
-          },
-          "home": {
-            "played": 5,
-            "won": 1,
-            "drawn": 0,
-            "lost": 4,
-            "goalsFor": 4,
-            "goalsAgainst": 5,
-            "goalsDifference": -1,
-            "points": 3
-          },
-          "away": {
-            "played": 4,
-            "won": 1,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 5,
-            "goalsAgainst": 7,
-            "goalsDifference": -2,
-            "points": 5
-          },
-          "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
-            "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
-            },
-            "source": "OPTA",
-            "id": 31
-          }
-        },
-        {
-          "team": {
             "name": "Wolverhampton Wanderers",
             "club": {
               "name": "Wolverhampton Wanderers",
@@ -893,7 +833,7 @@
               "opta": "t39"
             }
           },
-          "position": 15,
+          "position": 14,
           "startingPosition": 14,
           "overall": {
             "played": 8,
@@ -953,7 +893,7 @@
               "opta": "t94"
             }
           },
-          "position": 16,
+          "position": 15,
           "startingPosition": 15,
           "overall": {
             "played": 8,
@@ -990,6 +930,66 @@
             "city": "Brentford",
             "source": "OPTA",
             "id": 3977
+          }
+        },
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 16,
+          "startingPosition": 16,
+          "overall": {
+            "played": 9,
+            "won": 2,
+            "drawn": 1,
+            "lost": 6,
+            "goalsFor": 9,
+            "goalsAgainst": 13,
+            "goalsDifference": -4,
+            "points": 7
+          },
+          "home": {
+            "played": 5,
+            "won": 1,
+            "drawn": 0,
+            "lost": 4,
+            "goalsFor": 4,
+            "goalsAgainst": 5,
+            "goalsDifference": -1,
+            "points": 3
+          },
+          "away": {
+            "played": 4,
+            "won": 1,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 5,
+            "goalsAgainst": 8,
+            "goalsDifference": -3,
+            "points": 4
+          },
+          "ground": {
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
           }
         },
         {
