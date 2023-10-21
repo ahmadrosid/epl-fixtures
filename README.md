@@ -14,7 +14,7 @@ The data displayed in 2023 with BST TimeZone.
 | 21 Oct, 15:00 | Newcastle United | 4 | Crystal Palace | 0 | Completed |
 | 21 Oct, 15:00 | Nottingham Forest | 2 | Luton Town | 2 | Completed |
 | 21 Oct, 17:30 | Chelsea | 2 | Arsenal | 2 | Completed |
-| 21 Oct, 20:00 | Sheffield United | 1 | Manchester United | 1 | Live |
+| 21 Oct, 20:00 | Sheffield United | 1 | Manchester United | 2 | Live |
 | 22 Oct, 16:30 | Aston Villa | N/A | West Ham United | N/A | Upcoming |
 | 23 Oct, 20:00 | Tottenham Hotspur | N/A | Fulham | N/A | Upcoming |
 | 27 Oct, 20:00 | Crystal Palace | N/A | Tottenham Hotspur | N/A | Upcoming |
@@ -38,8 +38,8 @@ The data displayed in 2023 with BST TimeZone.
 | 5 | Newcastle United | 9 | 5 | 1 | 3 | 24 | 9 | 15 | 16 |
 | 6 | Aston Villa | 8 | 5 | 1 | 2 | 19 | 12 | 7 | 16 |
 | 7 | Brighton & Hove Albion | 9 | 5 | 1 | 3 | 22 | 18 | 4 | 16 |
-| 8 | West Ham United | 8 | 4 | 2 | 2 | 15 | 12 | 3 | 14 |
-| 9 | Manchester United | 9 | 4 | 1 | 4 | 10 | 13 | -3 | 13 |
+| 8 | Manchester United | 9 | 5 | 0 | 4 | 11 | 13 | -2 | 15 |
+| 9 | West Ham United | 8 | 4 | 2 | 2 | 15 | 12 | 3 | 14 |
 | 10 | Chelsea | 9 | 3 | 3 | 3 | 13 | 9 | 4 | 12 |
 | 11 | Crystal Palace | 9 | 3 | 3 | 3 | 7 | 11 | -4 | 12 |
 | 12 | Wolverhampton Wanderers | 9 | 3 | 2 | 4 | 11 | 15 | -4 | 11 |
@@ -50,5 +50,5 @@ The data displayed in 2023 with BST TimeZone.
 | 17 | Luton Town | 9 | 1 | 2 | 6 | 8 | 17 | -9 | 5 |
 | 18 | Burnley | 9 | 1 | 1 | 7 | 7 | 23 | -16 | 4 |
 | 19 | Bournemouth | 9 | 0 | 3 | 6 | 6 | 20 | -14 | 3 |
-| 20 | Sheffield United | 9 | 0 | 2 | 7 | 7 | 23 | -16 | 2 |
+| 20 | Sheffield United | 9 | 0 | 1 | 8 | 7 | 24 | -17 | 1 |
 <!-- END_STANDINGS -->
