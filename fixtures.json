@@ -92,10 +92,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2400,
-        "label": "40'00"
+        "secs": 2760,
+        "label": "46'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
