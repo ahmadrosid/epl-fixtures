@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 21 Oct, 12:30 | Liverpool | 1 | Everton | 0 | Live |
+| 21 Oct, 12:30 | Liverpool | 2 | Everton | 0 | Live |
 | 21 Oct, 15:00 | Bournemouth | 0 | Wolverhampton Wanderers | 0 | Upcoming |
 | 21 Oct, 15:00 | Brentford | 0 | Burnley | 0 | Upcoming |
 | 21 Oct, 15:00 | Manchester City | 0 | Brighton & Hove Albion | 0 | Upcoming |
@@ -31,7 +31,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Liverpool | 9 | 6 | 2 | 1 | 19 | 9 | 10 | 20 |
+| 1 | Liverpool | 9 | 6 | 2 | 1 | 20 | 9 | 11 | 20 |
 | 2 | Tottenham Hotspur | 8 | 6 | 2 | 0 | 18 | 8 | 10 | 20 |
 | 3 | Arsenal | 8 | 6 | 2 | 0 | 16 | 6 | 10 | 20 |
 | 4 | Manchester City | 8 | 6 | 0 | 2 | 17 | 6 | 11 | 18 |
@@ -46,7 +46,7 @@ The data displayed in 2023 with BST TimeZone.
 | 13 | Nottingham Forest | 8 | 2 | 3 | 3 | 8 | 10 | -2 | 9 |
 | 14 | Wolverhampton Wanderers | 8 | 2 | 2 | 4 | 9 | 14 | -5 | 8 |
 | 15 | Brentford | 8 | 1 | 4 | 3 | 11 | 12 | -1 | 7 |
-| 16 | Everton | 9 | 2 | 1 | 6 | 9 | 13 | -4 | 7 |
+| 16 | Everton | 9 | 2 | 1 | 6 | 9 | 14 | -5 | 7 |
 | 17 | Luton Town | 8 | 1 | 1 | 6 | 6 | 15 | -9 | 4 |
 | 18 | Burnley | 8 | 1 | 1 | 6 | 7 | 20 | -13 | 4 |
 | 19 | Bournemouth | 8 | 0 | 3 | 5 | 5 | 18 | -13 | 3 |
