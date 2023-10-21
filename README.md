@@ -9,7 +9,7 @@ The data displayed in 2023 with BST TimeZone.
 |-------------|--------|--------------|--------|--------------|--------|
 | 21 Oct, 12:30 | Liverpool | 2 | Everton | 0 | Completed |
 | 21 Oct, 15:00 | Bournemouth | 1 | Wolverhampton Wanderers | 1 | Live |
-| 21 Oct, 15:00 | Brentford | 1 | Burnley | 0 | Live |
+| 21 Oct, 15:00 | Brentford | 2 | Burnley | 0 | Live |
 | 21 Oct, 15:00 | Manchester City | 2 | Brighton & Hove Albion | 0 | Live |
 | 21 Oct, 15:00 | Newcastle United | 3 | Crystal Palace | 0 | Live |
 | 21 Oct, 15:00 | Nottingham Forest | 1 | Luton Town | 0 | Live |
@@ -44,11 +44,11 @@ The data displayed in 2023 with BST TimeZone.
 | 11 | Crystal Palace | 9 | 3 | 3 | 3 | 7 | 10 | -3 | 12 |
 | 12 | Chelsea | 8 | 3 | 2 | 3 | 11 | 7 | 4 | 11 |
 | 13 | Fulham | 8 | 3 | 2 | 3 | 8 | 13 | -5 | 11 |
-| 14 | Brentford | 9 | 2 | 4 | 3 | 12 | 12 | 0 | 10 |
+| 14 | Brentford | 9 | 2 | 4 | 3 | 13 | 12 | 1 | 10 |
 | 15 | Wolverhampton Wanderers | 9 | 2 | 3 | 4 | 10 | 15 | -5 | 9 |
 | 16 | Everton | 9 | 2 | 1 | 6 | 9 | 14 | -5 | 7 |
 | 17 | Luton Town | 9 | 1 | 1 | 7 | 6 | 16 | -10 | 4 |
 | 18 | Bournemouth | 9 | 0 | 4 | 5 | 6 | 19 | -13 | 4 |
-| 19 | Burnley | 9 | 1 | 1 | 7 | 7 | 21 | -14 | 4 |
+| 19 | Burnley | 9 | 1 | 1 | 7 | 7 | 22 | -15 | 4 |
 | 20 | Sheffield United | 8 | 0 | 1 | 7 | 6 | 22 | -16 | 1 |
 <!-- END_STANDINGS -->
