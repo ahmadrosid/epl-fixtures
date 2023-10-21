@@ -14,7 +14,7 @@ The data displayed in 2023 with BST TimeZone.
 | 21 Oct, 15:00 | Newcastle United | 4 | Crystal Palace | 0 | Completed |
 | 21 Oct, 15:00 | Nottingham Forest | 2 | Luton Town | 2 | Completed |
 | 21 Oct, 17:30 | Chelsea | 2 | Arsenal | 2 | Completed |
-| 21 Oct, 20:00 | Sheffield United | 1 | Manchester United | 2 | Live |
+| 21 Oct, 20:00 | Sheffield United | 1 | Manchester United | 2 | Completed |
 | 22 Oct, 16:30 | Aston Villa | N/A | West Ham United | N/A | Upcoming |
 | 23 Oct, 20:00 | Tottenham Hotspur | N/A | Fulham | N/A | Upcoming |
 | 27 Oct, 20:00 | Crystal Palace | N/A | Tottenham Hotspur | N/A | Upcoming |
