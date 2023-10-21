@@ -893,7 +893,7 @@
               "opta": "t8"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -923,10 +923,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3600,
+        "label": "60'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -941,6 +941,17 @@
           "phase": "1",
           "type": "P",
           "description": "P"
+        },
+        {
+          "personId": 53991,
+          "assistId": 21887,
+          "clock": {
+            "secs": 2880,
+            "label": "48'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
         }
       ],
       "penaltyShootouts": [],
