@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 21 Oct, 12:30 | Liverpool | N/A | Everton | N/A | Upcoming |
+| 21 Oct, 12:30 | Liverpool | 0 | Everton | 0 | Upcoming |
 | 21 Oct, 15:00 | Bournemouth | N/A | Wolverhampton Wanderers | N/A | Upcoming |
 | 21 Oct, 15:00 | Brentford | N/A | Burnley | N/A | Upcoming |
 | 21 Oct, 15:00 | Manchester City | N/A | Brighton & Hove Albion | N/A | Upcoming |
