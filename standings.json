@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -231,13 +231,13 @@
           "position": 4,
           "startingPosition": 2,
           "overall": {
-            "played": 8,
+            "played": 9,
             "won": 6,
             "drawn": 2,
-            "lost": 0,
+            "lost": 1,
             "goalsFor": 16,
-            "goalsAgainst": 6,
-            "goalsDifference": 10,
+            "goalsAgainst": 7,
+            "goalsDifference": 9,
             "points": 20
           },
           "home": {
@@ -251,13 +251,13 @@
             "points": 11
           },
           "away": {
-            "played": 3,
+            "played": 4,
             "won": 3,
             "drawn": 0,
-            "lost": 0,
+            "lost": 1,
             "goalsFor": 6,
-            "goalsAgainst": 0,
-            "goalsDifference": 6,
+            "goalsAgainst": 1,
+            "goalsDifference": 5,
             "points": 9
           },
           "annotations": [
@@ -466,6 +466,66 @@
         },
         {
           "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          },
+          "position": 8,
+          "startingPosition": 11,
+          "overall": {
+            "played": 9,
+            "won": 4,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 12,
+            "goalsAgainst": 7,
+            "goalsDifference": 5,
+            "points": 14
+          },
+          "home": {
+            "played": 5,
+            "won": 2,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 5,
+            "goalsAgainst": 3,
+            "goalsDifference": 2,
+            "points": 7
+          },
+          "away": {
+            "played": 4,
+            "won": 2,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 7,
+            "goalsAgainst": 4,
+            "goalsDifference": 3,
+            "points": 7
+          },
+          "ground": {
+            "name": "Stamford Bridge",
+            "city": "London",
+            "capacity": 41798,
+            "location": {
+              "latitude": 51.4816,
+              "longitude": -0.191016
+            },
+            "source": "OPTA",
+            "id": 30
+          }
+        },
+        {
+          "team": {
             "name": "West Ham United",
             "club": {
               "name": "West Ham United",
@@ -480,7 +540,7 @@
               "opta": "t21"
             }
           },
-          "position": 8,
+          "position": 9,
           "startingPosition": 7,
           "overall": {
             "played": 8,
@@ -535,7 +595,7 @@
               "opta": "t1"
             }
           },
-          "position": 9,
+          "position": 10,
           "startingPosition": 10,
           "overall": {
             "played": 8,
@@ -595,7 +655,7 @@
               "opta": "t31"
             }
           },
-          "position": 10,
+          "position": 11,
           "startingPosition": 9,
           "overall": {
             "played": 9,
@@ -637,66 +697,6 @@
             },
             "source": "OPTA",
             "id": 45
-          }
-        },
-        {
-          "team": {
-            "name": "Chelsea",
-            "club": {
-              "name": "Chelsea",
-              "shortName": "Chelsea",
-              "abbr": "CHE",
-              "id": 4
-            },
-            "teamType": "FIRST",
-            "shortName": "Chelsea",
-            "id": 4,
-            "altIds": {
-              "opta": "t8"
-            }
-          },
-          "position": 11,
-          "startingPosition": 11,
-          "overall": {
-            "played": 8,
-            "won": 3,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 11,
-            "goalsAgainst": 7,
-            "goalsDifference": 4,
-            "points": 11
-          },
-          "home": {
-            "played": 4,
-            "won": 1,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 4,
-            "goalsAgainst": 3,
-            "goalsDifference": 1,
-            "points": 4
-          },
-          "away": {
-            "played": 4,
-            "won": 2,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 7,
-            "goalsAgainst": 4,
-            "goalsDifference": 3,
-            "points": 7
-          },
-          "ground": {
-            "name": "Stamford Bridge",
-            "city": "London",
-            "capacity": 41798,
-            "location": {
-              "latitude": 51.4816,
-              "longitude": -0.191016
-            },
-            "source": "OPTA",
-            "id": 30
           }
         },
         {
