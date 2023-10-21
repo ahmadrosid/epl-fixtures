@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 21 Oct, 12:30 | Liverpool | 0 | Everton | 0 | Upcoming |
+| 21 Oct, 12:30 | Liverpool | 0 | Everton | 0 | Live |
 | 21 Oct, 15:00 | Bournemouth | N/A | Wolverhampton Wanderers | N/A | Upcoming |
 | 21 Oct, 15:00 | Brentford | N/A | Burnley | N/A | Upcoming |
 | 21 Oct, 15:00 | Manchester City | N/A | Brighton & Hove Albion | N/A | Upcoming |
@@ -34,7 +34,7 @@ The data displayed in 2023 with BST TimeZone.
 | 1 | Tottenham Hotspur | 8 | 6 | 2 | 0 | 18 | 8 | 10 | 20 |
 | 2 | Arsenal | 8 | 6 | 2 | 0 | 16 | 6 | 10 | 20 |
 | 3 | Manchester City | 8 | 6 | 0 | 2 | 17 | 6 | 11 | 18 |
-| 4 | Liverpool | 8 | 5 | 2 | 1 | 18 | 9 | 9 | 17 |
+| 4 | Liverpool | 9 | 5 | 3 | 1 | 18 | 9 | 9 | 18 |
 | 5 | Aston Villa | 8 | 5 | 1 | 2 | 19 | 12 | 7 | 16 |
 | 6 | Brighton & Hove Albion | 8 | 5 | 1 | 2 | 21 | 16 | 5 | 16 |
 | 7 | West Ham United | 8 | 4 | 2 | 2 | 15 | 12 | 3 | 14 |
@@ -44,9 +44,9 @@ The data displayed in 2023 with BST TimeZone.
 | 11 | Chelsea | 8 | 3 | 2 | 3 | 11 | 7 | 4 | 11 |
 | 12 | Fulham | 8 | 3 | 2 | 3 | 8 | 13 | -5 | 11 |
 | 13 | Nottingham Forest | 8 | 2 | 3 | 3 | 8 | 10 | -2 | 9 |
-| 14 | Wolverhampton Wanderers | 8 | 2 | 2 | 4 | 9 | 14 | -5 | 8 |
-| 15 | Brentford | 8 | 1 | 4 | 3 | 11 | 12 | -1 | 7 |
-| 16 | Everton | 8 | 2 | 1 | 5 | 9 | 12 | -3 | 7 |
+| 14 | Everton | 9 | 2 | 2 | 5 | 9 | 12 | -3 | 8 |
+| 15 | Wolverhampton Wanderers | 8 | 2 | 2 | 4 | 9 | 14 | -5 | 8 |
+| 16 | Brentford | 8 | 1 | 4 | 3 | 11 | 12 | -1 | 7 |
 | 17 | Luton Town | 8 | 1 | 1 | 6 | 6 | 15 | -9 | 4 |
 | 18 | Burnley | 8 | 1 | 1 | 6 | 7 | 20 | -13 | 4 |
 | 19 | Bournemouth | 8 | 0 | 3 | 5 | 5 | 18 | -13 | 3 |
