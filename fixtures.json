@@ -216,11 +216,12 @@
         "id": 914
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "A",
       "clock": {
-        "secs": 5280,
-        "label": "88'00"
+        "secs": 5820,
+        "label": "90 +7'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -352,11 +353,13 @@
         "id": 4003
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
+      "attendance": 17029,
       "clock": {
-        "secs": 5220,
-        "label": "87'00"
+        "secs": 5880,
+        "label": "90 +8'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -487,11 +490,12 @@
         "id": 457
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "clock": {
-        "secs": 5040,
-        "label": "84'00"
+        "secs": 6000,
+        "label": "90 +10'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -621,11 +625,13 @@
         "id": 27
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
+      "attendance": 52189,
       "clock": {
-        "secs": 4980,
-        "label": "83'00"
+        "secs": 5700,
+        "label": "90 +5'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -756,7 +762,7 @@
               "opta": "t102"
             }
           },
-          "score": 1
+          "score": 2
         }
       ],
       "replay": false,
@@ -767,12 +773,13 @@
         "id": 2548
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "D",
       "attendance": 29361,
       "clock": {
-        "secs": 5220,
-        "label": "87'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -805,6 +812,17 @@
           "clock": {
             "secs": 4980,
             "label": "83'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 14685,
+          "assistId": 8212,
+          "clock": {
+            "secs": 5520,
+            "label": "90 +2'00"
           },
           "phase": "2",
           "type": "G",
