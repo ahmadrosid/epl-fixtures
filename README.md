@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 23 Oct, 20:00 | Tottenham Hotspur | 1 | Fulham | 0 | Live |
+| 23 Oct, 20:00 | Tottenham Hotspur | 2 | Fulham | 0 | Live |
 | 27 Oct, 20:00 | Crystal Palace | N/A | Tottenham Hotspur | N/A | Upcoming |
 | 28 Oct, 12:30 | Chelsea | N/A | Brentford | N/A | Upcoming |
 | 28 Oct, 15:00 | Arsenal | N/A | Sheffield United | N/A | Upcoming |
@@ -27,7 +27,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Tottenham Hotspur | 9 | 7 | 2 | 0 | 19 | 8 | 11 | 23 |
+| 1 | Tottenham Hotspur | 9 | 7 | 2 | 0 | 20 | 8 | 12 | 23 |
 | 2 | Manchester City | 9 | 7 | 0 | 2 | 19 | 7 | 12 | 21 |
 | 3 | Arsenal | 9 | 6 | 3 | 0 | 18 | 8 | 10 | 21 |
 | 4 | Liverpool | 9 | 6 | 2 | 1 | 20 | 9 | 11 | 20 |
@@ -39,7 +39,7 @@ The data displayed in 2023 with BST TimeZone.
 | 10 | Chelsea | 9 | 3 | 3 | 3 | 13 | 9 | 4 | 12 |
 | 11 | Crystal Palace | 9 | 3 | 3 | 3 | 7 | 11 | -4 | 12 |
 | 12 | Wolverhampton Wanderers | 9 | 3 | 2 | 4 | 11 | 15 | -4 | 11 |
-| 13 | Fulham | 9 | 3 | 2 | 4 | 8 | 14 | -6 | 11 |
+| 13 | Fulham | 9 | 3 | 2 | 4 | 8 | 15 | -7 | 11 |
 | 14 | Brentford | 9 | 2 | 4 | 3 | 14 | 12 | 2 | 10 |
 | 15 | Nottingham Forest | 9 | 2 | 4 | 3 | 10 | 12 | -2 | 10 |
 | 16 | Everton | 9 | 2 | 1 | 6 | 9 | 14 | -5 | 7 |
