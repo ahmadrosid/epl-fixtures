@@ -7,21 +7,17 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 21 Oct, 12:30 | Liverpool | 2 | Everton | 0 | Completed |
-| 21 Oct, 15:00 | Bournemouth | 1 | Wolverhampton Wanderers | 2 | Completed |
-| 21 Oct, 15:00 | Brentford | 3 | Burnley | 0 | Completed |
-| 21 Oct, 15:00 | Manchester City | 2 | Brighton & Hove Albion | 1 | Completed |
-| 21 Oct, 15:00 | Newcastle United | 4 | Crystal Palace | 0 | Completed |
-| 21 Oct, 15:00 | Nottingham Forest | 2 | Luton Town | 2 | Completed |
-| 21 Oct, 17:30 | Chelsea | 2 | Arsenal | 2 | Completed |
-| 21 Oct, 20:00 | Sheffield United | 1 | Manchester United | 2 | Completed |
-| 22 Oct, 16:30 | Aston Villa | 4 | West Ham United | 1 | Completed |
 | 23 Oct, 20:00 | Tottenham Hotspur | N/A | Fulham | N/A | Upcoming |
 | 27 Oct, 20:00 | Crystal Palace | N/A | Tottenham Hotspur | N/A | Upcoming |
 | 28 Oct, 12:30 | Chelsea | N/A | Brentford | N/A | Upcoming |
 | 28 Oct, 15:00 | Arsenal | N/A | Sheffield United | N/A | Upcoming |
 | 28 Oct, 15:00 | Bournemouth | N/A | Burnley | N/A | Upcoming |
 | 28 Oct, 17:30 | Wolverhampton Wanderers | N/A | Newcastle United | N/A | Upcoming |
+| 29 Oct, 13:00 GMT | West Ham United | N/A | Everton | N/A | Upcoming |
+| 29 Oct, 14:00 GMT | Aston Villa | N/A | Luton Town | N/A | Upcoming |
+| 29 Oct, 14:00 GMT | Brighton & Hove Albion | N/A | Fulham | N/A | Upcoming |
+| 29 Oct, 14:00 GMT | Liverpool | N/A | Nottingham Forest | N/A | Upcoming |
+| 29 Oct, 15:30 GMT | Manchester United | N/A | Manchester City | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
