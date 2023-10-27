@@ -189,7 +189,7 @@
               "opta": "t31"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -218,11 +218,12 @@
         "id": 45
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "A",
       "clock": {
-        "secs": 5340,
-        "label": "89'00"
+        "secs": 6180,
+        "label": "90 +13'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -244,6 +245,17 @@
           "clock": {
             "secs": 3960,
             "label": "66'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 5595,
+          "assistId": 26151,
+          "clock": {
+            "secs": 5640,
+            "label": "90 +4'00"
           },
           "phase": "2",
           "type": "G",
