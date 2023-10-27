@@ -8,7 +8,7 @@ The data displayed in 2023 with BST TimeZone.
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
 | 23 Oct, 20:00 | Tottenham Hotspur | 2 | Fulham | 0 | Completed |
-| 27 Oct, 20:00 | Crystal Palace | 0 | Tottenham Hotspur | 0 | Live |
+| 27 Oct, 20:00 | Crystal Palace | 0 | Tottenham Hotspur | 2 | Live |
 | 28 Oct, 12:30 | Chelsea | N/A | Brentford | N/A | Upcoming |
 | 28 Oct, 15:00 | Arsenal | N/A | Sheffield United | N/A | Upcoming |
 | 28 Oct, 15:00 | Bournemouth | N/A | Burnley | N/A | Upcoming |
@@ -27,7 +27,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Tottenham Hotspur | 10 | 7 | 3 | 0 | 20 | 8 | 12 | 24 |
+| 1 | Tottenham Hotspur | 10 | 8 | 2 | 0 | 22 | 8 | 14 | 26 |
 | 2 | Manchester City | 9 | 7 | 0 | 2 | 19 | 7 | 12 | 21 |
 | 3 | Arsenal | 9 | 6 | 3 | 0 | 18 | 8 | 10 | 21 |
 | 4 | Liverpool | 9 | 6 | 2 | 1 | 20 | 9 | 11 | 20 |
@@ -36,8 +36,8 @@ The data displayed in 2023 with BST TimeZone.
 | 7 | Brighton & Hove Albion | 9 | 5 | 1 | 3 | 22 | 18 | 4 | 16 |
 | 8 | Manchester United | 9 | 5 | 0 | 4 | 11 | 13 | -2 | 15 |
 | 9 | West Ham United | 9 | 4 | 2 | 3 | 16 | 16 | 0 | 14 |
-| 10 | Crystal Palace | 10 | 3 | 4 | 3 | 7 | 11 | -4 | 13 |
-| 11 | Chelsea | 9 | 3 | 3 | 3 | 13 | 9 | 4 | 12 |
+| 10 | Chelsea | 9 | 3 | 3 | 3 | 13 | 9 | 4 | 12 |
+| 11 | Crystal Palace | 10 | 3 | 3 | 4 | 7 | 13 | -6 | 12 |
 | 12 | Wolverhampton Wanderers | 9 | 3 | 2 | 4 | 11 | 15 | -4 | 11 |
 | 13 | Fulham | 9 | 3 | 2 | 4 | 8 | 15 | -7 | 11 |
 | 14 | Brentford | 9 | 2 | 4 | 3 | 14 | 12 | 2 | 10 |
