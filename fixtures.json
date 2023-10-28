@@ -451,7 +451,7 @@
               "opta": "t3"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -483,13 +483,25 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 600,
-        "label": "10'00"
+        "secs": 1680,
+        "label": "28'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 14451,
+          "assistId": 15202,
+          "clock": {
+            "secs": 1680,
+            "label": "28'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93411,
@@ -553,7 +565,7 @@
               "opta": "t91"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -571,7 +583,7 @@
               "opta": "t90"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -585,13 +597,35 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 600,
-        "label": "10'00"
+        "secs": 1680,
+        "label": "28'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 8691,
+          "assistId": 15154,
+          "clock": {
+            "secs": 660,
+            "label": "11'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 25474,
+          "clock": {
+            "secs": 1320,
+            "label": "22'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93413,
