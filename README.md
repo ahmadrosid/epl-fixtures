@@ -12,7 +12,7 @@ The data displayed in 2023 with BST TimeZone.
 | 28 Oct, 12:30 | Chelsea | 0 | Brentford | 2 | Completed |
 | 28 Oct, 15:00 | Arsenal | 5 | Sheffield United | 0 | Completed |
 | 28 Oct, 15:00 | Bournemouth | 2 | Burnley | 1 | Completed |
-| 28 Oct, 17:30 | Wolverhampton Wanderers | 2 | Newcastle United | 2 | Live |
+| 28 Oct, 17:30 | Wolverhampton Wanderers | 2 | Newcastle United | 2 | Completed |
 | 29 Oct, 13:00 GMT | West Ham United | N/A | Everton | N/A | Upcoming |
 | 29 Oct, 14:00 GMT | Aston Villa | N/A | Luton Town | N/A | Upcoming |
 | 29 Oct, 14:00 GMT | Brighton & Hove Albion | N/A | Fulham | N/A | Upcoming |

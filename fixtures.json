@@ -774,12 +774,13 @@
         "id": 913
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "D",
       "attendance": 31584,
       "clock": {
-        "secs": 5520,
-        "label": "90 +2'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
