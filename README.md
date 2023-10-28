@@ -10,7 +10,7 @@ The data displayed in 2023 with BST TimeZone.
 | 23 Oct, 20:00 | Tottenham Hotspur | 2 | Fulham | 0 | Completed |
 | 27 Oct, 20:00 | Crystal Palace | 1 | Tottenham Hotspur | 2 | Completed |
 | 28 Oct, 12:30 | Chelsea | 0 | Brentford | 2 | Completed |
-| 28 Oct, 15:00 | Arsenal | 2 | Sheffield United | 0 | Live |
+| 28 Oct, 15:00 | Arsenal | 3 | Sheffield United | 0 | Live |
 | 28 Oct, 15:00 | Bournemouth | 1 | Burnley | 1 | Live |
 | 28 Oct, 17:30 | Wolverhampton Wanderers | N/A | Newcastle United | N/A | Upcoming |
 | 29 Oct, 13:00 GMT | West Ham United | N/A | Everton | N/A | Upcoming |
@@ -28,7 +28,7 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Tottenham Hotspur | 10 | 8 | 2 | 0 | 22 | 9 | 13 | 26 |
-| 2 | Arsenal | 10 | 7 | 3 | 0 | 20 | 8 | 12 | 24 |
+| 2 | Arsenal | 10 | 7 | 3 | 0 | 21 | 8 | 13 | 24 |
 | 3 | Manchester City | 9 | 7 | 0 | 2 | 19 | 7 | 12 | 21 |
 | 4 | Liverpool | 9 | 6 | 2 | 1 | 20 | 9 | 11 | 20 |
 | 5 | Aston Villa | 9 | 6 | 1 | 2 | 23 | 13 | 10 | 19 |
@@ -46,5 +46,5 @@ The data displayed in 2023 with BST TimeZone.
 | 17 | Luton Town | 9 | 1 | 2 | 6 | 8 | 17 | -9 | 5 |
 | 18 | Burnley | 10 | 1 | 2 | 7 | 8 | 24 | -16 | 5 |
 | 19 | Bournemouth | 10 | 0 | 4 | 6 | 7 | 21 | -14 | 4 |
-| 20 | Sheffield United | 10 | 0 | 1 | 9 | 7 | 26 | -19 | 1 |
+| 20 | Sheffield United | 10 | 0 | 1 | 9 | 7 | 27 | -20 | 1 |
 <!-- END_STANDINGS -->
