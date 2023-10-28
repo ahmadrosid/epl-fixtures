@@ -763,7 +763,7 @@
               "opta": "t4"
             }
           },
-          "score": 1
+          "score": 2
         }
       ],
       "replay": false,
@@ -775,10 +775,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "H",
       "clock": {
-        "secs": 2400,
-        "label": "40'00"
+        "secs": 3180,
+        "label": "45 +8'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -804,6 +804,16 @@
           "phase": "1",
           "type": "G",
           "description": "G"
+        },
+        {
+          "personId": 8454,
+          "clock": {
+            "secs": 2940,
+            "label": "45 +4'00"
+          },
+          "phase": "1",
+          "type": "P",
+          "description": "P"
         }
       ],
       "penaltyShootouts": [],
