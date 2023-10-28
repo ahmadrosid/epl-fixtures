@@ -28,7 +28,7 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Tottenham Hotspur | 10 | 8 | 2 | 0 | 22 | 9 | 13 | 26 |
-| 2 | Arsenal | 10 | 6 | 4 | 0 | 18 | 8 | 10 | 22 |
+| 2 | Arsenal | 10 | 7 | 3 | 0 | 19 | 8 | 11 | 24 |
 | 3 | Manchester City | 9 | 7 | 0 | 2 | 19 | 7 | 12 | 21 |
 | 4 | Liverpool | 9 | 6 | 2 | 1 | 20 | 9 | 11 | 20 |
 | 5 | Aston Villa | 9 | 6 | 1 | 2 | 23 | 13 | 10 | 19 |
@@ -46,5 +46,5 @@ The data displayed in 2023 with BST TimeZone.
 | 17 | Luton Town | 9 | 1 | 2 | 6 | 8 | 17 | -9 | 5 |
 | 18 | Burnley | 10 | 1 | 2 | 7 | 8 | 24 | -16 | 5 |
 | 19 | Bournemouth | 10 | 0 | 4 | 6 | 7 | 21 | -14 | 4 |
-| 20 | Sheffield United | 10 | 0 | 2 | 8 | 7 | 24 | -17 | 2 |
+| 20 | Sheffield United | 10 | 0 | 1 | 9 | 7 | 25 | -18 | 1 |
 <!-- END_STANDINGS -->
