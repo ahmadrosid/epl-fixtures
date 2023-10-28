@@ -452,7 +452,7 @@
               "opta": "t3"
             }
           },
-          "score": 3
+          "score": 4
         },
         {
           "team": {
@@ -485,8 +485,8 @@
       "phase": "2",
       "attendance": 60153,
       "clock": {
-        "secs": 4200,
-        "label": "70'00"
+        "secs": 5460,
+        "label": "90 +1'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -523,6 +523,16 @@
           "phase": "2",
           "type": "G",
           "description": "G"
+        },
+        {
+          "personId": 67631,
+          "clock": {
+            "secs": 5280,
+            "label": "88'00"
+          },
+          "phase": "2",
+          "type": "P",
+          "description": "P"
         }
       ],
       "penaltyShootouts": [],
@@ -588,7 +598,7 @@
               "opta": "t91"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -619,9 +629,10 @@
       "neutralGround": false,
       "status": "L",
       "phase": "2",
+      "attendance": 11152,
       "clock": {
-        "secs": 4200,
-        "label": "70'00"
+        "secs": 5340,
+        "label": "89'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -645,6 +656,16 @@
             "label": "22'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 8882,
+          "clock": {
+            "secs": 4560,
+            "label": "76'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
@@ -711,7 +732,8 @@
             "altIds": {
               "opta": "t39"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -728,7 +750,8 @@
             "altIds": {
               "opta": "t4"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -741,6 +764,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
