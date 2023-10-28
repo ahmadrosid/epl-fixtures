@@ -9,7 +9,7 @@ The data displayed in 2023 with BST TimeZone.
 |-------------|--------|--------------|--------|--------------|--------|
 | 23 Oct, 20:00 | Tottenham Hotspur | 2 | Fulham | 0 | Completed |
 | 27 Oct, 20:00 | Crystal Palace | 1 | Tottenham Hotspur | 2 | Completed |
-| 28 Oct, 12:30 | Chelsea | N/A | Brentford | N/A | Upcoming |
+| 28 Oct, 12:30 | Chelsea | 0 | Brentford | 0 | Upcoming |
 | 28 Oct, 15:00 | Arsenal | N/A | Sheffield United | N/A | Upcoming |
 | 28 Oct, 15:00 | Bournemouth | N/A | Burnley | N/A | Upcoming |
 | 28 Oct, 17:30 | Wolverhampton Wanderers | N/A | Newcastle United | N/A | Upcoming |
