@@ -10,8 +10,8 @@ The data displayed in 2023 with BST TimeZone.
 | 23 Oct, 20:00 | Tottenham Hotspur | 2 | Fulham | 0 | Completed |
 | 27 Oct, 20:00 | Crystal Palace | 1 | Tottenham Hotspur | 2 | Completed |
 | 28 Oct, 12:30 | Chelsea | 0 | Brentford | 2 | Completed |
-| 28 Oct, 15:00 | Arsenal | 0 | Sheffield United | 0 | Upcoming |
-| 28 Oct, 15:00 | Bournemouth | 0 | Burnley | 0 | Upcoming |
+| 28 Oct, 15:00 | Arsenal | 0 | Sheffield United | 0 | Live |
+| 28 Oct, 15:00 | Bournemouth | 0 | Burnley | 0 | Live |
 | 28 Oct, 17:30 | Wolverhampton Wanderers | N/A | Newcastle United | N/A | Upcoming |
 | 29 Oct, 13:00 GMT | West Ham United | N/A | Everton | N/A | Upcoming |
 | 29 Oct, 14:00 GMT | Aston Villa | N/A | Luton Town | N/A | Upcoming |
@@ -28,8 +28,8 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Tottenham Hotspur | 10 | 8 | 2 | 0 | 22 | 9 | 13 | 26 |
-| 2 | Manchester City | 9 | 7 | 0 | 2 | 19 | 7 | 12 | 21 |
-| 3 | Arsenal | 9 | 6 | 3 | 0 | 18 | 8 | 10 | 21 |
+| 2 | Arsenal | 10 | 6 | 4 | 0 | 18 | 8 | 10 | 22 |
+| 3 | Manchester City | 9 | 7 | 0 | 2 | 19 | 7 | 12 | 21 |
 | 4 | Liverpool | 9 | 6 | 2 | 1 | 20 | 9 | 11 | 20 |
 | 5 | Aston Villa | 9 | 6 | 1 | 2 | 23 | 13 | 10 | 19 |
 | 6 | Newcastle United | 9 | 5 | 1 | 3 | 24 | 9 | 15 | 16 |
@@ -44,7 +44,7 @@ The data displayed in 2023 with BST TimeZone.
 | 15 | Nottingham Forest | 9 | 2 | 4 | 3 | 10 | 12 | -2 | 10 |
 | 16 | Everton | 9 | 2 | 1 | 6 | 9 | 14 | -5 | 7 |
 | 17 | Luton Town | 9 | 1 | 2 | 6 | 8 | 17 | -9 | 5 |
-| 18 | Burnley | 9 | 1 | 1 | 7 | 7 | 23 | -16 | 4 |
-| 19 | Bournemouth | 9 | 0 | 3 | 6 | 6 | 20 | -14 | 3 |
-| 20 | Sheffield United | 9 | 0 | 1 | 8 | 7 | 24 | -17 | 1 |
+| 18 | Burnley | 10 | 1 | 2 | 7 | 7 | 23 | -16 | 5 |
+| 19 | Bournemouth | 10 | 0 | 4 | 6 | 6 | 20 | -14 | 4 |
+| 20 | Sheffield United | 10 | 0 | 2 | 8 | 7 | 24 | -17 | 2 |
 <!-- END_STANDINGS -->
