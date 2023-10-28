@@ -280,72 +280,6 @@
         },
         {
           "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 5,
-          "startingPosition": 6,
-          "overall": {
-            "played": 10,
-            "won": 6,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 26,
-            "goalsAgainst": 10,
-            "goalsDifference": 16,
-            "points": 19
-          },
-          "home": {
-            "played": 5,
-            "won": 4,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 13,
-            "goalsAgainst": 3,
-            "goalsDifference": 10,
-            "points": 12
-          },
-          "away": {
-            "played": 5,
-            "won": 2,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 13,
-            "goalsAgainst": 7,
-            "goalsDifference": 6,
-            "points": 7
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
-          }
-        },
-        {
-          "team": {
             "name": "Aston Villa",
             "club": {
               "name": "Aston Villa",
@@ -360,7 +294,7 @@
               "opta": "t7"
             }
           },
-          "position": 6,
+          "position": 5,
           "startingPosition": 5,
           "overall": {
             "played": 9,
@@ -392,6 +326,12 @@
             "goalsDifference": -4,
             "points": 7
           },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_EL"
+            }
+          ],
           "ground": {
             "name": "Villa Park",
             "city": "Birmingham",
@@ -402,6 +342,66 @@
             },
             "source": "OPTA",
             "id": 43
+          }
+        },
+        {
+          "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 6,
+          "startingPosition": 6,
+          "overall": {
+            "played": 10,
+            "won": 5,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 26,
+            "goalsAgainst": 11,
+            "goalsDifference": 15,
+            "points": 17
+          },
+          "home": {
+            "played": 5,
+            "won": 4,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 13,
+            "goalsAgainst": 3,
+            "goalsDifference": 10,
+            "points": 12
+          },
+          "away": {
+            "played": 5,
+            "won": 1,
+            "drawn": 2,
+            "lost": 2,
+            "goalsFor": 13,
+            "goalsAgainst": 8,
+            "goalsDifference": 5,
+            "points": 5
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
           }
         },
         {
@@ -696,6 +696,66 @@
         },
         {
           "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          },
+          "position": 12,
+          "startingPosition": 12,
+          "overall": {
+            "played": 10,
+            "won": 3,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 13,
+            "goalsAgainst": 17,
+            "goalsDifference": -4,
+            "points": 12
+          },
+          "home": {
+            "played": 5,
+            "won": 1,
+            "drawn": 2,
+            "lost": 2,
+            "goalsFor": 7,
+            "goalsAgainst": 11,
+            "goalsDifference": -4,
+            "points": 5
+          },
+          "away": {
+            "played": 5,
+            "won": 2,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 6,
+            "goalsAgainst": 6,
+            "goalsDifference": 0,
+            "points": 7
+          },
+          "ground": {
+            "name": "Molineux Stadium",
+            "city": "Wolverhampton",
+            "capacity": 31500,
+            "location": {
+              "latitude": 52.5904,
+              "longitude": -2.13077
+            },
+            "source": "OPTA",
+            "id": 913
+          }
+        },
+        {
+          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -710,7 +770,7 @@
               "opta": "t31"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 11,
           "overall": {
             "played": 10,
@@ -752,66 +812,6 @@
             },
             "source": "OPTA",
             "id": 45
-          }
-        },
-        {
-          "team": {
-            "name": "Wolverhampton Wanderers",
-            "club": {
-              "name": "Wolverhampton Wanderers",
-              "shortName": "Wolves",
-              "abbr": "WOL",
-              "id": 38
-            },
-            "teamType": "FIRST",
-            "shortName": "Wolves",
-            "id": 38,
-            "altIds": {
-              "opta": "t39"
-            }
-          },
-          "position": 13,
-          "startingPosition": 12,
-          "overall": {
-            "played": 10,
-            "won": 3,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 12,
-            "goalsAgainst": 17,
-            "goalsDifference": -5,
-            "points": 11
-          },
-          "home": {
-            "played": 5,
-            "won": 1,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 6,
-            "goalsAgainst": 11,
-            "goalsDifference": -5,
-            "points": 4
-          },
-          "away": {
-            "played": 5,
-            "won": 2,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 6,
-            "goalsAgainst": 6,
-            "goalsDifference": 0,
-            "points": 7
-          },
-          "ground": {
-            "name": "Molineux Stadium",
-            "city": "Wolverhampton",
-            "capacity": 31500,
-            "location": {
-              "latitude": 52.5904,
-              "longitude": -2.13077
-            },
-            "source": "OPTA",
-            "id": 913
           }
         },
         {
