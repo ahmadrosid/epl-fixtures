@@ -12,7 +12,7 @@ The data displayed in 2023 with BST TimeZone.
 | 28 Oct, 12:30 | Chelsea | 0 | Brentford | 2 | Completed |
 | 28 Oct, 15:00 | Arsenal | 5 | Sheffield United | 0 | Completed |
 | 28 Oct, 15:00 | Bournemouth | 2 | Burnley | 1 | Completed |
-| 28 Oct, 17:30 | Wolverhampton Wanderers | 0 | Newcastle United | 0 | Live |
+| 28 Oct, 17:30 | Wolverhampton Wanderers | 1 | Newcastle United | 1 | Live |
 | 29 Oct, 13:00 GMT | West Ham United | N/A | Everton | N/A | Upcoming |
 | 29 Oct, 14:00 GMT | Aston Villa | N/A | Luton Town | N/A | Upcoming |
 | 29 Oct, 14:00 GMT | Brighton & Hove Albion | N/A | Fulham | N/A | Upcoming |
@@ -32,13 +32,13 @@ The data displayed in 2023 with BST TimeZone.
 | 3 | Manchester City | 9 | 7 | 0 | 2 | 19 | 7 | 12 | 21 |
 | 4 | Liverpool | 9 | 6 | 2 | 1 | 20 | 9 | 11 | 20 |
 | 5 | Aston Villa | 9 | 6 | 1 | 2 | 23 | 13 | 10 | 19 |
-| 6 | Newcastle United | 10 | 5 | 2 | 3 | 24 | 9 | 15 | 17 |
+| 6 | Newcastle United | 10 | 5 | 2 | 3 | 25 | 10 | 15 | 17 |
 | 7 | Brighton & Hove Albion | 9 | 5 | 1 | 3 | 22 | 18 | 4 | 16 |
 | 8 | Manchester United | 9 | 5 | 0 | 4 | 11 | 13 | -2 | 15 |
 | 9 | West Ham United | 9 | 4 | 2 | 3 | 16 | 16 | 0 | 14 |
 | 10 | Brentford | 10 | 3 | 4 | 3 | 16 | 12 | 4 | 13 |
 | 11 | Chelsea | 10 | 3 | 3 | 4 | 13 | 11 | 2 | 12 |
-| 12 | Wolverhampton Wanderers | 10 | 3 | 3 | 4 | 11 | 15 | -4 | 12 |
+| 12 | Wolverhampton Wanderers | 10 | 3 | 3 | 4 | 12 | 16 | -4 | 12 |
 | 13 | Crystal Palace | 10 | 3 | 3 | 4 | 8 | 13 | -5 | 12 |
 | 14 | Fulham | 9 | 3 | 2 | 4 | 8 | 15 | -7 | 11 |
 | 15 | Nottingham Forest | 9 | 2 | 4 | 3 | 10 | 12 | -2 | 10 |
