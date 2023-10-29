@@ -643,8 +643,8 @@
       "outcome": "H",
       "attendance": 11152,
       "clock": {
-        "secs": 6060,
-        "label": "90 +11'00"
+        "secs": 6120,
+        "label": "90 +12'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
