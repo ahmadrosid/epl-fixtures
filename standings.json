@@ -235,9 +235,9 @@
             "won": 7,
             "drawn": 1,
             "lost": 2,
-            "goalsFor": 25,
+            "goalsFor": 26,
             "goalsAgainst": 13,
-            "goalsDifference": 12,
+            "goalsDifference": 13,
             "points": 22
           },
           "home": {
@@ -245,9 +245,9 @@
             "won": 5,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 19,
+            "goalsFor": 20,
             "goalsAgainst": 3,
-            "goalsDifference": 16,
+            "goalsDifference": 17,
             "points": 15
           },
           "away": {
@@ -346,66 +346,6 @@
         },
         {
           "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "position": 6,
-          "startingPosition": 7,
-          "overall": {
-            "played": 10,
-            "won": 6,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 23,
-            "goalsAgainst": 18,
-            "goalsDifference": 5,
-            "points": 19
-          },
-          "home": {
-            "played": 6,
-            "won": 4,
-            "drawn": 1,
-            "lost": 1,
-            "goalsFor": 14,
-            "goalsAgainst": 8,
-            "goalsDifference": 6,
-            "points": 13
-          },
-          "away": {
-            "played": 4,
-            "won": 2,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 9,
-            "goalsAgainst": 10,
-            "goalsDifference": -1,
-            "points": 6
-          },
-          "ground": {
-            "name": "Amex Stadium",
-            "city": "Falmer",
-            "capacity": 30750,
-            "location": {
-              "latitude": 50.8606,
-              "longitude": -0.082237
-            },
-            "source": "OPTA",
-            "id": 1684
-          }
-        },
-        {
-          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -420,7 +360,7 @@
               "opta": "t4"
             }
           },
-          "position": 7,
+          "position": 6,
           "startingPosition": 6,
           "overall": {
             "played": 10,
@@ -462,6 +402,66 @@
             },
             "source": "OPTA",
             "id": 27
+          }
+        },
+        {
+          "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          },
+          "position": 7,
+          "startingPosition": 7,
+          "overall": {
+            "played": 10,
+            "won": 5,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 23,
+            "goalsAgainst": 19,
+            "goalsDifference": 4,
+            "points": 17
+          },
+          "home": {
+            "played": 6,
+            "won": 3,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 14,
+            "goalsAgainst": 9,
+            "goalsDifference": 5,
+            "points": 11
+          },
+          "away": {
+            "played": 4,
+            "won": 2,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 9,
+            "goalsAgainst": 10,
+            "goalsDifference": -1,
+            "points": 6
+          },
+          "ground": {
+            "name": "Amex Stadium",
+            "city": "Falmer",
+            "capacity": 30750,
+            "location": {
+              "latitude": 50.8606,
+              "longitude": -0.082237
+            },
+            "source": "OPTA",
+            "id": 1684
           }
         },
         {
@@ -835,12 +835,12 @@
           "overall": {
             "played": 10,
             "won": 3,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 8,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 9,
             "goalsAgainst": 16,
-            "goalsDifference": -8,
-            "points": 11
+            "goalsDifference": -7,
+            "points": 12
           },
           "home": {
             "played": 4,
@@ -855,12 +855,12 @@
           "away": {
             "played": 6,
             "won": 1,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 4,
+            "drawn": 3,
+            "lost": 2,
+            "goalsFor": 5,
             "goalsAgainst": 10,
-            "goalsDifference": -6,
-            "points": 5
+            "goalsDifference": -5,
+            "points": 6
           },
           "ground": {
             "name": "Craven Cottage",
@@ -1076,8 +1076,8 @@
             "drawn": 2,
             "lost": 7,
             "goalsFor": 8,
-            "goalsAgainst": 19,
-            "goalsDifference": -11,
+            "goalsAgainst": 20,
+            "goalsDifference": -12,
             "points": 5
           },
           "home": {
@@ -1096,8 +1096,8 @@
             "drawn": 1,
             "lost": 4,
             "goalsFor": 5,
-            "goalsAgainst": 13,
-            "goalsDifference": -8,
+            "goalsAgainst": 14,
+            "goalsDifference": -9,
             "points": 4
           },
           "annotations": [
