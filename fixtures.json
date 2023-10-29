@@ -908,7 +908,7 @@
               "opta": "t11"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -922,13 +922,25 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2940,
-        "label": "49'00"
+        "secs": 4020,
+        "label": "67'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 9576,
+          "assistId": 33135,
+          "clock": {
+            "secs": 3060,
+            "label": "51'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93419,
@@ -990,7 +1002,7 @@
               "opta": "t7"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -1022,13 +1034,25 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 600,
-        "label": "10'00"
+        "secs": 1680,
+        "label": "28'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 51423,
+          "assistId": 24626,
+          "clock": {
+            "secs": 1020,
+            "label": "17'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93412,
@@ -1090,7 +1114,7 @@
               "opta": "t36"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -1122,13 +1146,25 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 600,
-        "label": "10'00"
+        "secs": 1560,
+        "label": "26'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 71590,
+          "assistId": 22542,
+          "clock": {
+            "secs": 1560,
+            "label": "26'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93414,
@@ -1222,8 +1258,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 540,
-        "label": "09'00"
+        "secs": 1560,
+        "label": "26'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,

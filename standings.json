@@ -148,6 +148,72 @@
         },
         {
           "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          },
+          "position": 3,
+          "startingPosition": 5,
+          "overall": {
+            "played": 10,
+            "won": 7,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 24,
+            "goalsAgainst": 13,
+            "goalsDifference": 11,
+            "points": 22
+          },
+          "home": {
+            "played": 5,
+            "won": 5,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 18,
+            "goalsAgainst": 3,
+            "goalsDifference": 15,
+            "points": 15
+          },
+          "away": {
+            "played": 5,
+            "won": 2,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 6,
+            "goalsAgainst": 10,
+            "goalsDifference": -4,
+            "points": 7
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Villa Park",
+            "city": "Birmingham",
+            "capacity": 42682,
+            "location": {
+              "latitude": 52.5085,
+              "longitude": -1.88495
+            },
+            "source": "OPTA",
+            "id": 43
+          }
+        },
+        {
+          "team": {
             "name": "Manchester City",
             "club": {
               "name": "Manchester City",
@@ -162,7 +228,7 @@
               "opta": "t43"
             }
           },
-          "position": 3,
+          "position": 4,
           "startingPosition": 2,
           "overall": {
             "played": 9,
@@ -228,7 +294,7 @@
               "opta": "t14"
             }
           },
-          "position": 4,
+          "position": 5,
           "startingPosition": 4,
           "overall": {
             "played": 10,
@@ -263,7 +329,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -280,68 +346,62 @@
         },
         {
           "team": {
-            "name": "Aston Villa",
+            "name": "Brighton & Hove Albion",
             "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
             },
             "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
+            "shortName": "Brighton",
+            "id": 131,
             "altIds": {
-              "opta": "t7"
+              "opta": "t36"
             }
           },
-          "position": 5,
-          "startingPosition": 5,
+          "position": 6,
+          "startingPosition": 7,
           "overall": {
             "played": 10,
             "won": 6,
-            "drawn": 2,
-            "lost": 2,
+            "drawn": 1,
+            "lost": 3,
             "goalsFor": 23,
-            "goalsAgainst": 13,
-            "goalsDifference": 10,
-            "points": 20
+            "goalsAgainst": 18,
+            "goalsDifference": 5,
+            "points": 19
           },
           "home": {
-            "played": 5,
+            "played": 6,
             "won": 4,
             "drawn": 1,
-            "lost": 0,
-            "goalsFor": 17,
-            "goalsAgainst": 3,
-            "goalsDifference": 14,
+            "lost": 1,
+            "goalsFor": 14,
+            "goalsAgainst": 8,
+            "goalsDifference": 6,
             "points": 13
           },
           "away": {
-            "played": 5,
+            "played": 4,
             "won": 2,
-            "drawn": 1,
+            "drawn": 0,
             "lost": 2,
-            "goalsFor": 6,
+            "goalsFor": 9,
             "goalsAgainst": 10,
-            "goalsDifference": -4,
-            "points": 7
+            "goalsDifference": -1,
+            "points": 6
           },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
           "ground": {
-            "name": "Villa Park",
-            "city": "Birmingham",
-            "capacity": 42682,
+            "name": "Amex Stadium",
+            "city": "Falmer",
+            "capacity": 30750,
             "location": {
-              "latitude": 52.5085,
-              "longitude": -1.88495
+              "latitude": 50.8606,
+              "longitude": -0.082237
             },
             "source": "OPTA",
-            "id": 43
+            "id": 1684
           }
         },
         {
@@ -360,7 +420,7 @@
               "opta": "t4"
             }
           },
-          "position": 6,
+          "position": 7,
           "startingPosition": 6,
           "overall": {
             "played": 10,
@@ -406,121 +466,6 @@
         },
         {
           "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "position": 7,
-          "startingPosition": 7,
-          "overall": {
-            "played": 10,
-            "won": 5,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 22,
-            "goalsAgainst": 18,
-            "goalsDifference": 4,
-            "points": 17
-          },
-          "home": {
-            "played": 6,
-            "won": 3,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 13,
-            "goalsAgainst": 8,
-            "goalsDifference": 5,
-            "points": 11
-          },
-          "away": {
-            "played": 4,
-            "won": 2,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 9,
-            "goalsAgainst": 10,
-            "goalsDifference": -1,
-            "points": 6
-          },
-          "ground": {
-            "name": "Amex Stadium",
-            "city": "Falmer",
-            "capacity": 30750,
-            "location": {
-              "latitude": 50.8606,
-              "longitude": -0.082237
-            },
-            "source": "OPTA",
-            "id": 1684
-          }
-        },
-        {
-          "team": {
-            "name": "West Ham United",
-            "club": {
-              "name": "West Ham United",
-              "shortName": "West Ham",
-              "abbr": "WHU",
-              "id": 25
-            },
-            "teamType": "FIRST",
-            "shortName": "West Ham",
-            "id": 25,
-            "altIds": {
-              "opta": "t21"
-            }
-          },
-          "position": 8,
-          "startingPosition": 9,
-          "overall": {
-            "played": 10,
-            "won": 4,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 16,
-            "goalsAgainst": 16,
-            "goalsDifference": 0,
-            "points": 15
-          },
-          "home": {
-            "played": 5,
-            "won": 2,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 8,
-            "goalsAgainst": 6,
-            "goalsDifference": 2,
-            "points": 8
-          },
-          "away": {
-            "played": 5,
-            "won": 2,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 8,
-            "goalsAgainst": 10,
-            "goalsDifference": -2,
-            "points": 7
-          },
-          "ground": {
-            "name": "London Stadium",
-            "city": "London",
-            "source": "OPTA",
-            "id": 433
-          }
-        },
-        {
-          "team": {
             "name": "Manchester United",
             "club": {
               "name": "Manchester United",
@@ -535,7 +480,7 @@
               "opta": "t1"
             }
           },
-          "position": 9,
+          "position": 8,
           "startingPosition": 8,
           "overall": {
             "played": 9,
@@ -577,6 +522,61 @@
             },
             "source": "OPTA",
             "id": 42
+          }
+        },
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          },
+          "position": 9,
+          "startingPosition": 9,
+          "overall": {
+            "played": 10,
+            "won": 4,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 16,
+            "goalsAgainst": 17,
+            "goalsDifference": -1,
+            "points": 14
+          },
+          "home": {
+            "played": 5,
+            "won": 2,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 8,
+            "goalsAgainst": 7,
+            "goalsDifference": 1,
+            "points": 7
+          },
+          "away": {
+            "played": 5,
+            "won": 2,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 8,
+            "goalsAgainst": 10,
+            "goalsDifference": -2,
+            "points": 7
+          },
+          "ground": {
+            "name": "London Stadium",
+            "city": "London",
+            "source": "OPTA",
+            "id": 433
           }
         },
         {
@@ -816,66 +816,6 @@
         },
         {
           "team": {
-            "name": "Fulham",
-            "club": {
-              "name": "Fulham",
-              "shortName": "Fulham",
-              "abbr": "FUL",
-              "id": 34
-            },
-            "teamType": "FIRST",
-            "shortName": "Fulham",
-            "id": 34,
-            "altIds": {
-              "opta": "t54"
-            }
-          },
-          "position": 14,
-          "startingPosition": 13,
-          "overall": {
-            "played": 10,
-            "won": 3,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 8,
-            "goalsAgainst": 15,
-            "goalsDifference": -7,
-            "points": 12
-          },
-          "home": {
-            "played": 4,
-            "won": 2,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 4,
-            "goalsAgainst": 6,
-            "goalsDifference": -2,
-            "points": 6
-          },
-          "away": {
-            "played": 6,
-            "won": 1,
-            "drawn": 3,
-            "lost": 2,
-            "goalsFor": 4,
-            "goalsAgainst": 9,
-            "goalsDifference": -5,
-            "points": 6
-          },
-          "ground": {
-            "name": "Craven Cottage",
-            "city": "London",
-            "capacity": 25700,
-            "location": {
-              "latitude": 51.4745,
-              "longitude": -0.220993
-            },
-            "source": "OPTA",
-            "id": 16
-          }
-        },
-        {
-          "team": {
             "name": "Nottingham Forest",
             "club": {
               "name": "Nottingham Forest",
@@ -890,7 +830,7 @@
               "opta": "t17"
             }
           },
-          "position": 15,
+          "position": 14,
           "startingPosition": 15,
           "overall": {
             "played": 10,
@@ -934,6 +874,66 @@
         },
         {
           "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          },
+          "position": 15,
+          "startingPosition": 13,
+          "overall": {
+            "played": 10,
+            "won": 3,
+            "drawn": 2,
+            "lost": 5,
+            "goalsFor": 8,
+            "goalsAgainst": 16,
+            "goalsDifference": -8,
+            "points": 11
+          },
+          "home": {
+            "played": 4,
+            "won": 2,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 4,
+            "goalsAgainst": 6,
+            "goalsDifference": -2,
+            "points": 6
+          },
+          "away": {
+            "played": 6,
+            "won": 1,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 4,
+            "goalsAgainst": 10,
+            "goalsDifference": -6,
+            "points": 5
+          },
+          "ground": {
+            "name": "Craven Cottage",
+            "city": "London",
+            "capacity": 25700,
+            "location": {
+              "latitude": 51.4745,
+              "longitude": -0.220993
+            },
+            "source": "OPTA",
+            "id": 16
+          }
+        },
+        {
+          "team": {
             "name": "Everton",
             "club": {
               "name": "Everton",
@@ -952,13 +952,13 @@
           "startingPosition": 16,
           "overall": {
             "played": 10,
-            "won": 2,
-            "drawn": 2,
+            "won": 3,
+            "drawn": 1,
             "lost": 6,
-            "goalsFor": 9,
+            "goalsFor": 10,
             "goalsAgainst": 14,
-            "goalsDifference": -5,
-            "points": 8
+            "goalsDifference": -4,
+            "points": 10
           },
           "home": {
             "played": 5,
@@ -972,13 +972,13 @@
           },
           "away": {
             "played": 5,
-            "won": 1,
-            "drawn": 2,
+            "won": 2,
+            "drawn": 1,
             "lost": 2,
-            "goalsFor": 5,
+            "goalsFor": 6,
             "goalsAgainst": 9,
-            "goalsDifference": -4,
-            "points": 5
+            "goalsDifference": -3,
+            "points": 7
           },
           "ground": {
             "name": "Goodison Park",
@@ -990,61 +990,6 @@
             },
             "source": "OPTA",
             "id": 31
-          }
-        },
-        {
-          "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          },
-          "position": 17,
-          "startingPosition": 17,
-          "overall": {
-            "played": 10,
-            "won": 1,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 8,
-            "goalsAgainst": 17,
-            "goalsDifference": -9,
-            "points": 6
-          },
-          "home": {
-            "played": 4,
-            "won": 0,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 3,
-            "goalsAgainst": 6,
-            "goalsDifference": -3,
-            "points": 1
-          },
-          "away": {
-            "played": 6,
-            "won": 1,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 5,
-            "goalsAgainst": 11,
-            "goalsDifference": -6,
-            "points": 5
-          },
-          "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "id": 81
           }
         },
         {
@@ -1063,7 +1008,7 @@
               "opta": "t91"
             }
           },
-          "position": 18,
+          "position": 17,
           "startingPosition": 19,
           "overall": {
             "played": 10,
@@ -1095,12 +1040,6 @@
             "goalsDifference": -7,
             "points": 1
           },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
           "ground": {
             "name": "Vitality Stadium",
             "city": "Bournemouth",
@@ -1111,6 +1050,67 @@
             },
             "source": "OPTA",
             "id": 215
+          }
+        },
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          },
+          "position": 18,
+          "startingPosition": 17,
+          "overall": {
+            "played": 10,
+            "won": 1,
+            "drawn": 2,
+            "lost": 7,
+            "goalsFor": 8,
+            "goalsAgainst": 18,
+            "goalsDifference": -10,
+            "points": 5
+          },
+          "home": {
+            "played": 4,
+            "won": 0,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 3,
+            "goalsAgainst": 6,
+            "goalsDifference": -3,
+            "points": 1
+          },
+          "away": {
+            "played": 6,
+            "won": 1,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 12,
+            "goalsDifference": -7,
+            "points": 4
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "id": 81
           }
         },
         {
