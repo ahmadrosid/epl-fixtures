@@ -169,9 +169,9 @@
             "won": 7,
             "drawn": 2,
             "lost": 1,
-            "goalsFor": 22,
+            "goalsFor": 23,
             "goalsAgainst": 9,
-            "goalsDifference": 13,
+            "goalsDifference": 14,
             "points": 23
           },
           "home": {
@@ -179,9 +179,9 @@
             "won": 5,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 13,
+            "goalsFor": 14,
             "goalsAgainst": 2,
-            "goalsDifference": 11,
+            "goalsDifference": 12,
             "points": 15
           },
           "away": {
@@ -236,8 +236,8 @@
             "drawn": 1,
             "lost": 2,
             "goalsFor": 26,
-            "goalsAgainst": 13,
-            "goalsDifference": 13,
+            "goalsAgainst": 14,
+            "goalsDifference": 12,
             "points": 22
           },
           "home": {
@@ -246,8 +246,8 @@
             "drawn": 0,
             "lost": 0,
             "goalsFor": 20,
-            "goalsAgainst": 3,
-            "goalsDifference": 17,
+            "goalsAgainst": 4,
+            "goalsDifference": 16,
             "points": 15
           },
           "away": {
@@ -297,14 +297,14 @@
           "position": 5,
           "startingPosition": 2,
           "overall": {
-            "played": 9,
+            "played": 10,
             "won": 7,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 2,
             "goalsFor": 19,
             "goalsAgainst": 7,
             "goalsDifference": 12,
-            "points": 21
+            "points": 22
           },
           "home": {
             "played": 4,
@@ -317,14 +317,14 @@
             "points": 12
           },
           "away": {
-            "played": 5,
+            "played": 6,
             "won": 3,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 2,
             "goalsFor": 9,
             "goalsAgainst": 5,
             "goalsDifference": 4,
-            "points": 9
+            "points": 10
           },
           "annotations": [
             {
@@ -483,24 +483,24 @@
           "position": 8,
           "startingPosition": 8,
           "overall": {
-            "played": 9,
+            "played": 10,
             "won": 5,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 4,
             "goalsFor": 11,
             "goalsAgainst": 13,
             "goalsDifference": -2,
-            "points": 15
+            "points": 16
           },
           "home": {
-            "played": 5,
+            "played": 6,
             "won": 3,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 2,
             "goalsFor": 7,
             "goalsAgainst": 7,
             "goalsDifference": 0,
-            "points": 9
+            "points": 10
           },
           "away": {
             "played": 4,
@@ -958,8 +958,8 @@
             "drawn": 4,
             "lost": 4,
             "goalsFor": 10,
-            "goalsAgainst": 14,
-            "goalsDifference": -4,
+            "goalsAgainst": 15,
+            "goalsDifference": -5,
             "points": 10
           },
           "home": {
@@ -978,8 +978,8 @@
             "drawn": 1,
             "lost": 4,
             "goalsFor": 4,
-            "goalsAgainst": 9,
-            "goalsDifference": -5,
+            "goalsAgainst": 10,
+            "goalsDifference": -6,
             "points": 4
           },
           "ground": {
@@ -1075,9 +1075,9 @@
             "won": 1,
             "drawn": 2,
             "lost": 7,
-            "goalsFor": 8,
+            "goalsFor": 9,
             "goalsAgainst": 20,
-            "goalsDifference": -12,
+            "goalsDifference": -11,
             "points": 5
           },
           "home": {
@@ -1095,9 +1095,9 @@
             "won": 1,
             "drawn": 1,
             "lost": 4,
-            "goalsFor": 5,
+            "goalsFor": 6,
             "goalsAgainst": 14,
-            "goalsDifference": -9,
+            "goalsDifference": -8,
             "points": 4
           },
           "annotations": [
