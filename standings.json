@@ -148,6 +148,72 @@
         },
         {
           "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          },
+          "position": 3,
+          "startingPosition": 2,
+          "overall": {
+            "played": 10,
+            "won": 8,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 20,
+            "goalsAgainst": 7,
+            "goalsDifference": 13,
+            "points": 24
+          },
+          "home": {
+            "played": 4,
+            "won": 4,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 10,
+            "goalsAgainst": 2,
+            "goalsDifference": 8,
+            "points": 12
+          },
+          "away": {
+            "played": 6,
+            "won": 4,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 10,
+            "goalsAgainst": 5,
+            "goalsDifference": 5,
+            "points": 12
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Etihad Stadium",
+            "city": "Manchester",
+            "capacity": 55000,
+            "location": {
+              "latitude": 53.4832,
+              "longitude": -2.20042
+            },
+            "source": "OPTA",
+            "id": 457
+          }
+        },
+        {
+          "team": {
             "name": "Liverpool",
             "club": {
               "name": "Liverpool",
@@ -162,7 +228,7 @@
               "opta": "t14"
             }
           },
-          "position": 3,
+          "position": 4,
           "startingPosition": 4,
           "overall": {
             "played": 10,
@@ -228,7 +294,7 @@
               "opta": "t7"
             }
           },
-          "position": 4,
+          "position": 5,
           "startingPosition": 5,
           "overall": {
             "played": 10,
@@ -263,7 +329,7 @@
           "annotations": [
             {
               "type": "Q",
-              "destination": "EU_CL"
+              "destination": "EU_EL"
             }
           ],
           "ground": {
@@ -276,72 +342,6 @@
             },
             "source": "OPTA",
             "id": 43
-          }
-        },
-        {
-          "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "position": 5,
-          "startingPosition": 2,
-          "overall": {
-            "played": 10,
-            "won": 7,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 19,
-            "goalsAgainst": 7,
-            "goalsDifference": 12,
-            "points": 22
-          },
-          "home": {
-            "played": 4,
-            "won": 4,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 10,
-            "goalsAgainst": 2,
-            "goalsDifference": 8,
-            "points": 12
-          },
-          "away": {
-            "played": 6,
-            "won": 3,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 9,
-            "goalsAgainst": 5,
-            "goalsDifference": 4,
-            "points": 10
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_EL"
-            }
-          ],
-          "ground": {
-            "name": "Etihad Stadium",
-            "city": "Manchester",
-            "capacity": 55000,
-            "location": {
-              "latitude": 53.4832,
-              "longitude": -2.20042
-            },
-            "source": "OPTA",
-            "id": 457
           }
         },
         {
@@ -485,22 +485,22 @@
           "overall": {
             "played": 10,
             "won": 5,
-            "drawn": 1,
-            "lost": 4,
+            "drawn": 0,
+            "lost": 5,
             "goalsFor": 11,
-            "goalsAgainst": 13,
-            "goalsDifference": -2,
-            "points": 16
+            "goalsAgainst": 14,
+            "goalsDifference": -3,
+            "points": 15
           },
           "home": {
             "played": 6,
             "won": 3,
-            "drawn": 1,
-            "lost": 2,
+            "drawn": 0,
+            "lost": 3,
             "goalsFor": 7,
-            "goalsAgainst": 7,
-            "goalsDifference": 0,
-            "points": 10
+            "goalsAgainst": 8,
+            "goalsDifference": -1,
+            "points": 9
           },
           "away": {
             "played": 4,
