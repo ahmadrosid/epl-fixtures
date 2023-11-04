@@ -29,12 +29,12 @@ The data displayed in 2023 with BST TimeZone.
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 11 | 9 | 0 | 2 | 28 | 8 | 20 | 27 |
 | 2 | Tottenham Hotspur | 10 | 8 | 2 | 0 | 22 | 9 | 13 | 26 |
-| 3 | Arsenal | 10 | 7 | 3 | 0 | 23 | 8 | 15 | 24 |
+| 3 | Arsenal | 11 | 7 | 4 | 0 | 23 | 8 | 15 | 25 |
 | 4 | Liverpool | 10 | 7 | 2 | 1 | 23 | 9 | 14 | 23 |
 | 5 | Aston Villa | 10 | 7 | 1 | 2 | 26 | 14 | 12 | 22 |
-| 6 | Brighton & Hove Albion | 11 | 5 | 3 | 3 | 24 | 20 | 4 | 18 |
-| 7 | Manchester United | 11 | 6 | 0 | 5 | 12 | 16 | -4 | 18 |
-| 8 | Newcastle United | 10 | 5 | 2 | 3 | 26 | 11 | 15 | 17 |
+| 6 | Newcastle United | 11 | 5 | 3 | 3 | 26 | 11 | 15 | 18 |
+| 7 | Brighton & Hove Albion | 11 | 5 | 3 | 3 | 24 | 20 | 4 | 18 |
+| 8 | Manchester United | 11 | 6 | 0 | 5 | 12 | 16 | -4 | 18 |
 | 9 | Brentford | 11 | 4 | 4 | 3 | 19 | 14 | 5 | 16 |
 | 10 | Crystal Palace | 11 | 4 | 3 | 4 | 10 | 13 | -3 | 15 |
 | 11 | West Ham United | 11 | 4 | 2 | 5 | 18 | 20 | -2 | 14 |
