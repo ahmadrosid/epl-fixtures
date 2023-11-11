@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -346,6 +346,66 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 6,
+          "startingPosition": 6,
+          "overall": {
+            "played": 12,
+            "won": 6,
+            "drawn": 3,
+            "lost": 3,
+            "goalsFor": 27,
+            "goalsAgainst": 11,
+            "goalsDifference": 16,
+            "points": 21
+          },
+          "home": {
+            "played": 6,
+            "won": 5,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 14,
+            "goalsAgainst": 3,
+            "goalsDifference": 11,
+            "points": 15
+          },
+          "away": {
+            "played": 6,
+            "won": 1,
+            "drawn": 3,
+            "lost": 2,
+            "goalsFor": 13,
+            "goalsAgainst": 8,
+            "goalsDifference": 5,
+            "points": 6
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Manchester United",
             "club": {
               "name": "Manchester United",
@@ -360,7 +420,7 @@
               "opta": "t1"
             }
           },
-          "position": 6,
+          "position": 7,
           "startingPosition": 8,
           "overall": {
             "played": 12,
@@ -402,66 +462,6 @@
             },
             "source": "OPTA",
             "id": 42
-          }
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 7,
-          "startingPosition": 6,
-          "overall": {
-            "played": 11,
-            "won": 6,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 27,
-            "goalsAgainst": 11,
-            "goalsDifference": 16,
-            "points": 20
-          },
-          "home": {
-            "played": 6,
-            "won": 5,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 14,
-            "goalsAgainst": 3,
-            "goalsDifference": 11,
-            "points": 15
-          },
-          "away": {
-            "played": 5,
-            "won": 1,
-            "drawn": 2,
-            "lost": 2,
-            "goalsFor": 13,
-            "goalsAgainst": 8,
-            "goalsDifference": 5,
-            "points": 5
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
           }
         },
         {
@@ -994,6 +994,66 @@
         },
         {
           "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          },
+          "position": 17,
+          "startingPosition": 18,
+          "overall": {
+            "played": 12,
+            "won": 1,
+            "drawn": 4,
+            "lost": 7,
+            "goalsFor": 9,
+            "goalsAgainst": 27,
+            "goalsDifference": -18,
+            "points": 7
+          },
+          "home": {
+            "played": 7,
+            "won": 1,
+            "drawn": 3,
+            "lost": 3,
+            "goalsFor": 4,
+            "goalsAgainst": 10,
+            "goalsDifference": -6,
+            "points": 6
+          },
+          "away": {
+            "played": 5,
+            "won": 0,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 17,
+            "goalsDifference": -12,
+            "points": 1
+          },
+          "ground": {
+            "name": "Vitality Stadium",
+            "city": "Bournemouth",
+            "capacity": 10783,
+            "location": {
+              "latitude": 50.7349,
+              "longitude": -1.83899
+            },
+            "source": "OPTA",
+            "id": 215
+          }
+        },
+        {
+          "team": {
             "name": "Luton Town",
             "club": {
               "name": "Luton Town",
@@ -1008,7 +1068,7 @@
               "opta": "t102"
             }
           },
-          "position": 17,
+          "position": 18,
           "startingPosition": 17,
           "overall": {
             "played": 12,
@@ -1040,61 +1100,6 @@
             "goalsDifference": -9,
             "points": 4
           },
-          "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "id": 81
-          }
-        },
-        {
-          "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "position": 18,
-          "startingPosition": 18,
-          "overall": {
-            "played": 11,
-            "won": 1,
-            "drawn": 3,
-            "lost": 7,
-            "goalsFor": 9,
-            "goalsAgainst": 27,
-            "goalsDifference": -18,
-            "points": 6
-          },
-          "home": {
-            "played": 6,
-            "won": 1,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 4,
-            "goalsAgainst": 10,
-            "goalsDifference": -6,
-            "points": 5
-          },
-          "away": {
-            "played": 5,
-            "won": 0,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 5,
-            "goalsAgainst": 17,
-            "goalsDifference": -12,
-            "points": 1
-          },
           "annotations": [
             {
               "type": "R",
@@ -1102,15 +1107,10 @@
             }
           ],
           "ground": {
-            "name": "Vitality Stadium",
-            "city": "Bournemouth",
-            "capacity": 10783,
-            "location": {
-              "latitude": 50.7349,
-              "longitude": -1.83899
-            },
-            "source": "OPTA",
-            "id": 215
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "id": 81
           }
         },
         {
