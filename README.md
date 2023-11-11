@@ -28,7 +28,7 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 11 | 9 | 0 | 2 | 28 | 8 | 20 | 27 |
-| 2 | Arsenal | 12 | 8 | 3 | 1 | 25 | 10 | 15 | 27 |
+| 2 | Arsenal | 12 | 8 | 3 | 1 | 26 | 10 | 16 | 27 |
 | 3 | Tottenham Hotspur | 12 | 8 | 2 | 2 | 24 | 15 | 9 | 26 |
 | 4 | Liverpool | 11 | 7 | 3 | 1 | 24 | 10 | 14 | 24 |
 | 5 | Aston Villa | 11 | 7 | 1 | 3 | 26 | 16 | 10 | 22 |
@@ -38,13 +38,13 @@ The data displayed in 2023 with BST TimeZone.
 | 9 | Brentford | 11 | 4 | 4 | 3 | 19 | 14 | 5 | 16 |
 | 10 | Chelsea | 11 | 4 | 3 | 4 | 17 | 12 | 5 | 15 |
 | 11 | Wolverhampton Wanderers | 12 | 4 | 3 | 5 | 16 | 20 | -4 | 15 |
-| 12 | Crystal Palace | 12 | 4 | 3 | 5 | 11 | 15 | -4 | 15 |
+| 12 | Crystal Palace | 12 | 4 | 3 | 5 | 12 | 16 | -4 | 15 |
 | 13 | West Ham United | 11 | 4 | 2 | 5 | 18 | 20 | -2 | 14 |
-| 14 | Everton | 12 | 4 | 2 | 6 | 13 | 16 | -3 | 14 |
+| 14 | Everton | 12 | 4 | 2 | 6 | 14 | 17 | -3 | 14 |
 | 15 | Nottingham Forest | 11 | 3 | 4 | 4 | 12 | 15 | -3 | 13 |
 | 16 | Fulham | 11 | 3 | 3 | 5 | 9 | 17 | -8 | 12 |
 | 17 | Luton Town | 12 | 1 | 3 | 8 | 10 | 22 | -12 | 6 |
 | 18 | Bournemouth | 11 | 1 | 3 | 7 | 9 | 27 | -18 | 6 |
-| 19 | Burnley | 12 | 1 | 1 | 10 | 9 | 29 | -20 | 4 |
+| 19 | Burnley | 12 | 1 | 1 | 10 | 9 | 30 | -21 | 4 |
 | 20 | Sheffield United | 11 | 1 | 1 | 9 | 9 | 30 | -21 | 4 |
 <!-- END_STANDINGS -->
