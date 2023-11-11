@@ -32,8 +32,8 @@ The data displayed in 2023 with BST TimeZone.
 | 3 | Tottenham Hotspur | 12 | 8 | 2 | 2 | 24 | 15 | 9 | 26 |
 | 4 | Liverpool | 11 | 7 | 3 | 1 | 24 | 10 | 14 | 24 |
 | 5 | Aston Villa | 11 | 7 | 1 | 3 | 26 | 16 | 10 | 22 |
-| 6 | Newcastle United | 12 | 6 | 3 | 3 | 27 | 11 | 16 | 21 |
-| 7 | Manchester United | 12 | 7 | 0 | 5 | 13 | 16 | -3 | 21 |
+| 6 | Manchester United | 12 | 7 | 0 | 5 | 13 | 16 | -3 | 21 |
+| 7 | Newcastle United | 12 | 6 | 2 | 4 | 27 | 13 | 14 | 20 |
 | 8 | Brighton & Hove Albion | 11 | 5 | 3 | 3 | 24 | 20 | 4 | 18 |
 | 9 | Brentford | 11 | 4 | 4 | 3 | 19 | 14 | 5 | 16 |
 | 10 | Chelsea | 11 | 4 | 3 | 4 | 17 | 12 | 5 | 15 |
@@ -43,7 +43,7 @@ The data displayed in 2023 with BST TimeZone.
 | 14 | Everton | 12 | 4 | 2 | 6 | 14 | 17 | -3 | 14 |
 | 15 | Nottingham Forest | 11 | 3 | 4 | 4 | 12 | 15 | -3 | 13 |
 | 16 | Fulham | 11 | 3 | 3 | 5 | 9 | 17 | -8 | 12 |
-| 17 | Bournemouth | 12 | 1 | 4 | 7 | 9 | 27 | -18 | 7 |
+| 17 | Bournemouth | 12 | 2 | 3 | 7 | 11 | 27 | -16 | 9 |
 | 18 | Luton Town | 12 | 1 | 3 | 8 | 10 | 22 | -12 | 6 |
 | 19 | Burnley | 12 | 1 | 1 | 10 | 9 | 30 | -21 | 4 |
 | 20 | Sheffield United | 11 | 1 | 1 | 9 | 9 | 30 | -21 | 4 |
