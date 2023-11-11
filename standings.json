@@ -21,67 +21,6 @@
       "entries": [
         {
           "team": {
-            "name": "Tottenham Hotspur",
-            "club": {
-              "name": "Tottenham Hotspur",
-              "shortName": "Spurs",
-              "abbr": "TOT",
-              "id": 21
-            },
-            "teamType": "FIRST",
-            "shortName": "Tottenham Hotspur",
-            "id": 21,
-            "altIds": {
-              "opta": "t6"
-            }
-          },
-          "position": 1,
-          "startingPosition": 2,
-          "overall": {
-            "played": 12,
-            "won": 9,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 24,
-            "goalsAgainst": 13,
-            "goalsDifference": 11,
-            "points": 29
-          },
-          "home": {
-            "played": 5,
-            "won": 4,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 9,
-            "goalsAgainst": 6,
-            "goalsDifference": 3,
-            "points": 12
-          },
-          "away": {
-            "played": 7,
-            "won": 5,
-            "drawn": 2,
-            "lost": 0,
-            "goalsFor": 15,
-            "goalsAgainst": 7,
-            "goalsDifference": 8,
-            "points": 17
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Tottenham Hotspur Stadium",
-            "city": "London",
-            "source": "OPTA",
-            "id": 1734
-          }
-        },
-        {
-          "team": {
             "name": "Manchester City",
             "club": {
               "name": "Manchester City",
@@ -96,7 +35,7 @@
               "opta": "t43"
             }
           },
-          "position": 2,
+          "position": 1,
           "startingPosition": 1,
           "overall": {
             "played": 11,
@@ -144,6 +83,67 @@
             },
             "source": "OPTA",
             "id": 457
+          }
+        },
+        {
+          "team": {
+            "name": "Tottenham Hotspur",
+            "club": {
+              "name": "Tottenham Hotspur",
+              "shortName": "Spurs",
+              "abbr": "TOT",
+              "id": 21
+            },
+            "teamType": "FIRST",
+            "shortName": "Tottenham Hotspur",
+            "id": 21,
+            "altIds": {
+              "opta": "t6"
+            }
+          },
+          "position": 2,
+          "startingPosition": 2,
+          "overall": {
+            "played": 12,
+            "won": 8,
+            "drawn": 3,
+            "lost": 1,
+            "goalsFor": 24,
+            "goalsAgainst": 14,
+            "goalsDifference": 10,
+            "points": 27
+          },
+          "home": {
+            "played": 5,
+            "won": 4,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 9,
+            "goalsAgainst": 6,
+            "goalsDifference": 3,
+            "points": 12
+          },
+          "away": {
+            "played": 7,
+            "won": 4,
+            "drawn": 3,
+            "lost": 0,
+            "goalsFor": 15,
+            "goalsAgainst": 8,
+            "goalsDifference": 7,
+            "points": 15
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Tottenham Hotspur Stadium",
+            "city": "London",
+            "source": "OPTA",
+            "id": 1734
           }
         },
         {
@@ -833,22 +833,22 @@
           "overall": {
             "played": 12,
             "won": 3,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 14,
+            "drawn": 4,
+            "lost": 5,
+            "goalsFor": 15,
             "goalsAgainst": 20,
-            "goalsDifference": -6,
-            "points": 12
+            "goalsDifference": -5,
+            "points": 13
           },
           "home": {
             "played": 6,
             "won": 1,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 7,
+            "drawn": 3,
+            "lost": 2,
+            "goalsFor": 8,
             "goalsAgainst": 12,
-            "goalsDifference": -5,
-            "points": 5
+            "goalsDifference": -4,
+            "points": 6
           },
           "away": {
             "played": 6,
