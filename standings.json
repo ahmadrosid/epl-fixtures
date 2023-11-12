@@ -298,23 +298,23 @@
           "startingPosition": 5,
           "overall": {
             "played": 12,
-            "won": 7,
-            "drawn": 2,
+            "won": 8,
+            "drawn": 1,
             "lost": 3,
-            "goalsFor": 26,
+            "goalsFor": 27,
             "goalsAgainst": 16,
-            "goalsDifference": 10,
-            "points": 23
+            "goalsDifference": 11,
+            "points": 25
           },
           "home": {
             "played": 6,
-            "won": 5,
-            "drawn": 1,
+            "won": 6,
+            "drawn": 0,
             "lost": 0,
-            "goalsFor": 20,
+            "goalsFor": 21,
             "goalsAgainst": 4,
-            "goalsDifference": 16,
-            "points": 16
+            "goalsDifference": 17,
+            "points": 18
           },
           "away": {
             "played": 6,
@@ -953,12 +953,12 @@
           "overall": {
             "played": 12,
             "won": 3,
-            "drawn": 4,
-            "lost": 5,
+            "drawn": 3,
+            "lost": 6,
             "goalsFor": 9,
-            "goalsAgainst": 17,
-            "goalsDifference": -8,
-            "points": 13
+            "goalsAgainst": 18,
+            "goalsDifference": -9,
+            "points": 12
           },
           "home": {
             "played": 5,
@@ -973,12 +973,12 @@
           "away": {
             "played": 7,
             "won": 1,
-            "drawn": 4,
-            "lost": 2,
+            "drawn": 3,
+            "lost": 3,
             "goalsFor": 5,
-            "goalsAgainst": 10,
-            "goalsDifference": -5,
-            "points": 7
+            "goalsAgainst": 11,
+            "goalsDifference": -6,
+            "points": 6
           },
           "ground": {
             "name": "Craven Cottage",
