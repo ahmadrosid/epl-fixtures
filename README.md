@@ -28,23 +28,23 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Manchester City | 11 | 9 | 0 | 2 | 28 | 8 | 20 | 27 |
-| 2 | Arsenal | 12 | 8 | 3 | 1 | 26 | 10 | 16 | 27 |
-| 3 | Liverpool | 12 | 8 | 3 | 1 | 26 | 10 | 16 | 27 |
+| 2 | Liverpool | 12 | 8 | 3 | 1 | 27 | 10 | 17 | 27 |
+| 3 | Arsenal | 12 | 8 | 3 | 1 | 26 | 10 | 16 | 27 |
 | 4 | Tottenham Hotspur | 12 | 8 | 2 | 2 | 24 | 15 | 9 | 26 |
-| 5 | Aston Villa | 12 | 8 | 1 | 3 | 29 | 16 | 13 | 25 |
-| 6 | Brighton & Hove Albion | 12 | 6 | 3 | 3 | 25 | 20 | 5 | 21 |
-| 7 | Manchester United | 12 | 7 | 0 | 5 | 13 | 16 | -3 | 21 |
-| 8 | Newcastle United | 12 | 6 | 2 | 4 | 27 | 13 | 14 | 20 |
-| 9 | Brentford | 12 | 4 | 4 | 4 | 19 | 16 | 3 | 16 |
-| 10 | Chelsea | 11 | 4 | 3 | 4 | 17 | 12 | 5 | 15 |
-| 11 | West Ham United | 12 | 4 | 3 | 5 | 20 | 22 | -2 | 15 |
+| 5 | Aston Villa | 12 | 8 | 1 | 3 | 29 | 17 | 12 | 25 |
+| 6 | Manchester United | 12 | 7 | 0 | 5 | 13 | 16 | -3 | 21 |
+| 7 | Newcastle United | 12 | 6 | 2 | 4 | 27 | 13 | 14 | 20 |
+| 8 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 25 | 21 | 4 | 19 |
+| 9 | West Ham United | 12 | 5 | 2 | 5 | 21 | 22 | -1 | 17 |
+| 10 | Brentford | 12 | 4 | 4 | 4 | 19 | 17 | 2 | 16 |
+| 11 | Chelsea | 11 | 4 | 3 | 4 | 17 | 12 | 5 | 15 |
 | 12 | Wolverhampton Wanderers | 12 | 4 | 3 | 5 | 16 | 20 | -4 | 15 |
 | 13 | Crystal Palace | 12 | 4 | 3 | 5 | 12 | 16 | -4 | 15 |
 | 14 | Everton | 12 | 4 | 2 | 6 | 14 | 17 | -3 | 14 |
-| 15 | Nottingham Forest | 12 | 3 | 5 | 4 | 14 | 17 | -3 | 14 |
-| 16 | Fulham | 12 | 3 | 3 | 6 | 9 | 20 | -11 | 12 |
+| 15 | Nottingham Forest | 12 | 3 | 4 | 5 | 14 | 18 | -4 | 13 |
+| 16 | Fulham | 12 | 3 | 3 | 6 | 10 | 20 | -10 | 12 |
 | 17 | Bournemouth | 12 | 2 | 3 | 7 | 11 | 27 | -16 | 9 |
 | 18 | Luton Town | 12 | 1 | 3 | 8 | 10 | 22 | -12 | 6 |
-| 19 | Burnley | 12 | 1 | 1 | 10 | 9 | 30 | -21 | 4 |
-| 20 | Sheffield United | 12 | 1 | 1 | 10 | 9 | 31 | -22 | 4 |
+| 19 | Sheffield United | 12 | 1 | 2 | 9 | 10 | 31 | -21 | 5 |
+| 20 | Burnley | 12 | 1 | 1 | 10 | 9 | 30 | -21 | 4 |
 <!-- END_STANDINGS -->
