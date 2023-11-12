@@ -27,7 +27,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Manchester City | 12 | 9 | 0 | 3 | 29 | 10 | 19 | 27 |
+| 1 | Manchester City | 12 | 9 | 1 | 2 | 30 | 10 | 20 | 28 |
 | 2 | Liverpool | 12 | 8 | 3 | 1 | 27 | 10 | 17 | 27 |
 | 3 | Arsenal | 12 | 8 | 3 | 1 | 26 | 10 | 16 | 27 |
 | 4 | Tottenham Hotspur | 12 | 8 | 2 | 2 | 24 | 15 | 9 | 26 |
@@ -35,8 +35,8 @@ The data displayed in 2023 with BST TimeZone.
 | 6 | Manchester United | 12 | 7 | 0 | 5 | 13 | 16 | -3 | 21 |
 | 7 | Newcastle United | 12 | 6 | 2 | 4 | 27 | 13 | 14 | 20 |
 | 8 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 25 | 21 | 4 | 19 |
-| 9 | Chelsea | 12 | 5 | 3 | 4 | 19 | 13 | 6 | 18 |
-| 10 | West Ham United | 12 | 5 | 2 | 5 | 21 | 22 | -1 | 17 |
+| 9 | West Ham United | 12 | 5 | 2 | 5 | 21 | 22 | -1 | 17 |
+| 10 | Chelsea | 12 | 4 | 4 | 4 | 19 | 14 | 5 | 16 |
 | 11 | Brentford | 12 | 4 | 4 | 4 | 19 | 17 | 2 | 16 |
 | 12 | Wolverhampton Wanderers | 12 | 4 | 3 | 5 | 16 | 20 | -4 | 15 |
 | 13 | Crystal Palace | 12 | 4 | 3 | 5 | 12 | 16 | -4 | 15 |
