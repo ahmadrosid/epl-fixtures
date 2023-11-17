@@ -13,11 +13,15 @@
     },
     "id": 578
   },
-  "live": false,
-  "dynamicallyGenerated": true,
+  "timestamp": {
+    "millis": 1700225081000,
+    "label": "17 November 2023, 12:44"
+  },
+  "live": true,
+  "dynamicallyGenerated": false,
   "tables": [
     {
-      "gameWeek": 0,
+      "gameWeek": 12,
       "entries": [
         {
           "team": {
@@ -816,66 +820,6 @@
         },
         {
           "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "position": 14,
-          "startingPosition": 16,
-          "overall": {
-            "played": 12,
-            "won": 4,
-            "drawn": 2,
-            "lost": 6,
-            "goalsFor": 14,
-            "goalsAgainst": 17,
-            "goalsDifference": -3,
-            "points": 14
-          },
-          "home": {
-            "played": 6,
-            "won": 1,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 5,
-            "goalsAgainst": 6,
-            "goalsDifference": -1,
-            "points": 4
-          },
-          "away": {
-            "played": 6,
-            "won": 3,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 9,
-            "goalsAgainst": 11,
-            "goalsDifference": -2,
-            "points": 10
-          },
-          "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
-            "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
-            },
-            "source": "OPTA",
-            "id": 31
-          }
-        },
-        {
-          "team": {
             "name": "Nottingham Forest",
             "club": {
               "name": "Nottingham Forest",
@@ -890,7 +834,7 @@
               "opta": "t17"
             }
           },
-          "position": 15,
+          "position": 14,
           "startingPosition": 13,
           "overall": {
             "played": 12,
@@ -948,7 +892,7 @@
               "opta": "t54"
             }
           },
-          "position": 16,
+          "position": 15,
           "startingPosition": 15,
           "overall": {
             "played": 12,
@@ -1008,7 +952,7 @@
               "opta": "t91"
             }
           },
-          "position": 17,
+          "position": 16,
           "startingPosition": 18,
           "overall": {
             "played": 12,
@@ -1068,7 +1012,7 @@
               "opta": "t102"
             }
           },
-          "position": 18,
+          "position": 17,
           "startingPosition": 17,
           "overall": {
             "played": 12,
@@ -1100,12 +1044,6 @@
             "goalsDifference": -9,
             "points": 4
           },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
           "ground": {
             "name": "Kenilworth Road",
             "city": "Luton",
@@ -1129,7 +1067,7 @@
               "opta": "t49"
             }
           },
-          "position": 19,
+          "position": 18,
           "startingPosition": 20,
           "overall": {
             "played": 12,
@@ -1177,6 +1115,76 @@
             },
             "source": "OPTA",
             "id": 206
+          }
+        },
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 19,
+          "startingPosition": 16,
+          "overall": {
+            "played": 12,
+            "won": 4,
+            "drawn": 2,
+            "lost": 6,
+            "goalsFor": 14,
+            "goalsAgainst": 17,
+            "goalsDifference": -3,
+            "points": 4
+          },
+          "home": {
+            "played": 6,
+            "won": 1,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 6,
+            "goalsDifference": -1,
+            "points": 4
+          },
+          "away": {
+            "played": 6,
+            "won": 3,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 9,
+            "goalsAgainst": 11,
+            "goalsDifference": -2,
+            "points": 10
+          },
+          "annotations": [
+            {
+              "type": "PD",
+              "description": "Deducted 10 points for a breach of the premier league’s profitability and sustainability rules"
+            },
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
           }
         },
         {
