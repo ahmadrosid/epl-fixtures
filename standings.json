@@ -13,15 +13,11 @@
     },
     "id": 578
   },
-  "timestamp": {
-    "millis": 1700489595000,
-    "label": "20 November 2023, 14:13"
-  },
   "live": false,
-  "dynamicallyGenerated": false,
+  "dynamicallyGenerated": true,
   "tables": [
     {
-      "gameWeek": 12,
+      "gameWeek": 0,
       "entries": [
         {
           "team": {
