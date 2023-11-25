@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -346,6 +346,66 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 6,
+          "startingPosition": 7,
+          "overall": {
+            "played": 13,
+            "won": 6,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 27,
+            "goalsAgainst": 13,
+            "goalsDifference": 14,
+            "points": 21
+          },
+          "home": {
+            "played": 7,
+            "won": 5,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 14,
+            "goalsAgainst": 3,
+            "goalsDifference": 11,
+            "points": 16
+          },
+          "away": {
+            "played": 6,
+            "won": 1,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 13,
+            "goalsAgainst": 10,
+            "goalsDifference": 3,
+            "points": 5
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Manchester United",
             "club": {
               "name": "Manchester United",
@@ -360,7 +420,7 @@
               "opta": "t1"
             }
           },
-          "position": 6,
+          "position": 7,
           "startingPosition": 6,
           "overall": {
             "played": 12,
@@ -406,66 +466,6 @@
         },
         {
           "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 7,
-          "startingPosition": 7,
-          "overall": {
-            "played": 12,
-            "won": 6,
-            "drawn": 2,
-            "lost": 4,
-            "goalsFor": 27,
-            "goalsAgainst": 13,
-            "goalsDifference": 14,
-            "points": 20
-          },
-          "home": {
-            "played": 6,
-            "won": 5,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 14,
-            "goalsAgainst": 3,
-            "goalsDifference": 11,
-            "points": 15
-          },
-          "away": {
-            "played": 6,
-            "won": 1,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 13,
-            "goalsAgainst": 10,
-            "goalsDifference": 3,
-            "points": 5
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
-          }
-        },
-        {
-          "team": {
             "name": "Brighton & Hove Albion",
             "club": {
               "name": "Brighton and Hove Albion",
@@ -483,13 +483,13 @@
           "position": 8,
           "startingPosition": 8,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 5,
             "drawn": 4,
-            "lost": 3,
+            "lost": 4,
             "goalsFor": 25,
-            "goalsAgainst": 21,
-            "goalsDifference": 4,
+            "goalsAgainst": 22,
+            "goalsDifference": 3,
             "points": 19
           },
           "home": {
@@ -503,13 +503,13 @@
             "points": 12
           },
           "away": {
-            "played": 5,
+            "played": 6,
             "won": 2,
             "drawn": 1,
-            "lost": 2,
+            "lost": 3,
             "goalsFor": 10,
-            "goalsAgainst": 11,
-            "goalsDifference": -1,
+            "goalsAgainst": 12,
+            "goalsDifference": -2,
             "points": 7
           },
           "ground": {
@@ -543,14 +543,14 @@
           "position": 9,
           "startingPosition": 9,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 5,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 5,
             "goalsFor": 21,
             "goalsAgainst": 22,
             "goalsDifference": -1,
-            "points": 17
+            "points": 18
           },
           "home": {
             "played": 6,
@@ -563,14 +563,14 @@
             "points": 10
           },
           "away": {
-            "played": 6,
+            "played": 7,
             "won": 2,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 3,
             "goalsFor": 10,
             "goalsAgainst": 13,
             "goalsDifference": -3,
-            "points": 7
+            "points": 8
           },
           "ground": {
             "name": "London Stadium",
@@ -598,14 +598,14 @@
           "position": 10,
           "startingPosition": 10,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 4,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 4,
             "goalsFor": 21,
             "goalsAgainst": 16,
             "goalsDifference": 5,
-            "points": 16
+            "points": 17
           },
           "home": {
             "played": 7,
@@ -618,14 +618,14 @@
             "points": 6
           },
           "away": {
-            "played": 5,
+            "played": 6,
             "won": 3,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 1,
             "goalsFor": 11,
             "goalsAgainst": 5,
             "goalsDifference": 6,
-            "points": 10
+            "points": 11
           },
           "ground": {
             "name": "Stamford Bridge",
@@ -696,6 +696,124 @@
         },
         {
           "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 12,
+          "startingPosition": 15,
+          "overall": {
+            "played": 13,
+            "won": 4,
+            "drawn": 4,
+            "lost": 5,
+            "goalsFor": 15,
+            "goalsAgainst": 18,
+            "goalsDifference": -3,
+            "points": 16
+          },
+          "home": {
+            "played": 6,
+            "won": 3,
+            "drawn": 3,
+            "lost": 0,
+            "goalsFor": 9,
+            "goalsAgainst": 5,
+            "goalsDifference": 4,
+            "points": 12
+          },
+          "away": {
+            "played": 7,
+            "won": 1,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 13,
+            "goalsDifference": -7,
+            "points": 4
+          },
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "id": 1192
+          }
+        },
+        {
+          "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          },
+          "position": 13,
+          "startingPosition": 13,
+          "overall": {
+            "played": 13,
+            "won": 4,
+            "drawn": 4,
+            "lost": 5,
+            "goalsFor": 12,
+            "goalsAgainst": 16,
+            "goalsDifference": -4,
+            "points": 16
+          },
+          "home": {
+            "played": 6,
+            "won": 1,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 6,
+            "goalsAgainst": 8,
+            "goalsDifference": -2,
+            "points": 5
+          },
+          "away": {
+            "played": 7,
+            "won": 3,
+            "drawn": 2,
+            "lost": 2,
+            "goalsFor": 6,
+            "goalsAgainst": 8,
+            "goalsDifference": -2,
+            "points": 11
+          },
+          "ground": {
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
+            "location": {
+              "latitude": 51.3979,
+              "longitude": -0.085923
+            },
+            "source": "OPTA",
+            "id": 45
+          }
+        },
+        {
+          "team": {
             "name": "Wolverhampton Wanderers",
             "club": {
               "name": "Wolverhampton Wanderers",
@@ -710,7 +828,7 @@
               "opta": "t39"
             }
           },
-          "position": 12,
+          "position": 14,
           "startingPosition": 12,
           "overall": {
             "played": 12,
@@ -752,124 +870,6 @@
             },
             "source": "OPTA",
             "id": 913
-          }
-        },
-        {
-          "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "position": 13,
-          "startingPosition": 13,
-          "overall": {
-            "played": 12,
-            "won": 4,
-            "drawn": 3,
-            "lost": 5,
-            "goalsFor": 12,
-            "goalsAgainst": 16,
-            "goalsDifference": -4,
-            "points": 15
-          },
-          "home": {
-            "played": 6,
-            "won": 1,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 6,
-            "goalsAgainst": 8,
-            "goalsDifference": -2,
-            "points": 5
-          },
-          "away": {
-            "played": 6,
-            "won": 3,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 6,
-            "goalsAgainst": 8,
-            "goalsDifference": -2,
-            "points": 10
-          },
-          "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
-            "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
-            },
-            "source": "OPTA",
-            "id": 45
-          }
-        },
-        {
-          "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "position": 14,
-          "startingPosition": 15,
-          "overall": {
-            "played": 12,
-            "won": 3,
-            "drawn": 4,
-            "lost": 5,
-            "goalsFor": 14,
-            "goalsAgainst": 18,
-            "goalsDifference": -4,
-            "points": 13
-          },
-          "home": {
-            "played": 5,
-            "won": 2,
-            "drawn": 3,
-            "lost": 0,
-            "goalsFor": 8,
-            "goalsAgainst": 5,
-            "goalsDifference": 3,
-            "points": 9
-          },
-          "away": {
-            "played": 7,
-            "won": 1,
-            "drawn": 1,
-            "lost": 5,
-            "goalsFor": 6,
-            "goalsAgainst": 13,
-            "goalsDifference": -7,
-            "points": 4
-          },
-          "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "id": 1192
           }
         },
         {
@@ -951,14 +951,14 @@
           "position": 16,
           "startingPosition": 17,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 2,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 7,
             "goalsFor": 11,
             "goalsAgainst": 27,
             "goalsDifference": -16,
-            "points": 9
+            "points": 10
           },
           "home": {
             "played": 7,
@@ -971,14 +971,14 @@
             "points": 8
           },
           "away": {
-            "played": 5,
+            "played": 6,
             "won": 0,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 4,
             "goalsFor": 5,
             "goalsAgainst": 17,
             "goalsDifference": -12,
-            "points": 1
+            "points": 2
           },
           "ground": {
             "name": "Vitality Stadium",
@@ -1011,24 +1011,24 @@
           "position": 17,
           "startingPosition": 18,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 1,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 8,
             "goalsFor": 10,
             "goalsAgainst": 22,
             "goalsDifference": -12,
-            "points": 6
+            "points": 7
           },
           "home": {
-            "played": 5,
+            "played": 6,
             "won": 0,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 3,
             "goalsFor": 4,
             "goalsAgainst": 7,
             "goalsDifference": -3,
-            "points": 2
+            "points": 3
           },
           "away": {
             "played": 7,
@@ -1066,24 +1066,24 @@
           "position": 18,
           "startingPosition": 19,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 1,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 9,
             "goalsFor": 10,
             "goalsAgainst": 31,
             "goalsDifference": -21,
-            "points": 5
+            "points": 6
           },
           "home": {
-            "played": 6,
+            "played": 7,
             "won": 1,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 4,
             "goalsFor": 6,
             "goalsAgainst": 16,
             "goalsDifference": -10,
-            "points": 4
+            "points": 5
           },
           "away": {
             "played": 6,
@@ -1115,6 +1115,72 @@
         },
         {
           "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          },
+          "position": 19,
+          "startingPosition": 20,
+          "overall": {
+            "played": 13,
+            "won": 1,
+            "drawn": 2,
+            "lost": 10,
+            "goalsFor": 9,
+            "goalsAgainst": 30,
+            "goalsDifference": -21,
+            "points": 5
+          },
+          "home": {
+            "played": 7,
+            "won": 0,
+            "drawn": 1,
+            "lost": 6,
+            "goalsFor": 4,
+            "goalsAgainst": 18,
+            "goalsDifference": -14,
+            "points": 1
+          },
+          "away": {
+            "played": 6,
+            "won": 1,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 12,
+            "goalsDifference": -7,
+            "points": 4
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Turf Moor",
+            "city": "Burnley",
+            "capacity": 21401,
+            "location": {
+              "latitude": 53.7885,
+              "longitude": -2.23149
+            },
+            "source": "OPTA",
+            "id": 47
+          }
+        },
+        {
+          "team": {
             "name": "Everton",
             "club": {
               "name": "Everton",
@@ -1129,7 +1195,7 @@
               "opta": "t11"
             }
           },
-          "position": 19,
+          "position": 20,
           "startingPosition": 14,
           "overall": {
             "played": 12,
@@ -1181,72 +1247,6 @@
             },
             "source": "OPTA",
             "id": 31
-          }
-        },
-        {
-          "team": {
-            "name": "Burnley",
-            "club": {
-              "name": "Burnley",
-              "shortName": "Burnley",
-              "abbr": "BUR",
-              "id": 43
-            },
-            "teamType": "FIRST",
-            "shortName": "Burnley",
-            "id": 43,
-            "altIds": {
-              "opta": "t90"
-            }
-          },
-          "position": 20,
-          "startingPosition": 20,
-          "overall": {
-            "played": 12,
-            "won": 1,
-            "drawn": 1,
-            "lost": 10,
-            "goalsFor": 9,
-            "goalsAgainst": 30,
-            "goalsDifference": -21,
-            "points": 4
-          },
-          "home": {
-            "played": 6,
-            "won": 0,
-            "drawn": 0,
-            "lost": 6,
-            "goalsFor": 4,
-            "goalsAgainst": 18,
-            "goalsDifference": -14,
-            "points": 0
-          },
-          "away": {
-            "played": 6,
-            "won": 1,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 5,
-            "goalsAgainst": 12,
-            "goalsDifference": -7,
-            "points": 4
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Turf Moor",
-            "city": "Burnley",
-            "capacity": 21401,
-            "location": {
-              "latitude": 53.7885,
-              "longitude": -2.23149
-            },
-            "source": "OPTA",
-            "id": 47
           }
         }
       ]
