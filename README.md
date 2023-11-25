@@ -8,10 +8,10 @@ The data displayed in 2023 with BST TimeZone.
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
 | 25 Nov, 12:30 GMT | Manchester City | 1 | Liverpool | 1 | Completed |
-| 25 Nov, 15:00 GMT | Burnley | 1 | West Ham United | 0 | Live |
-| 25 Nov, 15:00 GMT | Luton Town | 0 | Crystal Palace | 0 | Live |
-| 25 Nov, 15:00 GMT | Newcastle United | 3 | Chelsea | 1 | Live |
-| 25 Nov, 15:00 GMT | Nottingham Forest | 1 | Brighton & Hove Albion | 3 | Live |
+| 25 Nov, 15:00 GMT | Burnley | 1 | West Ham United | 2 | Live |
+| 25 Nov, 15:00 GMT | Luton Town | 2 | Crystal Palace | 1 | Live |
+| 25 Nov, 15:00 GMT | Newcastle United | 4 | Chelsea | 1 | Live |
+| 25 Nov, 15:00 GMT | Nottingham Forest | 2 | Brighton & Hove Albion | 3 | Live |
 | 25 Nov, 15:00 GMT | Sheffield United | 0 | Bournemouth | 3 | Live |
 | 25 Nov, 17:30 GMT | Brentford | 0 | Arsenal | 0 | Upcoming |
 | 26 Nov, 14:00 GMT | Tottenham Hotspur | N/A | Aston Villa | N/A | Upcoming |
@@ -41,19 +41,19 @@ The data displayed in 2023 with BST TimeZone.
 | 3 | Arsenal | 12 | 8 | 3 | 1 | 26 | 10 | 16 | 27 |
 | 4 | Tottenham Hotspur | 12 | 8 | 2 | 2 | 24 | 15 | 9 | 26 |
 | 5 | Aston Villa | 12 | 8 | 1 | 3 | 29 | 17 | 12 | 25 |
-| 6 | Newcastle United | 13 | 7 | 2 | 4 | 30 | 14 | 16 | 23 |
-| 7 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 28 | 22 | 6 | 22 |
+| 6 | Newcastle United | 13 | 7 | 2 | 4 | 31 | 14 | 17 | 23 |
+| 7 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 28 | 23 | 5 | 22 |
 | 8 | Manchester United | 12 | 7 | 0 | 5 | 13 | 16 | -3 | 21 |
-| 9 | West Ham United | 13 | 5 | 2 | 6 | 21 | 23 | -2 | 17 |
-| 10 | Chelsea | 13 | 4 | 4 | 5 | 22 | 19 | 3 | 16 |
+| 9 | West Ham United | 13 | 6 | 2 | 5 | 23 | 23 | 0 | 20 |
+| 10 | Chelsea | 13 | 4 | 4 | 5 | 22 | 20 | 2 | 16 |
 | 11 | Brentford | 12 | 4 | 4 | 4 | 19 | 17 | 2 | 16 |
-| 12 | Crystal Palace | 13 | 4 | 4 | 5 | 12 | 16 | -4 | 16 |
-| 13 | Wolverhampton Wanderers | 12 | 4 | 3 | 5 | 16 | 20 | -4 | 15 |
-| 14 | Nottingham Forest | 13 | 3 | 4 | 6 | 15 | 21 | -6 | 13 |
+| 12 | Wolverhampton Wanderers | 12 | 4 | 3 | 5 | 16 | 20 | -4 | 15 |
+| 13 | Crystal Palace | 13 | 4 | 3 | 6 | 13 | 18 | -5 | 15 |
+| 14 | Nottingham Forest | 13 | 3 | 4 | 6 | 16 | 21 | -5 | 13 |
 | 15 | Fulham | 12 | 3 | 3 | 6 | 10 | 20 | -10 | 12 |
 | 16 | Bournemouth | 13 | 3 | 3 | 7 | 14 | 27 | -13 | 12 |
-| 17 | Luton Town | 13 | 1 | 4 | 8 | 10 | 22 | -12 | 7 |
-| 18 | Burnley | 13 | 2 | 1 | 10 | 10 | 30 | -20 | 7 |
-| 19 | Sheffield United | 13 | 1 | 2 | 10 | 10 | 34 | -24 | 5 |
-| 20 | Everton | 12 | 4 | 2 | 6 | 14 | 17 | -3 | 4 |
+| 17 | Luton Town | 13 | 2 | 3 | 8 | 12 | 23 | -11 | 9 |
+| 18 | Sheffield United | 13 | 1 | 2 | 10 | 10 | 34 | -24 | 5 |
+| 19 | Everton | 12 | 4 | 2 | 6 | 14 | 17 | -3 | 4 |
+| 20 | Burnley | 13 | 1 | 1 | 11 | 10 | 32 | -22 | 4 |
 <!-- END_STANDINGS -->
