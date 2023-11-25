@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 25 Nov, 12:30 GMT | Manchester City | 1 | Liverpool | 1 | Live |
+| 25 Nov, 12:30 GMT | Manchester City | 1 | Liverpool | 1 | Completed |
 | 25 Nov, 15:00 GMT | Burnley | 0 | West Ham United | 0 | Upcoming |
 | 25 Nov, 15:00 GMT | Luton Town | 0 | Crystal Palace | 0 | Upcoming |
 | 25 Nov, 15:00 GMT | Newcastle United | 0 | Chelsea | 0 | Upcoming |

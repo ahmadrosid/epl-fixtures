@@ -89,11 +89,12 @@
         "id": 457
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "D",
       "clock": {
-        "secs": 4920,
-        "label": "82'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
