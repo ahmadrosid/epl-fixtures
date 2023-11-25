@@ -7,12 +7,12 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 25 Nov, 12:30 GMT | Manchester City | 1 | Liverpool | 0 | Live |
-| 25 Nov, 15:00 GMT | Burnley | N/A | West Ham United | N/A | Upcoming |
-| 25 Nov, 15:00 GMT | Luton Town | N/A | Crystal Palace | N/A | Upcoming |
-| 25 Nov, 15:00 GMT | Newcastle United | N/A | Chelsea | N/A | Upcoming |
-| 25 Nov, 15:00 GMT | Nottingham Forest | N/A | Brighton & Hove Albion | N/A | Upcoming |
-| 25 Nov, 15:00 GMT | Sheffield United | N/A | Bournemouth | N/A | Upcoming |
+| 25 Nov, 12:30 GMT | Manchester City | 1 | Liverpool | 1 | Live |
+| 25 Nov, 15:00 GMT | Burnley | 0 | West Ham United | 0 | Upcoming |
+| 25 Nov, 15:00 GMT | Luton Town | 0 | Crystal Palace | 0 | Upcoming |
+| 25 Nov, 15:00 GMT | Newcastle United | 0 | Chelsea | 0 | Upcoming |
+| 25 Nov, 15:00 GMT | Nottingham Forest | 0 | Brighton & Hove Albion | 0 | Upcoming |
+| 25 Nov, 15:00 GMT | Sheffield United | 0 | Bournemouth | 0 | Upcoming |
 | 25 Nov, 17:30 GMT | Brentford | N/A | Arsenal | N/A | Upcoming |
 | 26 Nov, 14:00 GMT | Tottenham Hotspur | N/A | Aston Villa | N/A | Upcoming |
 | 26 Nov, 16:30 GMT | Everton | N/A | Manchester United | N/A | Upcoming |
@@ -36,8 +36,8 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Manchester City | 13 | 10 | 1 | 2 | 33 | 12 | 21 | 31 |
-| 2 | Liverpool | 13 | 8 | 3 | 2 | 27 | 11 | 16 | 27 |
+| 1 | Manchester City | 13 | 9 | 2 | 2 | 33 | 13 | 20 | 29 |
+| 2 | Liverpool | 13 | 8 | 4 | 1 | 28 | 11 | 17 | 28 |
 | 3 | Arsenal | 12 | 8 | 3 | 1 | 26 | 10 | 16 | 27 |
 | 4 | Tottenham Hotspur | 12 | 8 | 2 | 2 | 24 | 15 | 9 | 26 |
 | 5 | Aston Villa | 12 | 8 | 1 | 3 | 29 | 17 | 12 | 25 |
