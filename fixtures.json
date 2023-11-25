@@ -60,7 +60,7 @@
               "opta": "t43"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -92,13 +92,25 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 1260,
-        "label": "21'00"
+        "secs": 2400,
+        "label": "40'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 65970,
+          "assistId": 4499,
+          "clock": {
+            "secs": 1620,
+            "label": "27'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93446,
