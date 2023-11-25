@@ -7,7 +7,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 25 Nov, 12:30 GMT | Manchester City | 0 | Liverpool | 0 | Upcoming |
+| 25 Nov, 12:30 GMT | Manchester City | 0 | Liverpool | 0 | Live |
 | 25 Nov, 15:00 GMT | Burnley | N/A | West Ham United | N/A | Upcoming |
 | 25 Nov, 15:00 GMT | Luton Town | N/A | Crystal Palace | N/A | Upcoming |
 | 25 Nov, 15:00 GMT | Newcastle United | N/A | Chelsea | N/A | Upcoming |
@@ -36,8 +36,8 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Manchester City | 12 | 9 | 1 | 2 | 32 | 12 | 20 | 28 |
-| 2 | Liverpool | 12 | 8 | 3 | 1 | 27 | 10 | 17 | 27 |
+| 1 | Manchester City | 13 | 9 | 2 | 2 | 32 | 12 | 20 | 29 |
+| 2 | Liverpool | 13 | 8 | 4 | 1 | 27 | 10 | 17 | 28 |
 | 3 | Arsenal | 12 | 8 | 3 | 1 | 26 | 10 | 16 | 27 |
 | 4 | Tottenham Hotspur | 12 | 8 | 2 | 2 | 24 | 15 | 9 | 26 |
 | 5 | Aston Villa | 12 | 8 | 1 | 3 | 29 | 17 | 12 | 25 |

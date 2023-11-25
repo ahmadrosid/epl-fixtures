@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -38,24 +38,24 @@
           "position": 1,
           "startingPosition": 1,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 9,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 2,
             "goalsFor": 32,
             "goalsAgainst": 12,
             "goalsDifference": 20,
-            "points": 28
+            "points": 29
           },
           "home": {
-            "played": 5,
+            "played": 6,
             "won": 5,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 0,
             "goalsFor": 16,
             "goalsAgainst": 3,
             "goalsDifference": 13,
-            "points": 15
+            "points": 16
           },
           "away": {
             "played": 7,
@@ -102,16 +102,16 @@
             }
           },
           "position": 2,
-          "startingPosition": 3,
+          "startingPosition": 2,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 8,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 1,
             "goalsFor": 27,
             "goalsAgainst": 10,
             "goalsDifference": 17,
-            "points": 27
+            "points": 28
           },
           "home": {
             "played": 6,
@@ -124,14 +124,14 @@
             "points": 18
           },
           "away": {
-            "played": 6,
+            "played": 7,
             "won": 2,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 1,
             "goalsFor": 10,
             "goalsAgainst": 8,
             "goalsDifference": 2,
-            "points": 9
+            "points": 10
           },
           "annotations": [
             {
@@ -168,7 +168,7 @@
             }
           },
           "position": 3,
-          "startingPosition": 4,
+          "startingPosition": 3,
           "overall": {
             "played": 12,
             "won": 8,
@@ -234,7 +234,7 @@
             }
           },
           "position": 4,
-          "startingPosition": 2,
+          "startingPosition": 4,
           "overall": {
             "played": 12,
             "won": 8,
@@ -361,7 +361,7 @@
             }
           },
           "position": 6,
-          "startingPosition": 8,
+          "startingPosition": 6,
           "overall": {
             "played": 12,
             "won": 7,
@@ -421,7 +421,7 @@
             }
           },
           "position": 7,
-          "startingPosition": 6,
+          "startingPosition": 7,
           "overall": {
             "played": 12,
             "won": 6,
@@ -481,7 +481,7 @@
             }
           },
           "position": 8,
-          "startingPosition": 7,
+          "startingPosition": 8,
           "overall": {
             "played": 12,
             "won": 5,
@@ -541,7 +541,7 @@
             }
           },
           "position": 9,
-          "startingPosition": 12,
+          "startingPosition": 9,
           "overall": {
             "played": 12,
             "won": 5,
@@ -656,7 +656,7 @@
             }
           },
           "position": 11,
-          "startingPosition": 9,
+          "startingPosition": 11,
           "overall": {
             "played": 12,
             "won": 4,
@@ -711,7 +711,7 @@
             }
           },
           "position": 12,
-          "startingPosition": 14,
+          "startingPosition": 12,
           "overall": {
             "played": 12,
             "won": 4,
@@ -771,7 +771,7 @@
             }
           },
           "position": 13,
-          "startingPosition": 11,
+          "startingPosition": 13,
           "overall": {
             "played": 12,
             "won": 4,
@@ -831,7 +831,7 @@
             }
           },
           "position": 14,
-          "startingPosition": 13,
+          "startingPosition": 15,
           "overall": {
             "played": 12,
             "won": 3,
@@ -889,7 +889,7 @@
             }
           },
           "position": 15,
-          "startingPosition": 15,
+          "startingPosition": 16,
           "overall": {
             "played": 12,
             "won": 3,
@@ -949,7 +949,7 @@
             }
           },
           "position": 16,
-          "startingPosition": 18,
+          "startingPosition": 17,
           "overall": {
             "played": 12,
             "won": 2,
@@ -1009,7 +1009,7 @@
             }
           },
           "position": 17,
-          "startingPosition": 17,
+          "startingPosition": 18,
           "overall": {
             "played": 12,
             "won": 1,
@@ -1064,7 +1064,7 @@
             }
           },
           "position": 18,
-          "startingPosition": 20,
+          "startingPosition": 19,
           "overall": {
             "played": 12,
             "won": 1,
@@ -1130,7 +1130,7 @@
             }
           },
           "position": 19,
-          "startingPosition": 16,
+          "startingPosition": 14,
           "overall": {
             "played": 12,
             "won": 4,
@@ -1200,7 +1200,7 @@
             }
           },
           "position": 20,
-          "startingPosition": 19,
+          "startingPosition": 20,
           "overall": {
             "played": 12,
             "won": 1,
