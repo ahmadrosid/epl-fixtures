@@ -13,7 +13,7 @@ The data displayed in 2023 with BST TimeZone.
 | 25 Nov, 15:00 GMT | Newcastle United | 4 | Chelsea | 1 | Completed |
 | 25 Nov, 15:00 GMT | Nottingham Forest | 2 | Brighton & Hove Albion | 3 | Completed |
 | 25 Nov, 15:00 GMT | Sheffield United | 1 | Bournemouth | 3 | Completed |
-| 25 Nov, 17:30 GMT | Brentford | 0 | Arsenal | 0 | Live |
+| 25 Nov, 17:30 GMT | Brentford | 0 | Arsenal | 1 | Completed |
 | 26 Nov, 14:00 GMT | Tottenham Hotspur | N/A | Aston Villa | N/A | Upcoming |
 | 26 Nov, 16:30 GMT | Everton | N/A | Manchester United | N/A | Upcoming |
 | 27 Nov, 20:00 GMT | Fulham | N/A | Wolverhampton Wanderers | N/A | Upcoming |
@@ -36,17 +36,17 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Manchester City | 13 | 9 | 2 | 2 | 33 | 13 | 20 | 29 |
-| 2 | Liverpool | 13 | 8 | 4 | 1 | 28 | 11 | 17 | 28 |
-| 3 | Arsenal | 13 | 8 | 4 | 1 | 26 | 10 | 16 | 28 |
+| 1 | Arsenal | 13 | 9 | 3 | 1 | 27 | 10 | 17 | 30 |
+| 2 | Manchester City | 13 | 9 | 2 | 2 | 33 | 13 | 20 | 29 |
+| 3 | Liverpool | 13 | 8 | 4 | 1 | 28 | 11 | 17 | 28 |
 | 4 | Tottenham Hotspur | 12 | 8 | 2 | 2 | 24 | 15 | 9 | 26 |
 | 5 | Aston Villa | 12 | 8 | 1 | 3 | 29 | 17 | 12 | 25 |
 | 6 | Newcastle United | 13 | 7 | 2 | 4 | 31 | 14 | 17 | 23 |
 | 7 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 28 | 23 | 5 | 22 |
 | 8 | Manchester United | 12 | 7 | 0 | 5 | 13 | 16 | -3 | 21 |
 | 9 | West Ham United | 13 | 6 | 2 | 5 | 23 | 23 | 0 | 20 |
-| 10 | Brentford | 13 | 4 | 5 | 4 | 19 | 17 | 2 | 17 |
-| 11 | Chelsea | 13 | 4 | 4 | 5 | 22 | 20 | 2 | 16 |
+| 10 | Chelsea | 13 | 4 | 4 | 5 | 22 | 20 | 2 | 16 |
+| 11 | Brentford | 13 | 4 | 4 | 5 | 19 | 18 | 1 | 16 |
 | 12 | Wolverhampton Wanderers | 12 | 4 | 3 | 5 | 16 | 20 | -4 | 15 |
 | 13 | Crystal Palace | 13 | 4 | 3 | 6 | 13 | 18 | -5 | 15 |
 | 14 | Nottingham Forest | 13 | 3 | 4 | 6 | 16 | 21 | -5 | 13 |
