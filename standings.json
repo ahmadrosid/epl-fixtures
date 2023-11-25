@@ -367,8 +367,8 @@
             "won": 6,
             "drawn": 3,
             "lost": 4,
-            "goalsFor": 27,
-            "goalsAgainst": 13,
+            "goalsFor": 28,
+            "goalsAgainst": 14,
             "goalsDifference": 14,
             "points": 21
           },
@@ -377,8 +377,8 @@
             "won": 5,
             "drawn": 1,
             "lost": 1,
-            "goalsFor": 14,
-            "goalsAgainst": 3,
+            "goalsFor": 15,
+            "goalsAgainst": 4,
             "goalsDifference": 11,
             "points": 16
           },
@@ -485,12 +485,12 @@
           "overall": {
             "played": 13,
             "won": 5,
-            "drawn": 4,
-            "lost": 4,
-            "goalsFor": 25,
+            "drawn": 5,
+            "lost": 3,
+            "goalsFor": 26,
             "goalsAgainst": 22,
-            "goalsDifference": 3,
-            "points": 19
+            "goalsDifference": 4,
+            "points": 20
           },
           "home": {
             "played": 7,
@@ -505,12 +505,12 @@
           "away": {
             "played": 6,
             "won": 2,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 10,
+            "drawn": 2,
+            "lost": 2,
+            "goalsFor": 11,
             "goalsAgainst": 12,
-            "goalsDifference": -2,
-            "points": 7
+            "goalsDifference": -1,
+            "points": 8
           },
           "ground": {
             "name": "Amex Stadium",
@@ -602,8 +602,8 @@
             "won": 4,
             "drawn": 5,
             "lost": 4,
-            "goalsFor": 21,
-            "goalsAgainst": 16,
+            "goalsFor": 22,
+            "goalsAgainst": 17,
             "goalsDifference": 5,
             "points": 17
           },
@@ -622,8 +622,8 @@
             "won": 3,
             "drawn": 2,
             "lost": 1,
-            "goalsFor": 11,
-            "goalsAgainst": 5,
+            "goalsFor": 12,
+            "goalsAgainst": 6,
             "goalsDifference": 6,
             "points": 11
           },
@@ -696,64 +696,6 @@
         },
         {
           "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "position": 12,
-          "startingPosition": 15,
-          "overall": {
-            "played": 13,
-            "won": 4,
-            "drawn": 4,
-            "lost": 5,
-            "goalsFor": 15,
-            "goalsAgainst": 18,
-            "goalsDifference": -3,
-            "points": 16
-          },
-          "home": {
-            "played": 6,
-            "won": 3,
-            "drawn": 3,
-            "lost": 0,
-            "goalsFor": 9,
-            "goalsAgainst": 5,
-            "goalsDifference": 4,
-            "points": 12
-          },
-          "away": {
-            "played": 7,
-            "won": 1,
-            "drawn": 1,
-            "lost": 5,
-            "goalsFor": 6,
-            "goalsAgainst": 13,
-            "goalsDifference": -7,
-            "points": 4
-          },
-          "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "id": 1192
-          }
-        },
-        {
-          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -768,7 +710,7 @@
               "opta": "t31"
             }
           },
-          "position": 13,
+          "position": 12,
           "startingPosition": 13,
           "overall": {
             "played": 13,
@@ -828,7 +770,7 @@
               "opta": "t39"
             }
           },
-          "position": 14,
+          "position": 13,
           "startingPosition": 12,
           "overall": {
             "played": 12,
@@ -870,6 +812,64 @@
             },
             "source": "OPTA",
             "id": 913
+          }
+        },
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 14,
+          "startingPosition": 15,
+          "overall": {
+            "played": 13,
+            "won": 3,
+            "drawn": 5,
+            "lost": 5,
+            "goalsFor": 15,
+            "goalsAgainst": 19,
+            "goalsDifference": -4,
+            "points": 14
+          },
+          "home": {
+            "played": 6,
+            "won": 2,
+            "drawn": 4,
+            "lost": 0,
+            "goalsFor": 9,
+            "goalsAgainst": 6,
+            "goalsDifference": 3,
+            "points": 10
+          },
+          "away": {
+            "played": 7,
+            "won": 1,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 13,
+            "goalsDifference": -7,
+            "points": 4
+          },
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "id": 1192
           }
         },
         {
@@ -952,13 +952,13 @@
           "startingPosition": 17,
           "overall": {
             "played": 13,
-            "won": 2,
-            "drawn": 4,
+            "won": 3,
+            "drawn": 3,
             "lost": 7,
-            "goalsFor": 11,
+            "goalsFor": 12,
             "goalsAgainst": 27,
-            "goalsDifference": -16,
-            "points": 10
+            "goalsDifference": -15,
+            "points": 12
           },
           "home": {
             "played": 7,
@@ -972,13 +972,13 @@
           },
           "away": {
             "played": 6,
-            "won": 0,
-            "drawn": 2,
+            "won": 1,
+            "drawn": 1,
             "lost": 4,
-            "goalsFor": 5,
+            "goalsFor": 6,
             "goalsAgainst": 17,
-            "goalsDifference": -12,
-            "points": 2
+            "goalsDifference": -11,
+            "points": 4
           },
           "ground": {
             "name": "Vitality Stadium",
@@ -1049,72 +1049,6 @@
         },
         {
           "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 18,
-          "startingPosition": 19,
-          "overall": {
-            "played": 13,
-            "won": 1,
-            "drawn": 3,
-            "lost": 9,
-            "goalsFor": 10,
-            "goalsAgainst": 31,
-            "goalsDifference": -21,
-            "points": 6
-          },
-          "home": {
-            "played": 7,
-            "won": 1,
-            "drawn": 2,
-            "lost": 4,
-            "goalsFor": 6,
-            "goalsAgainst": 16,
-            "goalsDifference": -10,
-            "points": 5
-          },
-          "away": {
-            "played": 6,
-            "won": 0,
-            "drawn": 1,
-            "lost": 5,
-            "goalsFor": 4,
-            "goalsAgainst": 15,
-            "goalsDifference": -11,
-            "points": 1
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
-          }
-        },
-        {
-          "team": {
             "name": "Burnley",
             "club": {
               "name": "Burnley",
@@ -1129,7 +1063,7 @@
               "opta": "t90"
             }
           },
-          "position": 19,
+          "position": 18,
           "startingPosition": 20,
           "overall": {
             "played": 13,
@@ -1177,6 +1111,72 @@
             },
             "source": "OPTA",
             "id": 47
+          }
+        },
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 19,
+          "startingPosition": 19,
+          "overall": {
+            "played": 13,
+            "won": 1,
+            "drawn": 2,
+            "lost": 10,
+            "goalsFor": 10,
+            "goalsAgainst": 32,
+            "goalsDifference": -22,
+            "points": 5
+          },
+          "home": {
+            "played": 7,
+            "won": 1,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 17,
+            "goalsDifference": -11,
+            "points": 4
+          },
+          "away": {
+            "played": 6,
+            "won": 0,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 4,
+            "goalsAgainst": 15,
+            "goalsDifference": -11,
+            "points": 1
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
           }
         },
         {
