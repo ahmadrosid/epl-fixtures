@@ -8,11 +8,11 @@ The data displayed in 2023 with BST TimeZone.
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
 | 25 Nov, 12:30 GMT | Manchester City | 1 | Liverpool | 1 | Completed |
-| 25 Nov, 15:00 GMT | Burnley | 1 | West Ham United | 2 | Live |
-| 25 Nov, 15:00 GMT | Luton Town | 2 | Crystal Palace | 1 | Live |
-| 25 Nov, 15:00 GMT | Newcastle United | 4 | Chelsea | 1 | Live |
-| 25 Nov, 15:00 GMT | Nottingham Forest | 2 | Brighton & Hove Albion | 3 | Live |
-| 25 Nov, 15:00 GMT | Sheffield United | 0 | Bournemouth | 3 | Live |
+| 25 Nov, 15:00 GMT | Burnley | 1 | West Ham United | 2 | Completed |
+| 25 Nov, 15:00 GMT | Luton Town | 2 | Crystal Palace | 1 | Completed |
+| 25 Nov, 15:00 GMT | Newcastle United | 4 | Chelsea | 1 | Completed |
+| 25 Nov, 15:00 GMT | Nottingham Forest | 2 | Brighton & Hove Albion | 3 | Completed |
+| 25 Nov, 15:00 GMT | Sheffield United | 1 | Bournemouth | 3 | Completed |
 | 25 Nov, 17:30 GMT | Brentford | 0 | Arsenal | 0 | Upcoming |
 | 26 Nov, 14:00 GMT | Tottenham Hotspur | N/A | Aston Villa | N/A | Upcoming |
 | 26 Nov, 16:30 GMT | Everton | N/A | Manchester United | N/A | Upcoming |
@@ -51,9 +51,9 @@ The data displayed in 2023 with BST TimeZone.
 | 13 | Crystal Palace | 13 | 4 | 3 | 6 | 13 | 18 | -5 | 15 |
 | 14 | Nottingham Forest | 13 | 3 | 4 | 6 | 16 | 21 | -5 | 13 |
 | 15 | Fulham | 12 | 3 | 3 | 6 | 10 | 20 | -10 | 12 |
-| 16 | Bournemouth | 13 | 3 | 3 | 7 | 14 | 27 | -13 | 12 |
+| 16 | Bournemouth | 13 | 3 | 3 | 7 | 14 | 28 | -14 | 12 |
 | 17 | Luton Town | 13 | 2 | 3 | 8 | 12 | 23 | -11 | 9 |
-| 18 | Sheffield United | 13 | 1 | 2 | 10 | 10 | 34 | -24 | 5 |
+| 18 | Sheffield United | 13 | 1 | 2 | 10 | 11 | 34 | -23 | 5 |
 | 19 | Everton | 12 | 4 | 2 | 6 | 14 | 17 | -3 | 4 |
 | 20 | Burnley | 13 | 1 | 1 | 11 | 10 | 32 | -22 | 4 |
 <!-- END_STANDINGS -->
