@@ -1181,7 +1181,7 @@
               "opta": "t1"
             }
           },
-          "score": 2
+          "score": 3
         }
       ],
       "replay": false,
@@ -1195,8 +1195,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3600,
-        "label": "60'00"
+        "secs": 4980,
+        "label": "83'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1222,6 +1222,17 @@
           "phase": "2",
           "type": "P",
           "description": "P"
+        },
+        {
+          "personId": 11272,
+          "assistId": 23396,
+          "clock": {
+            "secs": 4500,
+            "label": "75'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
         }
       ],
       "penaltyShootouts": [],
