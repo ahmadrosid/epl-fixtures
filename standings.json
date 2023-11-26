@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -346,6 +346,66 @@
         },
         {
           "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          },
+          "position": 6,
+          "startingPosition": 6,
+          "overall": {
+            "played": 13,
+            "won": 8,
+            "drawn": 0,
+            "lost": 5,
+            "goalsFor": 14,
+            "goalsAgainst": 16,
+            "goalsDifference": -2,
+            "points": 24
+          },
+          "home": {
+            "played": 7,
+            "won": 4,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 10,
+            "goalsDifference": -2,
+            "points": 12
+          },
+          "away": {
+            "played": 6,
+            "won": 4,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 6,
+            "goalsAgainst": 6,
+            "goalsDifference": 0,
+            "points": 12
+          },
+          "ground": {
+            "name": "Old Trafford",
+            "city": "Manchester",
+            "capacity": 75635,
+            "location": {
+              "latitude": 53.4626,
+              "longitude": -2.29103
+            },
+            "source": "OPTA",
+            "id": 42
+          }
+        },
+        {
+          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -360,7 +420,7 @@
               "opta": "t4"
             }
           },
-          "position": 6,
+          "position": 7,
           "startingPosition": 7,
           "overall": {
             "played": 13,
@@ -420,7 +480,7 @@
               "opta": "t36"
             }
           },
-          "position": 7,
+          "position": 8,
           "startingPosition": 8,
           "overall": {
             "played": 13,
@@ -462,66 +522,6 @@
             },
             "source": "OPTA",
             "id": 1684
-          }
-        },
-        {
-          "team": {
-            "name": "Manchester United",
-            "club": {
-              "name": "Manchester United",
-              "shortName": "Man Utd",
-              "abbr": "MUN",
-              "id": 12
-            },
-            "teamType": "FIRST",
-            "shortName": "Man Utd",
-            "id": 12,
-            "altIds": {
-              "opta": "t1"
-            }
-          },
-          "position": 8,
-          "startingPosition": 6,
-          "overall": {
-            "played": 12,
-            "won": 7,
-            "drawn": 0,
-            "lost": 5,
-            "goalsFor": 13,
-            "goalsAgainst": 16,
-            "goalsDifference": -3,
-            "points": 21
-          },
-          "home": {
-            "played": 7,
-            "won": 4,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 10,
-            "goalsDifference": -2,
-            "points": 12
-          },
-          "away": {
-            "played": 5,
-            "won": 3,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 5,
-            "goalsAgainst": 6,
-            "goalsDifference": -1,
-            "points": 9
-          },
-          "ground": {
-            "name": "Old Trafford",
-            "city": "Manchester",
-            "capacity": 75635,
-            "location": {
-              "latitude": 53.4626,
-              "longitude": -2.29103
-            },
-            "source": "OPTA",
-            "id": 42
           }
         },
         {
@@ -1132,23 +1132,23 @@
           "position": 19,
           "startingPosition": 14,
           "overall": {
-            "played": 12,
+            "played": 13,
             "won": 4,
             "drawn": 2,
-            "lost": 6,
+            "lost": 7,
             "goalsFor": 14,
-            "goalsAgainst": 17,
-            "goalsDifference": -3,
+            "goalsAgainst": 18,
+            "goalsDifference": -4,
             "points": 4
           },
           "home": {
-            "played": 6,
+            "played": 7,
             "won": 1,
             "drawn": 1,
-            "lost": 4,
+            "lost": 5,
             "goalsFor": 5,
-            "goalsAgainst": 6,
-            "goalsDifference": -1,
+            "goalsAgainst": 7,
+            "goalsDifference": -2,
             "points": 4
           },
           "away": {
