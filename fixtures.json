@@ -1297,7 +1297,7 @@
               "opta": "t54"
             }
           },
-          "score": 2
+          "score": 3
         },
         {
           "team": {
@@ -1326,12 +1326,13 @@
         "id": 16
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "attendance": 24366,
       "clock": {
-        "secs": 5400,
-        "label": "90'00"
+        "secs": 6120,
+        "label": "90 +12'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1374,6 +1375,16 @@
           "clock": {
             "secs": 4500,
             "label": "75'00"
+          },
+          "phase": "2",
+          "type": "P",
+          "description": "P"
+        },
+        {
+          "personId": 4748,
+          "clock": {
+            "secs": 5640,
+            "label": "90 +4'00"
           },
           "phase": "2",
           "type": "P",
