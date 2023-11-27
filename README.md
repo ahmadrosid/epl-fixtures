@@ -16,7 +16,7 @@ The data displayed in 2023 with BST TimeZone.
 | 25 Nov, 17:30 GMT | Brentford | 0 | Arsenal | 1 | Completed |
 | 26 Nov, 14:00 GMT | Tottenham Hotspur | 1 | Aston Villa | 2 | Completed |
 | 26 Nov, 16:30 GMT | Everton | 0 | Manchester United | 3 | Completed |
-| 27 Nov, 20:00 GMT | Fulham | N/A | Wolverhampton Wanderers | N/A | Upcoming |
+| 27 Nov, 20:00 GMT | Fulham | 0 | Wolverhampton Wanderers | 0 | Upcoming |
 | 2 Dec, 15:00 GMT | Arsenal | N/A | Wolverhampton Wanderers | N/A | Upcoming |
 | 2 Dec, 15:00 GMT | Brentford | N/A | Luton Town | N/A | Upcoming |
 | 2 Dec, 15:00 GMT | Burnley | N/A | Sheffield United | N/A | Upcoming |
