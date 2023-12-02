@@ -1919,10 +1919,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "H",
       "clock": {
-        "secs": 2400,
-        "label": "40'00"
+        "secs": 3060,
+        "label": "45 +6'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
