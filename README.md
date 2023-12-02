@@ -19,7 +19,7 @@ The data displayed in 2023 with BST TimeZone.
 | 27 Nov, 20:00 GMT | Fulham | 3 | Wolverhampton Wanderers | 2 | Completed |
 | 2 Dec, 15:00 GMT | Arsenal | 2 | Wolverhampton Wanderers | 0 | Live |
 | 2 Dec, 15:00 GMT | Brentford | 0 | Luton Town | 0 | Live |
-| 2 Dec, 15:00 GMT | Burnley | 1 | Sheffield United | 0 | Live |
+| 2 Dec, 15:00 GMT | Burnley | 2 | Sheffield United | 0 | Live |
 | 2 Dec, 17:30 GMT | Nottingham Forest | N/A | Everton | N/A | Upcoming |
 | 2 Dec, 20:00 GMT | Newcastle United | N/A | Manchester United | N/A | Upcoming |
 | 3 Dec, 14:00 GMT | Bournemouth | N/A | Aston Villa | N/A | Upcoming |
@@ -53,7 +53,7 @@ The data displayed in 2023 with BST TimeZone.
 | 15 | Nottingham Forest | 13 | 3 | 4 | 6 | 16 | 21 | -5 | 13 |
 | 16 | Bournemouth | 13 | 3 | 3 | 7 | 14 | 28 | -14 | 12 |
 | 17 | Luton Town | 14 | 2 | 4 | 8 | 12 | 23 | -11 | 10 |
-| 18 | Burnley | 14 | 2 | 1 | 11 | 11 | 32 | -21 | 7 |
-| 19 | Sheffield United | 14 | 1 | 2 | 11 | 11 | 35 | -24 | 5 |
+| 18 | Burnley | 14 | 2 | 1 | 11 | 12 | 32 | -20 | 7 |
+| 19 | Sheffield United | 14 | 1 | 2 | 11 | 11 | 36 | -25 | 5 |
 | 20 | Everton | 13 | 4 | 2 | 7 | 14 | 20 | -6 | 4 |
 <!-- END_STANDINGS -->
