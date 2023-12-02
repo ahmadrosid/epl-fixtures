@@ -17,9 +17,9 @@ The data displayed in 2023 with BST TimeZone.
 | 26 Nov, 14:00 GMT | Tottenham Hotspur | 1 | Aston Villa | 2 | Completed |
 | 26 Nov, 16:30 GMT | Everton | 0 | Manchester United | 3 | Completed |
 | 27 Nov, 20:00 GMT | Fulham | 3 | Wolverhampton Wanderers | 2 | Completed |
-| 2 Dec, 15:00 GMT | Arsenal | 2 | Wolverhampton Wanderers | 0 | Live |
-| 2 Dec, 15:00 GMT | Brentford | 3 | Luton Town | 1 | Live |
-| 2 Dec, 15:00 GMT | Burnley | 5 | Sheffield United | 0 | Live |
+| 2 Dec, 15:00 GMT | Arsenal | 2 | Wolverhampton Wanderers | 1 | Completed |
+| 2 Dec, 15:00 GMT | Brentford | 3 | Luton Town | 1 | Completed |
+| 2 Dec, 15:00 GMT | Burnley | 5 | Sheffield United | 0 | Completed |
 | 2 Dec, 17:30 GMT | Nottingham Forest | 0 | Everton | 0 | Upcoming |
 | 2 Dec, 20:00 GMT | Newcastle United | N/A | Manchester United | N/A | Upcoming |
 | 3 Dec, 14:00 GMT | Bournemouth | N/A | Aston Villa | N/A | Upcoming |
@@ -36,7 +36,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Arsenal | 14 | 10 | 3 | 1 | 29 | 10 | 19 | 33 |
+| 1 | Arsenal | 14 | 10 | 3 | 1 | 29 | 11 | 18 | 33 |
 | 2 | Manchester City | 13 | 9 | 2 | 2 | 33 | 13 | 20 | 29 |
 | 3 | Liverpool | 13 | 8 | 4 | 1 | 28 | 11 | 17 | 28 |
 | 4 | Aston Villa | 13 | 9 | 1 | 3 | 31 | 18 | 13 | 28 |
@@ -48,7 +48,7 @@ The data displayed in 2023 with BST TimeZone.
 | 10 | Brentford | 14 | 5 | 4 | 5 | 22 | 19 | 3 | 19 |
 | 11 | Chelsea | 13 | 4 | 4 | 5 | 22 | 20 | 2 | 16 |
 | 12 | Crystal Palace | 13 | 4 | 3 | 6 | 13 | 18 | -5 | 15 |
-| 13 | Wolverhampton Wanderers | 14 | 4 | 3 | 7 | 18 | 25 | -7 | 15 |
+| 13 | Wolverhampton Wanderers | 14 | 4 | 3 | 7 | 19 | 25 | -6 | 15 |
 | 14 | Fulham | 13 | 4 | 3 | 6 | 13 | 22 | -9 | 15 |
 | 15 | Nottingham Forest | 13 | 3 | 4 | 6 | 16 | 21 | -5 | 13 |
 | 16 | Bournemouth | 13 | 3 | 3 | 7 | 14 | 28 | -14 | 12 |
