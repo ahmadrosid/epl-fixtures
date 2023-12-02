@@ -1483,10 +1483,11 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
+      "attendance": 60262,
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 2760,
+        "label": "46'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1576,7 +1577,7 @@
               "opta": "t94"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -1606,15 +1607,26 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 3060,
+        "label": "51'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 16256,
+          "clock": {
+            "secs": 2940,
+            "label": "49'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93453,
@@ -1706,10 +1718,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
         "secs": 2880,
-        "label": "45 +3'00"
+        "label": "48'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
