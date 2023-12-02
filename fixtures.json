@@ -1486,8 +1486,8 @@
       "phase": "2",
       "attendance": 60262,
       "clock": {
-        "secs": 3840,
-        "label": "64'00"
+        "secs": 4920,
+        "label": "82'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1577,7 +1577,7 @@
               "opta": "t94"
             }
           },
-          "score": 2
+          "score": 3
         },
         {
           "team": {
@@ -1595,7 +1595,7 @@
               "opta": "t102"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -1609,8 +1609,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4260,
-        "label": "71'00"
+        "secs": 5280,
+        "label": "88'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1632,6 +1632,26 @@
           "clock": {
             "secs": 3360,
             "label": "56'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 21127,
+          "clock": {
+            "secs": 4560,
+            "label": "76'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 24773,
+          "clock": {
+            "secs": 4860,
+            "label": "81'00"
           },
           "phase": "2",
           "type": "G",
@@ -1699,7 +1719,7 @@
               "opta": "t90"
             }
           },
-          "score": 2
+          "score": 5
         },
         {
           "team": {
@@ -1731,8 +1751,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4140,
-        "label": "69'00"
+        "secs": 5160,
+        "label": "86'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1757,6 +1777,38 @@
             "label": "29'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 128449,
+          "assistId": 35699,
+          "clock": {
+            "secs": 4380,
+            "label": "73'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 125169,
+          "assistId": 128449,
+          "clock": {
+            "secs": 4500,
+            "label": "75'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 9457,
+          "clock": {
+            "secs": 4800,
+            "label": "80'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
