@@ -26,7 +26,7 @@ The data displayed in 2023 with BST TimeZone.
 | 3 Dec, 14:00 GMT | Chelsea | 3 | Brighton & Hove Albion | 2 | Completed |
 | 3 Dec, 14:00 GMT | Liverpool | 4 | Fulham | 3 | Completed |
 | 3 Dec, 14:00 GMT | West Ham United | 1 | Crystal Palace | 1 | Completed |
-| 3 Dec, 16:30 GMT | Manchester City | 0 | Tottenham Hotspur | 0 | Live |
+| 3 Dec, 16:30 GMT | Manchester City | 1 | Tottenham Hotspur | 1 | Live |
 <!-- END_TABLE -->
 
 ### Standings
@@ -38,10 +38,10 @@ The data displayed in 2023 with BST TimeZone.
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Arsenal | 14 | 10 | 3 | 1 | 29 | 11 | 18 | 33 |
 | 2 | Liverpool | 14 | 9 | 4 | 1 | 32 | 14 | 18 | 31 |
-| 3 | Manchester City | 13 | 9 | 2 | 2 | 33 | 13 | 20 | 29 |
+| 3 | Manchester City | 14 | 9 | 3 | 2 | 34 | 14 | 20 | 30 |
 | 4 | Aston Villa | 14 | 9 | 2 | 3 | 33 | 20 | 13 | 29 |
-| 5 | Newcastle United | 14 | 8 | 2 | 4 | 32 | 14 | 18 | 26 |
-| 6 | Tottenham Hotspur | 13 | 8 | 2 | 3 | 25 | 17 | 8 | 26 |
+| 5 | Tottenham Hotspur | 14 | 8 | 3 | 3 | 26 | 18 | 8 | 27 |
+| 6 | Newcastle United | 14 | 8 | 2 | 4 | 32 | 14 | 18 | 26 |
 | 7 | Manchester United | 14 | 8 | 0 | 6 | 16 | 17 | -1 | 24 |
 | 8 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 30 | 26 | 4 | 22 |
 | 9 | West Ham United | 14 | 6 | 3 | 5 | 24 | 24 | 0 | 21 |

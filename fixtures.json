@@ -2717,7 +2717,7 @@
               "opta": "t43"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -2735,7 +2735,7 @@
               "opta": "t6"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -2749,13 +2749,35 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 1080,
+        "label": "18'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 4999,
+          "assistId": 49316,
+          "clock": {
+            "secs": 360,
+            "label": "06'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 4999,
+          "clock": {
+            "secs": 540,
+            "label": "09'00"
+          },
+          "phase": "1",
+          "type": "O",
+          "description": "O"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93457,
