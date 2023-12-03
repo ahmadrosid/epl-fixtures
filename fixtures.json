@@ -1923,8 +1923,8 @@
       "outcome": "A",
       "attendance": 29404,
       "clock": {
-        "secs": 5700,
-        "label": "90 +5'00"
+        "secs": 5640,
+        "label": "90 +4'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
