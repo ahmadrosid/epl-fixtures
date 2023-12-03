@@ -26,7 +26,7 @@ The data displayed in 2023 with BST TimeZone.
 | 3 Dec, 14:00 GMT | Chelsea | 3 | Brighton & Hove Albion | 2 | Completed |
 | 3 Dec, 14:00 GMT | Liverpool | 4 | Fulham | 3 | Completed |
 | 3 Dec, 14:00 GMT | West Ham United | 1 | Crystal Palace | 1 | Completed |
-| 3 Dec, 16:30 GMT | Manchester City | 0 | Tottenham Hotspur | 0 | Upcoming |
+| 3 Dec, 16:30 GMT | Manchester City | 0 | Tottenham Hotspur | 0 | Live |
 <!-- END_TABLE -->
 
 ### Standings
