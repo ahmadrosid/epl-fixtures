@@ -2749,6 +2749,7 @@
       "neutralGround": false,
       "status": "C",
       "phase": "F",
+      "outcome": "D",
       "clock": {
         "secs": 5880,
         "label": "90 +8'00"
