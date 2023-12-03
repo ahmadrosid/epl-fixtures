@@ -2148,8 +2148,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 1620,
-        "label": "27'00"
+        "secs": 2940,
+        "label": "45 +4'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -2257,7 +2257,7 @@
               "opta": "t36"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -2271,8 +2271,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 1680,
-        "label": "28'00"
+        "secs": 2880,
+        "label": "45 +3'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -2295,6 +2295,17 @@
           "clock": {
             "secs": 1260,
             "label": "21'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 133430,
+          "assistId": 4618,
+          "clock": {
+            "secs": 2580,
+            "label": "43'00"
           },
           "phase": "1",
           "type": "G",
@@ -2362,7 +2373,7 @@
               "opta": "t14"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -2394,8 +2405,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 1440,
-        "label": "24'00"
+        "secs": 2880,
+        "label": "45 +3'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -2417,6 +2428,16 @@
           "clock": {
             "secs": 1440,
             "label": "24'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 63633,
+          "clock": {
+            "secs": 2280,
+            "label": "38'00"
           },
           "phase": "1",
           "type": "G",
@@ -2514,10 +2535,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "H",
       "clock": {
-        "secs": 1620,
-        "label": "27'00"
+        "secs": 2820,
+        "label": "45 +2'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,

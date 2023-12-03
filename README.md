@@ -23,8 +23,8 @@ The data displayed in 2023 with BST TimeZone.
 | 2 Dec, 17:30 GMT | Nottingham Forest | 0 | Everton | 1 | Completed |
 | 2 Dec, 20:00 GMT | Newcastle United | 1 | Manchester United | 0 | Completed |
 | 3 Dec, 14:00 GMT | Bournemouth | 1 | Aston Villa | 1 | Live |
-| 3 Dec, 14:00 GMT | Chelsea | 2 | Brighton & Hove Albion | 0 | Live |
-| 3 Dec, 14:00 GMT | Liverpool | 1 | Fulham | 1 | Live |
+| 3 Dec, 14:00 GMT | Chelsea | 2 | Brighton & Hove Albion | 1 | Live |
+| 3 Dec, 14:00 GMT | Liverpool | 2 | Fulham | 1 | Live |
 | 3 Dec, 14:00 GMT | West Ham United | 1 | Crystal Palace | 0 | Live |
 | 3 Dec, 16:30 GMT | Manchester City | N/A | Tottenham Hotspur | N/A | Upcoming |
 <!-- END_TABLE -->
@@ -37,19 +37,19 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Arsenal | 14 | 10 | 3 | 1 | 29 | 11 | 18 | 33 |
-| 2 | Manchester City | 13 | 9 | 2 | 2 | 33 | 13 | 20 | 29 |
-| 3 | Liverpool | 14 | 8 | 5 | 1 | 29 | 12 | 17 | 29 |
+| 2 | Liverpool | 14 | 9 | 4 | 1 | 30 | 12 | 18 | 31 |
+| 3 | Manchester City | 13 | 9 | 2 | 2 | 33 | 13 | 20 | 29 |
 | 4 | Aston Villa | 14 | 9 | 2 | 3 | 32 | 19 | 13 | 29 |
 | 5 | Newcastle United | 14 | 8 | 2 | 4 | 32 | 14 | 18 | 26 |
 | 6 | Tottenham Hotspur | 13 | 8 | 2 | 3 | 25 | 17 | 8 | 26 |
 | 7 | Manchester United | 14 | 8 | 0 | 6 | 16 | 17 | -1 | 24 |
 | 8 | West Ham United | 14 | 7 | 2 | 5 | 24 | 23 | 1 | 23 |
-| 9 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 28 | 25 | 3 | 22 |
-| 10 | Chelsea | 14 | 5 | 4 | 5 | 24 | 20 | 4 | 19 |
+| 9 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 29 | 25 | 4 | 22 |
+| 10 | Chelsea | 14 | 5 | 4 | 5 | 24 | 21 | 3 | 19 |
 | 11 | Brentford | 14 | 5 | 4 | 5 | 22 | 19 | 3 | 19 |
-| 12 | Fulham | 14 | 4 | 4 | 6 | 14 | 23 | -9 | 16 |
-| 13 | Wolverhampton Wanderers | 14 | 4 | 3 | 7 | 19 | 25 | -6 | 15 |
-| 14 | Crystal Palace | 14 | 4 | 3 | 7 | 13 | 19 | -6 | 15 |
+| 12 | Wolverhampton Wanderers | 14 | 4 | 3 | 7 | 19 | 25 | -6 | 15 |
+| 13 | Crystal Palace | 14 | 4 | 3 | 7 | 13 | 19 | -6 | 15 |
+| 14 | Fulham | 14 | 4 | 3 | 7 | 14 | 24 | -10 | 15 |
 | 15 | Nottingham Forest | 14 | 3 | 4 | 7 | 16 | 22 | -6 | 13 |
 | 16 | Bournemouth | 14 | 3 | 4 | 7 | 15 | 29 | -14 | 13 |
 | 17 | Luton Town | 14 | 2 | 3 | 9 | 13 | 26 | -13 | 9 |
