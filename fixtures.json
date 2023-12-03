@@ -2116,7 +2116,7 @@
               "opta": "t91"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -2148,8 +2148,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2760,
-        "label": "46'00"
+        "secs": 3840,
+        "label": "64'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -2174,6 +2174,17 @@
             "label": "20'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 10443,
+          "assistId": 116665,
+          "clock": {
+            "secs": 3120,
+            "label": "52'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
@@ -2239,7 +2250,7 @@
               "opta": "t8"
             }
           },
-          "score": 2
+          "score": 3
         },
         {
           "team": {
@@ -2271,8 +2282,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "48'00"
+        "secs": 3900,
+        "label": "65'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -2310,6 +2321,16 @@
           "phase": "1",
           "type": "G",
           "description": "G"
+        },
+        {
+          "personId": 63741,
+          "clock": {
+            "secs": 3900,
+            "label": "65'00"
+          },
+          "phase": "2",
+          "type": "P",
+          "description": "P"
         }
       ],
       "penaltyShootouts": [],
@@ -2403,10 +2424,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 3420,
-        "label": "45 +12'00"
+        "secs": 3600,
+        "label": "60'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -2547,8 +2568,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3240,
-        "label": "54'00"
+        "secs": 4260,
+        "label": "71'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
