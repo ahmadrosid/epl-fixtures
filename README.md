@@ -36,7 +36,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Arsenal | 15 | 10 | 4 | 1 | 31 | 13 | 18 | 34 |
+| 1 | Arsenal | 15 | 10 | 4 | 1 | 32 | 14 | 18 | 34 |
 | 2 | Liverpool | 14 | 9 | 4 | 1 | 32 | 14 | 18 | 31 |
 | 3 | Manchester City | 14 | 9 | 3 | 2 | 36 | 16 | 20 | 30 |
 | 4 | Aston Villa | 14 | 9 | 2 | 3 | 33 | 20 | 13 | 29 |
@@ -52,7 +52,7 @@ The data displayed in 2023 with BST TimeZone.
 | 14 | Fulham | 14 | 4 | 3 | 7 | 16 | 26 | -10 | 15 |
 | 15 | Nottingham Forest | 14 | 3 | 4 | 7 | 16 | 22 | -6 | 13 |
 | 16 | Bournemouth | 14 | 3 | 4 | 7 | 16 | 30 | -14 | 13 |
-| 17 | Luton Town | 15 | 2 | 4 | 9 | 15 | 28 | -13 | 10 |
+| 17 | Luton Town | 15 | 2 | 4 | 9 | 16 | 29 | -13 | 10 |
 | 18 | Everton | 14 | 5 | 2 | 7 | 15 | 20 | -5 | 7 |
 | 19 | Burnley | 15 | 2 | 1 | 12 | 15 | 33 | -18 | 7 |
 | 20 | Sheffield United | 14 | 1 | 2 | 11 | 11 | 39 | -28 | 5 |
