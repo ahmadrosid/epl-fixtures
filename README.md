@@ -37,7 +37,7 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Arsenal | 15 | 11 | 3 | 1 | 33 | 14 | 19 | 36 |
-| 2 | Liverpool | 15 | 10 | 4 | 1 | 33 | 14 | 19 | 34 |
+| 2 | Liverpool | 15 | 10 | 4 | 1 | 34 | 14 | 20 | 34 |
 | 3 | Manchester City | 15 | 9 | 4 | 2 | 36 | 16 | 20 | 31 |
 | 4 | Aston Villa | 15 | 9 | 3 | 3 | 33 | 20 | 13 | 30 |
 | 5 | Tottenham Hotspur | 14 | 8 | 3 | 3 | 28 | 20 | 8 | 27 |
@@ -47,13 +47,13 @@ The data displayed in 2023 with BST TimeZone.
 | 9 | West Ham United | 14 | 6 | 3 | 5 | 24 | 24 | 0 | 21 |
 | 10 | Chelsea | 15 | 5 | 5 | 5 | 26 | 23 | 3 | 20 |
 | 11 | Brentford | 15 | 5 | 4 | 6 | 23 | 21 | 2 | 19 |
-| 12 | Wolverhampton Wanderers | 15 | 5 | 3 | 7 | 20 | 25 | -5 | 18 |
-| 13 | Fulham | 15 | 5 | 3 | 7 | 20 | 26 | -6 | 18 |
-| 14 | Crystal Palace | 15 | 4 | 4 | 7 | 14 | 20 | -6 | 16 |
-| 15 | Bournemouth | 15 | 4 | 4 | 7 | 17 | 30 | -13 | 16 |
-| 16 | Nottingham Forest | 15 | 3 | 4 | 8 | 16 | 26 | -10 | 13 |
+| 12 | Fulham | 15 | 5 | 3 | 7 | 21 | 26 | -5 | 18 |
+| 13 | Wolverhampton Wanderers | 15 | 5 | 3 | 7 | 20 | 25 | -5 | 18 |
+| 14 | Crystal Palace | 15 | 4 | 4 | 7 | 14 | 21 | -7 | 16 |
+| 15 | Bournemouth | 15 | 4 | 4 | 7 | 18 | 30 | -12 | 16 |
+| 16 | Nottingham Forest | 15 | 3 | 4 | 8 | 16 | 27 | -11 | 13 |
 | 17 | Luton Town | 15 | 2 | 3 | 10 | 16 | 30 | -14 | 9 |
 | 18 | Everton | 14 | 5 | 2 | 7 | 15 | 20 | -5 | 7 |
 | 19 | Burnley | 15 | 2 | 1 | 12 | 15 | 33 | -18 | 7 |
-| 20 | Sheffield United | 15 | 1 | 2 | 12 | 11 | 40 | -29 | 5 |
+| 20 | Sheffield United | 15 | 1 | 2 | 12 | 11 | 41 | -30 | 5 |
 <!-- END_STANDINGS -->

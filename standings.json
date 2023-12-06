@@ -108,9 +108,9 @@
             "won": 10,
             "drawn": 4,
             "lost": 1,
-            "goalsFor": 33,
+            "goalsFor": 34,
             "goalsAgainst": 14,
-            "goalsDifference": 19,
+            "goalsDifference": 20,
             "points": 34
           },
           "home": {
@@ -128,9 +128,9 @@
             "won": 3,
             "drawn": 4,
             "lost": 1,
-            "goalsFor": 12,
+            "goalsFor": 13,
             "goalsAgainst": 9,
-            "goalsDifference": 3,
+            "goalsDifference": 4,
             "points": 13
           },
           "annotations": [
@@ -696,6 +696,66 @@
         },
         {
           "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          },
+          "position": 12,
+          "startingPosition": 14,
+          "overall": {
+            "played": 15,
+            "won": 5,
+            "drawn": 3,
+            "lost": 7,
+            "goalsFor": 21,
+            "goalsAgainst": 26,
+            "goalsDifference": -5,
+            "points": 18
+          },
+          "home": {
+            "played": 7,
+            "won": 4,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 12,
+            "goalsAgainst": 9,
+            "goalsDifference": 3,
+            "points": 12
+          },
+          "away": {
+            "played": 8,
+            "won": 1,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 9,
+            "goalsAgainst": 17,
+            "goalsDifference": -8,
+            "points": 6
+          },
+          "ground": {
+            "name": "Craven Cottage",
+            "city": "London",
+            "capacity": 25700,
+            "location": {
+              "latitude": 51.4745,
+              "longitude": -0.220993
+            },
+            "source": "OPTA",
+            "id": 16
+          }
+        },
+        {
+          "team": {
             "name": "Wolverhampton Wanderers",
             "club": {
               "name": "Wolverhampton Wanderers",
@@ -710,7 +770,7 @@
               "opta": "t39"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 13,
           "overall": {
             "played": 15,
@@ -756,66 +816,6 @@
         },
         {
           "team": {
-            "name": "Fulham",
-            "club": {
-              "name": "Fulham",
-              "shortName": "Fulham",
-              "abbr": "FUL",
-              "id": 34
-            },
-            "teamType": "FIRST",
-            "shortName": "Fulham",
-            "id": 34,
-            "altIds": {
-              "opta": "t54"
-            }
-          },
-          "position": 13,
-          "startingPosition": 14,
-          "overall": {
-            "played": 15,
-            "won": 5,
-            "drawn": 3,
-            "lost": 7,
-            "goalsFor": 20,
-            "goalsAgainst": 26,
-            "goalsDifference": -6,
-            "points": 18
-          },
-          "home": {
-            "played": 7,
-            "won": 4,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 11,
-            "goalsAgainst": 9,
-            "goalsDifference": 2,
-            "points": 12
-          },
-          "away": {
-            "played": 8,
-            "won": 1,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 9,
-            "goalsAgainst": 17,
-            "goalsDifference": -8,
-            "points": 6
-          },
-          "ground": {
-            "name": "Craven Cottage",
-            "city": "London",
-            "capacity": 25700,
-            "location": {
-              "latitude": 51.4745,
-              "longitude": -0.220993
-            },
-            "source": "OPTA",
-            "id": 16
-          }
-        },
-        {
-          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -838,8 +838,8 @@
             "drawn": 4,
             "lost": 7,
             "goalsFor": 14,
-            "goalsAgainst": 20,
-            "goalsDifference": -6,
+            "goalsAgainst": 21,
+            "goalsDifference": -7,
             "points": 16
           },
           "home": {
@@ -848,8 +848,8 @@
             "drawn": 2,
             "lost": 4,
             "goalsFor": 6,
-            "goalsAgainst": 9,
-            "goalsDifference": -3,
+            "goalsAgainst": 10,
+            "goalsDifference": -4,
             "points": 5
           },
           "away": {
@@ -897,9 +897,9 @@
             "won": 4,
             "drawn": 4,
             "lost": 7,
-            "goalsFor": 17,
+            "goalsFor": 18,
             "goalsAgainst": 30,
-            "goalsDifference": -13,
+            "goalsDifference": -12,
             "points": 16
           },
           "home": {
@@ -917,9 +917,9 @@
             "won": 2,
             "drawn": 1,
             "lost": 4,
-            "goalsFor": 9,
+            "goalsFor": 10,
             "goalsAgainst": 18,
-            "goalsDifference": -9,
+            "goalsDifference": -8,
             "points": 7
           },
           "ground": {
@@ -958,8 +958,8 @@
             "drawn": 4,
             "lost": 8,
             "goalsFor": 16,
-            "goalsAgainst": 26,
-            "goalsDifference": -10,
+            "goalsAgainst": 27,
+            "goalsDifference": -11,
             "points": 13
           },
           "home": {
@@ -978,8 +978,8 @@
             "drawn": 1,
             "lost": 6,
             "goalsFor": 6,
-            "goalsAgainst": 17,
-            "goalsDifference": -11,
+            "goalsAgainst": 18,
+            "goalsDifference": -12,
             "points": 4
           },
           "ground": {
@@ -1207,8 +1207,8 @@
             "drawn": 2,
             "lost": 12,
             "goalsFor": 11,
-            "goalsAgainst": 40,
-            "goalsDifference": -29,
+            "goalsAgainst": 41,
+            "goalsDifference": -30,
             "points": 5
           },
           "home": {
@@ -1217,8 +1217,8 @@
             "drawn": 1,
             "lost": 6,
             "goalsFor": 7,
-            "goalsAgainst": 20,
-            "goalsDifference": -13,
+            "goalsAgainst": 21,
+            "goalsDifference": -14,
             "points": 4
           },
           "away": {
