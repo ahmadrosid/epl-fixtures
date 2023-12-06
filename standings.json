@@ -105,13 +105,13 @@
           "startingPosition": 2,
           "overall": {
             "played": 15,
-            "won": 9,
-            "drawn": 5,
+            "won": 10,
+            "drawn": 4,
             "lost": 1,
-            "goalsFor": 32,
+            "goalsFor": 33,
             "goalsAgainst": 14,
-            "goalsDifference": 18,
-            "points": 32
+            "goalsDifference": 19,
+            "points": 34
           },
           "home": {
             "played": 7,
@@ -125,13 +125,13 @@
           },
           "away": {
             "played": 8,
-            "won": 2,
-            "drawn": 5,
+            "won": 3,
+            "drawn": 4,
             "lost": 1,
-            "goalsFor": 11,
+            "goalsFor": 12,
             "goalsAgainst": 9,
-            "goalsDifference": 2,
-            "points": 11
+            "goalsDifference": 3,
+            "points": 13
           },
           "annotations": [
             {
@@ -487,8 +487,8 @@
             "won": 6,
             "drawn": 5,
             "lost": 4,
-            "goalsFor": 30,
-            "goalsAgainst": 26,
+            "goalsFor": 31,
+            "goalsAgainst": 27,
             "goalsDifference": 4,
             "points": 23
           },
@@ -497,8 +497,8 @@
             "won": 3,
             "drawn": 4,
             "lost": 1,
-            "goalsFor": 15,
-            "goalsAgainst": 10,
+            "goalsFor": 16,
+            "goalsAgainst": 11,
             "goalsDifference": 5,
             "points": 13
           },
@@ -602,8 +602,8 @@
             "won": 5,
             "drawn": 5,
             "lost": 5,
-            "goalsFor": 22,
-            "goalsAgainst": 19,
+            "goalsFor": 23,
+            "goalsAgainst": 20,
             "goalsDifference": 3,
             "points": 20
           },
@@ -622,8 +622,8 @@
             "won": 2,
             "drawn": 2,
             "lost": 3,
-            "goalsFor": 7,
-            "goalsAgainst": 7,
+            "goalsFor": 8,
+            "goalsAgainst": 8,
             "goalsDifference": 0,
             "points": 8
           },
@@ -756,66 +756,6 @@
         },
         {
           "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "position": 13,
-          "startingPosition": 12,
-          "overall": {
-            "played": 15,
-            "won": 4,
-            "drawn": 5,
-            "lost": 6,
-            "goalsFor": 14,
-            "goalsAgainst": 19,
-            "goalsDifference": -5,
-            "points": 17
-          },
-          "home": {
-            "played": 7,
-            "won": 1,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 6,
-            "goalsAgainst": 8,
-            "goalsDifference": -2,
-            "points": 6
-          },
-          "away": {
-            "played": 8,
-            "won": 3,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 11,
-            "goalsDifference": -3,
-            "points": 11
-          },
-          "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
-            "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
-            },
-            "source": "OPTA",
-            "id": 45
-          }
-        },
-        {
-          "team": {
             "name": "Fulham",
             "club": {
               "name": "Fulham",
@@ -830,27 +770,27 @@
               "opta": "t54"
             }
           },
-          "position": 14,
+          "position": 13,
           "startingPosition": 14,
           "overall": {
             "played": 15,
-            "won": 4,
-            "drawn": 4,
+            "won": 5,
+            "drawn": 3,
             "lost": 7,
-            "goalsFor": 16,
+            "goalsFor": 18,
             "goalsAgainst": 26,
-            "goalsDifference": -10,
-            "points": 16
+            "goalsDifference": -8,
+            "points": 18
           },
           "home": {
             "played": 7,
-            "won": 3,
-            "drawn": 1,
+            "won": 4,
+            "drawn": 0,
             "lost": 3,
-            "goalsFor": 7,
+            "goalsFor": 9,
             "goalsAgainst": 9,
-            "goalsDifference": -2,
-            "points": 10
+            "goalsDifference": 0,
+            "points": 12
           },
           "away": {
             "played": 8,
@@ -876,60 +816,62 @@
         },
         {
           "team": {
-            "name": "Nottingham Forest",
+            "name": "Crystal Palace",
             "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
             },
             "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
+            "shortName": "Crystal Palace",
+            "id": 6,
             "altIds": {
-              "opta": "t17"
+              "opta": "t31"
             }
           },
-          "position": 15,
-          "startingPosition": 15,
+          "position": 14,
+          "startingPosition": 12,
           "overall": {
             "played": 15,
-            "won": 3,
-            "drawn": 5,
+            "won": 4,
+            "drawn": 4,
             "lost": 7,
-            "goalsFor": 16,
-            "goalsAgainst": 22,
+            "goalsFor": 14,
+            "goalsAgainst": 20,
             "goalsDifference": -6,
-            "points": 14
+            "points": 16
           },
           "home": {
             "played": 7,
-            "won": 2,
-            "drawn": 3,
-            "lost": 2,
-            "goalsFor": 10,
+            "won": 1,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 6,
             "goalsAgainst": 9,
-            "goalsDifference": 1,
-            "points": 9
+            "goalsDifference": -3,
+            "points": 5
           },
           "away": {
             "played": 8,
-            "won": 1,
+            "won": 3,
             "drawn": 2,
-            "lost": 5,
-            "goalsFor": 6,
-            "goalsAgainst": 13,
-            "goalsDifference": -7,
-            "points": 5
+            "lost": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 11,
+            "goalsDifference": -3,
+            "points": 11
           },
           "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
             "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
+              "latitude": 51.3979,
+              "longitude": -0.085923
             },
-            "id": 1192
+            "source": "OPTA",
+            "id": 45
           }
         },
         {
@@ -948,17 +890,17 @@
               "opta": "t91"
             }
           },
-          "position": 16,
+          "position": 15,
           "startingPosition": 16,
           "overall": {
             "played": 15,
-            "won": 3,
-            "drawn": 5,
+            "won": 4,
+            "drawn": 4,
             "lost": 7,
-            "goalsFor": 16,
+            "goalsFor": 17,
             "goalsAgainst": 30,
-            "goalsDifference": -14,
-            "points": 14
+            "goalsDifference": -13,
+            "points": 16
           },
           "home": {
             "played": 8,
@@ -972,13 +914,13 @@
           },
           "away": {
             "played": 7,
-            "won": 1,
-            "drawn": 2,
+            "won": 2,
+            "drawn": 1,
             "lost": 4,
-            "goalsFor": 8,
+            "goalsFor": 9,
             "goalsAgainst": 18,
-            "goalsDifference": -10,
-            "points": 5
+            "goalsDifference": -9,
+            "points": 7
           },
           "ground": {
             "name": "Vitality Stadium",
@@ -990,6 +932,64 @@
             },
             "source": "OPTA",
             "id": 215
+          }
+        },
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 16,
+          "startingPosition": 15,
+          "overall": {
+            "played": 15,
+            "won": 3,
+            "drawn": 4,
+            "lost": 8,
+            "goalsFor": 16,
+            "goalsAgainst": 24,
+            "goalsDifference": -8,
+            "points": 13
+          },
+          "home": {
+            "played": 7,
+            "won": 2,
+            "drawn": 3,
+            "lost": 2,
+            "goalsFor": 10,
+            "goalsAgainst": 9,
+            "goalsDifference": 1,
+            "points": 9
+          },
+          "away": {
+            "played": 8,
+            "won": 1,
+            "drawn": 1,
+            "lost": 6,
+            "goalsFor": 6,
+            "goalsAgainst": 15,
+            "goalsDifference": -9,
+            "points": 4
+          },
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "id": 1192
           }
         },
         {
@@ -1204,22 +1204,22 @@
           "overall": {
             "played": 15,
             "won": 1,
-            "drawn": 3,
-            "lost": 11,
+            "drawn": 2,
+            "lost": 12,
             "goalsFor": 11,
-            "goalsAgainst": 39,
-            "goalsDifference": -28,
-            "points": 6
+            "goalsAgainst": 40,
+            "goalsDifference": -29,
+            "points": 5
           },
           "home": {
             "played": 8,
             "won": 1,
-            "drawn": 2,
-            "lost": 5,
+            "drawn": 1,
+            "lost": 6,
             "goalsFor": 7,
-            "goalsAgainst": 19,
-            "goalsDifference": -12,
-            "points": 5
+            "goalsAgainst": 20,
+            "goalsDifference": -13,
+            "points": 4
           },
           "away": {
             "played": 7,
