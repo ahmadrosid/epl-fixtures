@@ -1765,6 +1765,7 @@
       "status": "C",
       "phase": "F",
       "outcome": "H",
+      "attendance": 20891,
       "clock": {
         "secs": 5700,
         "label": "90 +5'00"
