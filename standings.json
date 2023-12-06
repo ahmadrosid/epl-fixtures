@@ -346,6 +346,66 @@
         },
         {
           "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          },
+          "position": 6,
+          "startingPosition": 7,
+          "overall": {
+            "played": 15,
+            "won": 9,
+            "drawn": 0,
+            "lost": 6,
+            "goalsFor": 17,
+            "goalsAgainst": 17,
+            "goalsDifference": 0,
+            "points": 27
+          },
+          "home": {
+            "played": 8,
+            "won": 5,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 9,
+            "goalsAgainst": 10,
+            "goalsDifference": -1,
+            "points": 15
+          },
+          "away": {
+            "played": 7,
+            "won": 4,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 7,
+            "goalsDifference": 1,
+            "points": 12
+          },
+          "ground": {
+            "name": "Old Trafford",
+            "city": "Manchester",
+            "capacity": 75635,
+            "location": {
+              "latitude": 53.4626,
+              "longitude": -2.29103
+            },
+            "source": "OPTA",
+            "id": 42
+          }
+        },
+        {
+          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -360,7 +420,7 @@
               "opta": "t4"
             }
           },
-          "position": 6,
+          "position": 7,
           "startingPosition": 6,
           "overall": {
             "played": 14,
@@ -406,66 +466,6 @@
         },
         {
           "team": {
-            "name": "Manchester United",
-            "club": {
-              "name": "Manchester United",
-              "shortName": "Man Utd",
-              "abbr": "MUN",
-              "id": 12
-            },
-            "teamType": "FIRST",
-            "shortName": "Man Utd",
-            "id": 12,
-            "altIds": {
-              "opta": "t1"
-            }
-          },
-          "position": 7,
-          "startingPosition": 7,
-          "overall": {
-            "played": 15,
-            "won": 8,
-            "drawn": 1,
-            "lost": 6,
-            "goalsFor": 16,
-            "goalsAgainst": 17,
-            "goalsDifference": -1,
-            "points": 25
-          },
-          "home": {
-            "played": 8,
-            "won": 4,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 10,
-            "goalsDifference": -2,
-            "points": 13
-          },
-          "away": {
-            "played": 7,
-            "won": 4,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 7,
-            "goalsDifference": 1,
-            "points": 12
-          },
-          "ground": {
-            "name": "Old Trafford",
-            "city": "Manchester",
-            "capacity": 75635,
-            "location": {
-              "latitude": 53.4626,
-              "longitude": -2.29103
-            },
-            "source": "OPTA",
-            "id": 42
-          }
-        },
-        {
-          "team": {
             "name": "Brighton & Hove Albion",
             "club": {
               "name": "Brighton and Hove Albion",
@@ -484,23 +484,23 @@
           "startingPosition": 8,
           "overall": {
             "played": 15,
-            "won": 6,
-            "drawn": 5,
+            "won": 7,
+            "drawn": 4,
             "lost": 4,
-            "goalsFor": 31,
+            "goalsFor": 32,
             "goalsAgainst": 27,
-            "goalsDifference": 4,
-            "points": 23
+            "goalsDifference": 5,
+            "points": 25
           },
           "home": {
             "played": 8,
-            "won": 3,
-            "drawn": 4,
+            "won": 4,
+            "drawn": 3,
             "lost": 1,
-            "goalsFor": 16,
+            "goalsFor": 17,
             "goalsAgainst": 11,
-            "goalsDifference": 5,
-            "points": 13
+            "goalsDifference": 6,
+            "points": 15
           },
           "away": {
             "played": 7,
@@ -600,12 +600,12 @@
           "overall": {
             "played": 15,
             "won": 5,
-            "drawn": 5,
-            "lost": 5,
+            "drawn": 4,
+            "lost": 6,
             "goalsFor": 25,
-            "goalsAgainst": 22,
-            "goalsDifference": 3,
-            "points": 20
+            "goalsAgainst": 23,
+            "goalsDifference": 2,
+            "points": 19
           },
           "home": {
             "played": 8,
@@ -620,12 +620,12 @@
           "away": {
             "played": 7,
             "won": 3,
-            "drawn": 2,
-            "lost": 2,
+            "drawn": 1,
+            "lost": 3,
             "goalsFor": 12,
-            "goalsAgainst": 9,
-            "goalsDifference": 3,
-            "points": 11
+            "goalsAgainst": 10,
+            "goalsDifference": 2,
+            "points": 10
           },
           "ground": {
             "name": "Stamford Bridge",
@@ -660,12 +660,12 @@
           "overall": {
             "played": 15,
             "won": 5,
-            "drawn": 5,
-            "lost": 5,
+            "drawn": 4,
+            "lost": 6,
             "goalsFor": 23,
-            "goalsAgainst": 20,
-            "goalsDifference": 3,
-            "points": 20
+            "goalsAgainst": 21,
+            "goalsDifference": 2,
+            "points": 19
           },
           "home": {
             "played": 8,
@@ -680,12 +680,12 @@
           "away": {
             "played": 7,
             "won": 2,
-            "drawn": 2,
-            "lost": 3,
+            "drawn": 1,
+            "lost": 4,
             "goalsFor": 8,
-            "goalsAgainst": 8,
-            "goalsDifference": 0,
-            "points": 8
+            "goalsAgainst": 9,
+            "goalsDifference": -1,
+            "points": 7
           },
           "ground": {
             "name": "Gtech Community Stadium",
@@ -777,9 +777,9 @@
             "won": 5,
             "drawn": 3,
             "lost": 7,
-            "goalsFor": 18,
+            "goalsFor": 19,
             "goalsAgainst": 26,
-            "goalsDifference": -8,
+            "goalsDifference": -7,
             "points": 18
           },
           "home": {
@@ -787,9 +787,9 @@
             "won": 4,
             "drawn": 0,
             "lost": 3,
-            "goalsFor": 9,
+            "goalsFor": 10,
             "goalsAgainst": 9,
-            "goalsDifference": 0,
+            "goalsDifference": 1,
             "points": 12
           },
           "away": {
@@ -958,8 +958,8 @@
             "drawn": 4,
             "lost": 8,
             "goalsFor": 16,
-            "goalsAgainst": 24,
-            "goalsDifference": -8,
+            "goalsAgainst": 25,
+            "goalsDifference": -9,
             "points": 13
           },
           "home": {
@@ -978,8 +978,8 @@
             "drawn": 1,
             "lost": 6,
             "goalsFor": 6,
-            "goalsAgainst": 15,
-            "goalsDifference": -9,
+            "goalsAgainst": 16,
+            "goalsDifference": -10,
             "points": 4
           },
           "ground": {
