@@ -38,15 +38,15 @@ The data displayed in 2023 with BST TimeZone.
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Arsenal | 15 | 11 | 3 | 1 | 33 | 14 | 19 | 36 |
 | 2 | Liverpool | 15 | 10 | 4 | 1 | 33 | 14 | 19 | 34 |
-| 3 | Manchester City | 14 | 9 | 3 | 2 | 36 | 16 | 20 | 30 |
-| 4 | Aston Villa | 14 | 9 | 2 | 3 | 33 | 20 | 13 | 29 |
+| 3 | Manchester City | 15 | 9 | 4 | 2 | 36 | 16 | 20 | 31 |
+| 4 | Aston Villa | 15 | 9 | 3 | 3 | 33 | 20 | 13 | 30 |
 | 5 | Tottenham Hotspur | 14 | 8 | 3 | 3 | 28 | 20 | 8 | 27 |
 | 6 | Newcastle United | 14 | 8 | 2 | 4 | 32 | 14 | 18 | 26 |
-| 7 | Manchester United | 14 | 8 | 0 | 6 | 16 | 17 | -1 | 24 |
+| 7 | Manchester United | 15 | 8 | 1 | 6 | 16 | 17 | -1 | 25 |
 | 8 | Brighton & Hove Albion | 15 | 6 | 5 | 4 | 31 | 27 | 4 | 23 |
 | 9 | West Ham United | 14 | 6 | 3 | 5 | 24 | 24 | 0 | 21 |
-| 10 | Brentford | 15 | 5 | 5 | 5 | 23 | 20 | 3 | 20 |
-| 11 | Chelsea | 14 | 5 | 4 | 5 | 25 | 22 | 3 | 19 |
+| 10 | Chelsea | 15 | 5 | 5 | 5 | 25 | 22 | 3 | 20 |
+| 11 | Brentford | 15 | 5 | 5 | 5 | 23 | 20 | 3 | 20 |
 | 12 | Wolverhampton Wanderers | 15 | 5 | 3 | 7 | 20 | 25 | -5 | 18 |
 | 13 | Fulham | 15 | 5 | 3 | 7 | 18 | 26 | -8 | 18 |
 | 14 | Crystal Palace | 15 | 4 | 4 | 7 | 14 | 20 | -6 | 16 |
