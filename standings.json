@@ -303,23 +303,23 @@
           "startingPosition": 5,
           "overall": {
             "played": 15,
-            "won": 9,
-            "drawn": 3,
+            "won": 8,
+            "drawn": 4,
             "lost": 3,
             "goalsFor": 29,
-            "goalsAgainst": 20,
-            "goalsDifference": 9,
-            "points": 30
+            "goalsAgainst": 21,
+            "goalsDifference": 8,
+            "points": 28
           },
           "home": {
             "played": 7,
-            "won": 5,
-            "drawn": 0,
+            "won": 4,
+            "drawn": 1,
             "lost": 2,
             "goalsFor": 11,
-            "goalsAgainst": 8,
-            "goalsDifference": 3,
-            "points": 15
+            "goalsAgainst": 9,
+            "goalsDifference": 2,
+            "points": 13
           },
           "away": {
             "played": 8,
@@ -346,66 +346,6 @@
         },
         {
           "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 6,
-          "startingPosition": 6,
-          "overall": {
-            "played": 15,
-            "won": 8,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 32,
-            "goalsAgainst": 14,
-            "goalsDifference": 18,
-            "points": 27
-          },
-          "home": {
-            "played": 8,
-            "won": 7,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 19,
-            "goalsAgainst": 4,
-            "goalsDifference": 15,
-            "points": 21
-          },
-          "away": {
-            "played": 7,
-            "won": 1,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 13,
-            "goalsAgainst": 10,
-            "goalsDifference": 3,
-            "points": 6
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
-          }
-        },
-        {
-          "team": {
             "name": "Manchester United",
             "club": {
               "name": "Manchester United",
@@ -420,7 +360,7 @@
               "opta": "t1"
             }
           },
-          "position": 7,
+          "position": 6,
           "startingPosition": 7,
           "overall": {
             "played": 15,
@@ -462,6 +402,66 @@
             },
             "source": "OPTA",
             "id": 42
+          }
+        },
+        {
+          "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 7,
+          "startingPosition": 6,
+          "overall": {
+            "played": 15,
+            "won": 8,
+            "drawn": 2,
+            "lost": 5,
+            "goalsFor": 32,
+            "goalsAgainst": 17,
+            "goalsDifference": 15,
+            "points": 26
+          },
+          "home": {
+            "played": 8,
+            "won": 7,
+            "drawn": 0,
+            "lost": 1,
+            "goalsFor": 19,
+            "goalsAgainst": 4,
+            "goalsDifference": 15,
+            "points": 21
+          },
+          "away": {
+            "played": 7,
+            "won": 1,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 13,
+            "goalsAgainst": 13,
+            "goalsDifference": 0,
+            "points": 5
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
           }
         },
         {
@@ -545,12 +545,12 @@
           "overall": {
             "played": 15,
             "won": 6,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 24,
+            "drawn": 4,
+            "lost": 5,
+            "goalsFor": 25,
             "goalsAgainst": 25,
-            "goalsDifference": -1,
-            "points": 21
+            "goalsDifference": 0,
+            "points": 22
           },
           "home": {
             "played": 7,
@@ -565,12 +565,12 @@
           "away": {
             "played": 8,
             "won": 3,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 12,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 13,
             "goalsAgainst": 15,
-            "goalsDifference": -3,
-            "points": 10
+            "goalsDifference": -2,
+            "points": 11
           },
           "ground": {
             "name": "London Stadium",
@@ -994,6 +994,72 @@
         },
         {
           "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 17,
+          "startingPosition": 18,
+          "overall": {
+            "played": 15,
+            "won": 6,
+            "drawn": 2,
+            "lost": 7,
+            "goalsFor": 18,
+            "goalsAgainst": 20,
+            "goalsDifference": -2,
+            "points": 10
+          },
+          "home": {
+            "played": 8,
+            "won": 2,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 8,
+            "goalsAgainst": 9,
+            "goalsDifference": -1,
+            "points": 7
+          },
+          "away": {
+            "played": 7,
+            "won": 4,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 10,
+            "goalsAgainst": 11,
+            "goalsDifference": -1,
+            "points": 13
+          },
+          "annotations": [
+            {
+              "type": "PD",
+              "description": "Everton deducted 10 points following a breach of the Premier League’s Profitability and Sustainability Rules. That decision is currently under appeal."
+            }
+          ],
+          "ground": {
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
+          }
+        },
+        {
+          "team": {
             "name": "Luton Town",
             "club": {
               "name": "Luton Town",
@@ -1008,7 +1074,7 @@
               "opta": "t102"
             }
           },
-          "position": 17,
+          "position": 18,
           "startingPosition": 17,
           "overall": {
             "played": 15,
@@ -1040,81 +1106,17 @@
             "goalsDifference": -11,
             "points": 4
           },
-          "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "id": 81
-          }
-        },
-        {
-          "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "position": 18,
-          "startingPosition": 18,
-          "overall": {
-            "played": 15,
-            "won": 5,
-            "drawn": 3,
-            "lost": 7,
-            "goalsFor": 15,
-            "goalsAgainst": 20,
-            "goalsDifference": -5,
-            "points": 8
-          },
-          "home": {
-            "played": 8,
-            "won": 1,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 5,
-            "goalsAgainst": 9,
-            "goalsDifference": -4,
-            "points": 5
-          },
-          "away": {
-            "played": 7,
-            "won": 4,
-            "drawn": 1,
-            "lost": 2,
-            "goalsFor": 10,
-            "goalsAgainst": 11,
-            "goalsDifference": -1,
-            "points": 13
-          },
           "annotations": [
-            {
-              "type": "PD",
-              "description": "Everton deducted 10 points following a breach of the Premier League’s Profitability and Sustainability Rules. That decision is currently under appeal."
-            },
             {
               "type": "R",
               "destination": "EN_CH"
             }
           ],
           "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
-            "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
-            },
-            "source": "OPTA",
-            "id": 31
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "id": 81
           }
         },
         {
