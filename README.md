@@ -37,8 +37,8 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Liverpool | 16 | 11 | 4 | 1 | 36 | 15 | 21 | 37 |
-| 2 | Arsenal | 15 | 11 | 3 | 1 | 33 | 14 | 19 | 36 |
-| 3 | Aston Villa | 15 | 10 | 2 | 3 | 34 | 20 | 14 | 32 |
+| 2 | Arsenal | 16 | 11 | 3 | 2 | 33 | 15 | 18 | 36 |
+| 3 | Aston Villa | 16 | 11 | 2 | 3 | 35 | 20 | 15 | 35 |
 | 4 | Manchester City | 15 | 9 | 3 | 3 | 36 | 17 | 19 | 30 |
 | 5 | Tottenham Hotspur | 15 | 8 | 3 | 4 | 29 | 22 | 7 | 27 |
 | 6 | Manchester United | 16 | 9 | 0 | 7 | 18 | 21 | -3 | 27 |
