@@ -485,22 +485,22 @@
           "overall": {
             "played": 16,
             "won": 7,
-            "drawn": 5,
-            "lost": 4,
+            "drawn": 4,
+            "lost": 5,
             "goalsFor": 32,
-            "goalsAgainst": 27,
-            "goalsDifference": 5,
-            "points": 26
+            "goalsAgainst": 28,
+            "goalsDifference": 4,
+            "points": 25
           },
           "home": {
             "played": 9,
             "won": 4,
-            "drawn": 4,
-            "lost": 1,
+            "drawn": 3,
+            "lost": 2,
             "goalsFor": 17,
-            "goalsAgainst": 11,
-            "goalsDifference": 6,
-            "points": 16
+            "goalsAgainst": 12,
+            "goalsDifference": 5,
+            "points": 15
           },
           "away": {
             "played": 7,
@@ -581,61 +581,6 @@
         },
         {
           "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "position": 10,
-          "startingPosition": 11,
-          "overall": {
-            "played": 16,
-            "won": 5,
-            "drawn": 5,
-            "lost": 6,
-            "goalsFor": 23,
-            "goalsAgainst": 21,
-            "goalsDifference": 2,
-            "points": 20
-          },
-          "home": {
-            "played": 8,
-            "won": 3,
-            "drawn": 3,
-            "lost": 2,
-            "goalsFor": 15,
-            "goalsAgainst": 12,
-            "goalsDifference": 3,
-            "points": 12
-          },
-          "away": {
-            "played": 8,
-            "won": 2,
-            "drawn": 2,
-            "lost": 4,
-            "goalsFor": 8,
-            "goalsAgainst": 9,
-            "goalsDifference": -1,
-            "points": 8
-          },
-          "ground": {
-            "name": "Gtech Community Stadium",
-            "city": "Brentford",
-            "source": "OPTA",
-            "id": 3977
-          }
-        },
-        {
-          "team": {
             "name": "Chelsea",
             "club": {
               "name": "Chelsea",
@@ -650,7 +595,7 @@
               "opta": "t8"
             }
           },
-          "position": 11,
+          "position": 10,
           "startingPosition": 10,
           "overall": {
             "played": 15,
@@ -696,6 +641,121 @@
         },
         {
           "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          },
+          "position": 11,
+          "startingPosition": 11,
+          "overall": {
+            "played": 16,
+            "won": 5,
+            "drawn": 4,
+            "lost": 7,
+            "goalsFor": 23,
+            "goalsAgainst": 22,
+            "goalsDifference": 1,
+            "points": 19
+          },
+          "home": {
+            "played": 8,
+            "won": 3,
+            "drawn": 3,
+            "lost": 2,
+            "goalsFor": 15,
+            "goalsAgainst": 12,
+            "goalsDifference": 3,
+            "points": 12
+          },
+          "away": {
+            "played": 8,
+            "won": 2,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 8,
+            "goalsAgainst": 10,
+            "goalsDifference": -2,
+            "points": 7
+          },
+          "ground": {
+            "name": "Gtech Community Stadium",
+            "city": "Brentford",
+            "source": "OPTA",
+            "id": 3977
+          }
+        },
+        {
+          "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          },
+          "position": 12,
+          "startingPosition": 13,
+          "overall": {
+            "played": 16,
+            "won": 5,
+            "drawn": 4,
+            "lost": 7,
+            "goalsFor": 21,
+            "goalsAgainst": 26,
+            "goalsDifference": -5,
+            "points": 19
+          },
+          "home": {
+            "played": 8,
+            "won": 3,
+            "drawn": 3,
+            "lost": 2,
+            "goalsFor": 11,
+            "goalsAgainst": 13,
+            "goalsDifference": -2,
+            "points": 12
+          },
+          "away": {
+            "played": 8,
+            "won": 2,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 10,
+            "goalsAgainst": 13,
+            "goalsDifference": -3,
+            "points": 7
+          },
+          "ground": {
+            "name": "Molineux Stadium",
+            "city": "Wolverhampton",
+            "capacity": 31500,
+            "location": {
+              "latitude": 52.5904,
+              "longitude": -2.13077
+            },
+            "source": "OPTA",
+            "id": 913
+          }
+        },
+        {
+          "team": {
             "name": "Bournemouth",
             "club": {
               "name": "Bournemouth",
@@ -710,7 +770,7 @@
               "opta": "t91"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 15,
           "overall": {
             "played": 16,
@@ -770,7 +830,7 @@
               "opta": "t54"
             }
           },
-          "position": 13,
+          "position": 14,
           "startingPosition": 12,
           "overall": {
             "played": 15,
@@ -812,66 +872,6 @@
             },
             "source": "OPTA",
             "id": 16
-          }
-        },
-        {
-          "team": {
-            "name": "Wolverhampton Wanderers",
-            "club": {
-              "name": "Wolverhampton Wanderers",
-              "shortName": "Wolves",
-              "abbr": "WOL",
-              "id": 38
-            },
-            "teamType": "FIRST",
-            "shortName": "Wolves",
-            "id": 38,
-            "altIds": {
-              "opta": "t39"
-            }
-          },
-          "position": 14,
-          "startingPosition": 13,
-          "overall": {
-            "played": 16,
-            "won": 5,
-            "drawn": 3,
-            "lost": 8,
-            "goalsFor": 20,
-            "goalsAgainst": 26,
-            "goalsDifference": -6,
-            "points": 18
-          },
-          "home": {
-            "played": 8,
-            "won": 3,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 10,
-            "goalsAgainst": 13,
-            "goalsDifference": -3,
-            "points": 11
-          },
-          "away": {
-            "played": 8,
-            "won": 2,
-            "drawn": 1,
-            "lost": 5,
-            "goalsFor": 10,
-            "goalsAgainst": 13,
-            "goalsDifference": -3,
-            "points": 7
-          },
-          "ground": {
-            "name": "Molineux Stadium",
-            "city": "Wolverhampton",
-            "capacity": 31500,
-            "location": {
-              "latitude": 52.5904,
-              "longitude": -2.13077
-            },
-            "source": "OPTA",
-            "id": 913
           }
         },
         {
@@ -954,13 +954,13 @@
           "startingPosition": 16,
           "overall": {
             "played": 16,
-            "won": 4,
-            "drawn": 4,
+            "won": 3,
+            "drawn": 5,
             "lost": 8,
             "goalsFor": 17,
-            "goalsAgainst": 27,
-            "goalsDifference": -10,
-            "points": 16
+            "goalsAgainst": 28,
+            "goalsDifference": -11,
+            "points": 14
           },
           "home": {
             "played": 7,
@@ -974,13 +974,13 @@
           },
           "away": {
             "played": 9,
-            "won": 2,
-            "drawn": 1,
+            "won": 1,
+            "drawn": 2,
             "lost": 6,
             "goalsFor": 7,
-            "goalsAgainst": 18,
-            "goalsDifference": -11,
-            "points": 7
+            "goalsAgainst": 19,
+            "goalsDifference": -12,
+            "points": 5
           },
           "ground": {
             "name": "The City Ground",
@@ -1060,6 +1060,72 @@
         },
         {
           "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          },
+          "position": 18,
+          "startingPosition": 19,
+          "overall": {
+            "played": 16,
+            "won": 3,
+            "drawn": 1,
+            "lost": 12,
+            "goalsFor": 16,
+            "goalsAgainst": 33,
+            "goalsDifference": -17,
+            "points": 10
+          },
+          "home": {
+            "played": 8,
+            "won": 1,
+            "drawn": 0,
+            "lost": 7,
+            "goalsFor": 10,
+            "goalsAgainst": 20,
+            "goalsDifference": -10,
+            "points": 3
+          },
+          "away": {
+            "played": 8,
+            "won": 2,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 13,
+            "goalsDifference": -7,
+            "points": 7
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Turf Moor",
+            "city": "Burnley",
+            "capacity": 21401,
+            "location": {
+              "latitude": 53.7885,
+              "longitude": -2.23149
+            },
+            "source": "OPTA",
+            "id": 47
+          }
+        },
+        {
+          "team": {
             "name": "Luton Town",
             "club": {
               "name": "Luton Town",
@@ -1074,7 +1140,7 @@
               "opta": "t102"
             }
           },
-          "position": 18,
+          "position": 19,
           "startingPosition": 18,
           "overall": {
             "played": 15,
@@ -1121,72 +1187,6 @@
         },
         {
           "team": {
-            "name": "Burnley",
-            "club": {
-              "name": "Burnley",
-              "shortName": "Burnley",
-              "abbr": "BUR",
-              "id": 43
-            },
-            "teamType": "FIRST",
-            "shortName": "Burnley",
-            "id": 43,
-            "altIds": {
-              "opta": "t90"
-            }
-          },
-          "position": 19,
-          "startingPosition": 19,
-          "overall": {
-            "played": 16,
-            "won": 2,
-            "drawn": 2,
-            "lost": 12,
-            "goalsFor": 15,
-            "goalsAgainst": 33,
-            "goalsDifference": -18,
-            "points": 8
-          },
-          "home": {
-            "played": 8,
-            "won": 1,
-            "drawn": 0,
-            "lost": 7,
-            "goalsFor": 10,
-            "goalsAgainst": 20,
-            "goalsDifference": -10,
-            "points": 3
-          },
-          "away": {
-            "played": 8,
-            "won": 1,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 5,
-            "goalsAgainst": 13,
-            "goalsDifference": -8,
-            "points": 5
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Turf Moor",
-            "city": "Burnley",
-            "capacity": 21401,
-            "location": {
-              "latitude": 53.7885,
-              "longitude": -2.23149
-            },
-            "source": "OPTA",
-            "id": 47
-          }
-        },
-        {
-          "team": {
             "name": "Sheffield United",
             "club": {
               "name": "Sheffield United",
@@ -1205,23 +1205,23 @@
           "startingPosition": 20,
           "overall": {
             "played": 16,
-            "won": 1,
-            "drawn": 3,
+            "won": 2,
+            "drawn": 2,
             "lost": 12,
-            "goalsFor": 11,
+            "goalsFor": 12,
             "goalsAgainst": 41,
-            "goalsDifference": -30,
-            "points": 6
+            "goalsDifference": -29,
+            "points": 8
           },
           "home": {
             "played": 9,
-            "won": 1,
-            "drawn": 2,
+            "won": 2,
+            "drawn": 1,
             "lost": 6,
-            "goalsFor": 7,
+            "goalsFor": 8,
             "goalsAgainst": 21,
-            "goalsDifference": -14,
-            "points": 5
+            "goalsDifference": -13,
+            "points": 7
           },
           "away": {
             "played": 7,
