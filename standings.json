@@ -21,6 +21,72 @@
       "entries": [
         {
           "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          },
+          "position": 1,
+          "startingPosition": 2,
+          "overall": {
+            "played": 16,
+            "won": 11,
+            "drawn": 4,
+            "lost": 1,
+            "goalsFor": 36,
+            "goalsAgainst": 15,
+            "goalsDifference": 21,
+            "points": 37
+          },
+          "home": {
+            "played": 7,
+            "won": 7,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 21,
+            "goalsAgainst": 5,
+            "goalsDifference": 16,
+            "points": 21
+          },
+          "away": {
+            "played": 9,
+            "won": 4,
+            "drawn": 4,
+            "lost": 1,
+            "goalsFor": 15,
+            "goalsAgainst": 10,
+            "goalsDifference": 5,
+            "points": 16
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Anfield",
+            "city": "Liverpool",
+            "capacity": 54074,
+            "location": {
+              "latitude": 53.4313,
+              "longitude": -2.96158
+            },
+            "source": "OPTA",
+            "id": 901
+          }
+        },
+        {
+          "team": {
             "name": "Arsenal",
             "club": {
               "name": "Arsenal",
@@ -35,7 +101,7 @@
               "opta": "t3"
             }
           },
-          "position": 1,
+          "position": 2,
           "startingPosition": 1,
           "overall": {
             "played": 15,
@@ -83,72 +149,6 @@
             },
             "source": "OPTA",
             "id": 52
-          }
-        },
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "position": 2,
-          "startingPosition": 2,
-          "overall": {
-            "played": 16,
-            "won": 10,
-            "drawn": 5,
-            "lost": 1,
-            "goalsFor": 35,
-            "goalsAgainst": 15,
-            "goalsDifference": 20,
-            "points": 35
-          },
-          "home": {
-            "played": 7,
-            "won": 7,
-            "drawn": 0,
-            "lost": 0,
-            "goalsFor": 21,
-            "goalsAgainst": 5,
-            "goalsDifference": 16,
-            "points": 21
-          },
-          "away": {
-            "played": 9,
-            "won": 3,
-            "drawn": 5,
-            "lost": 1,
-            "goalsFor": 14,
-            "goalsAgainst": 10,
-            "goalsDifference": 4,
-            "points": 14
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Anfield",
-            "city": "Liverpool",
-            "capacity": 54074,
-            "location": {
-              "latitude": 53.4313,
-              "longitude": -2.96158
-            },
-            "source": "OPTA",
-            "id": 901
           }
         },
         {
@@ -835,22 +835,22 @@
           "overall": {
             "played": 16,
             "won": 4,
-            "drawn": 5,
-            "lost": 7,
+            "drawn": 4,
+            "lost": 8,
             "goalsFor": 15,
-            "goalsAgainst": 22,
-            "goalsDifference": -7,
-            "points": 17
+            "goalsAgainst": 23,
+            "goalsDifference": -8,
+            "points": 16
           },
           "home": {
             "played": 8,
             "won": 1,
-            "drawn": 3,
-            "lost": 4,
+            "drawn": 2,
+            "lost": 5,
             "goalsFor": 7,
-            "goalsAgainst": 11,
-            "goalsDifference": -4,
-            "points": 6
+            "goalsAgainst": 12,
+            "goalsDifference": -5,
+            "points": 5
           },
           "away": {
             "played": 8,
