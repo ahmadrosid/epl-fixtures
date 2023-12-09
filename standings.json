@@ -106,12 +106,12 @@
           "overall": {
             "played": 16,
             "won": 10,
-            "drawn": 5,
-            "lost": 1,
+            "drawn": 4,
+            "lost": 2,
             "goalsFor": 34,
-            "goalsAgainst": 14,
-            "goalsDifference": 20,
-            "points": 35
+            "goalsAgainst": 15,
+            "goalsDifference": 19,
+            "points": 34
           },
           "home": {
             "played": 7,
@@ -126,12 +126,12 @@
           "away": {
             "played": 9,
             "won": 3,
-            "drawn": 5,
-            "lost": 1,
+            "drawn": 4,
+            "lost": 2,
             "goalsFor": 13,
-            "goalsAgainst": 9,
-            "goalsDifference": 4,
-            "points": 14
+            "goalsAgainst": 10,
+            "goalsDifference": 3,
+            "points": 13
           },
           "annotations": [
             {
@@ -696,6 +696,66 @@
         },
         {
           "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          },
+          "position": 12,
+          "startingPosition": 14,
+          "overall": {
+            "played": 16,
+            "won": 5,
+            "drawn": 4,
+            "lost": 7,
+            "goalsFor": 15,
+            "goalsAgainst": 21,
+            "goalsDifference": -6,
+            "points": 19
+          },
+          "home": {
+            "played": 8,
+            "won": 2,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 7,
+            "goalsAgainst": 10,
+            "goalsDifference": -3,
+            "points": 8
+          },
+          "away": {
+            "played": 8,
+            "won": 3,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 11,
+            "goalsDifference": -3,
+            "points": 11
+          },
+          "ground": {
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
+            "location": {
+              "latitude": 51.3979,
+              "longitude": -0.085923
+            },
+            "source": "OPTA",
+            "id": 45
+          }
+        },
+        {
+          "team": {
             "name": "Fulham",
             "club": {
               "name": "Fulham",
@@ -710,7 +770,7 @@
               "opta": "t54"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 12,
           "overall": {
             "played": 15,
@@ -770,7 +830,7 @@
               "opta": "t39"
             }
           },
-          "position": 13,
+          "position": 14,
           "startingPosition": 13,
           "overall": {
             "played": 15,
@@ -812,66 +872,6 @@
             },
             "source": "OPTA",
             "id": 913
-          }
-        },
-        {
-          "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "position": 14,
-          "startingPosition": 14,
-          "overall": {
-            "played": 16,
-            "won": 4,
-            "drawn": 5,
-            "lost": 7,
-            "goalsFor": 14,
-            "goalsAgainst": 21,
-            "goalsDifference": -7,
-            "points": 17
-          },
-          "home": {
-            "played": 8,
-            "won": 1,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 6,
-            "goalsAgainst": 10,
-            "goalsDifference": -4,
-            "points": 6
-          },
-          "away": {
-            "played": 8,
-            "won": 3,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 11,
-            "goalsDifference": -3,
-            "points": 11
-          },
-          "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
-            "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
-            },
-            "source": "OPTA",
-            "id": 45
           }
         },
         {
