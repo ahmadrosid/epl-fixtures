@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": true,
+  "live": false,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -306,8 +306,8 @@
             "won": 9,
             "drawn": 3,
             "lost": 4,
-            "goalsFor": 32,
-            "goalsAgainst": 22,
+            "goalsFor": 33,
+            "goalsAgainst": 23,
             "goalsDifference": 10,
             "points": 30
           },
@@ -316,8 +316,8 @@
             "won": 5,
             "drawn": 0,
             "lost": 3,
-            "goalsFor": 14,
-            "goalsAgainst": 10,
+            "goalsFor": 15,
+            "goalsAgainst": 11,
             "goalsDifference": 4,
             "points": 15
           },
@@ -427,8 +427,8 @@
             "won": 8,
             "drawn": 2,
             "lost": 6,
-            "goalsFor": 32,
-            "goalsAgainst": 20,
+            "goalsFor": 33,
+            "goalsAgainst": 21,
             "goalsDifference": 12,
             "points": 26
           },
@@ -447,8 +447,8 @@
             "won": 1,
             "drawn": 2,
             "lost": 5,
-            "goalsFor": 13,
-            "goalsAgainst": 16,
+            "goalsFor": 14,
+            "goalsAgainst": 17,
             "goalsDifference": -3,
             "points": 5
           },
