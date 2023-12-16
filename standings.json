@@ -108,9 +108,9 @@
             "won": 11,
             "drawn": 3,
             "lost": 3,
-            "goalsFor": 39,
+            "goalsFor": 40,
             "goalsAgainst": 18,
-            "goalsDifference": 21,
+            "goalsDifference": 22,
             "points": 36
           },
           "home": {
@@ -118,9 +118,9 @@
             "won": 6,
             "drawn": 2,
             "lost": 0,
-            "goalsFor": 21,
+            "goalsFor": 22,
             "goalsAgainst": 7,
-            "goalsDifference": 14,
+            "goalsDifference": 15,
             "points": 20
           },
           "away": {
@@ -364,23 +364,23 @@
           "startingPosition": 7,
           "overall": {
             "played": 17,
-            "won": 8,
-            "drawn": 3,
+            "won": 9,
+            "drawn": 2,
             "lost": 6,
-            "goalsFor": 33,
+            "goalsFor": 35,
             "goalsAgainst": 21,
-            "goalsDifference": 12,
-            "points": 27
+            "goalsDifference": 14,
+            "points": 29
           },
           "home": {
             "played": 9,
-            "won": 7,
-            "drawn": 1,
+            "won": 8,
+            "drawn": 0,
             "lost": 1,
-            "goalsFor": 19,
+            "goalsFor": 21,
             "goalsAgainst": 4,
-            "goalsDifference": 15,
-            "points": 22
+            "goalsDifference": 17,
+            "points": 24
           },
           "away": {
             "played": 8,
@@ -581,66 +581,6 @@
         },
         {
           "team": {
-            "name": "Fulham",
-            "club": {
-              "name": "Fulham",
-              "shortName": "Fulham",
-              "abbr": "FUL",
-              "id": 34
-            },
-            "teamType": "FIRST",
-            "shortName": "Fulham",
-            "id": 34,
-            "altIds": {
-              "opta": "t54"
-            }
-          },
-          "position": 10,
-          "startingPosition": 10,
-          "overall": {
-            "played": 17,
-            "won": 6,
-            "drawn": 4,
-            "lost": 7,
-            "goalsFor": 26,
-            "goalsAgainst": 26,
-            "goalsDifference": 0,
-            "points": 22
-          },
-          "home": {
-            "played": 8,
-            "won": 5,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 17,
-            "goalsAgainst": 9,
-            "goalsDifference": 8,
-            "points": 15
-          },
-          "away": {
-            "played": 9,
-            "won": 1,
-            "drawn": 4,
-            "lost": 4,
-            "goalsFor": 9,
-            "goalsAgainst": 17,
-            "goalsDifference": -8,
-            "points": 7
-          },
-          "ground": {
-            "name": "Craven Cottage",
-            "city": "London",
-            "capacity": 25700,
-            "location": {
-              "latitude": 51.4745,
-              "longitude": -0.220993
-            },
-            "source": "OPTA",
-            "id": 16
-          }
-        },
-        {
-          "team": {
             "name": "Chelsea",
             "club": {
               "name": "Chelsea",
@@ -655,27 +595,27 @@
               "opta": "t8"
             }
           },
-          "position": 11,
+          "position": 10,
           "startingPosition": 12,
           "overall": {
             "played": 17,
-            "won": 5,
-            "drawn": 5,
+            "won": 6,
+            "drawn": 4,
             "lost": 7,
-            "goalsFor": 26,
+            "goalsFor": 28,
             "goalsAgainst": 26,
-            "goalsDifference": 0,
-            "points": 20
+            "goalsDifference": 2,
+            "points": 22
           },
           "home": {
             "played": 9,
-            "won": 2,
-            "drawn": 4,
+            "won": 3,
+            "drawn": 3,
             "lost": 3,
-            "goalsFor": 13,
+            "goalsFor": 15,
             "goalsAgainst": 13,
-            "goalsDifference": 0,
-            "points": 10
+            "goalsDifference": 2,
+            "points": 12
           },
           "away": {
             "played": 8,
@@ -701,6 +641,126 @@
         },
         {
           "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          },
+          "position": 11,
+          "startingPosition": 10,
+          "overall": {
+            "played": 17,
+            "won": 6,
+            "drawn": 3,
+            "lost": 8,
+            "goalsFor": 26,
+            "goalsAgainst": 28,
+            "goalsDifference": -2,
+            "points": 21
+          },
+          "home": {
+            "played": 8,
+            "won": 5,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 17,
+            "goalsAgainst": 9,
+            "goalsDifference": 8,
+            "points": 15
+          },
+          "away": {
+            "played": 9,
+            "won": 1,
+            "drawn": 3,
+            "lost": 5,
+            "goalsFor": 9,
+            "goalsAgainst": 19,
+            "goalsDifference": -10,
+            "points": 6
+          },
+          "ground": {
+            "name": "Craven Cottage",
+            "city": "London",
+            "capacity": 25700,
+            "location": {
+              "latitude": 51.4745,
+              "longitude": -0.220993
+            },
+            "source": "OPTA",
+            "id": 16
+          }
+        },
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          },
+          "position": 12,
+          "startingPosition": 14,
+          "overall": {
+            "played": 17,
+            "won": 5,
+            "drawn": 5,
+            "lost": 7,
+            "goalsFor": 22,
+            "goalsAgainst": 31,
+            "goalsDifference": -9,
+            "points": 20
+          },
+          "home": {
+            "played": 9,
+            "won": 2,
+            "drawn": 4,
+            "lost": 3,
+            "goalsFor": 9,
+            "goalsAgainst": 13,
+            "goalsDifference": -4,
+            "points": 10
+          },
+          "away": {
+            "played": 8,
+            "won": 3,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 13,
+            "goalsAgainst": 18,
+            "goalsDifference": -5,
+            "points": 10
+          },
+          "ground": {
+            "name": "Vitality Stadium",
+            "city": "Bournemouth",
+            "capacity": 10783,
+            "location": {
+              "latitude": 50.7349,
+              "longitude": -1.83899
+            },
+            "source": "OPTA",
+            "id": 215
+          }
+        },
+        {
+          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -715,7 +775,7 @@
               "opta": "t94"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 11,
           "overall": {
             "played": 16,
@@ -770,7 +830,7 @@
               "opta": "t39"
             }
           },
-          "position": 13,
+          "position": 14,
           "startingPosition": 13,
           "overall": {
             "played": 16,
@@ -816,66 +876,6 @@
         },
         {
           "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "position": 14,
-          "startingPosition": 14,
-          "overall": {
-            "played": 17,
-            "won": 5,
-            "drawn": 4,
-            "lost": 8,
-            "goalsFor": 21,
-            "goalsAgainst": 31,
-            "goalsDifference": -10,
-            "points": 19
-          },
-          "home": {
-            "played": 9,
-            "won": 2,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 8,
-            "goalsAgainst": 13,
-            "goalsDifference": -5,
-            "points": 9
-          },
-          "away": {
-            "played": 8,
-            "won": 3,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 13,
-            "goalsAgainst": 18,
-            "goalsDifference": -5,
-            "points": 10
-          },
-          "ground": {
-            "name": "Vitality Stadium",
-            "city": "Bournemouth",
-            "capacity": 10783,
-            "location": {
-              "latitude": 50.7349,
-              "longitude": -1.83899
-            },
-            "source": "OPTA",
-            "id": 215
-          }
-        },
-        {
-          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -898,8 +898,8 @@
             "drawn": 4,
             "lost": 9,
             "goalsFor": 15,
-            "goalsAgainst": 24,
-            "goalsDifference": -9,
+            "goalsAgainst": 25,
+            "goalsDifference": -10,
             "points": 16
           },
           "home": {
@@ -918,8 +918,8 @@
             "drawn": 2,
             "lost": 4,
             "goalsFor": 8,
-            "goalsAgainst": 12,
-            "goalsDifference": -4,
+            "goalsAgainst": 13,
+            "goalsDifference": -5,
             "points": 11
           },
           "ground": {
@@ -1078,13 +1078,13 @@
           "startingPosition": 18,
           "overall": {
             "played": 17,
-            "won": 3,
-            "drawn": 3,
+            "won": 2,
+            "drawn": 4,
             "lost": 11,
             "goalsFor": 18,
-            "goalsAgainst": 32,
-            "goalsDifference": -14,
-            "points": 12
+            "goalsAgainst": 33,
+            "goalsDifference": -15,
+            "points": 10
           },
           "home": {
             "played": 8,
@@ -1098,13 +1098,13 @@
           },
           "away": {
             "played": 9,
-            "won": 2,
-            "drawn": 1,
+            "won": 1,
+            "drawn": 2,
             "lost": 6,
             "goalsFor": 8,
-            "goalsAgainst": 18,
-            "goalsDifference": -10,
-            "points": 7
+            "goalsAgainst": 19,
+            "goalsDifference": -11,
+            "points": 5
           },
           "annotations": [
             {
@@ -1117,72 +1117,6 @@
             "city": "Luton",
             "capacity": 9975,
             "id": 81
-          }
-        },
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 19,
-          "startingPosition": 20,
-          "overall": {
-            "played": 17,
-            "won": 2,
-            "drawn": 3,
-            "lost": 12,
-            "goalsFor": 12,
-            "goalsAgainst": 41,
-            "goalsDifference": -29,
-            "points": 9
-          },
-          "home": {
-            "played": 9,
-            "won": 2,
-            "drawn": 1,
-            "lost": 6,
-            "goalsFor": 8,
-            "goalsAgainst": 21,
-            "goalsDifference": -13,
-            "points": 7
-          },
-          "away": {
-            "played": 8,
-            "won": 0,
-            "drawn": 2,
-            "lost": 6,
-            "goalsFor": 4,
-            "goalsAgainst": 20,
-            "goalsDifference": -16,
-            "points": 2
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
           }
         },
         {
@@ -1201,7 +1135,7 @@
               "opta": "t90"
             }
           },
-          "position": 20,
+          "position": 19,
           "startingPosition": 19,
           "overall": {
             "played": 16,
@@ -1249,6 +1183,72 @@
             },
             "source": "OPTA",
             "id": 47
+          }
+        },
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 20,
+          "startingPosition": 20,
+          "overall": {
+            "played": 17,
+            "won": 2,
+            "drawn": 2,
+            "lost": 13,
+            "goalsFor": 12,
+            "goalsAgainst": 43,
+            "goalsDifference": -31,
+            "points": 8
+          },
+          "home": {
+            "played": 9,
+            "won": 2,
+            "drawn": 1,
+            "lost": 6,
+            "goalsFor": 8,
+            "goalsAgainst": 21,
+            "goalsDifference": -13,
+            "points": 7
+          },
+          "away": {
+            "played": 8,
+            "won": 0,
+            "drawn": 1,
+            "lost": 7,
+            "goalsFor": 4,
+            "goalsAgainst": 22,
+            "goalsDifference": -18,
+            "points": 1
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
           }
         }
       ]

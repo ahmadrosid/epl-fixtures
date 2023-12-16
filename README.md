@@ -37,23 +37,23 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Liverpool | 16 | 11 | 4 | 1 | 36 | 15 | 21 | 37 |
-| 2 | Manchester City | 17 | 11 | 3 | 3 | 39 | 18 | 21 | 36 |
+| 2 | Manchester City | 17 | 11 | 3 | 3 | 40 | 18 | 22 | 36 |
 | 3 | Arsenal | 16 | 11 | 3 | 2 | 33 | 15 | 18 | 36 |
 | 4 | Aston Villa | 16 | 11 | 2 | 3 | 35 | 20 | 15 | 35 |
 | 5 | Tottenham Hotspur | 17 | 10 | 3 | 4 | 35 | 23 | 12 | 33 |
-| 6 | Newcastle United | 17 | 8 | 3 | 6 | 33 | 21 | 12 | 27 |
+| 6 | Newcastle United | 17 | 9 | 2 | 6 | 35 | 21 | 14 | 29 |
 | 7 | Manchester United | 16 | 9 | 0 | 7 | 18 | 21 | -3 | 27 |
 | 8 | Brighton & Hove Albion | 16 | 7 | 5 | 4 | 33 | 28 | 5 | 26 |
 | 9 | West Ham United | 16 | 7 | 3 | 6 | 26 | 30 | -4 | 24 |
-| 10 | Fulham | 17 | 6 | 4 | 7 | 26 | 26 | 0 | 22 |
-| 11 | Chelsea | 17 | 5 | 5 | 7 | 26 | 26 | 0 | 20 |
-| 12 | Brentford | 16 | 5 | 4 | 7 | 23 | 22 | 1 | 19 |
-| 13 | Wolverhampton Wanderers | 16 | 5 | 4 | 7 | 21 | 26 | -5 | 19 |
-| 14 | Bournemouth | 17 | 5 | 4 | 8 | 21 | 31 | -10 | 19 |
-| 15 | Crystal Palace | 17 | 4 | 4 | 9 | 15 | 24 | -9 | 16 |
+| 10 | Chelsea | 17 | 6 | 4 | 7 | 28 | 26 | 2 | 22 |
+| 11 | Fulham | 17 | 6 | 3 | 8 | 26 | 28 | -2 | 21 |
+| 12 | Bournemouth | 17 | 5 | 5 | 7 | 22 | 31 | -9 | 20 |
+| 13 | Brentford | 16 | 5 | 4 | 7 | 23 | 22 | 1 | 19 |
+| 14 | Wolverhampton Wanderers | 16 | 5 | 4 | 7 | 21 | 26 | -5 | 19 |
+| 15 | Crystal Palace | 17 | 4 | 4 | 9 | 15 | 25 | -10 | 16 |
 | 16 | Nottingham Forest | 17 | 3 | 5 | 9 | 17 | 30 | -13 | 14 |
 | 17 | Everton | 16 | 7 | 2 | 7 | 20 | 20 | 0 | 13 |
-| 18 | Luton Town | 17 | 3 | 3 | 11 | 18 | 32 | -14 | 12 |
-| 19 | Sheffield United | 17 | 2 | 3 | 12 | 12 | 41 | -29 | 9 |
-| 20 | Burnley | 16 | 2 | 2 | 12 | 16 | 34 | -18 | 8 |
+| 18 | Luton Town | 17 | 2 | 4 | 11 | 18 | 33 | -15 | 10 |
+| 19 | Burnley | 16 | 2 | 2 | 12 | 16 | 34 | -18 | 8 |
+| 20 | Sheffield United | 17 | 2 | 2 | 13 | 12 | 43 | -31 | 8 |
 <!-- END_STANDINGS -->
