@@ -37,9 +37,9 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Liverpool | 16 | 11 | 4 | 1 | 36 | 15 | 21 | 37 |
-| 2 | Arsenal | 16 | 11 | 3 | 2 | 33 | 15 | 18 | 36 |
-| 3 | Aston Villa | 16 | 11 | 2 | 3 | 35 | 20 | 15 | 35 |
-| 4 | Manchester City | 17 | 10 | 4 | 3 | 38 | 18 | 20 | 34 |
+| 2 | Manchester City | 17 | 11 | 3 | 3 | 39 | 18 | 21 | 36 |
+| 3 | Arsenal | 16 | 11 | 3 | 2 | 33 | 15 | 18 | 36 |
+| 4 | Aston Villa | 16 | 11 | 2 | 3 | 35 | 20 | 15 | 35 |
 | 5 | Tottenham Hotspur | 17 | 10 | 3 | 4 | 35 | 23 | 12 | 33 |
 | 6 | Newcastle United | 17 | 8 | 3 | 6 | 33 | 21 | 12 | 27 |
 | 7 | Manchester United | 16 | 9 | 0 | 7 | 18 | 21 | -3 | 27 |
@@ -50,7 +50,7 @@ The data displayed in 2023 with BST TimeZone.
 | 12 | Brentford | 16 | 5 | 4 | 7 | 23 | 22 | 1 | 19 |
 | 13 | Wolverhampton Wanderers | 16 | 5 | 4 | 7 | 21 | 26 | -5 | 19 |
 | 14 | Bournemouth | 17 | 5 | 4 | 8 | 21 | 31 | -10 | 19 |
-| 15 | Crystal Palace | 17 | 4 | 5 | 8 | 15 | 23 | -8 | 17 |
+| 15 | Crystal Palace | 17 | 4 | 4 | 9 | 15 | 24 | -9 | 16 |
 | 16 | Nottingham Forest | 17 | 3 | 5 | 9 | 17 | 30 | -13 | 14 |
 | 17 | Everton | 16 | 7 | 2 | 7 | 20 | 20 | 0 | 13 |
 | 18 | Luton Town | 17 | 3 | 3 | 11 | 18 | 32 | -14 | 12 |
