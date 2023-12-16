@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -236,24 +236,24 @@
           "position": 4,
           "startingPosition": 4,
           "overall": {
-            "played": 16,
+            "played": 17,
             "won": 10,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 3,
             "goalsFor": 38,
             "goalsAgainst": 18,
             "goalsDifference": 20,
-            "points": 33
+            "points": 34
           },
           "home": {
-            "played": 7,
+            "played": 8,
             "won": 5,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 0,
             "goalsFor": 20,
             "goalsAgainst": 7,
             "goalsDifference": 13,
-            "points": 17
+            "points": 18
           },
           "away": {
             "played": 9,
@@ -346,6 +346,66 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 6,
+          "startingPosition": 7,
+          "overall": {
+            "played": 17,
+            "won": 8,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 33,
+            "goalsAgainst": 21,
+            "goalsDifference": 12,
+            "points": 27
+          },
+          "home": {
+            "played": 9,
+            "won": 7,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 19,
+            "goalsAgainst": 4,
+            "goalsDifference": 15,
+            "points": 22
+          },
+          "away": {
+            "played": 8,
+            "won": 1,
+            "drawn": 2,
+            "lost": 5,
+            "goalsFor": 14,
+            "goalsAgainst": 17,
+            "goalsDifference": -3,
+            "points": 5
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Manchester United",
             "club": {
               "name": "Manchester United",
@@ -360,7 +420,7 @@
               "opta": "t1"
             }
           },
-          "position": 6,
+          "position": 7,
           "startingPosition": 6,
           "overall": {
             "played": 16,
@@ -402,66 +462,6 @@
             },
             "source": "OPTA",
             "id": 42
-          }
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 7,
-          "startingPosition": 7,
-          "overall": {
-            "played": 16,
-            "won": 8,
-            "drawn": 2,
-            "lost": 6,
-            "goalsFor": 33,
-            "goalsAgainst": 21,
-            "goalsDifference": 12,
-            "points": 26
-          },
-          "home": {
-            "played": 8,
-            "won": 7,
-            "drawn": 0,
-            "lost": 1,
-            "goalsFor": 19,
-            "goalsAgainst": 4,
-            "goalsDifference": 15,
-            "points": 21
-          },
-          "away": {
-            "played": 8,
-            "won": 1,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 14,
-            "goalsAgainst": 17,
-            "goalsDifference": -3,
-            "points": 5
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
           }
         },
         {
@@ -598,14 +598,14 @@
           "position": 10,
           "startingPosition": 10,
           "overall": {
-            "played": 16,
+            "played": 17,
             "won": 6,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 7,
             "goalsFor": 26,
             "goalsAgainst": 26,
             "goalsDifference": 0,
-            "points": 21
+            "points": 22
           },
           "home": {
             "played": 8,
@@ -618,14 +618,14 @@
             "points": 15
           },
           "away": {
-            "played": 8,
+            "played": 9,
             "won": 1,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 4,
             "goalsFor": 9,
             "goalsAgainst": 17,
             "goalsDifference": -8,
-            "points": 6
+            "points": 7
           },
           "ground": {
             "name": "Craven Cottage",
@@ -637,6 +637,66 @@
             },
             "source": "OPTA",
             "id": 16
+          }
+        },
+        {
+          "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          },
+          "position": 11,
+          "startingPosition": 12,
+          "overall": {
+            "played": 17,
+            "won": 5,
+            "drawn": 5,
+            "lost": 7,
+            "goalsFor": 26,
+            "goalsAgainst": 26,
+            "goalsDifference": 0,
+            "points": 20
+          },
+          "home": {
+            "played": 9,
+            "won": 2,
+            "drawn": 4,
+            "lost": 3,
+            "goalsFor": 13,
+            "goalsAgainst": 13,
+            "goalsDifference": 0,
+            "points": 10
+          },
+          "away": {
+            "played": 8,
+            "won": 3,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 13,
+            "goalsAgainst": 13,
+            "goalsDifference": 0,
+            "points": 10
+          },
+          "ground": {
+            "name": "Stamford Bridge",
+            "city": "London",
+            "capacity": 41798,
+            "location": {
+              "latitude": 51.4816,
+              "longitude": -0.191016
+            },
+            "source": "OPTA",
+            "id": 30
           }
         },
         {
@@ -655,7 +715,7 @@
               "opta": "t94"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 11,
           "overall": {
             "played": 16,
@@ -692,66 +752,6 @@
             "city": "Brentford",
             "source": "OPTA",
             "id": 3977
-          }
-        },
-        {
-          "team": {
-            "name": "Chelsea",
-            "club": {
-              "name": "Chelsea",
-              "shortName": "Chelsea",
-              "abbr": "CHE",
-              "id": 4
-            },
-            "teamType": "FIRST",
-            "shortName": "Chelsea",
-            "id": 4,
-            "altIds": {
-              "opta": "t8"
-            }
-          },
-          "position": 12,
-          "startingPosition": 12,
-          "overall": {
-            "played": 16,
-            "won": 5,
-            "drawn": 4,
-            "lost": 7,
-            "goalsFor": 26,
-            "goalsAgainst": 26,
-            "goalsDifference": 0,
-            "points": 19
-          },
-          "home": {
-            "played": 8,
-            "won": 2,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 13,
-            "goalsAgainst": 13,
-            "goalsDifference": 0,
-            "points": 9
-          },
-          "away": {
-            "played": 8,
-            "won": 3,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 13,
-            "goalsAgainst": 13,
-            "goalsDifference": 0,
-            "points": 10
-          },
-          "ground": {
-            "name": "Stamford Bridge",
-            "city": "London",
-            "capacity": 41798,
-            "location": {
-              "latitude": 51.4816,
-              "longitude": -0.191016
-            },
-            "source": "OPTA",
-            "id": 30
           }
         },
         {
@@ -833,23 +833,23 @@
           "position": 14,
           "startingPosition": 14,
           "overall": {
-            "played": 16,
+            "played": 17,
             "won": 5,
             "drawn": 4,
-            "lost": 7,
+            "lost": 8,
             "goalsFor": 21,
-            "goalsAgainst": 30,
-            "goalsDifference": -9,
+            "goalsAgainst": 31,
+            "goalsDifference": -10,
             "points": 19
           },
           "home": {
-            "played": 8,
+            "played": 9,
             "won": 2,
             "drawn": 3,
-            "lost": 3,
+            "lost": 4,
             "goalsFor": 8,
-            "goalsAgainst": 12,
-            "goalsDifference": -4,
+            "goalsAgainst": 13,
+            "goalsDifference": -5,
             "points": 9
           },
           "away": {
@@ -893,14 +893,14 @@
           "position": 15,
           "startingPosition": 15,
           "overall": {
-            "played": 16,
+            "played": 17,
             "won": 4,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 8,
             "goalsFor": 15,
             "goalsAgainst": 23,
             "goalsDifference": -8,
-            "points": 16
+            "points": 17
           },
           "home": {
             "played": 8,
@@ -913,14 +913,14 @@
             "points": 5
           },
           "away": {
-            "played": 8,
+            "played": 9,
             "won": 3,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 3,
             "goalsFor": 8,
             "goalsAgainst": 11,
             "goalsDifference": -3,
-            "points": 11
+            "points": 12
           },
           "ground": {
             "name": "Selhurst Park",
@@ -1077,14 +1077,14 @@
           "position": 18,
           "startingPosition": 18,
           "overall": {
-            "played": 16,
-            "won": 2,
+            "played": 17,
+            "won": 3,
             "drawn": 3,
             "lost": 11,
-            "goalsFor": 17,
+            "goalsFor": 18,
             "goalsAgainst": 32,
-            "goalsDifference": -15,
-            "points": 9
+            "goalsDifference": -14,
+            "points": 12
           },
           "home": {
             "played": 8,
@@ -1097,14 +1097,14 @@
             "points": 5
           },
           "away": {
-            "played": 8,
-            "won": 1,
+            "played": 9,
+            "won": 2,
             "drawn": 1,
             "lost": 6,
-            "goalsFor": 7,
+            "goalsFor": 8,
             "goalsAgainst": 18,
-            "goalsDifference": -11,
-            "points": 4
+            "goalsDifference": -10,
+            "points": 7
           },
           "annotations": [
             {
@@ -1117,6 +1117,72 @@
             "city": "Luton",
             "capacity": 9975,
             "id": 81
+          }
+        },
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 19,
+          "startingPosition": 20,
+          "overall": {
+            "played": 17,
+            "won": 2,
+            "drawn": 3,
+            "lost": 12,
+            "goalsFor": 12,
+            "goalsAgainst": 41,
+            "goalsDifference": -29,
+            "points": 9
+          },
+          "home": {
+            "played": 9,
+            "won": 2,
+            "drawn": 1,
+            "lost": 6,
+            "goalsFor": 8,
+            "goalsAgainst": 21,
+            "goalsDifference": -13,
+            "points": 7
+          },
+          "away": {
+            "played": 8,
+            "won": 0,
+            "drawn": 2,
+            "lost": 6,
+            "goalsFor": 4,
+            "goalsAgainst": 20,
+            "goalsDifference": -16,
+            "points": 2
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
           }
         },
         {
@@ -1135,7 +1201,7 @@
               "opta": "t90"
             }
           },
-          "position": 19,
+          "position": 20,
           "startingPosition": 19,
           "overall": {
             "played": 16,
@@ -1183,72 +1249,6 @@
             },
             "source": "OPTA",
             "id": 47
-          }
-        },
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 20,
-          "startingPosition": 20,
-          "overall": {
-            "played": 16,
-            "won": 2,
-            "drawn": 2,
-            "lost": 12,
-            "goalsFor": 12,
-            "goalsAgainst": 41,
-            "goalsDifference": -29,
-            "points": 8
-          },
-          "home": {
-            "played": 9,
-            "won": 2,
-            "drawn": 1,
-            "lost": 6,
-            "goalsFor": 8,
-            "goalsAgainst": 21,
-            "goalsDifference": -13,
-            "points": 7
-          },
-          "away": {
-            "played": 7,
-            "won": 0,
-            "drawn": 1,
-            "lost": 6,
-            "goalsFor": 4,
-            "goalsAgainst": 20,
-            "goalsDifference": -16,
-            "points": 1
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
           }
         }
       ]
