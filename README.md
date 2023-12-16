@@ -51,9 +51,9 @@ The data displayed in 2023 with BST TimeZone.
 | 13 | Wolverhampton Wanderers | 16 | 5 | 4 | 7 | 21 | 26 | -5 | 19 |
 | 14 | Bournemouth | 16 | 5 | 4 | 7 | 21 | 30 | -9 | 19 |
 | 15 | Crystal Palace | 17 | 4 | 5 | 8 | 17 | 25 | -8 | 17 |
-| 16 | Nottingham Forest | 17 | 3 | 5 | 9 | 17 | 30 | -13 | 14 |
-| 17 | Everton | 16 | 7 | 2 | 7 | 20 | 20 | 0 | 13 |
+| 16 | Everton | 17 | 8 | 2 | 7 | 21 | 20 | 1 | 16 |
+| 17 | Nottingham Forest | 17 | 3 | 5 | 9 | 17 | 30 | -13 | 14 |
 | 18 | Luton Town | 16 | 2 | 3 | 11 | 17 | 32 | -15 | 9 |
-| 19 | Burnley | 16 | 2 | 2 | 12 | 16 | 34 | -18 | 8 |
+| 19 | Burnley | 17 | 2 | 2 | 13 | 16 | 35 | -19 | 8 |
 | 20 | Sheffield United | 17 | 2 | 2 | 13 | 12 | 43 | -31 | 8 |
 <!-- END_STANDINGS -->
