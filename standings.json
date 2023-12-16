@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": true,
+  "live": false,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -87,72 +87,6 @@
         },
         {
           "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "position": 2,
-          "startingPosition": 4,
-          "overall": {
-            "played": 17,
-            "won": 11,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 40,
-            "goalsAgainst": 19,
-            "goalsDifference": 21,
-            "points": 36
-          },
-          "home": {
-            "played": 8,
-            "won": 6,
-            "drawn": 2,
-            "lost": 0,
-            "goalsFor": 22,
-            "goalsAgainst": 8,
-            "goalsDifference": 14,
-            "points": 20
-          },
-          "away": {
-            "played": 9,
-            "won": 5,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 18,
-            "goalsAgainst": 11,
-            "goalsDifference": 7,
-            "points": 16
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Etihad Stadium",
-            "city": "Manchester",
-            "capacity": 55000,
-            "location": {
-              "latitude": 53.4832,
-              "longitude": -2.20042
-            },
-            "source": "OPTA",
-            "id": 457
-          }
-        },
-        {
-          "team": {
             "name": "Arsenal",
             "club": {
               "name": "Arsenal",
@@ -167,7 +101,7 @@
               "opta": "t3"
             }
           },
-          "position": 3,
+          "position": 2,
           "startingPosition": 2,
           "overall": {
             "played": 16,
@@ -233,7 +167,7 @@
               "opta": "t7"
             }
           },
-          "position": 4,
+          "position": 3,
           "startingPosition": 3,
           "overall": {
             "played": 16,
@@ -281,6 +215,72 @@
             },
             "source": "OPTA",
             "id": 43
+          }
+        },
+        {
+          "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          },
+          "position": 4,
+          "startingPosition": 4,
+          "overall": {
+            "played": 17,
+            "won": 10,
+            "drawn": 4,
+            "lost": 3,
+            "goalsFor": 40,
+            "goalsAgainst": 20,
+            "goalsDifference": 20,
+            "points": 34
+          },
+          "home": {
+            "played": 8,
+            "won": 5,
+            "drawn": 3,
+            "lost": 0,
+            "goalsFor": 22,
+            "goalsAgainst": 9,
+            "goalsDifference": 13,
+            "points": 18
+          },
+          "away": {
+            "played": 9,
+            "won": 5,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 18,
+            "goalsAgainst": 11,
+            "goalsDifference": 7,
+            "points": 16
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Etihad Stadium",
+            "city": "Manchester",
+            "capacity": 55000,
+            "location": {
+              "latitude": 53.4832,
+              "longitude": -2.20042
+            },
+            "source": "OPTA",
+            "id": 457
           }
         },
         {
@@ -701,66 +701,6 @@
         },
         {
           "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "position": 12,
-          "startingPosition": 14,
-          "overall": {
-            "played": 17,
-            "won": 5,
-            "drawn": 5,
-            "lost": 7,
-            "goalsFor": 22,
-            "goalsAgainst": 31,
-            "goalsDifference": -9,
-            "points": 20
-          },
-          "home": {
-            "played": 9,
-            "won": 2,
-            "drawn": 4,
-            "lost": 3,
-            "goalsFor": 9,
-            "goalsAgainst": 13,
-            "goalsDifference": -4,
-            "points": 10
-          },
-          "away": {
-            "played": 8,
-            "won": 3,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 13,
-            "goalsAgainst": 18,
-            "goalsDifference": -5,
-            "points": 10
-          },
-          "ground": {
-            "name": "Vitality Stadium",
-            "city": "Bournemouth",
-            "capacity": 10783,
-            "location": {
-              "latitude": 50.7349,
-              "longitude": -1.83899
-            },
-            "source": "OPTA",
-            "id": 215
-          }
-        },
-        {
-          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -775,7 +715,7 @@
               "opta": "t94"
             }
           },
-          "position": 13,
+          "position": 12,
           "startingPosition": 11,
           "overall": {
             "played": 16,
@@ -830,7 +770,7 @@
               "opta": "t39"
             }
           },
-          "position": 14,
+          "position": 13,
           "startingPosition": 13,
           "overall": {
             "played": 16,
@@ -876,6 +816,66 @@
         },
         {
           "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          },
+          "position": 14,
+          "startingPosition": 14,
+          "overall": {
+            "played": 16,
+            "won": 5,
+            "drawn": 4,
+            "lost": 7,
+            "goalsFor": 21,
+            "goalsAgainst": 30,
+            "goalsDifference": -9,
+            "points": 19
+          },
+          "home": {
+            "played": 8,
+            "won": 2,
+            "drawn": 3,
+            "lost": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 12,
+            "goalsDifference": -4,
+            "points": 9
+          },
+          "away": {
+            "played": 8,
+            "won": 3,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 13,
+            "goalsAgainst": 18,
+            "goalsDifference": -5,
+            "points": 10
+          },
+          "ground": {
+            "name": "Vitality Stadium",
+            "city": "Bournemouth",
+            "capacity": 10783,
+            "location": {
+              "latitude": 50.7349,
+              "longitude": -1.83899
+            },
+            "source": "OPTA",
+            "id": 215
+          }
+        },
+        {
+          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -895,12 +895,12 @@
           "overall": {
             "played": 17,
             "won": 4,
-            "drawn": 4,
-            "lost": 9,
-            "goalsFor": 16,
+            "drawn": 5,
+            "lost": 8,
+            "goalsFor": 17,
             "goalsAgainst": 25,
-            "goalsDifference": -9,
-            "points": 16
+            "goalsDifference": -8,
+            "points": 17
           },
           "home": {
             "played": 8,
@@ -915,12 +915,12 @@
           "away": {
             "played": 9,
             "won": 3,
-            "drawn": 2,
-            "lost": 4,
-            "goalsFor": 9,
+            "drawn": 3,
+            "lost": 3,
+            "goalsFor": 10,
             "goalsAgainst": 13,
-            "goalsDifference": -4,
-            "points": 11
+            "goalsDifference": -3,
+            "points": 12
           },
           "ground": {
             "name": "Selhurst Park",
@@ -1077,14 +1077,14 @@
           "position": 18,
           "startingPosition": 18,
           "overall": {
-            "played": 17,
+            "played": 16,
             "won": 2,
-            "drawn": 4,
+            "drawn": 3,
             "lost": 11,
-            "goalsFor": 18,
-            "goalsAgainst": 33,
+            "goalsFor": 17,
+            "goalsAgainst": 32,
             "goalsDifference": -15,
-            "points": 10
+            "points": 9
           },
           "home": {
             "played": 8,
@@ -1097,14 +1097,14 @@
             "points": 5
           },
           "away": {
-            "played": 9,
+            "played": 8,
             "won": 1,
-            "drawn": 2,
+            "drawn": 1,
             "lost": 6,
-            "goalsFor": 8,
-            "goalsAgainst": 19,
+            "goalsFor": 7,
+            "goalsAgainst": 18,
             "goalsDifference": -11,
-            "points": 5
+            "points": 4
           },
           "annotations": [
             {
