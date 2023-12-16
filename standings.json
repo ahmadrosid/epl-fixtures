@@ -957,9 +957,9 @@
             "won": 8,
             "drawn": 2,
             "lost": 7,
-            "goalsFor": 21,
+            "goalsFor": 22,
             "goalsAgainst": 20,
-            "goalsDifference": 1,
+            "goalsDifference": 2,
             "points": 16
           },
           "home": {
@@ -977,9 +977,9 @@
             "won": 5,
             "drawn": 1,
             "lost": 2,
-            "goalsFor": 11,
+            "goalsFor": 12,
             "goalsAgainst": 11,
-            "goalsDifference": 0,
+            "goalsDifference": 1,
             "points": 16
           },
           "annotations": [
@@ -1143,8 +1143,8 @@
             "drawn": 2,
             "lost": 13,
             "goalsFor": 16,
-            "goalsAgainst": 35,
-            "goalsDifference": -19,
+            "goalsAgainst": 36,
+            "goalsDifference": -20,
             "points": 8
           },
           "home": {
@@ -1153,8 +1153,8 @@
             "drawn": 0,
             "lost": 8,
             "goalsFor": 10,
-            "goalsAgainst": 21,
-            "goalsDifference": -11,
+            "goalsAgainst": 22,
+            "goalsDifference": -12,
             "points": 3
           },
           "away": {
