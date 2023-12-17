@@ -37,18 +37,18 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Liverpool | 16 | 11 | 4 | 1 | 36 | 15 | 21 | 37 |
-| 2 | Arsenal | 16 | 11 | 3 | 2 | 33 | 15 | 18 | 36 |
-| 3 | Aston Villa | 16 | 11 | 2 | 3 | 35 | 20 | 15 | 35 |
+| 2 | Arsenal | 17 | 11 | 4 | 2 | 33 | 15 | 18 | 37 |
+| 3 | Aston Villa | 17 | 11 | 3 | 3 | 35 | 20 | 15 | 36 |
 | 4 | Manchester City | 17 | 10 | 4 | 3 | 40 | 20 | 20 | 34 |
 | 5 | Tottenham Hotspur | 17 | 10 | 3 | 4 | 35 | 23 | 12 | 33 |
 | 6 | Newcastle United | 17 | 9 | 2 | 6 | 36 | 21 | 15 | 29 |
-| 7 | Manchester United | 16 | 9 | 0 | 7 | 18 | 21 | -3 | 27 |
-| 8 | Brighton & Hove Albion | 16 | 7 | 5 | 4 | 33 | 28 | 5 | 26 |
-| 9 | West Ham United | 16 | 7 | 3 | 6 | 26 | 30 | -4 | 24 |
+| 7 | Brighton & Hove Albion | 17 | 7 | 6 | 4 | 33 | 28 | 5 | 27 |
+| 8 | Manchester United | 16 | 9 | 0 | 7 | 18 | 21 | -3 | 27 |
+| 9 | West Ham United | 17 | 7 | 4 | 6 | 26 | 30 | -4 | 25 |
 | 10 | Chelsea | 17 | 6 | 4 | 7 | 28 | 26 | 2 | 22 |
 | 11 | Fulham | 17 | 6 | 3 | 8 | 26 | 29 | -3 | 21 |
-| 12 | Brentford | 16 | 5 | 4 | 7 | 23 | 22 | 1 | 19 |
-| 13 | Wolverhampton Wanderers | 16 | 5 | 4 | 7 | 21 | 26 | -5 | 19 |
+| 12 | Brentford | 17 | 5 | 5 | 7 | 23 | 22 | 1 | 20 |
+| 13 | Wolverhampton Wanderers | 17 | 5 | 5 | 7 | 21 | 26 | -5 | 20 |
 | 14 | Bournemouth | 16 | 5 | 4 | 7 | 21 | 30 | -9 | 19 |
 | 15 | Crystal Palace | 17 | 4 | 5 | 8 | 17 | 25 | -8 | 17 |
 | 16 | Everton | 17 | 8 | 2 | 7 | 22 | 20 | 2 | 16 |
