@@ -172,12 +172,12 @@
           "overall": {
             "played": 17,
             "won": 11,
-            "drawn": 3,
-            "lost": 3,
+            "drawn": 2,
+            "lost": 4,
             "goalsFor": 35,
-            "goalsAgainst": 20,
-            "goalsDifference": 15,
-            "points": 36
+            "goalsAgainst": 21,
+            "goalsDifference": 14,
+            "points": 35
           },
           "home": {
             "played": 8,
@@ -192,12 +192,12 @@
           "away": {
             "played": 9,
             "won": 3,
-            "drawn": 3,
-            "lost": 3,
+            "drawn": 2,
+            "lost": 4,
             "goalsFor": 10,
-            "goalsAgainst": 15,
-            "goalsDifference": -5,
-            "points": 12
+            "goalsAgainst": 16,
+            "goalsDifference": -6,
+            "points": 11
           },
           "annotations": [
             {
@@ -487,9 +487,9 @@
             "won": 8,
             "drawn": 3,
             "lost": 6,
-            "goalsFor": 27,
+            "goalsFor": 28,
             "goalsAgainst": 30,
-            "goalsDifference": -3,
+            "goalsDifference": -2,
             "points": 27
           },
           "home": {
@@ -497,9 +497,9 @@
             "won": 4,
             "drawn": 2,
             "lost": 2,
-            "goalsFor": 13,
+            "goalsFor": 14,
             "goalsAgainst": 10,
-            "goalsDifference": 3,
+            "goalsDifference": 4,
             "points": 14
           },
           "away": {
@@ -641,6 +641,61 @@
         },
         {
           "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          },
+          "position": 11,
+          "startingPosition": 11,
+          "overall": {
+            "played": 17,
+            "won": 6,
+            "drawn": 4,
+            "lost": 7,
+            "goalsFor": 24,
+            "goalsAgainst": 22,
+            "goalsDifference": 2,
+            "points": 22
+          },
+          "home": {
+            "played": 9,
+            "won": 4,
+            "drawn": 3,
+            "lost": 2,
+            "goalsFor": 16,
+            "goalsAgainst": 12,
+            "goalsDifference": 4,
+            "points": 15
+          },
+          "away": {
+            "played": 8,
+            "won": 2,
+            "drawn": 1,
+            "lost": 5,
+            "goalsFor": 8,
+            "goalsAgainst": 10,
+            "goalsDifference": -2,
+            "points": 7
+          },
+          "ground": {
+            "name": "Gtech Community Stadium",
+            "city": "Brentford",
+            "source": "OPTA",
+            "id": 3977
+          }
+        },
+        {
+          "team": {
             "name": "Fulham",
             "club": {
               "name": "Fulham",
@@ -655,7 +710,7 @@
               "opta": "t54"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 10,
           "overall": {
             "played": 17,
@@ -701,61 +756,6 @@
         },
         {
           "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "position": 12,
-          "startingPosition": 11,
-          "overall": {
-            "played": 17,
-            "won": 5,
-            "drawn": 5,
-            "lost": 7,
-            "goalsFor": 23,
-            "goalsAgainst": 22,
-            "goalsDifference": 1,
-            "points": 20
-          },
-          "home": {
-            "played": 9,
-            "won": 3,
-            "drawn": 4,
-            "lost": 2,
-            "goalsFor": 15,
-            "goalsAgainst": 12,
-            "goalsDifference": 3,
-            "points": 13
-          },
-          "away": {
-            "played": 8,
-            "won": 2,
-            "drawn": 1,
-            "lost": 5,
-            "goalsFor": 8,
-            "goalsAgainst": 10,
-            "goalsDifference": -2,
-            "points": 7
-          },
-          "ground": {
-            "name": "Gtech Community Stadium",
-            "city": "Brentford",
-            "source": "OPTA",
-            "id": 3977
-          }
-        },
-        {
-          "team": {
             "name": "Wolverhampton Wanderers",
             "club": {
               "name": "Wolverhampton Wanderers",
@@ -778,8 +778,8 @@
             "drawn": 4,
             "lost": 8,
             "goalsFor": 21,
-            "goalsAgainst": 27,
-            "goalsDifference": -6,
+            "goalsAgainst": 28,
+            "goalsDifference": -7,
             "points": 19
           },
           "home": {
@@ -798,8 +798,8 @@
             "drawn": 1,
             "lost": 6,
             "goalsFor": 10,
-            "goalsAgainst": 14,
-            "goalsDifference": -4,
+            "goalsAgainst": 15,
+            "goalsDifference": -5,
             "points": 7
           },
           "ground": {
