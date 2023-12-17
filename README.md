@@ -37,13 +37,13 @@ The data displayed in 2023 with BST TimeZone.
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Arsenal | 17 | 12 | 3 | 2 | 35 | 15 | 20 | 39 |
-| 2 | Aston Villa | 17 | 12 | 2 | 3 | 37 | 21 | 16 | 38 |
-| 3 | Liverpool | 16 | 11 | 4 | 1 | 36 | 15 | 21 | 37 |
+| 2 | Liverpool | 17 | 11 | 5 | 1 | 36 | 15 | 21 | 38 |
+| 3 | Aston Villa | 17 | 12 | 2 | 3 | 37 | 21 | 16 | 38 |
 | 4 | Manchester City | 17 | 10 | 4 | 3 | 40 | 20 | 20 | 34 |
 | 5 | Tottenham Hotspur | 17 | 10 | 3 | 4 | 35 | 23 | 12 | 33 |
 | 6 | Newcastle United | 17 | 9 | 2 | 6 | 36 | 21 | 15 | 29 |
-| 7 | West Ham United | 17 | 8 | 3 | 6 | 29 | 30 | -1 | 27 |
-| 8 | Manchester United | 16 | 9 | 0 | 7 | 18 | 21 | -3 | 27 |
+| 7 | Manchester United | 17 | 9 | 1 | 7 | 18 | 21 | -3 | 28 |
+| 8 | West Ham United | 17 | 8 | 3 | 6 | 29 | 30 | -1 | 27 |
 | 9 | Brighton & Hove Albion | 17 | 7 | 5 | 5 | 33 | 30 | 3 | 26 |
 | 10 | Chelsea | 17 | 6 | 4 | 7 | 28 | 26 | 2 | 22 |
 | 11 | Fulham | 17 | 6 | 3 | 8 | 26 | 29 | -3 | 21 |
