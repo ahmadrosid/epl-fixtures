@@ -2453,6 +2453,7 @@
       "status": "C",
       "phase": "F",
       "outcome": "H",
+      "attendance": 50143,
       "clock": {
         "secs": 5880,
         "label": "90 +8'00"
