@@ -241,8 +241,8 @@
             "drawn": 3,
             "lost": 4,
             "goalsFor": 37,
-            "goalsAgainst": 23,
-            "goalsDifference": 14,
+            "goalsAgainst": 24,
+            "goalsDifference": 13,
             "points": 36
           },
           "home": {
@@ -251,8 +251,8 @@
             "drawn": 0,
             "lost": 3,
             "goalsFor": 17,
-            "goalsAgainst": 11,
-            "goalsDifference": 6,
+            "goalsAgainst": 12,
+            "goalsDifference": 5,
             "points": 18
           },
           "away": {
@@ -641,66 +641,6 @@
         },
         {
           "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "position": 11,
-          "startingPosition": 14,
-          "overall": {
-            "played": 17,
-            "won": 6,
-            "drawn": 4,
-            "lost": 7,
-            "goalsFor": 23,
-            "goalsAgainst": 31,
-            "goalsDifference": -8,
-            "points": 22
-          },
-          "home": {
-            "played": 8,
-            "won": 2,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 12,
-            "goalsDifference": -4,
-            "points": 9
-          },
-          "away": {
-            "played": 9,
-            "won": 4,
-            "drawn": 1,
-            "lost": 4,
-            "goalsFor": 15,
-            "goalsAgainst": 19,
-            "goalsDifference": -4,
-            "points": 13
-          },
-          "ground": {
-            "name": "Vitality Stadium",
-            "city": "Bournemouth",
-            "capacity": 10783,
-            "location": {
-              "latitude": 50.7349,
-              "longitude": -1.83899
-            },
-            "source": "OPTA",
-            "id": 215
-          }
-        },
-        {
-          "team": {
             "name": "Fulham",
             "club": {
               "name": "Fulham",
@@ -715,7 +655,7 @@
               "opta": "t54"
             }
           },
-          "position": 12,
+          "position": 11,
           "startingPosition": 11,
           "overall": {
             "played": 18,
@@ -757,6 +697,66 @@
             },
             "source": "OPTA",
             "id": 16
+          }
+        },
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          },
+          "position": 12,
+          "startingPosition": 14,
+          "overall": {
+            "played": 17,
+            "won": 5,
+            "drawn": 5,
+            "lost": 7,
+            "goalsFor": 23,
+            "goalsAgainst": 32,
+            "goalsDifference": -9,
+            "points": 20
+          },
+          "home": {
+            "played": 8,
+            "won": 2,
+            "drawn": 3,
+            "lost": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 12,
+            "goalsDifference": -4,
+            "points": 9
+          },
+          "away": {
+            "played": 9,
+            "won": 3,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 15,
+            "goalsAgainst": 20,
+            "goalsDifference": -5,
+            "points": 11
+          },
+          "ground": {
+            "name": "Vitality Stadium",
+            "city": "Bournemouth",
+            "capacity": 10783,
+            "location": {
+              "latitude": 50.7349,
+              "longitude": -1.83899
+            },
+            "source": "OPTA",
+            "id": 215
           }
         },
         {
@@ -957,9 +957,9 @@
             "won": 8,
             "drawn": 2,
             "lost": 8,
-            "goalsFor": 22,
+            "goalsFor": 23,
             "goalsAgainst": 22,
-            "goalsDifference": 0,
+            "goalsDifference": 1,
             "points": 16
           },
           "home": {
@@ -977,9 +977,9 @@
             "won": 5,
             "drawn": 1,
             "lost": 3,
-            "goalsFor": 12,
+            "goalsFor": 13,
             "goalsAgainst": 13,
-            "goalsDifference": -1,
+            "goalsDifference": 0,
             "points": 16
           },
           "annotations": [
@@ -1021,22 +1021,22 @@
           "overall": {
             "played": 18,
             "won": 3,
-            "drawn": 5,
-            "lost": 10,
-            "goalsFor": 18,
+            "drawn": 6,
+            "lost": 9,
+            "goalsFor": 19,
             "goalsAgainst": 32,
-            "goalsDifference": -14,
-            "points": 14
+            "goalsDifference": -13,
+            "points": 15
           },
           "home": {
             "played": 9,
             "won": 2,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 11,
+            "drawn": 4,
+            "lost": 3,
+            "goalsFor": 12,
             "goalsAgainst": 13,
-            "goalsDifference": -2,
-            "points": 9
+            "goalsDifference": -1,
+            "points": 10
           },
           "away": {
             "played": 9,
