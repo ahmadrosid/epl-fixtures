@@ -641,6 +641,66 @@
         },
         {
           "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          },
+          "position": 11,
+          "startingPosition": 14,
+          "overall": {
+            "played": 17,
+            "won": 6,
+            "drawn": 4,
+            "lost": 7,
+            "goalsFor": 23,
+            "goalsAgainst": 31,
+            "goalsDifference": -8,
+            "points": 22
+          },
+          "home": {
+            "played": 8,
+            "won": 2,
+            "drawn": 3,
+            "lost": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 12,
+            "goalsDifference": -4,
+            "points": 9
+          },
+          "away": {
+            "played": 9,
+            "won": 4,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 15,
+            "goalsAgainst": 19,
+            "goalsDifference": -4,
+            "points": 13
+          },
+          "ground": {
+            "name": "Vitality Stadium",
+            "city": "Bournemouth",
+            "capacity": 10783,
+            "location": {
+              "latitude": 50.7349,
+              "longitude": -1.83899
+            },
+            "source": "OPTA",
+            "id": 215
+          }
+        },
+        {
+          "team": {
             "name": "Fulham",
             "club": {
               "name": "Fulham",
@@ -655,7 +715,7 @@
               "opta": "t54"
             }
           },
-          "position": 11,
+          "position": 12,
           "startingPosition": 11,
           "overall": {
             "played": 18,
@@ -663,8 +723,8 @@
             "drawn": 3,
             "lost": 9,
             "goalsFor": 26,
-            "goalsAgainst": 30,
-            "goalsDifference": -4,
+            "goalsAgainst": 31,
+            "goalsDifference": -5,
             "points": 21
           },
           "home": {
@@ -673,8 +733,8 @@
             "drawn": 0,
             "lost": 4,
             "goalsFor": 17,
-            "goalsAgainst": 10,
-            "goalsDifference": 7,
+            "goalsAgainst": 11,
+            "goalsDifference": 6,
             "points": 15
           },
           "away": {
@@ -715,7 +775,7 @@
               "opta": "t94"
             }
           },
-          "position": 12,
+          "position": 13,
           "startingPosition": 12,
           "overall": {
             "played": 17,
@@ -770,7 +830,7 @@
               "opta": "t39"
             }
           },
-          "position": 13,
+          "position": 14,
           "startingPosition": 13,
           "overall": {
             "played": 17,
@@ -812,66 +872,6 @@
             },
             "source": "OPTA",
             "id": 913
-          }
-        },
-        {
-          "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "position": 14,
-          "startingPosition": 14,
-          "overall": {
-            "played": 17,
-            "won": 5,
-            "drawn": 4,
-            "lost": 8,
-            "goalsFor": 21,
-            "goalsAgainst": 31,
-            "goalsDifference": -10,
-            "points": 19
-          },
-          "home": {
-            "played": 8,
-            "won": 2,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 12,
-            "goalsDifference": -4,
-            "points": 9
-          },
-          "away": {
-            "played": 9,
-            "won": 3,
-            "drawn": 1,
-            "lost": 5,
-            "goalsFor": 13,
-            "goalsAgainst": 19,
-            "goalsDifference": -6,
-            "points": 10
-          },
-          "ground": {
-            "name": "Vitality Stadium",
-            "city": "Bournemouth",
-            "capacity": 10783,
-            "location": {
-              "latitude": 50.7349,
-              "longitude": -1.83899
-            },
-            "source": "OPTA",
-            "id": 215
           }
         },
         {
@@ -936,64 +936,6 @@
         },
         {
           "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "position": 16,
-          "startingPosition": 17,
-          "overall": {
-            "played": 18,
-            "won": 4,
-            "drawn": 5,
-            "lost": 9,
-            "goalsFor": 18,
-            "goalsAgainst": 30,
-            "goalsDifference": -12,
-            "points": 17
-          },
-          "home": {
-            "played": 9,
-            "won": 3,
-            "drawn": 3,
-            "lost": 3,
-            "goalsFor": 11,
-            "goalsAgainst": 11,
-            "goalsDifference": 0,
-            "points": 12
-          },
-          "away": {
-            "played": 9,
-            "won": 1,
-            "drawn": 2,
-            "lost": 6,
-            "goalsFor": 7,
-            "goalsAgainst": 19,
-            "goalsDifference": -12,
-            "points": 5
-          },
-          "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "id": 1192
-          }
-        },
-        {
-          "team": {
             "name": "Everton",
             "club": {
               "name": "Everton",
@@ -1008,7 +950,7 @@
               "opta": "t11"
             }
           },
-          "position": 17,
+          "position": 16,
           "startingPosition": 16,
           "overall": {
             "played": 18,
@@ -1056,6 +998,64 @@
             },
             "source": "OPTA",
             "id": 31
+          }
+        },
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 17,
+          "startingPosition": 17,
+          "overall": {
+            "played": 18,
+            "won": 3,
+            "drawn": 5,
+            "lost": 10,
+            "goalsFor": 18,
+            "goalsAgainst": 32,
+            "goalsDifference": -14,
+            "points": 14
+          },
+          "home": {
+            "played": 9,
+            "won": 2,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 11,
+            "goalsAgainst": 13,
+            "goalsDifference": -2,
+            "points": 9
+          },
+          "away": {
+            "played": 9,
+            "won": 1,
+            "drawn": 2,
+            "lost": 6,
+            "goalsFor": 7,
+            "goalsAgainst": 19,
+            "goalsDifference": -12,
+            "points": 5
+          },
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "id": 1192
           }
         },
         {
@@ -1142,9 +1142,9 @@
             "won": 3,
             "drawn": 2,
             "lost": 13,
-            "goalsFor": 17,
+            "goalsFor": 18,
             "goalsAgainst": 36,
-            "goalsDifference": -19,
+            "goalsDifference": -18,
             "points": 11
           },
           "home": {
@@ -1162,9 +1162,9 @@
             "won": 2,
             "drawn": 2,
             "lost": 5,
-            "goalsFor": 7,
+            "goalsFor": 8,
             "goalsAgainst": 14,
-            "goalsDifference": -7,
+            "goalsDifference": -6,
             "points": 8
           },
           "annotations": [
