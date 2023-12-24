@@ -45,8 +45,8 @@ The data displayed in 2023 with BST TimeZone.
 | 7 | Newcastle United | 18 | 9 | 2 | 7 | 36 | 22 | 14 | 29 |
 | 8 | Manchester United | 18 | 9 | 1 | 8 | 18 | 23 | -5 | 28 |
 | 9 | Brighton & Hove Albion | 18 | 7 | 6 | 5 | 34 | 31 | 3 | 27 |
-| 10 | Chelsea | 18 | 6 | 4 | 8 | 28 | 27 | 1 | 22 |
-| 11 | Wolverhampton Wanderers | 18 | 6 | 4 | 8 | 22 | 29 | -7 | 22 |
+| 10 | Chelsea | 18 | 6 | 4 | 8 | 29 | 28 | 1 | 22 |
+| 11 | Wolverhampton Wanderers | 18 | 6 | 4 | 8 | 23 | 30 | -7 | 22 |
 | 12 | Bournemouth | 17 | 6 | 4 | 7 | 24 | 32 | -8 | 22 |
 | 13 | Fulham | 18 | 6 | 3 | 9 | 26 | 31 | -5 | 21 |
 | 14 | Brentford | 17 | 5 | 4 | 8 | 24 | 24 | 0 | 19 |
