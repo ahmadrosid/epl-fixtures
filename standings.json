@@ -364,23 +364,23 @@
           "startingPosition": 7,
           "overall": {
             "played": 19,
-            "won": 10,
-            "drawn": 2,
+            "won": 9,
+            "drawn": 3,
             "lost": 7,
             "goalsFor": 37,
-            "goalsAgainst": 22,
-            "goalsDifference": 15,
-            "points": 32
+            "goalsAgainst": 23,
+            "goalsDifference": 14,
+            "points": 30
           },
           "home": {
             "played": 10,
-            "won": 9,
-            "drawn": 0,
+            "won": 8,
+            "drawn": 1,
             "lost": 1,
             "goalsFor": 23,
-            "goalsAgainst": 4,
-            "goalsDifference": 19,
-            "points": 27
+            "goalsAgainst": 5,
+            "goalsDifference": 18,
+            "points": 25
           },
           "away": {
             "played": 9,
@@ -1021,12 +1021,12 @@
           "overall": {
             "played": 19,
             "won": 3,
-            "drawn": 5,
-            "lost": 11,
-            "goalsFor": 19,
+            "drawn": 6,
+            "lost": 10,
+            "goalsFor": 20,
             "goalsAgainst": 34,
-            "goalsDifference": -15,
-            "points": 14
+            "goalsDifference": -14,
+            "points": 15
           },
           "home": {
             "played": 9,
@@ -1041,12 +1041,12 @@
           "away": {
             "played": 10,
             "won": 1,
-            "drawn": 2,
-            "lost": 7,
-            "goalsFor": 7,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 8,
             "goalsAgainst": 20,
-            "goalsDifference": -13,
-            "points": 5
+            "goalsDifference": -12,
+            "points": 6
           },
           "ground": {
             "name": "The City Ground",
