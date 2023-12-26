@@ -8,8 +8,8 @@ The data displayed in 2023 with BST TimeZone.
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
 | 26 Dec, 12:30 GMT | Newcastle United | 1 | Nottingham Forest | 3 | Completed |
-| 26 Dec, 15:00 GMT | Bournemouth | 2 | Fulham | 0 | Live |
-| 26 Dec, 15:00 GMT | Sheffield United | 2 | Luton Town | 3 | Live |
+| 26 Dec, 15:00 GMT | Bournemouth | 3 | Fulham | 0 | Completed |
+| 26 Dec, 15:00 GMT | Sheffield United | 2 | Luton Town | 3 | Completed |
 | 26 Dec, 17:30 GMT | Burnley | 0 | Liverpool | 0 | Upcoming |
 | 26 Dec, 20:00 GMT | Manchester United | N/A | Aston Villa | N/A | Upcoming |
 | 27 Dec, 19:30 GMT | Brentford | N/A | Wolverhampton Wanderers | N/A | Upcoming |
@@ -41,10 +41,10 @@ The data displayed in 2023 with BST TimeZone.
 | 7 | Newcastle United | 19 | 9 | 2 | 8 | 37 | 25 | 12 | 29 |
 | 8 | Manchester United | 18 | 9 | 1 | 8 | 18 | 23 | -5 | 28 |
 | 9 | Brighton & Hove Albion | 18 | 7 | 6 | 5 | 34 | 31 | 3 | 27 |
-| 10 | Bournemouth | 18 | 7 | 4 | 7 | 26 | 32 | -6 | 25 |
+| 10 | Bournemouth | 18 | 7 | 4 | 7 | 27 | 32 | -5 | 25 |
 | 11 | Chelsea | 18 | 6 | 4 | 8 | 29 | 28 | 1 | 22 |
 | 12 | Wolverhampton Wanderers | 18 | 6 | 4 | 8 | 23 | 30 | -7 | 22 |
-| 13 | Fulham | 19 | 6 | 3 | 10 | 26 | 33 | -7 | 21 |
+| 13 | Fulham | 19 | 6 | 3 | 10 | 26 | 34 | -8 | 21 |
 | 14 | Brentford | 17 | 5 | 4 | 8 | 24 | 24 | 0 | 19 |
 | 15 | Crystal Palace | 18 | 4 | 6 | 8 | 18 | 26 | -8 | 18 |
 | 16 | Nottingham Forest | 19 | 4 | 5 | 10 | 22 | 34 | -12 | 17 |
