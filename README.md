@@ -7,26 +7,24 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 25 Nov, 12:30 GMT | Manchester City | 1 | Liverpool | 1 | Completed |
-| 25 Nov, 15:00 GMT | Burnley | 1 | West Ham United | 2 | Completed |
-| 25 Nov, 15:00 GMT | Luton Town | 2 | Crystal Palace | 1 | Completed |
-| 25 Nov, 15:00 GMT | Newcastle United | 4 | Chelsea | 1 | Completed |
-| 25 Nov, 15:00 GMT | Nottingham Forest | 2 | Brighton & Hove Albion | 3 | Completed |
-| 25 Nov, 15:00 GMT | Sheffield United | 1 | Bournemouth | 3 | Completed |
-| 25 Nov, 17:30 GMT | Brentford | 0 | Arsenal | 1 | Completed |
-| 26 Nov, 14:00 GMT | Tottenham Hotspur | 1 | Aston Villa | 2 | Completed |
-| 26 Nov, 16:30 GMT | Everton | 0 | Manchester United | 3 | Completed |
-| 27 Nov, 20:00 GMT | Fulham | 3 | Wolverhampton Wanderers | 2 | Completed |
-| 2 Dec, 15:00 GMT | Arsenal | 2 | Wolverhampton Wanderers | 1 | Completed |
-| 2 Dec, 15:00 GMT | Brentford | 3 | Luton Town | 1 | Completed |
-| 2 Dec, 15:00 GMT | Burnley | 5 | Sheffield United | 0 | Completed |
-| 2 Dec, 17:30 GMT | Nottingham Forest | 0 | Everton | 1 | Completed |
-| 2 Dec, 20:00 GMT | Newcastle United | 1 | Manchester United | 0 | Completed |
-| 3 Dec, 14:00 GMT | Bournemouth | 2 | Aston Villa | 2 | Completed |
-| 3 Dec, 14:00 GMT | Chelsea | 3 | Brighton & Hove Albion | 2 | Completed |
-| 3 Dec, 14:00 GMT | Liverpool | 4 | Fulham | 3 | Completed |
-| 3 Dec, 14:00 GMT | West Ham United | 1 | Crystal Palace | 1 | Completed |
-| 3 Dec, 16:30 GMT | Manchester City | 3 | Tottenham Hotspur | 3 | Completed |
+| 26 Dec, 12:30 GMT | Newcastle United | 1 | Nottingham Forest | 3 | Completed |
+| 26 Dec, 15:00 GMT | Bournemouth | 0 | Fulham | 0 | Live |
+| 26 Dec, 15:00 GMT | Sheffield United | 0 | Luton Town | 0 | Live |
+| 26 Dec, 17:30 GMT | Burnley | N/A | Liverpool | N/A | Upcoming |
+| 26 Dec, 20:00 GMT | Manchester United | N/A | Aston Villa | N/A | Upcoming |
+| 27 Dec, 19:30 GMT | Brentford | N/A | Wolverhampton Wanderers | N/A | Upcoming |
+| 27 Dec, 19:30 GMT | Chelsea | N/A | Crystal Palace | N/A | Upcoming |
+| 27 Dec, 20:15 GMT | Everton | N/A | Manchester City | N/A | Upcoming |
+| 28 Dec, 19:30 GMT | Brighton & Hove Albion | N/A | Tottenham Hotspur | N/A | Upcoming |
+| 28 Dec, 20:15 GMT | Arsenal | N/A | West Ham United | N/A | Upcoming |
+| 30 Dec, 12:30 GMT | Luton Town | N/A | Chelsea | N/A | Upcoming |
+| 30 Dec, 15:00 GMT | Aston Villa | N/A | Burnley | N/A | Upcoming |
+| 30 Dec, 15:00 GMT | Crystal Palace | N/A | Brentford | N/A | Upcoming |
+| 30 Dec, 15:00 GMT | Manchester City | N/A | Sheffield United | N/A | Upcoming |
+| 30 Dec, 15:00 GMT | Wolverhampton Wanderers | N/A | Everton | N/A | Upcoming |
+| 30 Dec, 17:30 GMT | Nottingham Forest | N/A | Manchester United | N/A | Upcoming |
+| 31 Dec, 14:00 GMT | Fulham | N/A | Arsenal | N/A | Upcoming |
+| 31 Dec, 14:00 GMT | Tottenham Hotspur | N/A | Bournemouth | N/A | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings

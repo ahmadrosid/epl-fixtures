@@ -1,14 +1,14 @@
 {
   "pageInfo": {
     "page": 0,
-    "numPages": 3,
+    "numPages": 1,
     "pageSize": 20,
-    "numEntries": 57
+    "numEntries": 18
   },
   "content": [
     {
       "gameweek": {
-        "id": 12281,
+        "id": 12287,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -23,7 +23,7 @@
           },
           "id": 578
         },
-        "gameweek": 13,
+        "gameweek": 19,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -35,408 +35,13 @@
       },
       "kickoff": {
         "completeness": 3,
-        "millis": 1700915400000,
-        "label": "Sat 25 Nov 2023, 12:30 GMT"
+        "millis": 1703593800000,
+        "label": "Tue 26 Dec 2023, 12:30 GMT"
       },
       "provisionalKickoff": {
         "completeness": 3,
-        "millis": 1700915400000,
-        "label": "Sat 25 Nov 2023, 12:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "score": 1
-        },
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Etihad Stadium",
-        "city": "Manchester",
-        "source": "OPTA",
-        "id": 457
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "D",
-      "attendance": 53289,
-      "clock": {
-        "secs": 5940,
-        "label": "90 +9'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 65970,
-          "assistId": 4499,
-          "clock": {
-            "secs": 1620,
-            "label": "27'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 14732,
-          "assistId": 5178,
-          "clock": {
-            "secs": 4800,
-            "label": "80'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93446,
-      "altIds": {
-        "opta": "g2367663"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12281,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 13,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Burnley",
-            "club": {
-              "name": "Burnley",
-              "shortName": "Burnley",
-              "abbr": "BUR",
-              "id": 43
-            },
-            "teamType": "FIRST",
-            "shortName": "Burnley",
-            "id": 43,
-            "altIds": {
-              "opta": "t90"
-            }
-          },
-          "score": 1
-        },
-        {
-          "team": {
-            "name": "West Ham United",
-            "club": {
-              "name": "West Ham United",
-              "shortName": "West Ham",
-              "abbr": "WHU",
-              "id": 25
-            },
-            "teamType": "FIRST",
-            "shortName": "West Ham",
-            "id": 25,
-            "altIds": {
-              "opta": "t21"
-            }
-          },
-          "score": 2
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Turf Moor",
-        "city": "Burnley",
-        "source": "OPTA",
-        "id": 47
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "A",
-      "attendance": 21319,
-      "clock": {
-        "secs": 5940,
-        "label": "90 +9'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 3851,
-          "clock": {
-            "secs": 2940,
-            "label": "49'00"
-          },
-          "phase": "2",
-          "type": "P",
-          "description": "P"
-        },
-        {
-          "personId": 15154,
-          "clock": {
-            "secs": 5160,
-            "label": "86'00"
-          },
-          "phase": "2",
-          "type": "O",
-          "description": "O"
-        },
-        {
-          "personId": 25183,
-          "assistId": 51364,
-          "clock": {
-            "secs": 5460,
-            "label": "90 +1'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93442,
-      "altIds": {
-        "opta": "g2367659"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12281,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 13,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          },
-          "score": 2
-        },
-        {
-          "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Kenilworth Road",
-        "city": "Luton",
-        "source": "OPTA",
-        "id": 2025
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 11029,
-      "clock": {
-        "secs": 6180,
-        "label": "90 +13'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 27090,
-          "assistId": 11008,
-          "clock": {
-            "secs": 4320,
-            "label": "72'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 32989,
-          "assistId": 3929,
-          "clock": {
-            "secs": 4440,
-            "label": "74'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 21127,
-          "assistId": 33128,
-          "clock": {
-            "secs": 4980,
-            "label": "83'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93445,
-      "altIds": {
-        "opta": "g2367662"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12281,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 13,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
+        "millis": 1703593800000,
+        "label": "Tue 26 Dec 2023, 12:30 GMT"
       },
       "teams": [
         {
@@ -455,146 +60,8 @@
               "opta": "t4"
             }
           },
-          "score": 4
-        },
-        {
-          "team": {
-            "name": "Chelsea",
-            "club": {
-              "name": "Chelsea",
-              "shortName": "Chelsea",
-              "abbr": "CHE",
-              "id": 4
-            },
-            "teamType": "FIRST",
-            "shortName": "Chelsea",
-            "id": 4,
-            "altIds": {
-              "opta": "t8"
-            }
-          },
           "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "St. James' Park",
-        "city": "Newcastle",
-        "source": "OPTA",
-        "id": 27
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 52227,
-      "clock": {
-        "secs": 5760,
-        "label": "90 +6'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 21737,
-          "assistId": 117647,
-          "clock": {
-            "secs": 780,
-            "label": "13'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
         },
-        {
-          "personId": 4316,
-          "clock": {
-            "secs": 1380,
-            "label": "23'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 9257,
-          "assistId": 23747,
-          "clock": {
-            "secs": 3600,
-            "label": "60'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 20607,
-          "clock": {
-            "secs": 3660,
-            "label": "61'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 23747,
-          "assistId": 54312,
-          "clock": {
-            "secs": 4980,
-            "label": "83'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93447,
-      "altIds": {
-        "opta": "g2367664"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12281,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 13,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
-      },
-      "teams": [
         {
           "team": {
             "name": "Nottingham Forest",
@@ -611,111 +78,83 @@
               "opta": "t17"
             }
           },
-          "score": 2
-        },
-        {
-          "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
           "score": 3
         }
       ],
       "replay": false,
       "ground": {
-        "name": "The City Ground",
-        "city": "Nottingham",
+        "name": "St. James' Park",
+        "city": "Newcastle",
         "source": "OPTA",
-        "id": 2548
+        "id": 27
       },
       "neutralGround": false,
       "status": "C",
       "phase": "F",
       "outcome": "A",
-      "attendance": 29404,
+      "attendance": 52207,
       "clock": {
-        "secs": 6060,
-        "label": "90 +11'00"
+        "secs": 5820,
+        "label": "90 +7'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
       "goals": [
         {
-          "personId": 49259,
-          "assistId": 15259,
+          "personId": 21737,
           "clock": {
-            "secs": 180,
-            "label": "03'00"
+            "secs": 1380,
+            "label": "23'00"
           },
           "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 71590,
-          "assistId": 22542,
-          "clock": {
-            "secs": 1560,
-            "label": "26'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 72371,
-          "assistId": 22542,
-          "clock": {
-            "secs": 2940,
-            "label": "45 +4'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 72371,
-          "clock": {
-            "secs": 3480,
-            "label": "58'00"
-          },
-          "phase": "2",
           "type": "P",
           "description": "P"
         },
         {
-          "personId": 15259,
+          "personId": 3756,
+          "assistId": 49259,
           "clock": {
-            "secs": 4560,
-            "label": "76'00"
+            "secs": 2760,
+            "label": "45 +1'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 3756,
+          "assistId": 49259,
+          "clock": {
+            "secs": 3180,
+            "label": "53'00"
           },
           "phase": "2",
-          "type": "P",
-          "description": "P"
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 3756,
+          "assistId": 139648,
+          "clock": {
+            "secs": 3600,
+            "label": "60'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
         }
       ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
-      "id": 93448,
+      "id": 93509,
       "altIds": {
-        "opta": "g2367665"
+        "opta": "g2367726"
       }
     },
     {
       "gameweek": {
-        "id": 12281,
+        "id": 12287,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -730,7 +169,7 @@
           },
           "id": 578
         },
-        "gameweek": 13,
+        "gameweek": 19,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -742,33 +181,15 @@
       },
       "kickoff": {
         "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
+        "millis": 1703602800000,
+        "label": "Tue 26 Dec 2023, 15:00 GMT"
       },
       "provisionalKickoff": {
         "completeness": 3,
-        "millis": 1700924400000,
-        "label": "Sat 25 Nov 2023, 15:00 GMT"
+        "millis": 1703602800000,
+        "label": "Tue 26 Dec 2023, 15:00 GMT"
       },
       "teams": [
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "score": 1
-        },
         {
           "team": {
             "name": "Bournemouth",
@@ -785,503 +206,8 @@
               "opta": "t91"
             }
           },
-          "score": 3
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Bramall Lane",
-        "city": "Sheffield",
-        "source": "OPTA",
-        "id": 2003
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "A",
-      "attendance": 30208,
-      "clock": {
-        "secs": 5880,
-        "label": "90 +8'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 14846,
-          "assistId": 25474,
-          "clock": {
-            "secs": 720,
-            "label": "12'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 21519,
-          "clock": {
-            "secs": 2880,
-            "label": "45 +3'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 14846,
-          "assistId": 3512,
-          "clock": {
-            "secs": 3060,
-            "label": "51'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 8107,
-          "assistId": 9169,
-          "clock": {
-            "secs": 5820,
-            "label": "90 +7'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93449,
-      "altIds": {
-        "opta": "g2367666"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12281,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 13,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1700933400000,
-        "label": "Sat 25 Nov 2023, 17:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1700933400000,
-        "label": "Sat 25 Nov 2023, 17:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
           "score": 0
         },
-        {
-          "team": {
-            "name": "Arsenal",
-            "club": {
-              "name": "Arsenal",
-              "shortName": "Arsenal",
-              "abbr": "ARS",
-              "id": 1
-            },
-            "teamType": "FIRST",
-            "shortName": "Arsenal",
-            "id": 1,
-            "altIds": {
-              "opta": "t3"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Gtech Community Stadium",
-        "city": "Brentford",
-        "source": "OPTA",
-        "id": 4003
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "A",
-      "attendance": 17201,
-      "clock": {
-        "secs": 5700,
-        "label": "90 +5'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 20810,
-          "assistId": 49481,
-          "clock": {
-            "secs": 5340,
-            "label": "89'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93441,
-      "altIds": {
-        "opta": "g2367658"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12281,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 13,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701007200000,
-        "label": "Sun 26 Nov 2023, 14:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701007200000,
-        "label": "Sun 26 Nov 2023, 14:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Tottenham Hotspur",
-            "club": {
-              "name": "Tottenham Hotspur",
-              "shortName": "Spurs",
-              "abbr": "TOT",
-              "id": 21
-            },
-            "teamType": "FIRST",
-            "shortName": "Tottenham Hotspur",
-            "id": 21,
-            "altIds": {
-              "opta": "t6"
-            }
-          },
-          "score": 1
-        },
-        {
-          "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "score": 2
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Tottenham Hotspur Stadium",
-        "city": "London",
-        "source": "OPTA",
-        "id": 3921
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "A",
-      "attendance": 61679,
-      "clock": {
-        "secs": 5880,
-        "label": "90 +8'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 19851,
-          "assistId": 32229,
-          "clock": {
-            "secs": 1320,
-            "label": "22'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 21529,
-          "assistId": 24626,
-          "clock": {
-            "secs": 3120,
-            "label": "45 +7'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 8658,
-          "assistId": 5865,
-          "clock": {
-            "secs": 3660,
-            "label": "61'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93450,
-      "altIds": {
-        "opta": "g2367667"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12281,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 13,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701016200000,
-        "label": "Sun 26 Nov 2023, 16:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701016200000,
-        "label": "Sun 26 Nov 2023, 16:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "score": 0
-        },
-        {
-          "team": {
-            "name": "Manchester United",
-            "club": {
-              "name": "Manchester United",
-              "shortName": "Man Utd",
-              "abbr": "MUN",
-              "id": 12
-            },
-            "teamType": "FIRST",
-            "shortName": "Man Utd",
-            "id": 12,
-            "altIds": {
-              "opta": "t1"
-            }
-          },
-          "score": 3
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Goodison Park",
-        "city": "Liverpool",
-        "source": "OPTA",
-        "id": 31
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "A",
-      "attendance": 39257,
-      "clock": {
-        "secs": 5820,
-        "label": "90 +7'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 68987,
-          "assistId": 24252,
-          "clock": {
-            "secs": 180,
-            "label": "03'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 13565,
-          "clock": {
-            "secs": 3360,
-            "label": "56'00"
-          },
-          "phase": "2",
-          "type": "P",
-          "description": "P"
-        },
-        {
-          "personId": 11272,
-          "assistId": 23396,
-          "clock": {
-            "secs": 4500,
-            "label": "75'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93443,
-      "altIds": {
-        "opta": "g2367660"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12281,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 13,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701115200000,
-        "label": "Mon 27 Nov 2023, 20:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701115200000,
-        "label": "Mon 27 Nov 2023, 20:00 GMT"
-      },
-      "teams": [
         {
           "team": {
             "name": "Fulham",
@@ -1298,844 +224,7 @@
               "opta": "t54"
             }
           },
-          "score": 3
-        },
-        {
-          "team": {
-            "name": "Wolverhampton Wanderers",
-            "club": {
-              "name": "Wolverhampton Wanderers",
-              "shortName": "Wolves",
-              "abbr": "WOL",
-              "id": 38
-            },
-            "teamType": "FIRST",
-            "shortName": "Wolves",
-            "id": 38,
-            "altIds": {
-              "opta": "t39"
-            }
-          },
-          "score": 2
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Craven Cottage",
-        "city": "London",
-        "source": "OPTA",
-        "id": 16
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 24366,
-      "clock": {
-        "secs": 6120,
-        "label": "90 +12'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 4717,
-          "assistId": 14624,
-          "clock": {
-            "secs": 420,
-            "label": "07'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 51202,
-          "assistId": 126108,
-          "clock": {
-            "secs": 1320,
-            "label": "22'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 4748,
-          "clock": {
-            "secs": 3540,
-            "label": "59'00"
-          },
-          "phase": "2",
-          "type": "P",
-          "description": "P"
-        },
-        {
-          "personId": 20337,
-          "clock": {
-            "secs": 4500,
-            "label": "75'00"
-          },
-          "phase": "2",
-          "type": "P",
-          "description": "P"
-        },
-        {
-          "personId": 4748,
-          "clock": {
-            "secs": 5640,
-            "label": "90 +4'00"
-          },
-          "phase": "2",
-          "type": "P",
-          "description": "P"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93444,
-      "altIds": {
-        "opta": "g2367661"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12282,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 14,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701529200000,
-        "label": "Sat 2 Dec 2023, 15:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701529200000,
-        "label": "Sat 2 Dec 2023, 15:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Arsenal",
-            "club": {
-              "name": "Arsenal",
-              "shortName": "Arsenal",
-              "abbr": "ARS",
-              "id": 1
-            },
-            "teamType": "FIRST",
-            "shortName": "Arsenal",
-            "id": 1,
-            "altIds": {
-              "opta": "t3"
-            }
-          },
-          "score": 2
-        },
-        {
-          "team": {
-            "name": "Wolverhampton Wanderers",
-            "club": {
-              "name": "Wolverhampton Wanderers",
-              "shortName": "Wolves",
-              "abbr": "WOL",
-              "id": 38
-            },
-            "teamType": "FIRST",
-            "shortName": "Wolves",
-            "id": 38,
-            "altIds": {
-              "opta": "t39"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Emirates Stadium",
-        "city": "London",
-        "source": "OPTA",
-        "id": 52
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 60262,
-      "clock": {
-        "secs": 5940,
-        "label": "90 +9'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 49481,
-          "assistId": 115169,
-          "clock": {
-            "secs": 360,
-            "label": "06'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 11419,
-          "assistId": 19620,
-          "clock": {
-            "secs": 780,
-            "label": "13'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 51202,
-          "assistId": 16642,
-          "clock": {
-            "secs": 5160,
-            "label": "86'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93451,
-      "altIds": {
-        "opta": "g2367669"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12282,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 14,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701529200000,
-        "label": "Sat 2 Dec 2023, 15:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701529200000,
-        "label": "Sat 2 Dec 2023, 15:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "score": 3
-        },
-        {
-          "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Gtech Community Stadium",
-        "city": "Brentford",
-        "source": "OPTA",
-        "id": 4003
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 17075,
-      "clock": {
-        "secs": 5940,
-        "label": "90 +9'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 16256,
-          "clock": {
-            "secs": 2940,
-            "label": "49'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 3909,
-          "assistId": 66360,
-          "clock": {
-            "secs": 3360,
-            "label": "56'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 21127,
-          "clock": {
-            "secs": 4560,
-            "label": "76'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 24773,
-          "clock": {
-            "secs": 4860,
-            "label": "81'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93453,
-      "altIds": {
-        "opta": "g2367670"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12282,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 14,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701529200000,
-        "label": "Sat 2 Dec 2023, 15:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701529200000,
-        "label": "Sat 2 Dec 2023, 15:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Burnley",
-            "club": {
-              "name": "Burnley",
-              "shortName": "Burnley",
-              "abbr": "BUR",
-              "id": 43
-            },
-            "teamType": "FIRST",
-            "shortName": "Burnley",
-            "id": 43,
-            "altIds": {
-              "opta": "t90"
-            }
-          },
-          "score": 5
-        },
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
           "score": 0
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Turf Moor",
-        "city": "Burnley",
-        "source": "OPTA",
-        "id": 47
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 20891,
-      "clock": {
-        "secs": 5700,
-        "label": "90 +5'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 3851,
-          "assistId": 8691,
-          "clock": {
-            "secs": 60,
-            "label": "01'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 19831,
-          "assistId": 15154,
-          "clock": {
-            "secs": 1740,
-            "label": "29'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 128449,
-          "assistId": 35699,
-          "clock": {
-            "secs": 4380,
-            "label": "73'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 125169,
-          "assistId": 128449,
-          "clock": {
-            "secs": 4500,
-            "label": "75'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 9457,
-          "clock": {
-            "secs": 4800,
-            "label": "80'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93454,
-      "altIds": {
-        "opta": "g2367671"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12282,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 14,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701538200000,
-        "label": "Sat 2 Dec 2023, 17:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701538200000,
-        "label": "Sat 2 Dec 2023, 17:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "score": 0
-        },
-        {
-          "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "The City Ground",
-        "city": "Nottingham",
-        "source": "OPTA",
-        "id": 2548
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "A",
-      "attendance": 29404,
-      "clock": {
-        "secs": 5640,
-        "label": "90 +4'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 24797,
-          "clock": {
-            "secs": 4020,
-            "label": "67'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93459,
-      "altIds": {
-        "opta": "g2367676"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12282,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 14,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701547200000,
-        "label": "Sat 2 Dec 2023, 20:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701547200000,
-        "label": "Sat 2 Dec 2023, 20:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "score": 1
-        },
-        {
-          "team": {
-            "name": "Manchester United",
-            "club": {
-              "name": "Manchester United",
-              "shortName": "Man Utd",
-              "abbr": "MUN",
-              "id": 12
-            },
-            "teamType": "FIRST",
-            "shortName": "Man Utd",
-            "id": 12,
-            "altIds": {
-              "opta": "t1"
-            }
-          },
-          "score": 0
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "St. James' Park",
-        "city": "Newcastle",
-        "source": "OPTA",
-        "id": 27
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 52214,
-      "clock": {
-        "secs": 6000,
-        "label": "90 +10'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 23747,
-          "assistId": 3905,
-          "clock": {
-            "secs": 3300,
-            "label": "55'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93458,
-      "altIds": {
-        "opta": "g2367675"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12282,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 14,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701612000000,
-        "label": "Sun 3 Dec 2023, 14:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701612000000,
-        "label": "Sun 3 Dec 2023, 14:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "score": 2
-        },
-        {
-          "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "score": 2
         }
       ],
       "replay": false,
@@ -2146,73 +235,26 @@
         "id": 914
       },
       "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "D",
-      "attendance": 11191,
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 5760,
-        "label": "90 +6'00"
+        "secs": 1020,
+        "label": "17'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [
-        {
-          "personId": 25474,
-          "assistId": 15572,
-          "clock": {
-            "secs": 600,
-            "label": "10'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 20489,
-          "assistId": 8658,
-          "clock": {
-            "secs": 1200,
-            "label": "20'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 10443,
-          "assistId": 116665,
-          "clock": {
-            "secs": 3120,
-            "label": "52'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 8658,
-          "assistId": 51084,
-          "clock": {
-            "secs": 5400,
-            "label": "90'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
+      "goals": [],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
-      "id": 93452,
+      "id": 93502,
       "altIds": {
-        "opta": "g2367668"
+        "opta": "g2367718"
       }
     },
     {
       "gameweek": {
-        "id": 12282,
+        "id": 12287,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -2227,7 +269,7 @@
           },
           "id": 578
         },
-        "gameweek": 14,
+        "gameweek": 19,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -2239,13 +281,395 @@
       },
       "kickoff": {
         "completeness": 3,
-        "millis": 1701612000000,
-        "label": "Sun 3 Dec 2023, 14:00 GMT"
+        "millis": 1703602800000,
+        "label": "Tue 26 Dec 2023, 15:00 GMT"
       },
       "provisionalKickoff": {
         "completeness": 3,
-        "millis": 1701612000000,
-        "label": "Sun 3 Dec 2023, 14:00 GMT"
+        "millis": 1703602800000,
+        "label": "Tue 26 Dec 2023, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "score": 0
+        },
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          },
+          "score": 0
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Bramall Lane",
+        "city": "Sheffield",
+        "source": "OPTA",
+        "id": 2003
+      },
+      "neutralGround": false,
+      "status": "L",
+      "phase": "1",
+      "clock": {
+        "secs": 960,
+        "label": "16'00"
+      },
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93510,
+      "altIds": {
+        "opta": "g2367727"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12287,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 19,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703611800000,
+        "label": "Tue 26 Dec 2023, 17:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703611800000,
+        "label": "Tue 26 Dec 2023, 17:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Turf Moor",
+        "city": "Burnley",
+        "source": "OPTA",
+        "id": 47
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93505,
+      "altIds": {
+        "opta": "g2367722"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12287,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 19,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703620800000,
+        "label": "Tue 26 Dec 2023, 20:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703620800000,
+        "label": "Tue 26 Dec 2023, 20:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Old Trafford",
+        "city": "Manchester",
+        "source": "OPTA",
+        "id": 42
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93508,
+      "altIds": {
+        "opta": "g2367725"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12287,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 19,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703705400000,
+        "label": "Wed 27 Dec 2023, 19:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703705400000,
+        "label": "Wed 27 Dec 2023, 19:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Gtech Community Stadium",
+        "city": "Brentford",
+        "source": "OPTA",
+        "id": 4003
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93503,
+      "altIds": {
+        "opta": "g2367720"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12287,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 19,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703705400000,
+        "label": "Wed 27 Dec 2023, 19:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703705400000,
+        "label": "Wed 27 Dec 2023, 19:30 GMT"
       },
       "teams": [
         {
@@ -2263,342 +687,7 @@
             "altIds": {
               "opta": "t8"
             }
-          },
-          "score": 3
-        },
-        {
-          "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "score": 2
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Stamford Bridge",
-        "city": "London",
-        "source": "OPTA",
-        "id": 30
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 39647,
-      "clock": {
-        "secs": 6300,
-        "label": "90 +15'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 63741,
-          "assistId": 53612,
-          "clock": {
-            "secs": 1020,
-            "label": "17'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 51229,
-          "assistId": 110526,
-          "clock": {
-            "secs": 1260,
-            "label": "21'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 133430,
-          "assistId": 4618,
-          "clock": {
-            "secs": 2580,
-            "label": "43'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 63741,
-          "clock": {
-            "secs": 3900,
-            "label": "65'00"
-          },
-          "phase": "2",
-          "type": "P",
-          "description": "P"
-        },
-        {
-          "personId": 72371,
-          "assistId": 2100,
-          "clock": {
-            "secs": 5520,
-            "label": "90 +2'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93455,
-      "altIds": {
-        "opta": "g2367672"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12282,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 14,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701612000000,
-        "label": "Sun 3 Dec 2023, 14:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701612000000,
-        "label": "Sun 3 Dec 2023, 14:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "score": 4
-        },
-        {
-          "team": {
-            "name": "Fulham",
-            "club": {
-              "name": "Fulham",
-              "shortName": "Fulham",
-              "abbr": "FUL",
-              "id": 34
-            },
-            "teamType": "FIRST",
-            "shortName": "Fulham",
-            "id": 34,
-            "altIds": {
-              "opta": "t54"
-            }
-          },
-          "score": 3
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Anfield",
-        "city": "Liverpool",
-        "source": "OPTA",
-        "id": 901
-      },
-      "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "H",
-      "attendance": 50143,
-      "clock": {
-        "secs": 5880,
-        "label": "90 +8'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 4985,
-          "clock": {
-            "secs": 1200,
-            "label": "20'00"
-          },
-          "phase": "1",
-          "type": "O",
-          "description": "O"
-        },
-        {
-          "personId": 13961,
-          "assistId": 14624,
-          "clock": {
-            "secs": 1440,
-            "label": "24'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 63633,
-          "clock": {
-            "secs": 2280,
-            "label": "38'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 4880,
-          "clock": {
-            "secs": 2880,
-            "label": "45 +3'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 8192,
-          "assistId": 3894,
-          "clock": {
-            "secs": 4800,
-            "label": "80'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 43586,
-          "assistId": 5178,
-          "clock": {
-            "secs": 5220,
-            "label": "87'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 14732,
-          "assistId": 16006,
-          "clock": {
-            "secs": 5280,
-            "label": "88'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93456,
-      "altIds": {
-        "opta": "g2367673"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12282,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 14,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1701612000000,
-        "label": "Sun 3 Dec 2023, 14:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1701612000000,
-        "label": "Sun 3 Dec 2023, 14:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "West Ham United",
-            "club": {
-              "name": "West Ham United",
-              "shortName": "West Ham",
-              "abbr": "WHU",
-              "id": 25
-            },
-            "teamType": "FIRST",
-            "shortName": "West Ham",
-            "id": 25,
-            "altIds": {
-              "opta": "t21"
-            }
-          },
-          "score": 1
+          }
         },
         {
           "team": {
@@ -2615,62 +704,33 @@
             "altIds": {
               "opta": "t31"
             }
-          },
-          "score": 1
+          }
         }
       ],
       "replay": false,
       "ground": {
-        "name": "London Stadium",
+        "name": "Stamford Bridge",
         "city": "London",
         "source": "OPTA",
-        "id": 433
+        "id": 30
       },
       "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "D",
-      "attendance": 62459,
-      "clock": {
-        "secs": 5820,
-        "label": "90 +7'00"
-      },
+      "status": "U",
+      "phase": "0",
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [
-        {
-          "personId": 51364,
-          "assistId": 7336,
-          "clock": {
-            "secs": 780,
-            "label": "13'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 16788,
-          "clock": {
-            "secs": 3180,
-            "label": "53'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
+      "goals": [],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
-      "id": 93460,
+      "id": 93506,
       "altIds": {
-        "opta": "g2367677"
+        "opta": "g2367723"
       }
     },
     {
       "gameweek": {
-        "id": 12282,
+        "id": 12287,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -2685,7 +745,7 @@
           },
           "id": 578
         },
-        "gameweek": 14,
+        "gameweek": 19,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -2697,13 +757,577 @@
       },
       "kickoff": {
         "completeness": 3,
-        "millis": 1701621000000,
-        "label": "Sun 3 Dec 2023, 16:30 GMT"
+        "millis": 1703708100000,
+        "label": "Wed 27 Dec 2023, 20:15 GMT"
       },
       "provisionalKickoff": {
         "completeness": 3,
-        "millis": 1701621000000,
-        "label": "Sun 3 Dec 2023, 16:30 GMT"
+        "millis": 1703708100000,
+        "label": "Wed 27 Dec 2023, 20:15 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Goodison Park",
+        "city": "Liverpool",
+        "source": "OPTA",
+        "id": 31
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93507,
+      "altIds": {
+        "opta": "g2367724"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12287,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 19,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703791800000,
+        "label": "Thu 28 Dec 2023, 19:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703791800000,
+        "label": "Thu 28 Dec 2023, 19:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Tottenham Hotspur",
+            "club": {
+              "name": "Tottenham Hotspur",
+              "shortName": "Spurs",
+              "abbr": "TOT",
+              "id": 21
+            },
+            "teamType": "FIRST",
+            "shortName": "Tottenham Hotspur",
+            "id": 21,
+            "altIds": {
+              "opta": "t6"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Amex Stadium",
+        "city": "Falmer",
+        "source": "OPTA",
+        "id": 1684
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93504,
+      "altIds": {
+        "opta": "g2367721"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12287,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 19,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703794500000,
+        "label": "Thu 28 Dec 2023, 20:15 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703794500000,
+        "label": "Thu 28 Dec 2023, 20:15 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Emirates Stadium",
+        "city": "London",
+        "source": "OPTA",
+        "id": 52
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93501,
+      "altIds": {
+        "opta": "g2367719"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12288,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 20,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703939400000,
+        "label": "Sat 30 Dec 2023, 12:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703939400000,
+        "label": "Sat 30 Dec 2023, 12:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Kenilworth Road",
+        "city": "Luton",
+        "source": "OPTA",
+        "id": 2025
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93515,
+      "altIds": {
+        "opta": "g2367732"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12288,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 20,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703948400000,
+        "label": "Sat 30 Dec 2023, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703948400000,
+        "label": "Sat 30 Dec 2023, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Villa Park",
+        "city": "Birmingham",
+        "source": "OPTA",
+        "id": 1986
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93511,
+      "altIds": {
+        "opta": "g2367728"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12288,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 20,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703948400000,
+        "label": "Sat 30 Dec 2023, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703948400000,
+        "label": "Sat 30 Dec 2023, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Selhurst Park",
+        "city": "London",
+        "source": "OPTA",
+        "id": 45
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93512,
+      "altIds": {
+        "opta": "g2367729"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12288,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 20,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703948400000,
+        "label": "Sat 30 Dec 2023, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703948400000,
+        "label": "Sat 30 Dec 2023, 15:00 GMT"
       },
       "teams": [
         {
@@ -2721,9 +1345,367 @@
             "altIds": {
               "opta": "t43"
             }
-          },
-          "score": 3
+          }
         },
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Etihad Stadium",
+        "city": "Manchester",
+        "source": "OPTA",
+        "id": 457
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93516,
+      "altIds": {
+        "opta": "g2367733"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12288,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 20,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703948400000,
+        "label": "Sat 30 Dec 2023, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703948400000,
+        "label": "Sat 30 Dec 2023, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Molineux Stadium",
+        "city": "Wolverhampton",
+        "source": "OPTA",
+        "id": 913
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93520,
+      "altIds": {
+        "opta": "g2367737"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12288,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 20,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1703957400000,
+        "label": "Sat 30 Dec 2023, 17:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1703957400000,
+        "label": "Sat 30 Dec 2023, 17:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "The City Ground",
+        "city": "Nottingham",
+        "source": "OPTA",
+        "id": 2548
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93517,
+      "altIds": {
+        "opta": "g2367734"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12288,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 20,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1704031200000,
+        "label": "Sun 31 Dec 2023, 14:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1704031200000,
+        "label": "Sun 31 Dec 2023, 14:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Craven Cottage",
+        "city": "London",
+        "source": "OPTA",
+        "id": 16
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93513,
+      "altIds": {
+        "opta": "g2367730"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12288,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 20,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1704031200000,
+        "label": "Sun 31 Dec 2023, 14:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1704031200000,
+        "label": "Sun 31 Dec 2023, 14:00 GMT"
+      },
+      "teams": [
         {
           "team": {
             "name": "Tottenham Hotspur",
@@ -2739,101 +1721,45 @@
             "altIds": {
               "opta": "t6"
             }
-          },
-          "score": 3
+          }
+        },
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          }
         }
       ],
       "replay": false,
       "ground": {
-        "name": "Etihad Stadium",
-        "city": "Manchester",
+        "name": "Tottenham Hotspur Stadium",
+        "city": "London",
         "source": "OPTA",
-        "id": 457
+        "id": 3921
       },
       "neutralGround": false,
-      "status": "C",
-      "phase": "F",
-      "outcome": "D",
-      "attendance": 53473,
-      "clock": {
-        "secs": 5880,
-        "label": "90 +8'00"
-      },
+      "status": "U",
+      "phase": "0",
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [
-        {
-          "personId": 4999,
-          "assistId": 49316,
-          "clock": {
-            "secs": 360,
-            "label": "06'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 4999,
-          "clock": {
-            "secs": 540,
-            "label": "09'00"
-          },
-          "phase": "1",
-          "type": "O",
-          "description": "O"
-        },
-        {
-          "personId": 14805,
-          "assistId": 52723,
-          "clock": {
-            "secs": 1860,
-            "label": "31'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 19851,
-          "assistId": 4999,
-          "clock": {
-            "secs": 4140,
-            "label": "69'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 4260,
-          "assistId": 65970,
-          "clock": {
-            "secs": 4860,
-            "label": "81'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 49316,
-          "assistId": 49374,
-          "clock": {
-            "secs": 5400,
-            "label": "90'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
+      "goals": [],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
-      "id": 93457,
+      "id": 93518,
       "altIds": {
-        "opta": "g2367674"
+        "opta": "g2367735"
       }
     }
   ]
