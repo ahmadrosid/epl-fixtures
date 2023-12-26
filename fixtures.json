@@ -528,6 +528,7 @@
       "status": "C",
       "phase": "F",
       "outcome": "A",
+      "attendance": 21624,
       "clock": {
         "secs": 5760,
         "label": "90 +6'00"
@@ -619,8 +620,7 @@
             "altIds": {
               "opta": "t1"
             }
-          },
-          "score": 0
+          }
         },
         {
           "team": {
@@ -637,8 +637,7 @@
             "altIds": {
               "opta": "t7"
             }
-          },
-          "score": 0
+          }
         }
       ],
       "replay": false,
