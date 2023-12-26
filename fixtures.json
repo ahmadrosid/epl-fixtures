@@ -621,7 +621,7 @@
               "opta": "t1"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -653,8 +653,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3000,
-        "label": "50'00"
+        "secs": 3900,
+        "label": "65'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -678,6 +678,17 @@
             "label": "26'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 68987,
+          "assistId": 13565,
+          "clock": {
+            "secs": 3540,
+            "label": "59'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
