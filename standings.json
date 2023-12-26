@@ -602,9 +602,9 @@
             "won": 7,
             "drawn": 4,
             "lost": 7,
-            "goalsFor": 25,
+            "goalsFor": 26,
             "goalsAgainst": 32,
-            "goalsDifference": -7,
+            "goalsDifference": -6,
             "points": 25
           },
           "home": {
@@ -612,9 +612,9 @@
             "won": 3,
             "drawn": 3,
             "lost": 3,
-            "goalsFor": 9,
+            "goalsFor": 10,
             "goalsAgainst": 12,
-            "goalsDifference": -3,
+            "goalsDifference": -2,
             "points": 12
           },
           "away": {
@@ -783,8 +783,8 @@
             "drawn": 3,
             "lost": 10,
             "goalsFor": 26,
-            "goalsAgainst": 32,
-            "goalsDifference": -6,
+            "goalsAgainst": 33,
+            "goalsDifference": -7,
             "points": 21
           },
           "home": {
@@ -803,8 +803,8 @@
             "drawn": 3,
             "lost": 6,
             "goalsFor": 9,
-            "goalsAgainst": 21,
-            "goalsDifference": -12,
+            "goalsAgainst": 22,
+            "goalsDifference": -13,
             "points": 6
           },
           "ground": {
@@ -1078,13 +1078,13 @@
           "startingPosition": 18,
           "overall": {
             "played": 18,
-            "won": 4,
+            "won": 3,
             "drawn": 3,
-            "lost": 11,
+            "lost": 12,
             "goalsFor": 19,
-            "goalsAgainst": 32,
-            "goalsDifference": -13,
-            "points": 15
+            "goalsAgainst": 34,
+            "goalsDifference": -15,
+            "points": 12
           },
           "home": {
             "played": 9,
@@ -1098,13 +1098,13 @@
           },
           "away": {
             "played": 9,
-            "won": 2,
+            "won": 1,
             "drawn": 1,
-            "lost": 6,
+            "lost": 7,
             "goalsFor": 8,
-            "goalsAgainst": 18,
-            "goalsDifference": -10,
-            "points": 7
+            "goalsAgainst": 20,
+            "goalsDifference": -12,
+            "points": 4
           },
           "annotations": [
             {
@@ -1117,6 +1117,72 @@
             "city": "Luton",
             "capacity": 9975,
             "id": 81
+          }
+        },
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 19,
+          "startingPosition": 20,
+          "overall": {
+            "played": 19,
+            "won": 3,
+            "drawn": 3,
+            "lost": 13,
+            "goalsFor": 15,
+            "goalsAgainst": 45,
+            "goalsDifference": -30,
+            "points": 12
+          },
+          "home": {
+            "played": 10,
+            "won": 3,
+            "drawn": 1,
+            "lost": 6,
+            "goalsFor": 10,
+            "goalsAgainst": 22,
+            "goalsDifference": -12,
+            "points": 10
+          },
+          "away": {
+            "played": 9,
+            "won": 0,
+            "drawn": 2,
+            "lost": 7,
+            "goalsFor": 5,
+            "goalsAgainst": 23,
+            "goalsDifference": -18,
+            "points": 2
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
           }
         },
         {
@@ -1135,7 +1201,7 @@
               "opta": "t90"
             }
           },
-          "position": 19,
+          "position": 20,
           "startingPosition": 19,
           "overall": {
             "played": 18,
@@ -1183,72 +1249,6 @@
             },
             "source": "OPTA",
             "id": 47
-          }
-        },
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 20,
-          "startingPosition": 20,
-          "overall": {
-            "played": 19,
-            "won": 2,
-            "drawn": 3,
-            "lost": 14,
-            "goalsFor": 13,
-            "goalsAgainst": 45,
-            "goalsDifference": -32,
-            "points": 9
-          },
-          "home": {
-            "played": 10,
-            "won": 2,
-            "drawn": 1,
-            "lost": 7,
-            "goalsFor": 8,
-            "goalsAgainst": 22,
-            "goalsDifference": -14,
-            "points": 7
-          },
-          "away": {
-            "played": 9,
-            "won": 0,
-            "drawn": 2,
-            "lost": 7,
-            "goalsFor": 5,
-            "goalsAgainst": 23,
-            "goalsDifference": -18,
-            "points": 2
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
           }
         }
       ]

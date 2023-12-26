@@ -206,7 +206,7 @@
               "opta": "t91"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -238,8 +238,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "47'00"
+        "secs": 4320,
+        "label": "72'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -255,6 +255,16 @@
           "phase": "1",
           "type": "G",
           "description": "G"
+        },
+        {
+          "personId": 10443,
+          "clock": {
+            "secs": 3720,
+            "label": "62'00"
+          },
+          "phase": "2",
+          "type": "P",
+          "description": "P"
         }
       ],
       "penaltyShootouts": [],
@@ -318,7 +328,7 @@
               "opta": "t49"
             }
           },
-          "score": 0
+          "score": 2
         },
         {
           "team": {
@@ -350,8 +360,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3180,
-        "label": "53'00"
+        "secs": 4140,
+        "label": "69'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -365,6 +375,27 @@
             "label": "17'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 8107,
+          "assistId": 49270,
+          "clock": {
+            "secs": 3660,
+            "label": "61'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 20855,
+          "clock": {
+            "secs": 4140,
+            "label": "69'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
@@ -429,7 +460,8 @@
             "altIds": {
               "opta": "t90"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -446,7 +478,8 @@
             "altIds": {
               "opta": "t14"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -459,6 +492,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
