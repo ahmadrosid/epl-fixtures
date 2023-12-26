@@ -31,8 +31,6 @@ The data displayed in 2023 with BST TimeZone.
 
 ### Standings
 
-**Last updated: 12 August 2023, 17:55**
-
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
