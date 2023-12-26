@@ -9,7 +9,7 @@ The data displayed in 2023 with BST TimeZone.
 |-------------|--------|--------------|--------|--------------|--------|
 | 26 Dec, 12:30 GMT | Newcastle United | 1 | Nottingham Forest | 3 | Completed |
 | 26 Dec, 15:00 GMT | Bournemouth | 0 | Fulham | 0 | Live |
-| 26 Dec, 15:00 GMT | Sheffield United | 0 | Luton Town | 0 | Live |
+| 26 Dec, 15:00 GMT | Sheffield United | 0 | Luton Town | 1 | Live |
 | 26 Dec, 17:30 GMT | Burnley | N/A | Liverpool | N/A | Upcoming |
 | 26 Dec, 20:00 GMT | Manchester United | N/A | Aston Villa | N/A | Upcoming |
 | 27 Dec, 19:30 GMT | Brentford | N/A | Wolverhampton Wanderers | N/A | Upcoming |
@@ -49,7 +49,7 @@ The data displayed in 2023 with BST TimeZone.
 | 15 | Crystal Palace | 18 | 4 | 6 | 8 | 18 | 26 | -8 | 18 |
 | 16 | Nottingham Forest | 19 | 4 | 5 | 10 | 22 | 34 | -12 | 17 |
 | 17 | Everton | 18 | 8 | 2 | 8 | 23 | 22 | 1 | 16 |
-| 18 | Luton Town | 18 | 3 | 4 | 11 | 18 | 32 | -14 | 13 |
+| 18 | Luton Town | 18 | 4 | 3 | 11 | 19 | 32 | -13 | 15 |
 | 19 | Burnley | 18 | 3 | 2 | 13 | 18 | 36 | -18 | 11 |
-| 20 | Sheffield United | 19 | 2 | 4 | 13 | 13 | 44 | -31 | 10 |
+| 20 | Sheffield United | 19 | 2 | 3 | 14 | 13 | 45 | -32 | 9 |
 <!-- END_STANDINGS -->
