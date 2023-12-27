@@ -12,8 +12,8 @@ The data displayed in 2023 with BST TimeZone.
 | 26 Dec, 15:00 GMT | Sheffield United | 2 | Luton Town | 3 | Completed |
 | 26 Dec, 17:30 GMT | Burnley | 0 | Liverpool | 2 | Completed |
 | 26 Dec, 20:00 GMT | Manchester United | 3 | Aston Villa | 2 | Completed |
-| 27 Dec, 19:30 GMT | Brentford | N/A | Wolverhampton Wanderers | N/A | Upcoming |
-| 27 Dec, 19:30 GMT | Chelsea | N/A | Crystal Palace | N/A | Upcoming |
+| 27 Dec, 19:30 GMT | Brentford | 0 | Wolverhampton Wanderers | 0 | Upcoming |
+| 27 Dec, 19:30 GMT | Chelsea | 0 | Crystal Palace | 0 | Upcoming |
 | 27 Dec, 20:15 GMT | Everton | N/A | Manchester City | N/A | Upcoming |
 | 28 Dec, 19:30 GMT | Brighton & Hove Albion | N/A | Tottenham Hotspur | N/A | Upcoming |
 | 28 Dec, 20:15 GMT | Arsenal | N/A | West Ham United | N/A | Upcoming |
