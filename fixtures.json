@@ -794,7 +794,7 @@
               "opta": "t39"
             }
           },
-          "score": 3
+          "score": 4
         }
       ],
       "replay": false,
@@ -809,8 +809,8 @@
       "phase": "2",
       "attendance": 17109,
       "clock": {
-        "secs": 4500,
-        "label": "75'00"
+        "secs": 5580,
+        "label": "90 +3'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -856,6 +856,17 @@
             "label": "28'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 126108,
+          "assistId": 51202,
+          "clock": {
+            "secs": 4740,
+            "label": "79'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
@@ -921,7 +932,7 @@
               "opta": "t8"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -950,11 +961,12 @@
         "id": 30
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "attendance": 39618,
       "clock": {
-        "secs": 4860,
-        "label": "81'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -981,6 +993,16 @@
           "phase": "1",
           "type": "G",
           "description": "G"
+        },
+        {
+          "personId": 67407,
+          "clock": {
+            "secs": 5340,
+            "label": "89'00"
+          },
+          "phase": "2",
+          "type": "P",
+          "description": "P"
         }
       ],
       "penaltyShootouts": [],
@@ -1062,7 +1084,7 @@
               "opta": "t43"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -1074,10 +1096,11 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
+      "attendance": 39327,
       "clock": {
-        "secs": 2940,
-        "label": "45 +4'00"
+        "secs": 3300,
+        "label": "55'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1091,6 +1114,17 @@
             "label": "29'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 14805,
+          "assistId": 5067,
+          "clock": {
+            "secs": 3180,
+            "label": "53'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
