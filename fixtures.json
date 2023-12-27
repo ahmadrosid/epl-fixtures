@@ -806,10 +806,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "H",
       "clock": {
-        "secs": 2340,
-        "label": "39'00"
+        "secs": 3240,
+        "label": "45 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -938,7 +938,7 @@
               "opta": "t31"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -950,10 +950,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "H",
       "clock": {
-        "secs": 2280,
-        "label": "38'00"
+        "secs": 2940,
+        "label": "45 +4'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -965,6 +965,17 @@
           "clock": {
             "secs": 780,
             "label": "13'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 32989,
+          "assistId": 5595,
+          "clock": {
+            "secs": 2760,
+            "label": "45 +1'00"
           },
           "phase": "1",
           "type": "G",
@@ -1061,11 +1072,11 @@
         "id": 31
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 720,
+        "label": "12'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
