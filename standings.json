@@ -87,6 +87,72 @@
         },
         {
           "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          },
+          "position": 2,
+          "startingPosition": 3,
+          "overall": {
+            "played": 20,
+            "won": 13,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 42,
+            "goalsAgainst": 26,
+            "goalsDifference": 16,
+            "points": 42
+          },
+          "home": {
+            "played": 10,
+            "won": 9,
+            "drawn": 1,
+            "lost": 0,
+            "goalsFor": 28,
+            "goalsAgainst": 7,
+            "goalsDifference": 21,
+            "points": 28
+          },
+          "away": {
+            "played": 10,
+            "won": 4,
+            "drawn": 2,
+            "lost": 4,
+            "goalsFor": 14,
+            "goalsAgainst": 19,
+            "goalsDifference": -5,
+            "points": 14
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Villa Park",
+            "city": "Birmingham",
+            "capacity": 42682,
+            "location": {
+              "latitude": 52.5085,
+              "longitude": -1.88495
+            },
+            "source": "OPTA",
+            "id": 43
+          }
+        },
+        {
+          "team": {
             "name": "Manchester City",
             "club": {
               "name": "Manchester City",
@@ -101,7 +167,7 @@
               "opta": "t43"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 4,
           "overall": {
             "played": 19,
@@ -167,7 +233,7 @@
               "opta": "t3"
             }
           },
-          "position": 3,
+          "position": 4,
           "startingPosition": 2,
           "overall": {
             "played": 19,
@@ -215,72 +281,6 @@
             },
             "source": "OPTA",
             "id": 52
-          }
-        },
-        {
-          "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "position": 4,
-          "startingPosition": 3,
-          "overall": {
-            "played": 20,
-            "won": 12,
-            "drawn": 4,
-            "lost": 4,
-            "goalsFor": 40,
-            "goalsAgainst": 25,
-            "goalsDifference": 15,
-            "points": 40
-          },
-          "home": {
-            "played": 10,
-            "won": 8,
-            "drawn": 2,
-            "lost": 0,
-            "goalsFor": 26,
-            "goalsAgainst": 6,
-            "goalsDifference": 20,
-            "points": 26
-          },
-          "away": {
-            "played": 10,
-            "won": 4,
-            "drawn": 2,
-            "lost": 4,
-            "goalsFor": 14,
-            "goalsAgainst": 19,
-            "goalsDifference": -5,
-            "points": 14
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Villa Park",
-            "city": "Birmingham",
-            "capacity": 42682,
-            "location": {
-              "latitude": 52.5085,
-              "longitude": -1.88495
-            },
-            "source": "OPTA",
-            "id": 43
           }
         },
         {
@@ -821,61 +821,6 @@
         },
         {
           "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "position": 14,
-          "startingPosition": 14,
-          "overall": {
-            "played": 19,
-            "won": 5,
-            "drawn": 5,
-            "lost": 9,
-            "goalsFor": 26,
-            "goalsAgainst": 29,
-            "goalsDifference": -3,
-            "points": 20
-          },
-          "home": {
-            "played": 10,
-            "won": 3,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 17,
-            "goalsAgainst": 18,
-            "goalsDifference": -1,
-            "points": 12
-          },
-          "away": {
-            "played": 9,
-            "won": 2,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 9,
-            "goalsAgainst": 11,
-            "goalsDifference": -2,
-            "points": 8
-          },
-          "ground": {
-            "name": "Gtech Community Stadium",
-            "city": "Brentford",
-            "source": "OPTA",
-            "id": 3977
-          }
-        },
-        {
-          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -890,27 +835,27 @@
               "opta": "t31"
             }
           },
-          "position": 15,
+          "position": 14,
           "startingPosition": 15,
           "overall": {
             "played": 20,
-            "won": 4,
-            "drawn": 7,
+            "won": 5,
+            "drawn": 6,
             "lost": 9,
-            "goalsFor": 20,
+            "goalsFor": 21,
             "goalsAgainst": 29,
-            "goalsDifference": -9,
-            "points": 19
+            "goalsDifference": -8,
+            "points": 21
           },
           "home": {
             "played": 10,
-            "won": 1,
-            "drawn": 4,
+            "won": 2,
+            "drawn": 3,
             "lost": 5,
-            "goalsFor": 9,
+            "goalsFor": 10,
             "goalsAgainst": 14,
-            "goalsDifference": -5,
-            "points": 7
+            "goalsDifference": -4,
+            "points": 9
           },
           "away": {
             "played": 10,
@@ -932,6 +877,61 @@
             },
             "source": "OPTA",
             "id": 45
+          }
+        },
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          },
+          "position": 15,
+          "startingPosition": 14,
+          "overall": {
+            "played": 19,
+            "won": 5,
+            "drawn": 4,
+            "lost": 10,
+            "goalsFor": 26,
+            "goalsAgainst": 30,
+            "goalsDifference": -4,
+            "points": 19
+          },
+          "home": {
+            "played": 10,
+            "won": 3,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 17,
+            "goalsAgainst": 18,
+            "goalsDifference": -1,
+            "points": 12
+          },
+          "away": {
+            "played": 9,
+            "won": 2,
+            "drawn": 1,
+            "lost": 6,
+            "goalsFor": 9,
+            "goalsAgainst": 12,
+            "goalsDifference": -3,
+            "points": 7
+          },
+          "ground": {
+            "name": "Gtech Community Stadium",
+            "city": "Brentford",
+            "source": "OPTA",
+            "id": 3977
           }
         },
         {
@@ -1140,12 +1140,12 @@
           "overall": {
             "played": 20,
             "won": 3,
-            "drawn": 3,
-            "lost": 14,
-            "goalsFor": 18,
-            "goalsAgainst": 38,
-            "goalsDifference": -20,
-            "points": 12
+            "drawn": 2,
+            "lost": 15,
+            "goalsFor": 19,
+            "goalsAgainst": 40,
+            "goalsDifference": -21,
+            "points": 11
           },
           "home": {
             "played": 10,
@@ -1160,12 +1160,12 @@
           "away": {
             "played": 10,
             "won": 2,
-            "drawn": 3,
-            "lost": 5,
-            "goalsFor": 8,
-            "goalsAgainst": 14,
-            "goalsDifference": -6,
-            "points": 9
+            "drawn": 2,
+            "lost": 6,
+            "goalsFor": 9,
+            "goalsAgainst": 16,
+            "goalsDifference": -7,
+            "points": 8
           },
           "annotations": [
             {
