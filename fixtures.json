@@ -1660,7 +1660,7 @@
               "opta": "t7"
             }
           },
-          "score": 2
+          "score": 3
         },
         {
           "team": {
@@ -1689,11 +1689,12 @@
         "id": 1986
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "clock": {
-        "secs": 5100,
-        "label": "85'00"
+        "secs": 6060,
+        "label": "90 +11'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1742,6 +1743,16 @@
           "phase": "2",
           "type": "G",
           "description": "G"
+        },
+        {
+          "personId": 24626,
+          "clock": {
+            "secs": 5340,
+            "label": "89'00"
+          },
+          "phase": "2",
+          "type": "P",
+          "description": "P"
         }
       ],
       "penaltyShootouts": [],
@@ -1834,11 +1845,12 @@
         "id": 45
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "clock": {
-        "secs": 5100,
-        "label": "85'00"
+        "secs": 5700,
+        "label": "90 +5'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1979,11 +1991,12 @@
         "id": 457
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "clock": {
-        "secs": 5340,
-        "label": "89'00"
+        "secs": 5640,
+        "label": "90 +4'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -2102,11 +2115,13 @@
         "id": 913
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
+      "attendance": 31639,
       "clock": {
-        "secs": 5280,
-        "label": "88'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
