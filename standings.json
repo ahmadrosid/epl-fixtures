@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -36,7 +36,7 @@
             }
           },
           "position": 1,
-          "startingPosition": 2,
+          "startingPosition": 1,
           "overall": {
             "played": 19,
             "won": 12,
@@ -102,7 +102,7 @@
             }
           },
           "position": 2,
-          "startingPosition": 1,
+          "startingPosition": 2,
           "overall": {
             "played": 19,
             "won": 12,
@@ -234,7 +234,7 @@
             }
           },
           "position": 4,
-          "startingPosition": 5,
+          "startingPosition": 4,
           "overall": {
             "played": 18,
             "won": 11,
@@ -300,7 +300,7 @@
             }
           },
           "position": 5,
-          "startingPosition": 4,
+          "startingPosition": 5,
           "overall": {
             "played": 19,
             "won": 11,
@@ -416,7 +416,7 @@
             }
           },
           "position": 7,
-          "startingPosition": 8,
+          "startingPosition": 7,
           "overall": {
             "played": 19,
             "won": 10,
@@ -476,7 +476,7 @@
             }
           },
           "position": 8,
-          "startingPosition": 9,
+          "startingPosition": 8,
           "overall": {
             "played": 19,
             "won": 8,
@@ -536,7 +536,7 @@
             }
           },
           "position": 9,
-          "startingPosition": 7,
+          "startingPosition": 9,
           "overall": {
             "played": 19,
             "won": 9,
@@ -598,14 +598,14 @@
           "position": 10,
           "startingPosition": 10,
           "overall": {
-            "played": 19,
+            "played": 20,
             "won": 7,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 8,
             "goalsFor": 31,
             "goalsAgainst": 29,
             "goalsDifference": 2,
-            "points": 25
+            "points": 26
           },
           "home": {
             "played": 10,
@@ -618,14 +618,14 @@
             "points": 15
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "won": 3,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 5,
             "goalsFor": 14,
             "goalsAgainst": 15,
             "goalsDifference": -1,
-            "points": 10
+            "points": 11
           },
           "ground": {
             "name": "Stamford Bridge",
@@ -951,7 +951,7 @@
             }
           },
           "position": 16,
-          "startingPosition": 17,
+          "startingPosition": 16,
           "overall": {
             "played": 19,
             "won": 4,
@@ -1009,7 +1009,7 @@
             }
           },
           "position": 17,
-          "startingPosition": 16,
+          "startingPosition": 17,
           "overall": {
             "played": 19,
             "won": 8,
@@ -1077,24 +1077,24 @@
           "position": 18,
           "startingPosition": 18,
           "overall": {
-            "played": 18,
+            "played": 19,
             "won": 4,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 11,
             "goalsFor": 21,
             "goalsAgainst": 34,
             "goalsDifference": -13,
-            "points": 15
+            "points": 16
           },
           "home": {
-            "played": 9,
+            "played": 10,
             "won": 2,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 5,
             "goalsFor": 11,
             "goalsAgainst": 14,
             "goalsDifference": -3,
-            "points": 8
+            "points": 9
           },
           "away": {
             "played": 9,
