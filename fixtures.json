@@ -1523,7 +1523,7 @@
               "opta": "t8"
             }
           },
-          "score": 1
+          "score": 2
         }
       ],
       "replay": false,
@@ -1537,8 +1537,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 1140,
-        "label": "19'00"
+        "secs": 2280,
+        "label": "38'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1549,6 +1549,17 @@
           "clock": {
             "secs": 720,
             "label": "12'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 67407,
+          "assistId": 49293,
+          "clock": {
+            "secs": 2220,
+            "label": "37'00"
           },
           "phase": "1",
           "type": "G",
