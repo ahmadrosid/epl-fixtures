@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -418,14 +418,14 @@
           "position": 7,
           "startingPosition": 7,
           "overall": {
-            "played": 19,
+            "played": 20,
             "won": 10,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 8,
             "goalsFor": 21,
             "goalsAgainst": 25,
             "goalsDifference": -4,
-            "points": 31
+            "points": 32
           },
           "home": {
             "played": 10,
@@ -438,14 +438,14 @@
             "points": 18
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "won": 4,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 4,
             "goalsFor": 8,
             "goalsAgainst": 9,
             "goalsDifference": -1,
-            "points": 13
+            "points": 14
           },
           "ground": {
             "name": "Old Trafford",
@@ -953,24 +953,24 @@
           "position": 16,
           "startingPosition": 16,
           "overall": {
-            "played": 19,
+            "played": 20,
             "won": 4,
-            "drawn": 5,
+            "drawn": 6,
             "lost": 10,
             "goalsFor": 22,
             "goalsAgainst": 34,
             "goalsDifference": -12,
-            "points": 17
+            "points": 18
           },
           "home": {
-            "played": 9,
+            "played": 10,
             "won": 2,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 4,
             "goalsFor": 12,
             "goalsAgainst": 14,
             "goalsDifference": -2,
-            "points": 9
+            "points": 10
           },
           "away": {
             "played": 10,
