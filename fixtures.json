@@ -2255,8 +2255,8 @@
       "phase": "2",
       "attendance": 29529,
       "clock": {
-        "secs": 4920,
-        "label": "82'00"
+        "secs": 5940,
+        "label": "90 +9'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -2286,6 +2286,7 @@
         },
         {
           "personId": 15259,
+          "assistId": 49259,
           "clock": {
             "secs": 4920,
             "label": "82'00"
