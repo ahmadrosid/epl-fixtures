@@ -2251,12 +2251,13 @@
         "id": 2548
       },
       "neutralGround": false,
-      "status": "L",
-      "phase": "2",
+      "status": "C",
+      "phase": "F",
+      "outcome": "H",
       "attendance": 29529,
       "clock": {
-        "secs": 5940,
-        "label": "90 +9'00"
+        "secs": 6060,
+        "label": "90 +11'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
