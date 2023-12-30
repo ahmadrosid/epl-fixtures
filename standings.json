@@ -87,6 +87,72 @@
         },
         {
           "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          },
+          "position": 2,
+          "startingPosition": 4,
+          "overall": {
+            "played": 19,
+            "won": 12,
+            "drawn": 4,
+            "lost": 3,
+            "goalsFor": 44,
+            "goalsAgainst": 21,
+            "goalsDifference": 23,
+            "points": 40
+          },
+          "home": {
+            "played": 9,
+            "won": 6,
+            "drawn": 3,
+            "lost": 0,
+            "goalsFor": 23,
+            "goalsAgainst": 9,
+            "goalsDifference": 14,
+            "points": 21
+          },
+          "away": {
+            "played": 10,
+            "won": 6,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 21,
+            "goalsAgainst": 12,
+            "goalsDifference": 9,
+            "points": 19
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Etihad Stadium",
+            "city": "Manchester",
+            "capacity": 55000,
+            "location": {
+              "latitude": 53.4832,
+              "longitude": -2.20042
+            },
+            "source": "OPTA",
+            "id": 457
+          }
+        },
+        {
+          "team": {
             "name": "Arsenal",
             "club": {
               "name": "Arsenal",
@@ -101,7 +167,7 @@
               "opta": "t3"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 2,
           "overall": {
             "played": 19,
@@ -167,7 +233,7 @@
               "opta": "t7"
             }
           },
-          "position": 3,
+          "position": 4,
           "startingPosition": 3,
           "overall": {
             "played": 20,
@@ -215,72 +281,6 @@
             },
             "source": "OPTA",
             "id": 43
-          }
-        },
-        {
-          "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "position": 4,
-          "startingPosition": 4,
-          "overall": {
-            "played": 19,
-            "won": 11,
-            "drawn": 5,
-            "lost": 3,
-            "goalsFor": 43,
-            "goalsAgainst": 21,
-            "goalsDifference": 22,
-            "points": 38
-          },
-          "home": {
-            "played": 9,
-            "won": 5,
-            "drawn": 4,
-            "lost": 0,
-            "goalsFor": 22,
-            "goalsAgainst": 9,
-            "goalsDifference": 13,
-            "points": 19
-          },
-          "away": {
-            "played": 10,
-            "won": 6,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 21,
-            "goalsAgainst": 12,
-            "goalsDifference": 9,
-            "points": 19
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Etihad Stadium",
-            "city": "Manchester",
-            "capacity": 55000,
-            "location": {
-              "latitude": 53.4832,
-              "longitude": -2.20042
-            },
-            "source": "OPTA",
-            "id": 457
           }
         },
         {
@@ -659,23 +659,23 @@
           "startingPosition": 11,
           "overall": {
             "played": 20,
-            "won": 7,
-            "drawn": 5,
+            "won": 8,
+            "drawn": 4,
             "lost": 8,
-            "goalsFor": 27,
+            "goalsFor": 28,
             "goalsAgainst": 31,
-            "goalsDifference": -4,
-            "points": 26
+            "goalsDifference": -3,
+            "points": 28
           },
           "home": {
             "played": 10,
-            "won": 4,
-            "drawn": 4,
+            "won": 5,
+            "drawn": 3,
             "lost": 2,
-            "goalsFor": 13,
+            "goalsFor": 14,
             "goalsAgainst": 14,
-            "goalsDifference": -1,
-            "points": 16
+            "goalsDifference": 0,
+            "points": 18
           },
           "away": {
             "played": 10,
@@ -761,61 +761,6 @@
         },
         {
           "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "position": 13,
-          "startingPosition": 14,
-          "overall": {
-            "played": 19,
-            "won": 6,
-            "drawn": 4,
-            "lost": 9,
-            "goalsFor": 26,
-            "goalsAgainst": 28,
-            "goalsDifference": -2,
-            "points": 22
-          },
-          "home": {
-            "played": 10,
-            "won": 3,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 17,
-            "goalsAgainst": 18,
-            "goalsDifference": -1,
-            "points": 12
-          },
-          "away": {
-            "played": 9,
-            "won": 3,
-            "drawn": 1,
-            "lost": 5,
-            "goalsFor": 9,
-            "goalsAgainst": 10,
-            "goalsDifference": -1,
-            "points": 10
-          },
-          "ground": {
-            "name": "Gtech Community Stadium",
-            "city": "Brentford",
-            "source": "OPTA",
-            "id": 3977
-          }
-        },
-        {
-          "team": {
             "name": "Fulham",
             "club": {
               "name": "Fulham",
@@ -830,7 +775,7 @@
               "opta": "t54"
             }
           },
-          "position": 14,
+          "position": 13,
           "startingPosition": 13,
           "overall": {
             "played": 19,
@@ -876,6 +821,61 @@
         },
         {
           "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          },
+          "position": 14,
+          "startingPosition": 14,
+          "overall": {
+            "played": 19,
+            "won": 5,
+            "drawn": 5,
+            "lost": 9,
+            "goalsFor": 26,
+            "goalsAgainst": 29,
+            "goalsDifference": -3,
+            "points": 20
+          },
+          "home": {
+            "played": 10,
+            "won": 3,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 17,
+            "goalsAgainst": 18,
+            "goalsDifference": -1,
+            "points": 12
+          },
+          "away": {
+            "played": 9,
+            "won": 2,
+            "drawn": 2,
+            "lost": 5,
+            "goalsFor": 9,
+            "goalsAgainst": 11,
+            "goalsDifference": -2,
+            "points": 8
+          },
+          "ground": {
+            "name": "Gtech Community Stadium",
+            "city": "Brentford",
+            "source": "OPTA",
+            "id": 3977
+          }
+        },
+        {
+          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -895,22 +895,22 @@
           "overall": {
             "played": 20,
             "won": 4,
-            "drawn": 6,
-            "lost": 10,
-            "goalsFor": 19,
+            "drawn": 7,
+            "lost": 9,
+            "goalsFor": 20,
             "goalsAgainst": 29,
-            "goalsDifference": -10,
-            "points": 18
+            "goalsDifference": -9,
+            "points": 19
           },
           "home": {
             "played": 10,
             "won": 1,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 8,
+            "drawn": 4,
+            "lost": 5,
+            "goalsFor": 9,
             "goalsAgainst": 14,
-            "goalsDifference": -6,
-            "points": 6
+            "goalsDifference": -5,
+            "points": 7
           },
           "away": {
             "played": 10,
@@ -936,72 +936,6 @@
         },
         {
           "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "position": 16,
-          "startingPosition": 17,
-          "overall": {
-            "played": 20,
-            "won": 8,
-            "drawn": 3,
-            "lost": 9,
-            "goalsFor": 24,
-            "goalsAgainst": 25,
-            "goalsDifference": -1,
-            "points": 17
-          },
-          "home": {
-            "played": 10,
-            "won": 3,
-            "drawn": 1,
-            "lost": 6,
-            "goalsFor": 11,
-            "goalsAgainst": 12,
-            "goalsDifference": -1,
-            "points": 10
-          },
-          "away": {
-            "played": 10,
-            "won": 5,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 13,
-            "goalsAgainst": 13,
-            "goalsDifference": 0,
-            "points": 17
-          },
-          "annotations": [
-            {
-              "type": "PD",
-              "description": "Everton deducted 10 points following a breach of the Premier League’s Profitability and Sustainability Rules. That decision is currently under appeal."
-            }
-          ],
-          "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
-            "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
-            },
-            "source": "OPTA",
-            "id": 31
-          }
-        },
-        {
-          "team": {
             "name": "Nottingham Forest",
             "club": {
               "name": "Nottingham Forest",
@@ -1016,7 +950,7 @@
               "opta": "t17"
             }
           },
-          "position": 17,
+          "position": 16,
           "startingPosition": 16,
           "overall": {
             "played": 19,
@@ -1056,6 +990,72 @@
               "longitude": -1.13258
             },
             "id": 1192
+          }
+        },
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 17,
+          "startingPosition": 17,
+          "overall": {
+            "played": 20,
+            "won": 8,
+            "drawn": 2,
+            "lost": 10,
+            "goalsFor": 24,
+            "goalsAgainst": 26,
+            "goalsDifference": -2,
+            "points": 16
+          },
+          "home": {
+            "played": 10,
+            "won": 3,
+            "drawn": 1,
+            "lost": 6,
+            "goalsFor": 11,
+            "goalsAgainst": 12,
+            "goalsDifference": -1,
+            "points": 10
+          },
+          "away": {
+            "played": 10,
+            "won": 5,
+            "drawn": 1,
+            "lost": 4,
+            "goalsFor": 13,
+            "goalsAgainst": 14,
+            "goalsDifference": -1,
+            "points": 16
+          },
+          "annotations": [
+            {
+              "type": "PD",
+              "description": "Everton deducted 10 points following a breach of the Premier League’s Profitability and Sustainability Rules. That decision is currently under appeal."
+            }
+          ],
+          "ground": {
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
           }
         },
         {
@@ -1206,12 +1206,12 @@
           "overall": {
             "played": 20,
             "won": 2,
-            "drawn": 4,
-            "lost": 14,
+            "drawn": 3,
+            "lost": 15,
             "goalsFor": 15,
-            "goalsAgainst": 47,
-            "goalsDifference": -32,
-            "points": 10
+            "goalsAgainst": 48,
+            "goalsDifference": -33,
+            "points": 9
           },
           "home": {
             "played": 10,
@@ -1226,12 +1226,12 @@
           "away": {
             "played": 10,
             "won": 0,
-            "drawn": 3,
-            "lost": 7,
+            "drawn": 2,
+            "lost": 8,
             "goalsFor": 5,
-            "goalsAgainst": 23,
-            "goalsDifference": -18,
-            "points": 3
+            "goalsAgainst": 24,
+            "goalsDifference": -19,
+            "points": 2
           },
           "annotations": [
             {
