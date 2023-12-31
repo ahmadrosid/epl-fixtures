@@ -23,7 +23,7 @@ The data displayed in 2023 with BST TimeZone.
 | 30 Dec, 15:00 GMT | Manchester City | 2 | Sheffield United | 0 | Completed |
 | 30 Dec, 15:00 GMT | Wolverhampton Wanderers | 3 | Everton | 0 | Completed |
 | 30 Dec, 17:30 GMT | Nottingham Forest | 2 | Manchester United | 1 | Completed |
-| 31 Dec, 14:00 GMT | Fulham | 1 | Arsenal | 1 | Live |
+| 31 Dec, 14:00 GMT | Fulham | 2 | Arsenal | 1 | Live |
 | 31 Dec, 14:00 GMT | Tottenham Hotspur | 1 | Bournemouth | 0 | Live |
 <!-- END_TABLE -->
 
@@ -34,8 +34,8 @@ The data displayed in 2023 with BST TimeZone.
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Liverpool | 19 | 12 | 6 | 1 | 39 | 16 | 23 | 42 |
 | 2 | Aston Villa | 20 | 13 | 3 | 4 | 43 | 27 | 16 | 42 |
-| 3 | Arsenal | 20 | 12 | 5 | 3 | 37 | 19 | 18 | 41 |
-| 4 | Manchester City | 19 | 12 | 4 | 3 | 45 | 21 | 24 | 40 |
+| 3 | Manchester City | 19 | 12 | 4 | 3 | 45 | 21 | 24 | 40 |
+| 4 | Arsenal | 20 | 12 | 4 | 4 | 37 | 20 | 17 | 40 |
 | 5 | Tottenham Hotspur | 20 | 12 | 3 | 5 | 40 | 28 | 12 | 39 |
 | 6 | West Ham United | 19 | 10 | 3 | 6 | 33 | 30 | 3 | 33 |
 | 7 | Manchester United | 20 | 10 | 1 | 9 | 22 | 27 | -5 | 31 |
@@ -44,7 +44,7 @@ The data displayed in 2023 with BST TimeZone.
 | 10 | Chelsea | 20 | 8 | 4 | 8 | 34 | 31 | 3 | 28 |
 | 11 | Wolverhampton Wanderers | 20 | 8 | 4 | 8 | 30 | 31 | -1 | 28 |
 | 12 | Bournemouth | 19 | 7 | 4 | 8 | 27 | 33 | -6 | 25 |
-| 13 | Fulham | 20 | 6 | 4 | 10 | 27 | 35 | -8 | 22 |
+| 13 | Fulham | 20 | 7 | 3 | 10 | 28 | 35 | -7 | 24 |
 | 14 | Crystal Palace | 20 | 5 | 6 | 9 | 22 | 29 | -7 | 21 |
 | 15 | Nottingham Forest | 20 | 5 | 5 | 10 | 24 | 35 | -11 | 20 |
 | 16 | Brentford | 19 | 5 | 4 | 10 | 26 | 31 | -5 | 19 |
