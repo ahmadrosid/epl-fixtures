@@ -1996,8 +1996,8 @@
       "phase": "F",
       "outcome": "H",
       "clock": {
-        "secs": 5640,
-        "label": "90 +4'00"
+        "secs": 5580,
+        "label": "90 +3'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
