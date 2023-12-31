@@ -23,8 +23,8 @@ The data displayed in 2023 with BST TimeZone.
 | 30 Dec, 15:00 GMT | Manchester City | 2 | Sheffield United | 0 | Completed |
 | 30 Dec, 15:00 GMT | Wolverhampton Wanderers | 3 | Everton | 0 | Completed |
 | 30 Dec, 17:30 GMT | Nottingham Forest | 2 | Manchester United | 1 | Completed |
-| 31 Dec, 14:00 GMT | Fulham | N/A | Arsenal | N/A | Upcoming |
-| 31 Dec, 14:00 GMT | Tottenham Hotspur | N/A | Bournemouth | N/A | Upcoming |
+| 31 Dec, 14:00 GMT | Fulham | 0 | Arsenal | 0 | Upcoming |
+| 31 Dec, 14:00 GMT | Tottenham Hotspur | 0 | Bournemouth | 0 | Upcoming |
 <!-- END_TABLE -->
 
 ### Standings
