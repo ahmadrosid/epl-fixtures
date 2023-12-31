@@ -1715,8 +1715,8 @@
           "personId": 128449,
           "assistId": 15154,
           "clock": {
-            "secs": 1800,
-            "label": "30'00"
+            "secs": 1860,
+            "label": "31'00"
           },
           "phase": "1",
           "type": "G",
