@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -38,24 +38,24 @@
           "position": 1,
           "startingPosition": 1,
           "overall": {
-            "played": 19,
+            "played": 20,
             "won": 12,
-            "drawn": 6,
+            "drawn": 7,
             "lost": 1,
             "goalsFor": 39,
             "goalsAgainst": 16,
             "goalsDifference": 23,
-            "points": 42
+            "points": 43
           },
           "home": {
-            "played": 9,
+            "played": 10,
             "won": 7,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 0,
             "goalsFor": 22,
             "goalsAgainst": 6,
             "goalsDifference": 16,
-            "points": 23
+            "points": 24
           },
           "away": {
             "played": 10,
@@ -461,6 +461,66 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 8,
+          "startingPosition": 9,
+          "overall": {
+            "played": 20,
+            "won": 9,
+            "drawn": 3,
+            "lost": 8,
+            "goalsFor": 37,
+            "goalsAgainst": 25,
+            "goalsDifference": 12,
+            "points": 30
+          },
+          "home": {
+            "played": 10,
+            "won": 8,
+            "drawn": 0,
+            "lost": 2,
+            "goalsFor": 23,
+            "goalsAgainst": 7,
+            "goalsDifference": 16,
+            "points": 24
+          },
+          "away": {
+            "played": 10,
+            "won": 1,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 14,
+            "goalsAgainst": 18,
+            "goalsDifference": -4,
+            "points": 6
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Brighton & Hove Albion",
             "club": {
               "name": "Brighton and Hove Albion",
@@ -475,7 +535,7 @@
               "opta": "t36"
             }
           },
-          "position": 8,
+          "position": 9,
           "startingPosition": 8,
           "overall": {
             "played": 19,
@@ -517,66 +577,6 @@
             },
             "source": "OPTA",
             "id": 1684
-          }
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 9,
-          "startingPosition": 9,
-          "overall": {
-            "played": 19,
-            "won": 9,
-            "drawn": 2,
-            "lost": 8,
-            "goalsFor": 37,
-            "goalsAgainst": 25,
-            "goalsDifference": 12,
-            "points": 29
-          },
-          "home": {
-            "played": 10,
-            "won": 8,
-            "drawn": 0,
-            "lost": 2,
-            "goalsFor": 23,
-            "goalsAgainst": 7,
-            "goalsDifference": 16,
-            "points": 24
-          },
-          "away": {
-            "played": 9,
-            "won": 1,
-            "drawn": 2,
-            "lost": 6,
-            "goalsFor": 14,
-            "goalsAgainst": 18,
-            "goalsDifference": -4,
-            "points": 5
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
           }
         },
         {
