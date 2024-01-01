@@ -32,15 +32,15 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Liverpool | 20 | 12 | 7 | 1 | 40 | 17 | 23 | 43 |
+| 1 | Liverpool | 20 | 13 | 6 | 1 | 43 | 18 | 25 | 45 |
 | 2 | Aston Villa | 20 | 13 | 3 | 4 | 43 | 27 | 16 | 42 |
 | 3 | Manchester City | 19 | 12 | 4 | 3 | 45 | 21 | 24 | 40 |
 | 4 | Arsenal | 20 | 12 | 4 | 4 | 37 | 20 | 17 | 40 |
 | 5 | Tottenham Hotspur | 20 | 12 | 3 | 5 | 42 | 29 | 13 | 39 |
 | 6 | West Ham United | 19 | 10 | 3 | 6 | 33 | 30 | 3 | 33 |
 | 7 | Manchester United | 20 | 10 | 1 | 9 | 22 | 27 | -5 | 31 |
-| 8 | Newcastle United | 20 | 9 | 3 | 8 | 38 | 26 | 12 | 30 |
-| 9 | Brighton & Hove Albion | 19 | 8 | 6 | 5 | 38 | 33 | 5 | 30 |
+| 8 | Brighton & Hove Albion | 19 | 8 | 6 | 5 | 38 | 33 | 5 | 30 |
+| 9 | Newcastle United | 20 | 9 | 2 | 9 | 39 | 29 | 10 | 29 |
 | 10 | Chelsea | 20 | 8 | 4 | 8 | 34 | 31 | 3 | 28 |
 | 11 | Wolverhampton Wanderers | 20 | 8 | 4 | 8 | 30 | 31 | -1 | 28 |
 | 12 | Bournemouth | 19 | 7 | 4 | 8 | 28 | 35 | -7 | 25 |
