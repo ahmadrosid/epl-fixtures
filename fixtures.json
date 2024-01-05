@@ -1236,10 +1236,10 @@
       ],
       "replay": false,
       "ground": {
-        "name": "Amex Stadium",
+        "name": "American Express Stadium",
         "city": "Falmer",
         "source": "OPTA",
-        "id": 1684
+        "id": 6569
       },
       "neutralGround": false,
       "status": "C",

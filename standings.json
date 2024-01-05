@@ -448,15 +448,14 @@
             "points": 12
           },
           "ground": {
-            "name": "Amex Stadium",
+            "name": "American Express Stadium",
             "city": "Falmer",
-            "capacity": 30750,
             "location": {
               "latitude": 50.8606,
               "longitude": -0.082237
             },
             "source": "OPTA",
-            "id": 1684
+            "id": 6569
           }
         },
         {
