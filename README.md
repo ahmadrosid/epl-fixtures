@@ -49,7 +49,7 @@ The data displayed in 2023 with BST TimeZone.
 | 15 | Nottingham Forest | 20 | 5 | 5 | 10 | 24 | 35 | -11 | 20 |
 | 16 | Brentford | 19 | 5 | 4 | 10 | 26 | 31 | -5 | 19 |
 | 17 | Everton | 20 | 8 | 2 | 10 | 24 | 28 | -4 | 16 |
-| 18 | Luton Town | 20 | 4 | 4 | 12 | 23 | 37 | -14 | 16 |
-| 19 | Burnley | 21 | 3 | 3 | 15 | 20 | 41 | -21 | 12 |
+| 18 | Luton Town | 20 | 4 | 3 | 13 | 23 | 38 | -15 | 15 |
+| 19 | Burnley | 21 | 4 | 2 | 15 | 21 | 41 | -20 | 14 |
 | 20 | Sheffield United | 20 | 2 | 3 | 15 | 15 | 49 | -34 | 9 |
 <!-- END_STANDINGS -->
