@@ -34,14 +34,14 @@ The data displayed in 2023 with BST TimeZone.
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Liverpool | 20 | 13 | 6 | 1 | 43 | 18 | 25 | 45 |
 | 2 | Aston Villa | 20 | 13 | 3 | 4 | 43 | 27 | 16 | 42 |
-| 3 | Manchester City | 19 | 12 | 4 | 3 | 45 | 21 | 24 | 40 |
+| 3 | Manchester City | 20 | 12 | 5 | 3 | 45 | 21 | 24 | 41 |
 | 4 | Arsenal | 20 | 12 | 4 | 4 | 37 | 20 | 17 | 40 |
 | 5 | Tottenham Hotspur | 20 | 12 | 3 | 5 | 42 | 29 | 13 | 39 |
 | 6 | West Ham United | 20 | 10 | 4 | 6 | 33 | 30 | 3 | 34 |
 | 7 | Brighton & Hove Albion | 20 | 8 | 7 | 5 | 38 | 33 | 5 | 31 |
 | 8 | Chelsea | 21 | 9 | 4 | 8 | 35 | 31 | 4 | 31 |
 | 9 | Manchester United | 20 | 10 | 1 | 9 | 22 | 27 | -5 | 31 |
-| 10 | Newcastle United | 20 | 9 | 2 | 9 | 39 | 29 | 10 | 29 |
+| 10 | Newcastle United | 21 | 9 | 3 | 9 | 39 | 29 | 10 | 30 |
 | 11 | Wolverhampton Wanderers | 20 | 8 | 4 | 8 | 30 | 31 | -1 | 28 |
 | 12 | Bournemouth | 19 | 7 | 4 | 8 | 28 | 35 | -7 | 25 |
 | 13 | Fulham | 21 | 7 | 3 | 11 | 28 | 36 | -8 | 24 |
