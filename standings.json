@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -597,24 +597,24 @@
           "position": 10,
           "startingPosition": 10,
           "overall": {
-            "played": 20,
+            "played": 21,
             "won": 8,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 8,
             "goalsFor": 34,
             "goalsAgainst": 31,
             "goalsDifference": 3,
-            "points": 28
+            "points": 29
           },
           "home": {
-            "played": 10,
+            "played": 11,
             "won": 4,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 3,
             "goalsFor": 17,
             "goalsAgainst": 14,
             "goalsDifference": 3,
-            "points": 15
+            "points": 16
           },
           "away": {
             "played": 10,
@@ -777,14 +777,14 @@
           "position": 13,
           "startingPosition": 13,
           "overall": {
-            "played": 20,
+            "played": 21,
             "won": 7,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 10,
             "goalsFor": 28,
             "goalsAgainst": 35,
             "goalsDifference": -7,
-            "points": 24
+            "points": 25
           },
           "home": {
             "played": 10,
@@ -797,14 +797,14 @@
             "points": 18
           },
           "away": {
-            "played": 10,
+            "played": 11,
             "won": 1,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 6,
             "goalsFor": 9,
             "goalsAgainst": 23,
             "goalsDifference": -14,
-            "points": 6
+            "points": 7
           },
           "ground": {
             "name": "Craven Cottage",
