@@ -36,11 +36,11 @@ The data displayed in 2023 with BST TimeZone.
 | 2 | Manchester City | 20 | 13 | 4 | 3 | 48 | 23 | 25 | 43 |
 | 3 | Aston Villa | 21 | 13 | 4 | 4 | 43 | 27 | 16 | 43 |
 | 4 | Arsenal | 20 | 12 | 4 | 4 | 37 | 20 | 17 | 40 |
-| 5 | Tottenham Hotspur | 20 | 12 | 3 | 5 | 42 | 29 | 13 | 39 |
+| 5 | Tottenham Hotspur | 21 | 12 | 3 | 6 | 42 | 30 | 12 | 39 |
 | 6 | West Ham United | 20 | 10 | 4 | 6 | 33 | 30 | 3 | 34 |
-| 7 | Brighton & Hove Albion | 20 | 8 | 7 | 5 | 38 | 33 | 5 | 31 |
-| 8 | Chelsea | 21 | 9 | 4 | 8 | 35 | 31 | 4 | 31 |
-| 9 | Manchester United | 20 | 10 | 1 | 9 | 22 | 27 | -5 | 31 |
+| 7 | Manchester United | 21 | 11 | 1 | 9 | 23 | 27 | -4 | 34 |
+| 8 | Brighton & Hove Albion | 20 | 8 | 7 | 5 | 38 | 33 | 5 | 31 |
+| 9 | Chelsea | 21 | 9 | 4 | 8 | 35 | 31 | 4 | 31 |
 | 10 | Newcastle United | 21 | 9 | 2 | 10 | 41 | 32 | 9 | 29 |
 | 11 | Wolverhampton Wanderers | 20 | 8 | 4 | 8 | 30 | 31 | -1 | 28 |
 | 12 | Bournemouth | 19 | 7 | 4 | 8 | 28 | 35 | -7 | 25 |
