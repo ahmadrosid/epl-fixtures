@@ -841,8 +841,8 @@
             "won": 6,
             "drawn": 4,
             "lost": 10,
-            "goalsFor": 28,
-            "goalsAgainst": 32,
+            "goalsFor": 29,
+            "goalsAgainst": 33,
             "goalsDifference": -4,
             "points": 22
           },
@@ -851,8 +851,8 @@
             "won": 4,
             "drawn": 3,
             "lost": 4,
-            "goalsFor": 19,
-            "goalsAgainst": 19,
+            "goalsFor": 20,
+            "goalsAgainst": 20,
             "goalsDifference": 0,
             "points": 15
           },
@@ -956,8 +956,8 @@
             "won": 5,
             "drawn": 5,
             "lost": 11,
-            "goalsFor": 25,
-            "goalsAgainst": 37,
+            "goalsFor": 26,
+            "goalsAgainst": 38,
             "goalsDifference": -12,
             "points": 20
           },
@@ -976,8 +976,8 @@
             "won": 2,
             "drawn": 2,
             "lost": 7,
-            "goalsFor": 11,
-            "goalsAgainst": 22,
+            "goalsFor": 12,
+            "goalsAgainst": 23,
             "goalsDifference": -11,
             "points": 8
           },
