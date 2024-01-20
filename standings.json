@@ -820,60 +820,57 @@
         },
         {
           "team": {
-            "name": "Nottingham Forest",
+            "name": "Brentford",
             "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
             },
             "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
+            "shortName": "Brentford",
+            "id": 130,
             "altIds": {
-              "opta": "t17"
+              "opta": "t94"
             }
           },
           "position": 14,
-          "startingPosition": 15,
+          "startingPosition": 16,
           "overall": {
-            "played": 21,
-            "won": 5,
-            "drawn": 6,
+            "played": 20,
+            "won": 6,
+            "drawn": 4,
             "lost": 10,
-            "goalsFor": 25,
-            "goalsAgainst": 36,
-            "goalsDifference": -11,
-            "points": 21
+            "goalsFor": 28,
+            "goalsAgainst": 32,
+            "goalsDifference": -4,
+            "points": 22
           },
           "home": {
-            "played": 10,
-            "won": 3,
+            "played": 11,
+            "won": 4,
             "drawn": 3,
             "lost": 4,
-            "goalsFor": 14,
-            "goalsAgainst": 15,
-            "goalsDifference": -1,
-            "points": 12
+            "goalsFor": 19,
+            "goalsAgainst": 19,
+            "goalsDifference": 0,
+            "points": 15
           },
           "away": {
-            "played": 11,
+            "played": 9,
             "won": 2,
-            "drawn": 3,
+            "drawn": 1,
             "lost": 6,
-            "goalsFor": 11,
-            "goalsAgainst": 21,
-            "goalsDifference": -10,
-            "points": 9
+            "goalsFor": 9,
+            "goalsAgainst": 13,
+            "goalsDifference": -4,
+            "points": 7
           },
           "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "id": 1192
+            "name": "Gtech Community Stadium",
+            "city": "Brentford",
+            "source": "OPTA",
+            "id": 3977
           }
         },
         {
@@ -938,57 +935,60 @@
         },
         {
           "team": {
-            "name": "Brentford",
+            "name": "Nottingham Forest",
             "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
             },
             "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
+            "shortName": "Nott'm Forest",
+            "id": 15,
             "altIds": {
-              "opta": "t94"
+              "opta": "t17"
             }
           },
           "position": 16,
-          "startingPosition": 16,
+          "startingPosition": 15,
           "overall": {
-            "played": 20,
+            "played": 21,
             "won": 5,
             "drawn": 5,
-            "lost": 10,
-            "goalsFor": 27,
-            "goalsAgainst": 32,
-            "goalsDifference": -5,
+            "lost": 11,
+            "goalsFor": 25,
+            "goalsAgainst": 37,
+            "goalsDifference": -12,
             "points": 20
           },
           "home": {
-            "played": 11,
+            "played": 10,
             "won": 3,
-            "drawn": 4,
+            "drawn": 3,
             "lost": 4,
-            "goalsFor": 18,
-            "goalsAgainst": 19,
+            "goalsFor": 14,
+            "goalsAgainst": 15,
             "goalsDifference": -1,
-            "points": 13
+            "points": 12
           },
           "away": {
-            "played": 9,
+            "played": 11,
             "won": 2,
-            "drawn": 1,
-            "lost": 6,
-            "goalsFor": 9,
-            "goalsAgainst": 13,
-            "goalsDifference": -4,
-            "points": 7
+            "drawn": 2,
+            "lost": 7,
+            "goalsFor": 11,
+            "goalsAgainst": 22,
+            "goalsDifference": -11,
+            "points": 8
           },
           "ground": {
-            "name": "Gtech Community Stadium",
-            "city": "Brentford",
-            "source": "OPTA",
-            "id": 3977
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "id": 1192
           }
         },
         {
