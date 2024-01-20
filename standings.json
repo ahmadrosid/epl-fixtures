@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -820,6 +820,64 @@
         },
         {
           "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 14,
+          "startingPosition": 15,
+          "overall": {
+            "played": 21,
+            "won": 5,
+            "drawn": 6,
+            "lost": 10,
+            "goalsFor": 24,
+            "goalsAgainst": 35,
+            "goalsDifference": -11,
+            "points": 21
+          },
+          "home": {
+            "played": 10,
+            "won": 3,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 14,
+            "goalsAgainst": 15,
+            "goalsDifference": -1,
+            "points": 12
+          },
+          "away": {
+            "played": 11,
+            "won": 2,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 10,
+            "goalsAgainst": 20,
+            "goalsDifference": -10,
+            "points": 9
+          },
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "id": 1192
+          }
+        },
+        {
+          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -834,7 +892,7 @@
               "opta": "t31"
             }
           },
-          "position": 14,
+          "position": 15,
           "startingPosition": 14,
           "overall": {
             "played": 21,
@@ -880,64 +938,6 @@
         },
         {
           "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "position": 15,
-          "startingPosition": 15,
-          "overall": {
-            "played": 20,
-            "won": 5,
-            "drawn": 5,
-            "lost": 10,
-            "goalsFor": 24,
-            "goalsAgainst": 35,
-            "goalsDifference": -11,
-            "points": 20
-          },
-          "home": {
-            "played": 10,
-            "won": 3,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 14,
-            "goalsAgainst": 15,
-            "goalsDifference": -1,
-            "points": 12
-          },
-          "away": {
-            "played": 10,
-            "won": 2,
-            "drawn": 2,
-            "lost": 6,
-            "goalsFor": 10,
-            "goalsAgainst": 20,
-            "goalsDifference": -10,
-            "points": 8
-          },
-          "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "id": 1192
-          }
-        },
-        {
-          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -955,24 +955,24 @@
           "position": 16,
           "startingPosition": 16,
           "overall": {
-            "played": 19,
+            "played": 20,
             "won": 5,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 10,
             "goalsFor": 26,
             "goalsAgainst": 31,
             "goalsDifference": -5,
-            "points": 19
+            "points": 20
           },
           "home": {
-            "played": 10,
+            "played": 11,
             "won": 3,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 4,
             "goalsFor": 17,
             "goalsAgainst": 18,
             "goalsDifference": -1,
-            "points": 12
+            "points": 13
           },
           "away": {
             "played": 9,
