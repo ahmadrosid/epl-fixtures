@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -363,14 +363,14 @@
           "position": 6,
           "startingPosition": 6,
           "overall": {
-            "played": 20,
+            "played": 21,
             "won": 10,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 6,
             "goalsFor": 33,
             "goalsAgainst": 30,
             "goalsDifference": 3,
-            "points": 34
+            "points": 35
           },
           "home": {
             "played": 10,
@@ -383,14 +383,14 @@
             "points": 18
           },
           "away": {
-            "played": 10,
+            "played": 11,
             "won": 5,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 4,
             "goalsFor": 16,
             "goalsAgainst": 20,
             "goalsDifference": -4,
-            "points": 16
+            "points": 17
           },
           "ground": {
             "name": "London Stadium",
@@ -1203,24 +1203,24 @@
           "position": 20,
           "startingPosition": 20,
           "overall": {
-            "played": 20,
+            "played": 21,
             "won": 2,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 15,
             "goalsFor": 15,
             "goalsAgainst": 49,
             "goalsDifference": -34,
-            "points": 9
+            "points": 10
           },
           "home": {
-            "played": 10,
+            "played": 11,
             "won": 2,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 7,
             "goalsFor": 10,
             "goalsAgainst": 24,
             "goalsDifference": -14,
-            "points": 7
+            "points": 8
           },
           "away": {
             "played": 10,
