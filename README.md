@@ -32,7 +32,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Liverpool | 20 | 13 | 6 | 1 | 43 | 18 | 25 | 45 |
+| 1 | Liverpool | 21 | 13 | 7 | 1 | 43 | 18 | 25 | 46 |
 | 2 | Manchester City | 20 | 13 | 4 | 3 | 48 | 23 | 25 | 43 |
 | 3 | Arsenal | 21 | 13 | 4 | 4 | 42 | 20 | 22 | 43 |
 | 4 | Aston Villa | 21 | 13 | 4 | 4 | 43 | 27 | 16 | 43 |
@@ -43,7 +43,7 @@ The data displayed in 2023 with BST TimeZone.
 | 9 | Chelsea | 21 | 9 | 4 | 8 | 35 | 31 | 4 | 31 |
 | 10 | Newcastle United | 21 | 9 | 2 | 10 | 41 | 32 | 9 | 29 |
 | 11 | Wolverhampton Wanderers | 20 | 8 | 4 | 8 | 30 | 31 | -1 | 28 |
-| 12 | Bournemouth | 19 | 7 | 4 | 8 | 28 | 35 | -7 | 25 |
+| 12 | Bournemouth | 20 | 7 | 5 | 8 | 28 | 35 | -7 | 26 |
 | 13 | Fulham | 21 | 7 | 3 | 11 | 28 | 36 | -8 | 24 |
 | 14 | Brentford | 20 | 6 | 4 | 10 | 29 | 33 | -4 | 22 |
 | 15 | Crystal Palace | 21 | 5 | 6 | 10 | 22 | 34 | -12 | 21 |
