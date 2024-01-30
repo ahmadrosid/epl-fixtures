@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -87,6 +87,72 @@
         },
         {
           "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          },
+          "position": 2,
+          "startingPosition": 3,
+          "overall": {
+            "played": 22,
+            "won": 13,
+            "drawn": 5,
+            "lost": 4,
+            "goalsFor": 42,
+            "goalsAgainst": 20,
+            "goalsDifference": 22,
+            "points": 44
+          },
+          "home": {
+            "played": 11,
+            "won": 8,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 27,
+            "goalsAgainst": 10,
+            "goalsDifference": 17,
+            "points": 26
+          },
+          "away": {
+            "played": 11,
+            "won": 5,
+            "drawn": 3,
+            "lost": 3,
+            "goalsFor": 15,
+            "goalsAgainst": 10,
+            "goalsDifference": 5,
+            "points": 18
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Emirates Stadium",
+            "city": "London",
+            "capacity": 60272,
+            "location": {
+              "latitude": 51.5548,
+              "longitude": -0.108533
+            },
+            "source": "OPTA",
+            "id": 52
+          }
+        },
+        {
+          "team": {
             "name": "Manchester City",
             "club": {
               "name": "Manchester City",
@@ -101,8 +167,8 @@
               "opta": "t43"
             }
           },
-          "position": 2,
-          "startingPosition": 3,
+          "position": 3,
+          "startingPosition": 2,
           "overall": {
             "played": 20,
             "won": 13,
@@ -153,72 +219,6 @@
         },
         {
           "team": {
-            "name": "Arsenal",
-            "club": {
-              "name": "Arsenal",
-              "shortName": "Arsenal",
-              "abbr": "ARS",
-              "id": 1
-            },
-            "teamType": "FIRST",
-            "shortName": "Arsenal",
-            "id": 1,
-            "altIds": {
-              "opta": "t3"
-            }
-          },
-          "position": 3,
-          "startingPosition": 4,
-          "overall": {
-            "played": 21,
-            "won": 13,
-            "drawn": 4,
-            "lost": 4,
-            "goalsFor": 42,
-            "goalsAgainst": 20,
-            "goalsDifference": 22,
-            "points": 43
-          },
-          "home": {
-            "played": 11,
-            "won": 8,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 27,
-            "goalsAgainst": 10,
-            "goalsDifference": 17,
-            "points": 26
-          },
-          "away": {
-            "played": 10,
-            "won": 5,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 15,
-            "goalsAgainst": 10,
-            "goalsDifference": 5,
-            "points": 17
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Emirates Stadium",
-            "city": "London",
-            "capacity": 60272,
-            "location": {
-              "latitude": 51.5548,
-              "longitude": -0.108533
-            },
-            "source": "OPTA",
-            "id": 52
-          }
-        },
-        {
-          "team": {
             "name": "Aston Villa",
             "club": {
               "name": "Aston Villa",
@@ -234,7 +234,7 @@
             }
           },
           "position": 4,
-          "startingPosition": 2,
+          "startingPosition": 4,
           "overall": {
             "played": 21,
             "won": 13,
@@ -535,7 +535,7 @@
             }
           },
           "position": 9,
-          "startingPosition": 10,
+          "startingPosition": 9,
           "overall": {
             "played": 21,
             "won": 9,
@@ -595,7 +595,7 @@
             }
           },
           "position": 10,
-          "startingPosition": 9,
+          "startingPosition": 10,
           "overall": {
             "played": 21,
             "won": 9,
@@ -835,7 +835,7 @@
             }
           },
           "position": 14,
-          "startingPosition": 16,
+          "startingPosition": 14,
           "overall": {
             "played": 20,
             "won": 6,
@@ -875,6 +875,64 @@
         },
         {
           "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 15,
+          "startingPosition": 16,
+          "overall": {
+            "played": 22,
+            "won": 5,
+            "drawn": 6,
+            "lost": 11,
+            "goalsFor": 26,
+            "goalsAgainst": 38,
+            "goalsDifference": -12,
+            "points": 21
+          },
+          "home": {
+            "played": 11,
+            "won": 3,
+            "drawn": 4,
+            "lost": 4,
+            "goalsFor": 14,
+            "goalsAgainst": 15,
+            "goalsDifference": -1,
+            "points": 13
+          },
+          "away": {
+            "played": 11,
+            "won": 2,
+            "drawn": 2,
+            "lost": 7,
+            "goalsFor": 12,
+            "goalsAgainst": 23,
+            "goalsDifference": -11,
+            "points": 8
+          },
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "id": 1192
+          }
+        },
+        {
+          "team": {
             "name": "Crystal Palace",
             "club": {
               "name": "Crystal Palace",
@@ -889,8 +947,8 @@
               "opta": "t31"
             }
           },
-          "position": 15,
-          "startingPosition": 14,
+          "position": 16,
+          "startingPosition": 15,
           "overall": {
             "played": 21,
             "won": 5,
@@ -931,64 +989,6 @@
             },
             "source": "OPTA",
             "id": 45
-          }
-        },
-        {
-          "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "position": 16,
-          "startingPosition": 15,
-          "overall": {
-            "played": 21,
-            "won": 5,
-            "drawn": 5,
-            "lost": 11,
-            "goalsFor": 26,
-            "goalsAgainst": 38,
-            "goalsDifference": -12,
-            "points": 20
-          },
-          "home": {
-            "played": 10,
-            "won": 3,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 14,
-            "goalsAgainst": 15,
-            "goalsDifference": -1,
-            "points": 12
-          },
-          "away": {
-            "played": 11,
-            "won": 2,
-            "drawn": 2,
-            "lost": 7,
-            "goalsFor": 12,
-            "goalsAgainst": 23,
-            "goalsDifference": -11,
-            "points": 8
-          },
-          "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "id": 1192
           }
         },
         {
