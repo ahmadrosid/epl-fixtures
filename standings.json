@@ -153,6 +153,72 @@
         },
         {
           "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          },
+          "position": 3,
+          "startingPosition": 4,
+          "overall": {
+            "played": 22,
+            "won": 13,
+            "drawn": 5,
+            "lost": 4,
+            "goalsFor": 43,
+            "goalsAgainst": 27,
+            "goalsDifference": 16,
+            "points": 44
+          },
+          "home": {
+            "played": 11,
+            "won": 9,
+            "drawn": 2,
+            "lost": 0,
+            "goalsFor": 29,
+            "goalsAgainst": 8,
+            "goalsDifference": 21,
+            "points": 29
+          },
+          "away": {
+            "played": 11,
+            "won": 4,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 14,
+            "goalsAgainst": 19,
+            "goalsDifference": -5,
+            "points": 15
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Villa Park",
+            "city": "Birmingham",
+            "capacity": 42682,
+            "location": {
+              "latitude": 52.5085,
+              "longitude": -1.88495
+            },
+            "source": "OPTA",
+            "id": 43
+          }
+        },
+        {
+          "team": {
             "name": "Manchester City",
             "club": {
               "name": "Manchester City",
@@ -167,7 +233,7 @@
               "opta": "t43"
             }
           },
-          "position": 3,
+          "position": 4,
           "startingPosition": 2,
           "overall": {
             "played": 20,
@@ -215,72 +281,6 @@
             },
             "source": "OPTA",
             "id": 457
-          }
-        },
-        {
-          "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "position": 4,
-          "startingPosition": 4,
-          "overall": {
-            "played": 21,
-            "won": 13,
-            "drawn": 4,
-            "lost": 4,
-            "goalsFor": 43,
-            "goalsAgainst": 27,
-            "goalsDifference": 16,
-            "points": 43
-          },
-          "home": {
-            "played": 10,
-            "won": 9,
-            "drawn": 1,
-            "lost": 0,
-            "goalsFor": 29,
-            "goalsAgainst": 8,
-            "goalsDifference": 21,
-            "points": 28
-          },
-          "away": {
-            "played": 11,
-            "won": 4,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 14,
-            "goalsAgainst": 19,
-            "goalsDifference": -5,
-            "points": 15
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Villa Park",
-            "city": "Birmingham",
-            "capacity": 42682,
-            "location": {
-              "latitude": 52.5085,
-              "longitude": -1.88495
-            },
-            "source": "OPTA",
-            "id": 43
           }
         },
         {
@@ -597,14 +597,14 @@
           "position": 10,
           "startingPosition": 10,
           "overall": {
-            "played": 21,
+            "played": 22,
             "won": 9,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 10,
             "goalsFor": 41,
             "goalsAgainst": 32,
             "goalsDifference": 9,
-            "points": 29
+            "points": 30
           },
           "home": {
             "played": 11,
@@ -617,14 +617,14 @@
             "points": 24
           },
           "away": {
-            "played": 10,
+            "played": 11,
             "won": 1,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 7,
             "goalsFor": 16,
             "goalsAgainst": 22,
             "goalsDifference": -6,
-            "points": 5
+            "points": 6
           },
           "ground": {
             "name": "St. James' Park",
@@ -950,23 +950,23 @@
           "position": 16,
           "startingPosition": 15,
           "overall": {
-            "played": 21,
+            "played": 22,
             "won": 5,
             "drawn": 6,
-            "lost": 10,
+            "lost": 11,
             "goalsFor": 22,
-            "goalsAgainst": 34,
-            "goalsDifference": -12,
+            "goalsAgainst": 35,
+            "goalsDifference": -13,
             "points": 21
           },
           "home": {
-            "played": 10,
+            "played": 11,
             "won": 2,
             "drawn": 3,
-            "lost": 5,
+            "lost": 6,
             "goalsFor": 11,
-            "goalsAgainst": 14,
-            "goalsDifference": -3,
+            "goalsAgainst": 15,
+            "goalsDifference": -4,
             "points": 9
           },
           "away": {
@@ -1118,6 +1118,72 @@
         },
         {
           "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 19,
+          "startingPosition": 20,
+          "overall": {
+            "played": 22,
+            "won": 3,
+            "drawn": 4,
+            "lost": 15,
+            "goalsFor": 18,
+            "goalsAgainst": 51,
+            "goalsDifference": -33,
+            "points": 13
+          },
+          "home": {
+            "played": 11,
+            "won": 2,
+            "drawn": 2,
+            "lost": 7,
+            "goalsFor": 12,
+            "goalsAgainst": 26,
+            "goalsDifference": -14,
+            "points": 8
+          },
+          "away": {
+            "played": 11,
+            "won": 1,
+            "drawn": 2,
+            "lost": 8,
+            "goalsFor": 6,
+            "goalsAgainst": 25,
+            "goalsDifference": -19,
+            "points": 5
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
+          }
+        },
+        {
+          "team": {
             "name": "Burnley",
             "club": {
               "name": "Burnley",
@@ -1132,7 +1198,7 @@
               "opta": "t90"
             }
           },
-          "position": 19,
+          "position": 20,
           "startingPosition": 19,
           "overall": {
             "played": 21,
@@ -1180,72 +1246,6 @@
             },
             "source": "OPTA",
             "id": 47
-          }
-        },
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 20,
-          "startingPosition": 20,
-          "overall": {
-            "played": 21,
-            "won": 2,
-            "drawn": 4,
-            "lost": 15,
-            "goalsFor": 17,
-            "goalsAgainst": 51,
-            "goalsDifference": -34,
-            "points": 10
-          },
-          "home": {
-            "played": 11,
-            "won": 2,
-            "drawn": 2,
-            "lost": 7,
-            "goalsFor": 12,
-            "goalsAgainst": 26,
-            "goalsDifference": -14,
-            "points": 8
-          },
-          "away": {
-            "played": 10,
-            "won": 0,
-            "drawn": 2,
-            "lost": 8,
-            "goalsFor": 5,
-            "goalsAgainst": 25,
-            "goalsDifference": -20,
-            "points": 2
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
           }
         }
       ]
