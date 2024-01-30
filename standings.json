@@ -153,72 +153,6 @@
         },
         {
           "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "position": 3,
-          "startingPosition": 4,
-          "overall": {
-            "played": 22,
-            "won": 13,
-            "drawn": 5,
-            "lost": 4,
-            "goalsFor": 43,
-            "goalsAgainst": 27,
-            "goalsDifference": 16,
-            "points": 44
-          },
-          "home": {
-            "played": 11,
-            "won": 9,
-            "drawn": 2,
-            "lost": 0,
-            "goalsFor": 29,
-            "goalsAgainst": 8,
-            "goalsDifference": 21,
-            "points": 29
-          },
-          "away": {
-            "played": 11,
-            "won": 4,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 14,
-            "goalsAgainst": 19,
-            "goalsDifference": -5,
-            "points": 15
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Villa Park",
-            "city": "Birmingham",
-            "capacity": 42682,
-            "location": {
-              "latitude": 52.5085,
-              "longitude": -1.88495
-            },
-            "source": "OPTA",
-            "id": 43
-          }
-        },
-        {
-          "team": {
             "name": "Manchester City",
             "club": {
               "name": "Manchester City",
@@ -233,7 +167,7 @@
               "opta": "t43"
             }
           },
-          "position": 4,
+          "position": 3,
           "startingPosition": 2,
           "overall": {
             "played": 20,
@@ -281,6 +215,72 @@
             },
             "source": "OPTA",
             "id": 457
+          }
+        },
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          },
+          "position": 4,
+          "startingPosition": 4,
+          "overall": {
+            "played": 22,
+            "won": 13,
+            "drawn": 4,
+            "lost": 5,
+            "goalsFor": 43,
+            "goalsAgainst": 28,
+            "goalsDifference": 15,
+            "points": 43
+          },
+          "home": {
+            "played": 11,
+            "won": 9,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 29,
+            "goalsAgainst": 9,
+            "goalsDifference": 20,
+            "points": 28
+          },
+          "away": {
+            "played": 11,
+            "won": 4,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 14,
+            "goalsAgainst": 19,
+            "goalsDifference": -5,
+            "points": 15
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Villa Park",
+            "city": "Birmingham",
+            "capacity": 42682,
+            "location": {
+              "latitude": 52.5085,
+              "longitude": -1.88495
+            },
+            "source": "OPTA",
+            "id": 43
           }
         },
         {
@@ -401,6 +401,66 @@
         },
         {
           "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          },
+          "position": 7,
+          "startingPosition": 10,
+          "overall": {
+            "played": 22,
+            "won": 10,
+            "drawn": 2,
+            "lost": 10,
+            "goalsFor": 42,
+            "goalsAgainst": 32,
+            "goalsDifference": 10,
+            "points": 32
+          },
+          "home": {
+            "played": 11,
+            "won": 8,
+            "drawn": 0,
+            "lost": 3,
+            "goalsFor": 25,
+            "goalsAgainst": 10,
+            "goalsDifference": 15,
+            "points": 24
+          },
+          "away": {
+            "played": 11,
+            "won": 2,
+            "drawn": 2,
+            "lost": 7,
+            "goalsFor": 17,
+            "goalsAgainst": 22,
+            "goalsDifference": -5,
+            "points": 8
+          },
+          "ground": {
+            "name": "St. James' Park",
+            "city": "Newcastle",
+            "capacity": 52405,
+            "location": {
+              "latitude": 54.9752,
+              "longitude": -1.62235
+            },
+            "source": "OPTA",
+            "id": 27
+          }
+        },
+        {
+          "team": {
             "name": "Brighton & Hove Albion",
             "club": {
               "name": "Brighton and Hove Albion",
@@ -415,7 +475,7 @@
               "opta": "t36"
             }
           },
-          "position": 7,
+          "position": 8,
           "startingPosition": 7,
           "overall": {
             "played": 22,
@@ -474,7 +534,7 @@
               "opta": "t1"
             }
           },
-          "position": 8,
+          "position": 9,
           "startingPosition": 8,
           "overall": {
             "played": 21,
@@ -534,7 +594,7 @@
               "opta": "t8"
             }
           },
-          "position": 9,
+          "position": 10,
           "startingPosition": 9,
           "overall": {
             "played": 21,
@@ -576,66 +636,6 @@
             },
             "source": "OPTA",
             "id": 30
-          }
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "position": 10,
-          "startingPosition": 10,
-          "overall": {
-            "played": 22,
-            "won": 9,
-            "drawn": 3,
-            "lost": 10,
-            "goalsFor": 41,
-            "goalsAgainst": 32,
-            "goalsDifference": 9,
-            "points": 30
-          },
-          "home": {
-            "played": 11,
-            "won": 8,
-            "drawn": 0,
-            "lost": 3,
-            "goalsFor": 25,
-            "goalsAgainst": 10,
-            "goalsDifference": 15,
-            "points": 24
-          },
-          "away": {
-            "played": 11,
-            "won": 1,
-            "drawn": 3,
-            "lost": 7,
-            "goalsFor": 16,
-            "goalsAgainst": 22,
-            "goalsDifference": -6,
-            "points": 6
-          },
-          "ground": {
-            "name": "St. James' Park",
-            "city": "Newcastle",
-            "capacity": 52405,
-            "location": {
-              "latitude": 54.9752,
-              "longitude": -1.62235
-            },
-            "source": "OPTA",
-            "id": 27
           }
         },
         {
