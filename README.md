@@ -32,7 +32,7 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Liverpool | 22 | 15 | 6 | 1 | 49 | 18 | 31 | 51 |
+| 1 | Liverpool | 22 | 15 | 6 | 1 | 50 | 19 | 31 | 51 |
 | 2 | Manchester City | 21 | 14 | 4 | 3 | 51 | 24 | 27 | 46 |
 | 3 | Arsenal | 22 | 14 | 4 | 4 | 44 | 21 | 23 | 46 |
 | 4 | Tottenham Hotspur | 22 | 13 | 4 | 5 | 47 | 33 | 14 | 43 |
@@ -41,7 +41,7 @@ The data displayed in 2023 with BST TimeZone.
 | 7 | Newcastle United | 22 | 10 | 2 | 10 | 44 | 33 | 11 | 32 |
 | 8 | Brighton & Hove Albion | 22 | 8 | 8 | 6 | 38 | 37 | 1 | 32 |
 | 9 | Manchester United | 21 | 10 | 2 | 9 | 24 | 29 | -5 | 32 |
-| 10 | Chelsea | 22 | 9 | 4 | 9 | 35 | 33 | 2 | 31 |
+| 10 | Chelsea | 22 | 9 | 4 | 9 | 36 | 34 | 2 | 31 |
 | 11 | Wolverhampton Wanderers | 21 | 8 | 5 | 8 | 30 | 31 | -1 | 29 |
 | 12 | Fulham | 22 | 7 | 4 | 11 | 28 | 36 | -8 | 25 |
 | 13 | Bournemouth | 20 | 7 | 4 | 9 | 28 | 39 | -11 | 25 |
