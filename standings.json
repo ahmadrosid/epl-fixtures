@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -170,24 +170,24 @@
           "position": 3,
           "startingPosition": 2,
           "overall": {
-            "played": 20,
+            "played": 21,
             "won": 13,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 3,
             "goalsFor": 48,
             "goalsAgainst": 23,
             "goalsDifference": 25,
-            "points": 43
+            "points": 44
           },
           "home": {
-            "played": 9,
+            "played": 10,
             "won": 6,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 0,
             "goalsFor": 24,
             "goalsAgainst": 9,
             "goalsDifference": 15,
-            "points": 21
+            "points": 22
           },
           "away": {
             "played": 11,
@@ -302,24 +302,24 @@
           "position": 5,
           "startingPosition": 5,
           "overall": {
-            "played": 21,
+            "played": 22,
             "won": 12,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 5,
             "goalsFor": 44,
             "goalsAgainst": 31,
             "goalsDifference": 13,
-            "points": 40
+            "points": 41
           },
           "home": {
-            "played": 10,
+            "played": 11,
             "won": 7,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 3,
             "goalsFor": 20,
             "goalsAgainst": 13,
             "goalsDifference": 7,
-            "points": 21
+            "points": 22
           },
           "away": {
             "played": 11,
@@ -897,14 +897,14 @@
           "position": 15,
           "startingPosition": 14,
           "overall": {
-            "played": 20,
+            "played": 21,
             "won": 6,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 10,
             "goalsFor": 29,
             "goalsAgainst": 33,
             "goalsDifference": -4,
-            "points": 22
+            "points": 23
           },
           "home": {
             "played": 11,
@@ -917,14 +917,14 @@
             "points": 15
           },
           "away": {
-            "played": 9,
+            "played": 10,
             "won": 2,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 6,
             "goalsFor": 9,
             "goalsAgainst": 13,
             "goalsDifference": -4,
-            "points": 7
+            "points": 8
           },
           "ground": {
             "name": "Gtech Community Stadium",
@@ -1135,14 +1135,14 @@
           "position": 19,
           "startingPosition": 19,
           "overall": {
-            "played": 21,
+            "played": 22,
             "won": 3,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 15,
             "goalsFor": 21,
             "goalsAgainst": 42,
             "goalsDifference": -21,
-            "points": 12
+            "points": 13
           },
           "home": {
             "played": 11,
@@ -1155,14 +1155,14 @@
             "points": 4
           },
           "away": {
-            "played": 10,
+            "played": 11,
             "won": 2,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 6,
             "goalsFor": 10,
             "goalsAgainst": 17,
             "goalsDifference": -7,
-            "points": 8
+            "points": 9
           },
           "annotations": [
             {
