@@ -32,16 +32,16 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Liverpool | 21 | 14 | 6 | 1 | 47 | 18 | 29 | 48 |
-| 2 | Manchester City | 21 | 14 | 4 | 3 | 49 | 23 | 26 | 46 |
+| 1 | Liverpool | 22 | 14 | 7 | 1 | 47 | 18 | 29 | 49 |
+| 2 | Manchester City | 21 | 14 | 4 | 3 | 50 | 23 | 27 | 46 |
 | 3 | Arsenal | 22 | 14 | 4 | 4 | 44 | 21 | 23 | 46 |
 | 4 | Aston Villa | 22 | 13 | 4 | 5 | 44 | 30 | 14 | 43 |
 | 5 | Tottenham Hotspur | 22 | 12 | 4 | 6 | 44 | 32 | 12 | 40 |
 | 6 | West Ham United | 21 | 10 | 5 | 6 | 35 | 32 | 3 | 35 |
 | 7 | Newcastle United | 22 | 10 | 2 | 10 | 44 | 33 | 11 | 32 |
-| 8 | Brighton & Hove Albion | 22 | 8 | 8 | 6 | 38 | 37 | 1 | 32 |
-| 9 | Manchester United | 21 | 10 | 2 | 9 | 24 | 29 | -5 | 32 |
-| 10 | Chelsea | 21 | 9 | 4 | 8 | 35 | 31 | 4 | 31 |
+| 8 | Chelsea | 22 | 9 | 5 | 8 | 35 | 31 | 4 | 32 |
+| 9 | Brighton & Hove Albion | 22 | 8 | 8 | 6 | 38 | 37 | 1 | 32 |
+| 10 | Manchester United | 21 | 10 | 2 | 9 | 24 | 29 | -5 | 32 |
 | 11 | Wolverhampton Wanderers | 21 | 8 | 5 | 8 | 30 | 31 | -1 | 29 |
 | 12 | Brentford | 21 | 7 | 4 | 10 | 30 | 33 | -3 | 25 |
 | 13 | Fulham | 22 | 7 | 4 | 11 | 28 | 36 | -8 | 25 |
@@ -50,6 +50,6 @@ The data displayed in 2023 with BST TimeZone.
 | 16 | Nottingham Forest | 22 | 5 | 5 | 12 | 27 | 40 | -13 | 20 |
 | 17 | Luton Town | 21 | 5 | 4 | 12 | 28 | 38 | -10 | 19 |
 | 18 | Everton | 22 | 8 | 4 | 10 | 24 | 28 | -4 | 18 |
-| 19 | Burnley | 22 | 3 | 3 | 16 | 21 | 43 | -22 | 12 |
+| 19 | Burnley | 22 | 3 | 3 | 16 | 21 | 44 | -23 | 12 |
 | 20 | Sheffield United | 22 | 2 | 4 | 16 | 19 | 54 | -35 | 10 |
 <!-- END_STANDINGS -->
