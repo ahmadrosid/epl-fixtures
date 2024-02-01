@@ -38,11 +38,11 @@ The data displayed in 2023 with BST TimeZone.
 | 4 | Tottenham Hotspur | 22 | 13 | 4 | 5 | 47 | 33 | 14 | 43 |
 | 5 | Aston Villa | 22 | 13 | 4 | 5 | 44 | 30 | 14 | 43 |
 | 6 | West Ham United | 22 | 10 | 6 | 6 | 36 | 33 | 3 | 36 |
-| 7 | Manchester United | 22 | 11 | 2 | 9 | 26 | 29 | -3 | 35 |
+| 7 | Manchester United | 22 | 11 | 2 | 9 | 27 | 30 | -3 | 35 |
 | 8 | Newcastle United | 22 | 10 | 2 | 10 | 44 | 33 | 11 | 32 |
 | 9 | Brighton & Hove Albion | 22 | 8 | 8 | 6 | 38 | 37 | 1 | 32 |
 | 10 | Chelsea | 22 | 9 | 4 | 9 | 36 | 35 | 1 | 31 |
-| 11 | Wolverhampton Wanderers | 22 | 8 | 5 | 9 | 30 | 33 | -3 | 29 |
+| 11 | Wolverhampton Wanderers | 22 | 8 | 5 | 9 | 31 | 34 | -3 | 29 |
 | 12 | Bournemouth | 21 | 7 | 5 | 9 | 29 | 40 | -11 | 26 |
 | 13 | Fulham | 22 | 7 | 4 | 11 | 28 | 36 | -8 | 25 |
 | 14 | Crystal Palace | 22 | 6 | 6 | 10 | 25 | 36 | -11 | 24 |
