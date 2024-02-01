@@ -365,22 +365,22 @@
           "overall": {
             "played": 22,
             "won": 10,
-            "drawn": 6,
-            "lost": 6,
+            "drawn": 5,
+            "lost": 7,
             "goalsFor": 35,
-            "goalsAgainst": 32,
-            "goalsDifference": 3,
-            "points": 36
+            "goalsAgainst": 33,
+            "goalsDifference": 2,
+            "points": 35
           },
           "home": {
             "played": 11,
             "won": 5,
-            "drawn": 4,
-            "lost": 2,
+            "drawn": 3,
+            "lost": 3,
             "goalsFor": 17,
-            "goalsAgainst": 10,
-            "goalsDifference": 7,
-            "points": 19
+            "goalsAgainst": 11,
+            "goalsDifference": 6,
+            "points": 18
           },
           "away": {
             "played": 11,
@@ -718,13 +718,13 @@
           "startingPosition": 12,
           "overall": {
             "played": 21,
-            "won": 7,
-            "drawn": 5,
+            "won": 8,
+            "drawn": 4,
             "lost": 9,
-            "goalsFor": 28,
+            "goalsFor": 29,
             "goalsAgainst": 39,
-            "goalsDifference": -11,
-            "points": 26
+            "goalsDifference": -10,
+            "points": 28
           },
           "home": {
             "played": 10,
@@ -738,13 +738,13 @@
           },
           "away": {
             "played": 11,
-            "won": 4,
-            "drawn": 2,
+            "won": 5,
+            "drawn": 1,
             "lost": 5,
-            "goalsFor": 17,
+            "goalsFor": 18,
             "goalsAgainst": 23,
-            "goalsDifference": -6,
-            "points": 14
+            "goalsDifference": -5,
+            "points": 16
           },
           "ground": {
             "name": "Vitality Stadium",
