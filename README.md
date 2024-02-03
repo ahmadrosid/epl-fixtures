@@ -43,13 +43,13 @@ The data displayed in 2023 with BST TimeZone.
 | 9 | Newcastle United | 23 | 10 | 3 | 10 | 48 | 37 | 11 | 33 |
 | 10 | Chelsea | 22 | 9 | 4 | 9 | 36 | 35 | 1 | 31 |
 | 11 | Wolverhampton Wanderers | 22 | 8 | 5 | 9 | 33 | 35 | -2 | 29 |
-| 12 | Fulham | 23 | 8 | 4 | 11 | 30 | 37 | -7 | 28 |
+| 12 | Fulham | 23 | 7 | 5 | 11 | 30 | 38 | -8 | 26 |
 | 13 | Bournemouth | 21 | 7 | 5 | 9 | 29 | 40 | -11 | 26 |
 | 14 | Crystal Palace | 23 | 6 | 6 | 11 | 26 | 40 | -14 | 24 |
 | 15 | Brentford | 21 | 6 | 4 | 11 | 31 | 36 | -5 | 22 |
 | 16 | Luton Town | 22 | 5 | 5 | 12 | 32 | 42 | -10 | 20 |
 | 17 | Nottingham Forest | 22 | 5 | 5 | 12 | 27 | 40 | -13 | 20 |
 | 18 | Everton | 23 | 8 | 5 | 10 | 26 | 30 | -4 | 19 |
-| 19 | Burnley | 23 | 3 | 3 | 17 | 23 | 47 | -24 | 12 |
+| 19 | Burnley | 23 | 3 | 4 | 16 | 24 | 47 | -23 | 13 |
 | 20 | Sheffield United | 22 | 2 | 4 | 16 | 19 | 54 | -35 | 10 |
 <!-- END_STANDINGS -->
