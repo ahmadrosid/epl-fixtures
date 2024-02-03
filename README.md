@@ -35,7 +35,7 @@ The data displayed in 2023 with BST TimeZone.
 | 1 | Liverpool | 22 | 15 | 6 | 1 | 51 | 19 | 32 | 51 |
 | 2 | Manchester City | 21 | 14 | 4 | 3 | 51 | 24 | 27 | 46 |
 | 3 | Arsenal | 22 | 14 | 4 | 4 | 44 | 21 | 23 | 46 |
-| 4 | Tottenham Hotspur | 23 | 14 | 4 | 5 | 48 | 33 | 15 | 46 |
+| 4 | Tottenham Hotspur | 23 | 14 | 4 | 5 | 49 | 34 | 15 | 46 |
 | 5 | Aston Villa | 22 | 13 | 4 | 5 | 44 | 30 | 14 | 43 |
 | 6 | West Ham United | 22 | 10 | 6 | 6 | 36 | 33 | 3 | 36 |
 | 7 | Manchester United | 22 | 11 | 2 | 9 | 28 | 32 | -4 | 35 |
@@ -49,7 +49,7 @@ The data displayed in 2023 with BST TimeZone.
 | 15 | Brentford | 21 | 6 | 4 | 11 | 31 | 36 | -5 | 22 |
 | 16 | Nottingham Forest | 22 | 5 | 5 | 12 | 27 | 40 | -13 | 20 |
 | 17 | Luton Town | 21 | 5 | 4 | 12 | 28 | 38 | -10 | 19 |
-| 18 | Everton | 23 | 8 | 4 | 11 | 24 | 29 | -5 | 18 |
+| 18 | Everton | 23 | 8 | 4 | 11 | 25 | 30 | -5 | 18 |
 | 19 | Burnley | 22 | 3 | 3 | 16 | 22 | 45 | -23 | 12 |
 | 20 | Sheffield United | 22 | 2 | 4 | 16 | 19 | 54 | -35 | 10 |
 <!-- END_STANDINGS -->
