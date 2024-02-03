@@ -38,14 +38,14 @@ The data displayed in 2023 with BST TimeZone.
 | 4 | Tottenham Hotspur | 23 | 13 | 5 | 5 | 49 | 35 | 14 | 44 |
 | 5 | Aston Villa | 22 | 13 | 4 | 5 | 44 | 30 | 14 | 43 |
 | 6 | West Ham United | 22 | 10 | 6 | 6 | 36 | 33 | 3 | 36 |
-| 7 | Brighton & Hove Albion | 23 | 9 | 8 | 6 | 41 | 38 | 3 | 35 |
+| 7 | Brighton & Hove Albion | 23 | 9 | 8 | 6 | 42 | 38 | 4 | 35 |
 | 8 | Manchester United | 22 | 11 | 2 | 9 | 28 | 32 | -4 | 35 |
 | 9 | Newcastle United | 23 | 10 | 3 | 10 | 48 | 37 | 11 | 33 |
 | 10 | Chelsea | 22 | 9 | 4 | 9 | 36 | 35 | 1 | 31 |
 | 11 | Wolverhampton Wanderers | 22 | 8 | 5 | 9 | 33 | 35 | -2 | 29 |
 | 12 | Fulham | 23 | 8 | 4 | 11 | 30 | 37 | -7 | 28 |
 | 13 | Bournemouth | 21 | 7 | 5 | 9 | 29 | 40 | -11 | 26 |
-| 14 | Crystal Palace | 23 | 6 | 6 | 11 | 26 | 39 | -13 | 24 |
+| 14 | Crystal Palace | 23 | 6 | 6 | 11 | 26 | 40 | -14 | 24 |
 | 15 | Brentford | 21 | 6 | 4 | 11 | 31 | 36 | -5 | 22 |
 | 16 | Luton Town | 22 | 5 | 5 | 12 | 32 | 42 | -10 | 20 |
 | 17 | Nottingham Forest | 22 | 5 | 5 | 12 | 27 | 40 | -13 | 20 |
