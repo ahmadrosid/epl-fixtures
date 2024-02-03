@@ -423,8 +423,8 @@
             "drawn": 8,
             "lost": 6,
             "goalsFor": 41,
-            "goalsAgainst": 37,
-            "goalsDifference": 4,
+            "goalsAgainst": 38,
+            "goalsDifference": 3,
             "points": 35
           },
           "home": {
@@ -433,8 +433,8 @@
             "drawn": 5,
             "lost": 1,
             "goalsFor": 25,
-            "goalsAgainst": 14,
-            "goalsDifference": 11,
+            "goalsAgainst": 15,
+            "goalsDifference": 10,
             "points": 23
           },
           "away": {
@@ -539,22 +539,22 @@
           "overall": {
             "played": 23,
             "won": 10,
-            "drawn": 2,
-            "lost": 11,
-            "goalsFor": 46,
+            "drawn": 3,
+            "lost": 10,
+            "goalsFor": 48,
             "goalsAgainst": 37,
-            "goalsDifference": 9,
-            "points": 32
+            "goalsDifference": 11,
+            "points": 33
           },
           "home": {
             "played": 12,
             "won": 8,
-            "drawn": 0,
-            "lost": 4,
-            "goalsFor": 27,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 29,
             "goalsAgainst": 14,
-            "goalsDifference": 13,
-            "points": 24
+            "goalsDifference": 15,
+            "points": 25
           },
           "away": {
             "played": 11,
@@ -722,8 +722,8 @@
             "drawn": 4,
             "lost": 11,
             "goalsFor": 30,
-            "goalsAgainst": 36,
-            "goalsDifference": -6,
+            "goalsAgainst": 37,
+            "goalsDifference": -7,
             "points": 28
           },
           "home": {
@@ -742,8 +742,8 @@
             "drawn": 3,
             "lost": 7,
             "goalsFor": 11,
-            "goalsAgainst": 24,
-            "goalsDifference": -13,
+            "goalsAgainst": 25,
+            "goalsDifference": -14,
             "points": 9
           },
           "ground": {
@@ -841,9 +841,9 @@
             "won": 6,
             "drawn": 6,
             "lost": 11,
-            "goalsFor": 25,
+            "goalsFor": 26,
             "goalsAgainst": 39,
-            "goalsDifference": -14,
+            "goalsDifference": -13,
             "points": 24
           },
           "home": {
@@ -861,9 +861,9 @@
             "won": 3,
             "drawn": 3,
             "lost": 6,
-            "goalsFor": 11,
+            "goalsFor": 12,
             "goalsAgainst": 23,
-            "goalsDifference": -12,
+            "goalsDifference": -11,
             "points": 12
           },
           "ground": {
@@ -953,13 +953,13 @@
           "startingPosition": 17,
           "overall": {
             "played": 22,
-            "won": 6,
-            "drawn": 4,
+            "won": 5,
+            "drawn": 5,
             "lost": 12,
             "goalsFor": 32,
-            "goalsAgainst": 40,
-            "goalsDifference": -8,
-            "points": 22
+            "goalsAgainst": 42,
+            "goalsDifference": -10,
+            "points": 20
           },
           "home": {
             "played": 11,
@@ -973,13 +973,13 @@
           },
           "away": {
             "played": 11,
-            "won": 3,
-            "drawn": 2,
+            "won": 2,
+            "drawn": 3,
             "lost": 6,
             "goalsFor": 15,
-            "goalsAgainst": 23,
-            "goalsDifference": -8,
-            "points": 11
+            "goalsAgainst": 25,
+            "goalsDifference": -10,
+            "points": 9
           },
           "ground": {
             "name": "Kenilworth Road",
@@ -1139,9 +1139,9 @@
             "won": 3,
             "drawn": 3,
             "lost": 17,
-            "goalsFor": 22,
+            "goalsFor": 23,
             "goalsAgainst": 47,
-            "goalsDifference": -25,
+            "goalsDifference": -24,
             "points": 12
           },
           "home": {
@@ -1149,9 +1149,9 @@
             "won": 1,
             "drawn": 1,
             "lost": 10,
-            "goalsFor": 11,
+            "goalsFor": 12,
             "goalsAgainst": 27,
-            "goalsDifference": -16,
+            "goalsDifference": -15,
             "points": 4
           },
           "away": {
