@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -38,14 +38,14 @@
           "position": 1,
           "startingPosition": 1,
           "overall": {
-            "played": 22,
+            "played": 23,
             "won": 15,
-            "drawn": 6,
+            "drawn": 7,
             "lost": 1,
             "goalsFor": 51,
             "goalsAgainst": 19,
             "goalsDifference": 32,
-            "points": 51
+            "points": 52
           },
           "home": {
             "played": 11,
@@ -58,14 +58,14 @@
             "points": 29
           },
           "away": {
-            "played": 11,
+            "played": 12,
             "won": 6,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 1,
             "goalsFor": 21,
             "goalsAgainst": 10,
             "goalsDifference": 11,
-            "points": 22
+            "points": 23
           },
           "annotations": [
             {
@@ -87,6 +87,72 @@
         },
         {
           "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          },
+          "position": 2,
+          "startingPosition": 3,
+          "overall": {
+            "played": 23,
+            "won": 14,
+            "drawn": 5,
+            "lost": 4,
+            "goalsFor": 44,
+            "goalsAgainst": 21,
+            "goalsDifference": 23,
+            "points": 47
+          },
+          "home": {
+            "played": 12,
+            "won": 8,
+            "drawn": 3,
+            "lost": 1,
+            "goalsFor": 27,
+            "goalsAgainst": 10,
+            "goalsDifference": 17,
+            "points": 27
+          },
+          "away": {
+            "played": 11,
+            "won": 6,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 17,
+            "goalsAgainst": 11,
+            "goalsDifference": 6,
+            "points": 20
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Emirates Stadium",
+            "city": "London",
+            "capacity": 60272,
+            "location": {
+              "latitude": 51.5548,
+              "longitude": -0.108533
+            },
+            "source": "OPTA",
+            "id": 52
+          }
+        },
+        {
+          "team": {
             "name": "Manchester City",
             "club": {
               "name": "Manchester City",
@@ -101,7 +167,7 @@
               "opta": "t43"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 2,
           "overall": {
             "played": 21,
@@ -149,72 +215,6 @@
             },
             "source": "OPTA",
             "id": 457
-          }
-        },
-        {
-          "team": {
-            "name": "Arsenal",
-            "club": {
-              "name": "Arsenal",
-              "shortName": "Arsenal",
-              "abbr": "ARS",
-              "id": 1
-            },
-            "teamType": "FIRST",
-            "shortName": "Arsenal",
-            "id": 1,
-            "altIds": {
-              "opta": "t3"
-            }
-          },
-          "position": 3,
-          "startingPosition": 3,
-          "overall": {
-            "played": 22,
-            "won": 14,
-            "drawn": 4,
-            "lost": 4,
-            "goalsFor": 44,
-            "goalsAgainst": 21,
-            "goalsDifference": 23,
-            "points": 46
-          },
-          "home": {
-            "played": 11,
-            "won": 8,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 27,
-            "goalsAgainst": 10,
-            "goalsDifference": 17,
-            "points": 26
-          },
-          "away": {
-            "played": 11,
-            "won": 6,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 17,
-            "goalsAgainst": 11,
-            "goalsDifference": 6,
-            "points": 20
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Emirates Stadium",
-            "city": "London",
-            "capacity": 60272,
-            "location": {
-              "latitude": 51.5548,
-              "longitude": -0.108533
-            },
-            "source": "OPTA",
-            "id": 52
           }
         },
         {
