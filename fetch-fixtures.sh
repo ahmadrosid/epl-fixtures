@@ -1,8 +1,9 @@
 #!/bin/bash
 echo "Fetching latest fixtures data..."
 
+
 curl --request GET \
-    --url 'https://footballapi.pulselive.com/football/fixtures?statuses=U,L,C&pageSize=20&startDate=2024-01-26&endDate=2023-02-28&page=0&altIds=true&comps=1' \
+    --url 'https://footballapi.pulselive.com/football/fixtures?comps=1&teams=1,2,127,130,131,43,4,6,7,34,10,163,11,12,23,15,18,21,25,38&compSeasons=578&page=0&pageSize=20&sort=asc&statuses=U,L&altIds=true' \
     --header 'accept: */*' \
     --header 'accept-language: en-US,en;q=0.9,id-ID;q=0.8,id;q=0.7' \
     --header 'authority: footballapi.pulselive.com' \
