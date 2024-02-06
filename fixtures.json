@@ -1,9 +1,1914 @@
 {
   "pageInfo": {
     "page": 0,
-    "numPages": 0,
+    "numPages": 8,
     "pageSize": 20,
-    "numEntries": 0
+    "numEntries": 152
   },
-  "content": []
+  "content": [
+    {
+      "gameweek": {
+        "id": 12306,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 38,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 0
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1716040800000,
+        "label": "Sat 18 May 2024, 15:00 BST",
+        "gmtOffset": 1
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Vitality Stadium",
+        "city": "Bournemouth",
+        "source": "OPTA",
+        "id": 914
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "attendance": 11185,
+      "clock": {
+        "secs": 3900,
+        "label": "65'00"
+      },
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [
+        {
+          "personId": 14685,
+          "assistId": 24309,
+          "clock": {
+            "secs": 180,
+            "label": "03'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 10443,
+          "clock": {
+            "secs": 3420,
+            "label": "57'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        }
+      ],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93482,
+      "altIds": {
+        "opta": "g2367698"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12294,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 26,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 0
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708718400000,
+        "label": "Fri 23 Feb 2024, 20:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Tottenham Hotspur",
+            "club": {
+              "name": "Tottenham Hotspur",
+              "shortName": "Spurs",
+              "abbr": "TOT",
+              "id": 21
+            },
+            "teamType": "FIRST",
+            "shortName": "Tottenham Hotspur",
+            "id": 21,
+            "altIds": {
+              "opta": "t6"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Stamford Bridge",
+        "city": "London",
+        "source": "OPTA",
+        "id": 30
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "P",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93575,
+      "altIds": {
+        "opta": "g2367792"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707568200000,
+        "label": "Sat 10 Feb 2024, 12:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707568200000,
+        "label": "Sat 10 Feb 2024, 12:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Etihad Stadium",
+        "city": "Manchester",
+        "source": "OPTA",
+        "id": 457
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93556,
+      "altIds": {
+        "opta": "g2367773"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Craven Cottage",
+        "city": "London",
+        "source": "OPTA",
+        "id": 16
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93553,
+      "altIds": {
+        "opta": "g2367770"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Anfield",
+        "city": "Liverpool",
+        "source": "OPTA",
+        "id": 901
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93554,
+      "altIds": {
+        "opta": "g2367771"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Kenilworth Road",
+        "city": "Luton",
+        "source": "OPTA",
+        "id": 2025
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93555,
+      "altIds": {
+        "opta": "g2367772"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Tottenham Hotspur",
+            "club": {
+              "name": "Tottenham Hotspur",
+              "shortName": "Spurs",
+              "abbr": "TOT",
+              "id": 21
+            },
+            "teamType": "FIRST",
+            "shortName": "Tottenham Hotspur",
+            "id": 21,
+            "altIds": {
+              "opta": "t6"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Tottenham Hotspur Stadium",
+        "city": "London",
+        "source": "OPTA",
+        "id": 3921
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93558,
+      "altIds": {
+        "opta": "g2367775"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707577200000,
+        "label": "Sat 10 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Molineux Stadium",
+        "city": "Wolverhampton",
+        "source": "OPTA",
+        "id": 913
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93560,
+      "altIds": {
+        "opta": "g2367777"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707586200000,
+        "label": "Sat 10 Feb 2024, 17:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707586200000,
+        "label": "Sat 10 Feb 2024, 17:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "The City Ground",
+        "city": "Nottingham",
+        "source": "OPTA",
+        "id": 2548
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93557,
+      "altIds": {
+        "opta": "g2367774"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707660000000,
+        "label": "Sun 11 Feb 2024, 14:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707660000000,
+        "label": "Sun 11 Feb 2024, 14:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "London Stadium",
+        "city": "London",
+        "source": "OPTA",
+        "id": 433
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93559,
+      "altIds": {
+        "opta": "g2367776"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707669000000,
+        "label": "Sun 11 Feb 2024, 16:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707669000000,
+        "label": "Sun 11 Feb 2024, 16:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Villa Park",
+        "city": "Birmingham",
+        "source": "OPTA",
+        "id": 1986
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93551,
+      "altIds": {
+        "opta": "g2367768"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12292,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 24,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1707768000000,
+        "label": "Mon 12 Feb 2024, 20:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1707768000000,
+        "label": "Mon 12 Feb 2024, 20:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Selhurst Park",
+        "city": "London",
+        "source": "OPTA",
+        "id": 45
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93552,
+      "altIds": {
+        "opta": "g2367769"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708173000000,
+        "label": "Sat 17 Feb 2024, 12:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708173000000,
+        "label": "Sat 17 Feb 2024, 12:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Liverpool",
+            "club": {
+              "name": "Liverpool",
+              "shortName": "Liverpool",
+              "abbr": "LIV",
+              "id": 10
+            },
+            "teamType": "FIRST",
+            "shortName": "Liverpool",
+            "id": 10,
+            "altIds": {
+              "opta": "t14"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Gtech Community Stadium",
+        "city": "Brentford",
+        "source": "OPTA",
+        "id": 4003
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93561,
+      "altIds": {
+        "opta": "g2367778"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Turf Moor",
+        "city": "Burnley",
+        "source": "OPTA",
+        "id": 47
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93562,
+      "altIds": {
+        "opta": "g2367779"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Craven Cottage",
+        "city": "London",
+        "source": "OPTA",
+        "id": 16
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93564,
+      "altIds": {
+        "opta": "g2367781"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Newcastle United",
+            "club": {
+              "name": "Newcastle United",
+              "shortName": "Newcastle",
+              "abbr": "NEW",
+              "id": 23
+            },
+            "teamType": "FIRST",
+            "shortName": "Newcastle",
+            "id": 23,
+            "altIds": {
+              "opta": "t4"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "St. James' Park",
+        "city": "Newcastle",
+        "source": "OPTA",
+        "id": 27
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93567,
+      "altIds": {
+        "opta": "g2367784"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "The City Ground",
+        "city": "Nottingham",
+        "source": "OPTA",
+        "id": 2548
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93568,
+      "altIds": {
+        "opta": "g2367785"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708182000000,
+        "label": "Sat 17 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Tottenham Hotspur",
+            "club": {
+              "name": "Tottenham Hotspur",
+              "shortName": "Spurs",
+              "abbr": "TOT",
+              "id": 21
+            },
+            "teamType": "FIRST",
+            "shortName": "Tottenham Hotspur",
+            "id": 21,
+            "altIds": {
+              "opta": "t6"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Tottenham Hotspur Stadium",
+        "city": "London",
+        "source": "OPTA",
+        "id": 3921
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93570,
+      "altIds": {
+        "opta": "g2367787"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708191000000,
+        "label": "Sat 17 Feb 2024, 17:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708191000000,
+        "label": "Sat 17 Feb 2024, 17:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Etihad Stadium",
+        "city": "Manchester",
+        "source": "OPTA",
+        "id": 457
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93566,
+      "altIds": {
+        "opta": "g2367783"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708264800000,
+        "label": "Sun 18 Feb 2024, 14:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708264800000,
+        "label": "Sun 18 Feb 2024, 14:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Bramall Lane",
+        "city": "Sheffield",
+        "source": "OPTA",
+        "id": 2003
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93569,
+      "altIds": {
+        "opta": "g2367786"
+      }
+    }
+  ]
 }
