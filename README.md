@@ -7,24 +7,6 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_TABLE -->
 | Date | Home | Score | Away | Score | Status |
 |-------------|--------|--------------|--------|--------------|--------|
-| 26 Dec, 12:30 GMT | Newcastle United | 1 | Nottingham Forest | 3 | Completed |
-| 26 Dec, 15:00 GMT | Bournemouth | 3 | Fulham | 0 | Completed |
-| 26 Dec, 15:00 GMT | Sheffield United | 2 | Luton Town | 3 | Completed |
-| 26 Dec, 17:30 GMT | Burnley | 0 | Liverpool | 2 | Completed |
-| 26 Dec, 20:00 GMT | Manchester United | 3 | Aston Villa | 2 | Completed |
-| 27 Dec, 19:30 GMT | Brentford | 1 | Wolverhampton Wanderers | 4 | Completed |
-| 27 Dec, 19:30 GMT | Chelsea | 2 | Crystal Palace | 1 | Completed |
-| 27 Dec, 20:15 GMT | Everton | 1 | Manchester City | 3 | Completed |
-| 28 Dec, 19:30 GMT | Brighton & Hove Albion | 4 | Tottenham Hotspur | 2 | Completed |
-| 28 Dec, 20:15 GMT | Arsenal | 0 | West Ham United | 2 | Completed |
-| 30 Dec, 12:30 GMT | Luton Town | 2 | Chelsea | 3 | Completed |
-| 30 Dec, 15:00 GMT | Aston Villa | 3 | Burnley | 2 | Completed |
-| 30 Dec, 15:00 GMT | Crystal Palace | 3 | Brentford | 1 | Completed |
-| 30 Dec, 15:00 GMT | Manchester City | 2 | Sheffield United | 0 | Completed |
-| 30 Dec, 15:00 GMT | Wolverhampton Wanderers | 3 | Everton | 0 | Completed |
-| 30 Dec, 17:30 GMT | Nottingham Forest | 2 | Manchester United | 1 | Completed |
-| 31 Dec, 14:00 GMT | Fulham | 2 | Arsenal | 1 | Completed |
-| 31 Dec, 14:00 GMT | Tottenham Hotspur | 3 | Bournemouth | 1 | Completed |
 <!-- END_TABLE -->
 
 ### Standings
