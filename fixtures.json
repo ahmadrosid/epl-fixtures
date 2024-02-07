@@ -8,126 +8,6 @@
   "content": [
     {
       "gameweek": {
-        "id": 12306,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 38,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 0
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1716040800000,
-        "label": "Sat 18 May 2024, 15:00 BST",
-        "gmtOffset": 1
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          }
-        },
-        {
-          "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          }
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Vitality Stadium",
-        "city": "Bournemouth",
-        "source": "OPTA",
-        "id": 914
-      },
-      "neutralGround": false,
-      "status": "U",
-      "phase": "0",
-      "attendance": 11185,
-      "clock": {
-        "secs": 3900,
-        "label": "65'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 14685,
-          "assistId": 24309,
-          "clock": {
-            "secs": 180,
-            "label": "03'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 10443,
-          "clock": {
-            "secs": 3420,
-            "label": "57'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93482,
-      "altIds": {
-        "opta": "g2367698"
-      }
-    },
-    {
-      "gameweek": {
         "id": 12294,
         "compSeason": {
           "label": "2023/24",
@@ -1908,6 +1788,100 @@
       "id": 93569,
       "altIds": {
         "opta": "g2367786"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12293,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 25,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708273800000,
+        "label": "Sun 18 Feb 2024, 16:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708273800000,
+        "label": "Sun 18 Feb 2024, 16:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Kenilworth Road",
+        "city": "Luton",
+        "source": "OPTA",
+        "id": 2025
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93565,
+      "altIds": {
+        "opta": "g2367782"
       }
     }
   ]
