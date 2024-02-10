@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 8,
     "pageSize": 20,
-    "numEntries": 146
+    "numEntries": 145
   },
   "content": [
     {
@@ -96,162 +96,6 @@
       "id": 93575,
       "altIds": {
         "opta": "g2367792"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12292,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 24,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1707586200000,
-        "label": "Sat 10 Feb 2024, 17:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1707586200000,
-        "label": "Sat 10 Feb 2024, 17:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "score": 2
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "score": 3
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "The City Ground",
-        "city": "Nottingham",
-        "source": "OPTA",
-        "id": 2548
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "attendance": 29451,
-      "clock": {
-        "secs": 5580,
-        "label": "90 +3'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 74761,
-          "assistId": 3905,
-          "clock": {
-            "secs": 600,
-            "label": "10'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 49259,
-          "assistId": 15259,
-          "clock": {
-            "secs": 1560,
-            "label": "26'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 5220,
-          "assistId": 49908,
-          "clock": {
-            "secs": 2580,
-            "label": "43'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 23702,
-          "assistId": 115172,
-          "clock": {
-            "secs": 3060,
-            "label": "45 +6'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 74761,
-          "clock": {
-            "secs": 3960,
-            "label": "66'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93557,
-      "altIds": {
-        "opta": "g2367774"
       }
     },
     {
@@ -1944,6 +1788,100 @@
       "id": 93576,
       "altIds": {
         "opta": "g2367793"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12294,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 26,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708786800000,
+        "label": "Sat 24 Feb 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708786800000,
+        "label": "Sat 24 Feb 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Old Trafford",
+        "city": "Manchester",
+        "source": "OPTA",
+        "id": 42
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93578,
+      "altIds": {
+        "opta": "g2367795"
       }
     }
   ]
