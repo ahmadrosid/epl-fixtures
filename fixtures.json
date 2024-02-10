@@ -184,8 +184,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 660,
-        "label": "11'00"
+        "secs": 1740,
+        "label": "29'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -295,8 +295,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 660,
-        "label": "11'00"
+        "secs": 1680,
+        "label": "28'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -395,8 +395,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 480,
-        "label": "08'00"
+        "secs": 1620,
+        "label": "27'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -481,7 +481,7 @@
               "opta": "t36"
             }
           },
-          "score": 0
+          "score": 1
         }
       ],
       "replay": false,
@@ -495,13 +495,24 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 660,
-        "label": "11'00"
+        "secs": 1680,
+        "label": "28'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 22542,
+          "clock": {
+            "secs": 1020,
+            "label": "17'00"
+          },
+          "phase": "1",
+          "type": "P",
+          "description": "P"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93558,
@@ -595,8 +606,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 600,
-        "label": "10'00"
+        "secs": 1620,
+        "label": "27'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
