@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -104,24 +104,24 @@
           "position": 2,
           "startingPosition": 2,
           "overall": {
-            "played": 22,
+            "played": 23,
             "won": 15,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 3,
             "goalsFor": 54,
             "goalsAgainst": 25,
             "goalsDifference": 29,
-            "points": 49
+            "points": 50
           },
           "home": {
-            "played": 10,
+            "played": 11,
             "won": 7,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 0,
             "goalsFor": 27,
             "goalsAgainst": 10,
             "goalsDifference": 17,
-            "points": 24
+            "points": 25
           },
           "away": {
             "played": 12,
@@ -234,7 +234,7 @@
             }
           },
           "position": 4,
-          "startingPosition": 5,
+          "startingPosition": 4,
           "overall": {
             "played": 23,
             "won": 14,
@@ -300,7 +300,7 @@
             }
           },
           "position": 5,
-          "startingPosition": 4,
+          "startingPosition": 5,
           "overall": {
             "played": 23,
             "won": 13,
@@ -361,7 +361,7 @@
             }
           },
           "position": 6,
-          "startingPosition": 7,
+          "startingPosition": 6,
           "overall": {
             "played": 23,
             "won": 12,
@@ -421,7 +421,7 @@
             }
           },
           "position": 7,
-          "startingPosition": 6,
+          "startingPosition": 7,
           "overall": {
             "played": 23,
             "won": 10,
@@ -476,7 +476,7 @@
             }
           },
           "position": 8,
-          "startingPosition": 9,
+          "startingPosition": 8,
           "overall": {
             "played": 23,
             "won": 9,
@@ -535,7 +535,7 @@
             }
           },
           "position": 9,
-          "startingPosition": 8,
+          "startingPosition": 9,
           "overall": {
             "played": 23,
             "won": 10,
@@ -595,7 +595,7 @@
             }
           },
           "position": 10,
-          "startingPosition": 11,
+          "startingPosition": 10,
           "overall": {
             "played": 23,
             "won": 9,
@@ -655,7 +655,7 @@
             }
           },
           "position": 11,
-          "startingPosition": 10,
+          "startingPosition": 11,
           "overall": {
             "played": 23,
             "won": 9,
@@ -993,6 +993,72 @@
         },
         {
           "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 17,
+          "startingPosition": 18,
+          "overall": {
+            "played": 24,
+            "won": 8,
+            "drawn": 6,
+            "lost": 10,
+            "goalsFor": 26,
+            "goalsAgainst": 30,
+            "goalsDifference": -4,
+            "points": 20
+          },
+          "home": {
+            "played": 12,
+            "won": 3,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 13,
+            "goalsAgainst": 14,
+            "goalsDifference": -1,
+            "points": 12
+          },
+          "away": {
+            "played": 12,
+            "won": 5,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 13,
+            "goalsAgainst": 16,
+            "goalsDifference": -3,
+            "points": 18
+          },
+          "annotations": [
+            {
+              "type": "PD",
+              "description": "Everton deducted 10 points following a breach of the Premier League’s Profitability and Sustainability Rules. That decision is currently under appeal."
+            }
+          ],
+          "ground": {
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
+          }
+        },
+        {
+          "team": {
             "name": "Luton Town",
             "club": {
               "name": "Luton Town",
@@ -1007,7 +1073,7 @@
               "opta": "t102"
             }
           },
-          "position": 17,
+          "position": 18,
           "startingPosition": 17,
           "overall": {
             "played": 22,
@@ -1039,81 +1105,17 @@
             "goalsDifference": -10,
             "points": 9
           },
-          "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "id": 81
-          }
-        },
-        {
-          "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "position": 18,
-          "startingPosition": 18,
-          "overall": {
-            "played": 23,
-            "won": 8,
-            "drawn": 5,
-            "lost": 10,
-            "goalsFor": 26,
-            "goalsAgainst": 30,
-            "goalsDifference": -4,
-            "points": 19
-          },
-          "home": {
-            "played": 12,
-            "won": 3,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 13,
-            "goalsAgainst": 14,
-            "goalsDifference": -1,
-            "points": 12
-          },
-          "away": {
-            "played": 11,
-            "won": 5,
-            "drawn": 2,
-            "lost": 4,
-            "goalsFor": 13,
-            "goalsAgainst": 16,
-            "goalsDifference": -3,
-            "points": 17
-          },
           "annotations": [
-            {
-              "type": "PD",
-              "description": "Everton deducted 10 points following a breach of the Premier League’s Profitability and Sustainability Rules. That decision is currently under appeal."
-            },
             {
               "type": "R",
               "destination": "EN_CH"
             }
           ],
           "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
-            "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
-            },
-            "source": "OPTA",
-            "id": 31
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "id": 81
           }
         },
         {
