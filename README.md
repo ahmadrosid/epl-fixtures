@@ -14,8 +14,8 @@ The data displayed in 2023 with BST TimeZone.
 <!-- START_STANDINGS -->
 | Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
-| 1 | Liverpool | 23 | 15 | 6 | 2 | 52 | 22 | 30 | 51 |
-| 2 | Manchester City | 23 | 15 | 5 | 3 | 54 | 25 | 29 | 50 |
+| 1 | Manchester City | 23 | 16 | 4 | 3 | 55 | 25 | 30 | 52 |
+| 2 | Liverpool | 23 | 15 | 6 | 2 | 52 | 22 | 30 | 51 |
 | 3 | Arsenal | 23 | 15 | 4 | 4 | 47 | 22 | 25 | 49 |
 | 4 | Aston Villa | 23 | 14 | 4 | 5 | 49 | 30 | 19 | 46 |
 | 5 | Tottenham Hotspur | 23 | 13 | 5 | 5 | 49 | 35 | 14 | 44 |
@@ -30,8 +30,8 @@ The data displayed in 2023 with BST TimeZone.
 | 14 | Crystal Palace | 23 | 6 | 6 | 11 | 26 | 40 | -14 | 24 |
 | 15 | Brentford | 22 | 6 | 4 | 12 | 32 | 39 | -7 | 22 |
 | 16 | Nottingham Forest | 23 | 5 | 6 | 12 | 28 | 41 | -13 | 21 |
-| 17 | Everton | 24 | 8 | 6 | 10 | 26 | 30 | -4 | 20 |
-| 18 | Luton Town | 22 | 5 | 5 | 12 | 32 | 42 | -10 | 20 |
+| 17 | Luton Town | 22 | 5 | 5 | 12 | 32 | 42 | -10 | 20 |
+| 18 | Everton | 24 | 8 | 5 | 11 | 26 | 31 | -5 | 19 |
 | 19 | Burnley | 23 | 3 | 4 | 16 | 24 | 47 | -23 | 13 |
 | 20 | Sheffield United | 23 | 2 | 4 | 17 | 19 | 59 | -40 | 10 |
 <!-- END_STANDINGS -->
