@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -297,23 +297,23 @@
           "position": 5,
           "startingPosition": 4,
           "overall": {
-            "played": 23,
+            "played": 24,
             "won": 14,
             "drawn": 4,
-            "lost": 5,
+            "lost": 6,
             "goalsFor": 49,
-            "goalsAgainst": 30,
-            "goalsDifference": 19,
+            "goalsAgainst": 31,
+            "goalsDifference": 18,
             "points": 46
           },
           "home": {
-            "played": 11,
+            "played": 12,
             "won": 9,
             "drawn": 1,
-            "lost": 1,
+            "lost": 2,
             "goalsFor": 30,
-            "goalsAgainst": 11,
-            "goalsDifference": 19,
+            "goalsAgainst": 12,
+            "goalsDifference": 18,
             "points": 28
           },
           "away": {
@@ -363,14 +363,14 @@
           "position": 6,
           "startingPosition": 6,
           "overall": {
-            "played": 23,
-            "won": 12,
+            "played": 24,
+            "won": 13,
             "drawn": 2,
             "lost": 9,
-            "goalsFor": 31,
+            "goalsFor": 32,
             "goalsAgainst": 32,
-            "goalsDifference": -1,
-            "points": 38
+            "goalsDifference": 0,
+            "points": 41
           },
           "home": {
             "played": 12,
@@ -383,14 +383,14 @@
             "points": 22
           },
           "away": {
-            "played": 11,
-            "won": 5,
+            "played": 12,
+            "won": 6,
             "drawn": 1,
             "lost": 5,
-            "goalsFor": 13,
+            "goalsFor": 14,
             "goalsAgainst": 14,
-            "goalsDifference": -1,
-            "points": 16
+            "goalsDifference": 0,
+            "points": 19
           },
           "ground": {
             "name": "Old Trafford",
