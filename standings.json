@@ -171,13 +171,13 @@
           "startingPosition": 3,
           "overall": {
             "played": 24,
-            "won": 15,
-            "drawn": 5,
+            "won": 16,
+            "drawn": 4,
             "lost": 4,
-            "goalsFor": 47,
+            "goalsFor": 51,
             "goalsAgainst": 22,
-            "goalsDifference": 25,
-            "points": 50
+            "goalsDifference": 29,
+            "points": 52
           },
           "home": {
             "played": 12,
@@ -191,13 +191,13 @@
           },
           "away": {
             "played": 12,
-            "won": 6,
-            "drawn": 3,
+            "won": 7,
+            "drawn": 2,
             "lost": 3,
-            "goalsFor": 17,
+            "goalsFor": 21,
             "goalsAgainst": 11,
-            "goalsDifference": 6,
-            "points": 21
+            "goalsDifference": 10,
+            "points": 23
           },
           "annotations": [
             {
@@ -406,61 +406,6 @@
         },
         {
           "team": {
-            "name": "West Ham United",
-            "club": {
-              "name": "West Ham United",
-              "shortName": "West Ham",
-              "abbr": "WHU",
-              "id": 25
-            },
-            "teamType": "FIRST",
-            "shortName": "West Ham",
-            "id": 25,
-            "altIds": {
-              "opta": "t21"
-            }
-          },
-          "position": 7,
-          "startingPosition": 7,
-          "overall": {
-            "played": 24,
-            "won": 10,
-            "drawn": 7,
-            "lost": 7,
-            "goalsFor": 36,
-            "goalsAgainst": 36,
-            "goalsDifference": 0,
-            "points": 37
-          },
-          "home": {
-            "played": 12,
-            "won": 5,
-            "drawn": 5,
-            "lost": 2,
-            "goalsFor": 18,
-            "goalsAgainst": 11,
-            "goalsDifference": 7,
-            "points": 20
-          },
-          "away": {
-            "played": 12,
-            "won": 5,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 18,
-            "goalsAgainst": 25,
-            "goalsDifference": -7,
-            "points": 17
-          },
-          "ground": {
-            "name": "London Stadium",
-            "city": "London",
-            "source": "OPTA",
-            "id": 433
-          }
-        },
-        {
-          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -475,7 +420,7 @@
               "opta": "t4"
             }
           },
-          "position": 8,
+          "position": 7,
           "startingPosition": 9,
           "overall": {
             "played": 24,
@@ -517,6 +462,61 @@
             },
             "source": "OPTA",
             "id": 27
+          }
+        },
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          },
+          "position": 8,
+          "startingPosition": 7,
+          "overall": {
+            "played": 24,
+            "won": 10,
+            "drawn": 6,
+            "lost": 8,
+            "goalsFor": 36,
+            "goalsAgainst": 40,
+            "goalsDifference": -4,
+            "points": 36
+          },
+          "home": {
+            "played": 12,
+            "won": 5,
+            "drawn": 4,
+            "lost": 3,
+            "goalsFor": 18,
+            "goalsAgainst": 15,
+            "goalsDifference": 3,
+            "points": 19
+          },
+          "away": {
+            "played": 12,
+            "won": 5,
+            "drawn": 2,
+            "lost": 5,
+            "goalsFor": 18,
+            "goalsAgainst": 25,
+            "goalsDifference": -7,
+            "points": 17
+          },
+          "ground": {
+            "name": "London Stadium",
+            "city": "London",
+            "source": "OPTA",
+            "id": 433
           }
         },
         {
