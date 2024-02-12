@@ -580,6 +580,66 @@
         },
         {
           "team": {
+            "name": "Chelsea",
+            "club": {
+              "name": "Chelsea",
+              "shortName": "Chelsea",
+              "abbr": "CHE",
+              "id": 4
+            },
+            "teamType": "FIRST",
+            "shortName": "Chelsea",
+            "id": 4,
+            "altIds": {
+              "opta": "t8"
+            }
+          },
+          "position": 10,
+          "startingPosition": 11,
+          "overall": {
+            "played": 24,
+            "won": 9,
+            "drawn": 5,
+            "lost": 10,
+            "goalsFor": 39,
+            "goalsAgainst": 40,
+            "goalsDifference": -1,
+            "points": 32
+          },
+          "home": {
+            "played": 12,
+            "won": 5,
+            "drawn": 3,
+            "lost": 4,
+            "goalsFor": 20,
+            "goalsAgainst": 18,
+            "goalsDifference": 2,
+            "points": 18
+          },
+          "away": {
+            "played": 12,
+            "won": 4,
+            "drawn": 2,
+            "lost": 6,
+            "goalsFor": 19,
+            "goalsAgainst": 22,
+            "goalsDifference": -3,
+            "points": 14
+          },
+          "ground": {
+            "name": "Stamford Bridge",
+            "city": "London",
+            "capacity": 41798,
+            "location": {
+              "latitude": 51.4816,
+              "longitude": -0.191016
+            },
+            "source": "OPTA",
+            "id": 30
+          }
+        },
+        {
+          "team": {
             "name": "Wolverhampton Wanderers",
             "club": {
               "name": "Wolverhampton Wanderers",
@@ -594,7 +654,7 @@
               "opta": "t39"
             }
           },
-          "position": 10,
+          "position": 11,
           "startingPosition": 10,
           "overall": {
             "played": 24,
@@ -636,66 +696,6 @@
             },
             "source": "OPTA",
             "id": 913
-          }
-        },
-        {
-          "team": {
-            "name": "Chelsea",
-            "club": {
-              "name": "Chelsea",
-              "shortName": "Chelsea",
-              "abbr": "CHE",
-              "id": 4
-            },
-            "teamType": "FIRST",
-            "shortName": "Chelsea",
-            "id": 4,
-            "altIds": {
-              "opta": "t8"
-            }
-          },
-          "position": 11,
-          "startingPosition": 11,
-          "overall": {
-            "played": 24,
-            "won": 9,
-            "drawn": 4,
-            "lost": 11,
-            "goalsFor": 38,
-            "goalsAgainst": 40,
-            "goalsDifference": -2,
-            "points": 31
-          },
-          "home": {
-            "played": 12,
-            "won": 5,
-            "drawn": 3,
-            "lost": 4,
-            "goalsFor": 20,
-            "goalsAgainst": 18,
-            "goalsDifference": 2,
-            "points": 18
-          },
-          "away": {
-            "played": 12,
-            "won": 4,
-            "drawn": 1,
-            "lost": 7,
-            "goalsFor": 18,
-            "goalsAgainst": 22,
-            "goalsDifference": -4,
-            "points": 13
-          },
-          "ground": {
-            "name": "Stamford Bridge",
-            "city": "London",
-            "capacity": 41798,
-            "location": {
-              "latitude": 51.4816,
-              "longitude": -0.191016
-            },
-            "source": "OPTA",
-            "id": 30
           }
         },
         {
@@ -820,66 +820,6 @@
         },
         {
           "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "position": 14,
-          "startingPosition": 14,
-          "overall": {
-            "played": 24,
-            "won": 7,
-            "drawn": 6,
-            "lost": 11,
-            "goalsFor": 27,
-            "goalsAgainst": 40,
-            "goalsDifference": -13,
-            "points": 27
-          },
-          "home": {
-            "played": 12,
-            "won": 4,
-            "drawn": 3,
-            "lost": 5,
-            "goalsFor": 15,
-            "goalsAgainst": 16,
-            "goalsDifference": -1,
-            "points": 15
-          },
-          "away": {
-            "played": 12,
-            "won": 3,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 12,
-            "goalsAgainst": 24,
-            "goalsDifference": -12,
-            "points": 12
-          },
-          "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
-            "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
-            },
-            "source": "OPTA",
-            "id": 45
-          }
-        },
-        {
-          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -894,7 +834,7 @@
               "opta": "t94"
             }
           },
-          "position": 15,
+          "position": 14,
           "startingPosition": 15,
           "overall": {
             "played": 23,
@@ -931,6 +871,66 @@
             "city": "Brentford",
             "source": "OPTA",
             "id": 3977
+          }
+        },
+        {
+          "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          },
+          "position": 15,
+          "startingPosition": 14,
+          "overall": {
+            "played": 24,
+            "won": 6,
+            "drawn": 7,
+            "lost": 11,
+            "goalsFor": 27,
+            "goalsAgainst": 41,
+            "goalsDifference": -14,
+            "points": 25
+          },
+          "home": {
+            "played": 12,
+            "won": 3,
+            "drawn": 4,
+            "lost": 5,
+            "goalsFor": 15,
+            "goalsAgainst": 17,
+            "goalsDifference": -2,
+            "points": 13
+          },
+          "away": {
+            "played": 12,
+            "won": 3,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 12,
+            "goalsAgainst": 24,
+            "goalsDifference": -12,
+            "points": 12
+          },
+          "ground": {
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
+            "location": {
+              "latitude": 51.3979,
+              "longitude": -0.085923
+            },
+            "source": "OPTA",
+            "id": 45
           }
         },
         {
