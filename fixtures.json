@@ -184,8 +184,8 @@
       "status": "L",
       "phase": "H",
       "clock": {
-        "secs": 2940,
-        "label": "45 +4'00"
+        "secs": 2700,
+        "label": "45'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
