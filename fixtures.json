@@ -170,7 +170,7 @@
               "opta": "t3"
             }
           },
-          "score": 3
+          "score": 4
         }
       ],
       "replay": false,
@@ -184,8 +184,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3180,
-        "label": "53'00"
+        "secs": 4260,
+        "label": "71'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -217,6 +217,16 @@
           "clock": {
             "secs": 2820,
             "label": "47'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 20486,
+          "clock": {
+            "secs": 3960,
+            "label": "66'00"
           },
           "phase": "2",
           "type": "G",
@@ -284,7 +294,7 @@
               "opta": "t54"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -302,7 +312,7 @@
               "opta": "t7"
             }
           },
-          "score": 1
+          "score": 2
         }
       ],
       "replay": false,
@@ -316,8 +326,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "47'00"
+        "secs": 4020,
+        "label": "67'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -330,6 +340,28 @@
             "label": "23'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 8658,
+          "assistId": 5865,
+          "clock": {
+            "secs": 3360,
+            "label": "56'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 117763,
+          "assistId": 14624,
+          "clock": {
+            "secs": 3780,
+            "label": "63'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
@@ -395,7 +427,7 @@
               "opta": "t4"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -413,7 +445,7 @@
               "opta": "t91"
             }
           },
-          "score": 1
+          "score": 2
         }
       ],
       "replay": false,
@@ -428,8 +460,8 @@
       "phase": "2",
       "attendance": 52224,
       "clock": {
-        "secs": 3060,
-        "label": "51'00"
+        "secs": 4140,
+        "label": "69'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -440,6 +472,27 @@
           "clock": {
             "secs": 3060,
             "label": "51'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 23747,
+          "clock": {
+            "secs": 3480,
+            "label": "58'00"
+          },
+          "phase": "2",
+          "type": "P",
+          "description": "P"
+        },
+        {
+          "personId": 25474,
+          "assistId": 10443,
+          "clock": {
+            "secs": 4140,
+            "label": "69'00"
           },
           "phase": "2",
           "type": "G",
@@ -539,8 +592,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 2940,
-        "label": "49'00"
+        "secs": 3960,
+        "label": "66'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -637,7 +690,7 @@
               "opta": "t39"
             }
           },
-          "score": 1
+          "score": 2
         }
       ],
       "replay": false,
@@ -651,8 +704,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3060,
-        "label": "51'00"
+        "secs": 4140,
+        "label": "69'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -674,6 +727,17 @@
           "clock": {
             "secs": 2760,
             "label": "46'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 133679,
+          "assistId": 21998,
+          "clock": {
+            "secs": 3780,
+            "label": "63'00"
           },
           "phase": "2",
           "type": "G",
