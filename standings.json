@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -87,6 +87,72 @@
         },
         {
           "team": {
+            "name": "Arsenal",
+            "club": {
+              "name": "Arsenal",
+              "shortName": "Arsenal",
+              "abbr": "ARS",
+              "id": 1
+            },
+            "teamType": "FIRST",
+            "shortName": "Arsenal",
+            "id": 1,
+            "altIds": {
+              "opta": "t3"
+            }
+          },
+          "position": 2,
+          "startingPosition": 3,
+          "overall": {
+            "played": 25,
+            "won": 17,
+            "drawn": 4,
+            "lost": 4,
+            "goalsFor": 54,
+            "goalsAgainst": 22,
+            "goalsDifference": 32,
+            "points": 55
+          },
+          "home": {
+            "played": 12,
+            "won": 9,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 30,
+            "goalsAgainst": 11,
+            "goalsDifference": 19,
+            "points": 29
+          },
+          "away": {
+            "played": 13,
+            "won": 8,
+            "drawn": 2,
+            "lost": 3,
+            "goalsFor": 24,
+            "goalsAgainst": 11,
+            "goalsDifference": 13,
+            "points": 26
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Emirates Stadium",
+            "city": "London",
+            "capacity": 60272,
+            "location": {
+              "latitude": 51.5548,
+              "longitude": -0.108533
+            },
+            "source": "OPTA",
+            "id": 52
+          }
+        },
+        {
+          "team": {
             "name": "Manchester City",
             "club": {
               "name": "Manchester City",
@@ -101,7 +167,7 @@
               "opta": "t43"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 2,
           "overall": {
             "played": 23,
@@ -153,72 +219,6 @@
         },
         {
           "team": {
-            "name": "Arsenal",
-            "club": {
-              "name": "Arsenal",
-              "shortName": "Arsenal",
-              "abbr": "ARS",
-              "id": 1
-            },
-            "teamType": "FIRST",
-            "shortName": "Arsenal",
-            "id": 1,
-            "altIds": {
-              "opta": "t3"
-            }
-          },
-          "position": 3,
-          "startingPosition": 3,
-          "overall": {
-            "played": 24,
-            "won": 16,
-            "drawn": 4,
-            "lost": 4,
-            "goalsFor": 53,
-            "goalsAgainst": 22,
-            "goalsDifference": 31,
-            "points": 52
-          },
-          "home": {
-            "played": 12,
-            "won": 9,
-            "drawn": 2,
-            "lost": 1,
-            "goalsFor": 30,
-            "goalsAgainst": 11,
-            "goalsDifference": 19,
-            "points": 29
-          },
-          "away": {
-            "played": 12,
-            "won": 7,
-            "drawn": 2,
-            "lost": 3,
-            "goalsFor": 23,
-            "goalsAgainst": 11,
-            "goalsDifference": 12,
-            "points": 23
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Emirates Stadium",
-            "city": "London",
-            "capacity": 60272,
-            "location": {
-              "latitude": 51.5548,
-              "longitude": -0.108533
-            },
-            "source": "OPTA",
-            "id": 52
-          }
-        },
-        {
-          "team": {
             "name": "Tottenham Hotspur",
             "club": {
               "name": "Tottenham Hotspur",
@@ -236,24 +236,24 @@
           "position": 4,
           "startingPosition": 4,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 14,
-            "drawn": 5,
+            "drawn": 6,
             "lost": 5,
             "goalsFor": 51,
             "goalsAgainst": 36,
             "goalsDifference": 15,
-            "points": 47
+            "points": 48
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 9,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 3,
             "goalsFor": 25,
             "goalsAgainst": 16,
             "goalsDifference": 9,
-            "points": 27
+            "points": 28
           },
           "away": {
             "played": 12,
@@ -297,14 +297,14 @@
           "position": 5,
           "startingPosition": 5,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 14,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 6,
             "goalsFor": 50,
             "goalsAgainst": 32,
             "goalsDifference": 18,
-            "points": 46
+            "points": 47
           },
           "home": {
             "played": 12,
@@ -317,14 +317,14 @@
             "points": 28
           },
           "away": {
-            "played": 12,
+            "played": 13,
             "won": 5,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 4,
             "goalsFor": 19,
             "goalsAgainst": 19,
             "goalsDifference": 0,
-            "points": 18
+            "points": 19
           },
           "annotations": [
             {
@@ -423,24 +423,24 @@
           "position": 7,
           "startingPosition": 7,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 11,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 10,
             "goalsFor": 51,
             "goalsAgainst": 39,
             "goalsDifference": 12,
-            "points": 36
+            "points": 37
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 8,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 3,
             "goalsFor": 29,
             "goalsAgainst": 14,
             "goalsDifference": 15,
-            "points": 25
+            "points": 26
           },
           "away": {
             "played": 12,
@@ -483,14 +483,14 @@
           "position": 8,
           "startingPosition": 8,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 10,
-            "drawn": 6,
+            "drawn": 7,
             "lost": 8,
             "goalsFor": 36,
             "goalsAgainst": 42,
             "goalsDifference": -6,
-            "points": 36
+            "points": 37
           },
           "home": {
             "played": 12,
@@ -503,14 +503,14 @@
             "points": 19
           },
           "away": {
-            "played": 12,
+            "played": 13,
             "won": 5,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 5,
             "goalsFor": 18,
             "goalsAgainst": 25,
             "goalsDifference": -7,
-            "points": 17
+            "points": 18
           },
           "ground": {
             "name": "London Stadium",
@@ -657,14 +657,14 @@
           "position": 11,
           "startingPosition": 11,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 9,
-            "drawn": 5,
+            "drawn": 6,
             "lost": 10,
             "goalsFor": 37,
             "goalsAgainst": 39,
             "goalsDifference": -2,
-            "points": 32
+            "points": 33
           },
           "home": {
             "played": 12,
@@ -677,14 +677,14 @@
             "points": 18
           },
           "away": {
-            "played": 12,
+            "played": 13,
             "won": 4,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 6,
             "goalsFor": 18,
             "goalsAgainst": 19,
             "goalsDifference": -1,
-            "points": 14
+            "points": 15
           },
           "ground": {
             "name": "Molineux Stadium",
@@ -717,24 +717,24 @@
           "position": 12,
           "startingPosition": 12,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 8,
-            "drawn": 5,
+            "drawn": 6,
             "lost": 11,
             "goalsFor": 33,
             "goalsAgainst": 39,
             "goalsDifference": -6,
-            "points": 29
+            "points": 30
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 7,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 4,
             "goalsFor": 22,
             "goalsAgainst": 13,
             "goalsDifference": 9,
-            "points": 22
+            "points": 23
           },
           "away": {
             "played": 12,
@@ -777,14 +777,14 @@
           "position": 13,
           "startingPosition": 13,
           "overall": {
-            "played": 23,
+            "played": 24,
             "won": 7,
-            "drawn": 6,
+            "drawn": 7,
             "lost": 10,
             "goalsFor": 31,
             "goalsAgainst": 44,
             "goalsDifference": -13,
-            "points": 27
+            "points": 28
           },
           "home": {
             "played": 11,
@@ -797,14 +797,14 @@
             "points": 13
           },
           "away": {
-            "played": 12,
+            "played": 13,
             "won": 4,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 6,
             "goalsFor": 19,
             "goalsAgainst": 27,
             "goalsDifference": -8,
-            "points": 14
+            "points": 15
           },
           "ground": {
             "name": "Vitality Stadium",
@@ -952,24 +952,24 @@
           "position": 16,
           "startingPosition": 16,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 5,
-            "drawn": 6,
+            "drawn": 7,
             "lost": 13,
             "goalsFor": 30,
             "goalsAgainst": 44,
             "goalsDifference": -14,
-            "points": 21
+            "points": 22
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 3,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 6,
             "goalsFor": 17,
             "goalsAgainst": 20,
             "goalsDifference": -3,
-            "points": 12
+            "points": 13
           },
           "away": {
             "played": 12,
@@ -1135,23 +1135,23 @@
           "position": 19,
           "startingPosition": 19,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 3,
             "drawn": 4,
-            "lost": 17,
+            "lost": 18,
             "goalsFor": 25,
-            "goalsAgainst": 50,
-            "goalsDifference": -25,
+            "goalsAgainst": 51,
+            "goalsDifference": -26,
             "points": 13
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 1,
             "drawn": 2,
-            "lost": 9,
+            "lost": 10,
             "goalsFor": 13,
-            "goalsAgainst": 27,
-            "goalsDifference": -14,
+            "goalsAgainst": 28,
+            "goalsDifference": -15,
             "points": 5
           },
           "away": {
