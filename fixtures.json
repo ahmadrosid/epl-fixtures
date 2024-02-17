@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 8,
     "pageSize": 20,
-    "numEntries": 142
+    "numEntries": 141
   },
   "content": [
     {
@@ -96,161 +96,6 @@
       "id": 93575,
       "altIds": {
         "opta": "g2367792"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12293,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 25,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1708173000000,
-        "label": "Sat 17 Feb 2024, 12:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1708173000000,
-        "label": "Sat 17 Feb 2024, 12:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "score": 1
-        },
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "score": 4
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Gtech Community Stadium",
-        "city": "Brentford",
-        "source": "OPTA",
-        "id": 4003
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "clock": {
-        "secs": 5700,
-        "label": "90 +5'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 70287,
-          "assistId": 19758,
-          "clock": {
-            "secs": 2100,
-            "label": "35'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 63633,
-          "assistId": 5178,
-          "clock": {
-            "secs": 3300,
-            "label": "55'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 5178,
-          "assistId": 32894,
-          "clock": {
-            "secs": 4080,
-            "label": "68'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 9246,
-          "clock": {
-            "secs": 4500,
-            "label": "75'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 32894,
-          "assistId": 66669,
-          "clock": {
-            "secs": 5160,
-            "label": "86'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93561,
-      "altIds": {
-        "opta": "g2367778"
       }
     },
     {
@@ -1973,6 +1818,100 @@
       "id": 93580,
       "altIds": {
         "opta": "g2367797"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12294,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 26,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1708977600000,
+        "label": "Mon 26 Feb 2024, 20:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1708977600000,
+        "label": "Mon 26 Feb 2024, 20:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "London Stadium",
+        "city": "London",
+        "source": "OPTA",
+        "id": 433
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93579,
+      "altIds": {
+        "opta": "g2367796"
       }
     }
   ]
