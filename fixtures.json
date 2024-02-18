@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 7,
     "pageSize": 20,
-    "numEntries": 135
+    "numEntries": 134
   },
   "content": [
     {
@@ -96,150 +96,6 @@
       "id": 93575,
       "altIds": {
         "opta": "g2367792"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12293,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 25,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1708264800000,
-        "label": "Sun 18 Feb 2024, 14:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1708264800000,
-        "label": "Sun 18 Feb 2024, 14:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "score": 0
-        },
-        {
-          "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "score": 4
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Bramall Lane",
-        "city": "Sheffield",
-        "source": "OPTA",
-        "id": 2003
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "attendance": 29522,
-      "clock": {
-        "secs": 4980,
-        "label": "83'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 133430,
-          "assistId": 8163,
-          "clock": {
-            "secs": 1200,
-            "label": "20'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 3452,
-          "clock": {
-            "secs": 1440,
-            "label": "24'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 3902,
-          "clock": {
-            "secs": 4500,
-            "label": "75'00"
-          },
-          "phase": "2",
-          "type": "O",
-          "description": "O"
-        },
-        {
-          "personId": 126317,
-          "assistId": 22542,
-          "clock": {
-            "secs": 4680,
-            "label": "78'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93569,
-      "altIds": {
-        "opta": "g2367786"
       }
     },
     {
@@ -1938,6 +1794,100 @@
       "id": 93590,
       "altIds": {
         "opta": "g2367807"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12295,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 27,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1709400600000,
+        "label": "Sat 2 Mar 2024, 17:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1709400600000,
+        "label": "Sat 2 Mar 2024, 17:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Kenilworth Road",
+        "city": "Luton",
+        "source": "OPTA",
+        "id": 2025
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93585,
+      "altIds": {
+        "opta": "g2367802"
       }
     }
   ]
