@@ -20,7 +20,7 @@ The data displayed in 2023 with BST TimeZone.
 | 4 | Aston Villa | 25 | 15 | 4 | 6 | 52 | 33 | 19 | 49 |
 | 5 | Tottenham Hotspur | 25 | 14 | 5 | 6 | 52 | 38 | 14 | 47 |
 | 6 | Manchester United | 24 | 13 | 2 | 9 | 33 | 33 | 0 | 41 |
-| 7 | Brighton & Hove Albion | 25 | 10 | 8 | 7 | 45 | 40 | 5 | 38 |
+| 7 | Brighton & Hove Albion | 25 | 10 | 8 | 7 | 47 | 40 | 7 | 38 |
 | 8 | Newcastle United | 25 | 11 | 4 | 10 | 53 | 41 | 12 | 37 |
 | 9 | West Ham United | 25 | 10 | 6 | 9 | 36 | 44 | -8 | 36 |
 | 10 | Chelsea | 25 | 10 | 5 | 10 | 42 | 41 | 1 | 35 |
@@ -33,5 +33,5 @@ The data displayed in 2023 with BST TimeZone.
 | 17 | Luton Town | 23 | 5 | 5 | 13 | 33 | 45 | -12 | 20 |
 | 18 | Everton | 24 | 8 | 5 | 11 | 26 | 32 | -6 | 19 |
 | 19 | Burnley | 25 | 3 | 4 | 18 | 25 | 55 | -30 | 13 |
-| 20 | Sheffield United | 25 | 3 | 4 | 18 | 22 | 62 | -40 | 13 |
+| 20 | Sheffield United | 25 | 3 | 4 | 18 | 22 | 64 | -42 | 13 |
 <!-- END_STANDINGS -->
