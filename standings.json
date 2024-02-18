@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -363,14 +363,14 @@
           "position": 6,
           "startingPosition": 6,
           "overall": {
-            "played": 24,
-            "won": 13,
+            "played": 25,
+            "won": 14,
             "drawn": 2,
             "lost": 9,
-            "goalsFor": 33,
-            "goalsAgainst": 33,
-            "goalsDifference": 0,
-            "points": 41
+            "goalsFor": 35,
+            "goalsAgainst": 34,
+            "goalsDifference": 1,
+            "points": 44
           },
           "home": {
             "played": 12,
@@ -383,14 +383,14 @@
             "points": 22
           },
           "away": {
-            "played": 12,
-            "won": 6,
+            "played": 13,
+            "won": 7,
             "drawn": 1,
             "lost": 5,
-            "goalsFor": 15,
-            "goalsAgainst": 15,
-            "goalsDifference": 0,
-            "points": 19
+            "goalsFor": 17,
+            "goalsAgainst": 16,
+            "goalsDifference": 1,
+            "points": 22
           },
           "ground": {
             "name": "Old Trafford",
@@ -1010,23 +1010,23 @@
           "position": 17,
           "startingPosition": 17,
           "overall": {
-            "played": 23,
+            "played": 24,
             "won": 5,
             "drawn": 5,
-            "lost": 13,
-            "goalsFor": 33,
-            "goalsAgainst": 45,
-            "goalsDifference": -12,
+            "lost": 14,
+            "goalsFor": 34,
+            "goalsAgainst": 47,
+            "goalsDifference": -13,
             "points": 20
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 3,
             "drawn": 2,
-            "lost": 7,
-            "goalsFor": 18,
-            "goalsAgainst": 20,
-            "goalsDifference": -2,
+            "lost": 8,
+            "goalsFor": 19,
+            "goalsAgainst": 22,
+            "goalsDifference": -3,
             "points": 11
           },
           "away": {
