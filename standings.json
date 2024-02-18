@@ -406,6 +406,65 @@
         },
         {
           "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          },
+          "position": 7,
+          "startingPosition": 9,
+          "overall": {
+            "played": 25,
+            "won": 10,
+            "drawn": 8,
+            "lost": 7,
+            "goalsFor": 45,
+            "goalsAgainst": 40,
+            "goalsDifference": 5,
+            "points": 38
+          },
+          "home": {
+            "played": 12,
+            "won": 6,
+            "drawn": 5,
+            "lost": 1,
+            "goalsFor": 26,
+            "goalsAgainst": 15,
+            "goalsDifference": 11,
+            "points": 23
+          },
+          "away": {
+            "played": 13,
+            "won": 4,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 19,
+            "goalsAgainst": 25,
+            "goalsDifference": -6,
+            "points": 15
+          },
+          "ground": {
+            "name": "American Express Stadium",
+            "city": "Falmer",
+            "location": {
+              "latitude": 50.8606,
+              "longitude": -0.082237
+            },
+            "source": "OPTA",
+            "id": 6569
+          }
+        },
+        {
+          "team": {
             "name": "Newcastle United",
             "club": {
               "name": "Newcastle United",
@@ -420,7 +479,7 @@
               "opta": "t4"
             }
           },
-          "position": 7,
+          "position": 8,
           "startingPosition": 7,
           "overall": {
             "played": 25,
@@ -462,65 +521,6 @@
             },
             "source": "OPTA",
             "id": 27
-          }
-        },
-        {
-          "team": {
-            "name": "Brighton & Hove Albion",
-            "club": {
-              "name": "Brighton and Hove Albion",
-              "shortName": "Brighton",
-              "abbr": "BHA",
-              "id": 131
-            },
-            "teamType": "FIRST",
-            "shortName": "Brighton",
-            "id": 131,
-            "altIds": {
-              "opta": "t36"
-            }
-          },
-          "position": 8,
-          "startingPosition": 9,
-          "overall": {
-            "played": 25,
-            "won": 9,
-            "drawn": 9,
-            "lost": 7,
-            "goalsFor": 43,
-            "goalsAgainst": 40,
-            "goalsDifference": 3,
-            "points": 36
-          },
-          "home": {
-            "played": 12,
-            "won": 6,
-            "drawn": 5,
-            "lost": 1,
-            "goalsFor": 26,
-            "goalsAgainst": 15,
-            "goalsDifference": 11,
-            "points": 23
-          },
-          "away": {
-            "played": 13,
-            "won": 3,
-            "drawn": 4,
-            "lost": 6,
-            "goalsFor": 17,
-            "goalsAgainst": 25,
-            "goalsDifference": -8,
-            "points": 13
-          },
-          "ground": {
-            "name": "American Express Stadium",
-            "city": "Falmer",
-            "location": {
-              "latitude": 50.8606,
-              "longitude": -0.082237
-            },
-            "source": "OPTA",
-            "id": 6569
           }
         },
         {
@@ -1118,72 +1118,6 @@
         },
         {
           "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 19,
-          "startingPosition": 20,
-          "overall": {
-            "played": 25,
-            "won": 3,
-            "drawn": 5,
-            "lost": 17,
-            "goalsFor": 22,
-            "goalsAgainst": 60,
-            "goalsDifference": -38,
-            "points": 14
-          },
-          "home": {
-            "played": 13,
-            "won": 2,
-            "drawn": 3,
-            "lost": 8,
-            "goalsFor": 12,
-            "goalsAgainst": 31,
-            "goalsDifference": -19,
-            "points": 9
-          },
-          "away": {
-            "played": 12,
-            "won": 1,
-            "drawn": 2,
-            "lost": 9,
-            "goalsFor": 10,
-            "goalsAgainst": 29,
-            "goalsDifference": -19,
-            "points": 5
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
-          }
-        },
-        {
-          "team": {
             "name": "Burnley",
             "club": {
               "name": "Burnley",
@@ -1198,7 +1132,7 @@
               "opta": "t90"
             }
           },
-          "position": 20,
+          "position": 19,
           "startingPosition": 19,
           "overall": {
             "played": 25,
@@ -1246,6 +1180,72 @@
             },
             "source": "OPTA",
             "id": 47
+          }
+        },
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 20,
+          "startingPosition": 20,
+          "overall": {
+            "played": 25,
+            "won": 3,
+            "drawn": 4,
+            "lost": 18,
+            "goalsFor": 22,
+            "goalsAgainst": 62,
+            "goalsDifference": -40,
+            "points": 13
+          },
+          "home": {
+            "played": 13,
+            "won": 2,
+            "drawn": 2,
+            "lost": 9,
+            "goalsFor": 12,
+            "goalsAgainst": 33,
+            "goalsDifference": -21,
+            "points": 8
+          },
+          "away": {
+            "played": 12,
+            "won": 1,
+            "drawn": 2,
+            "lost": 9,
+            "goalsFor": 10,
+            "goalsAgainst": 29,
+            "goalsDifference": -19,
+            "points": 5
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
           }
         }
       ]
