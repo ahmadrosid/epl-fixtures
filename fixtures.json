@@ -152,7 +152,7 @@
               "opta": "t11"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -185,8 +185,8 @@
       "phase": "2",
       "attendance": 38164,
       "clock": {
-        "secs": 4200,
-        "label": "70'00"
+        "secs": 5400,
+        "label": "90'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -194,9 +194,21 @@
       "goals": [
         {
           "personId": 5595,
+          "assistId": 20874,
           "clock": {
             "secs": 3960,
             "label": "66'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 108096,
+          "assistId": 24797,
+          "clock": {
+            "secs": 5040,
+            "label": "84'00"
           },
           "phase": "2",
           "type": "G",
