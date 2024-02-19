@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 7,
     "pageSize": 20,
-    "numEntries": 133
+    "numEntries": 132
   },
   "content": [
     {
@@ -96,130 +96,6 @@
       "id": 93575,
       "altIds": {
         "opta": "g2367792"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12293,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 25,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1708372800000,
-        "label": "Mon 19 Feb 2024, 20:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1708372800000,
-        "label": "Mon 19 Feb 2024, 20:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "score": 1
-        },
-        {
-          "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Goodison Park",
-        "city": "Liverpool",
-        "source": "OPTA",
-        "id": 31
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "attendance": 38164,
-      "clock": {
-        "secs": 5400,
-        "label": "90'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 5595,
-          "assistId": 20874,
-          "clock": {
-            "secs": 3960,
-            "label": "66'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 108096,
-          "assistId": 24797,
-          "clock": {
-            "secs": 5040,
-            "label": "84'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93563,
-      "altIds": {
-        "opta": "g2367780"
       }
     },
     {
@@ -1912,6 +1788,100 @@
       "id": 93582,
       "altIds": {
         "opta": "g2367799"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12295,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 27,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1709479800000,
+        "label": "Sun 3 Mar 2024, 15:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1709479800000,
+        "label": "Sun 3 Mar 2024, 15:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Etihad Stadium",
+        "city": "Manchester",
+        "source": "OPTA",
+        "id": 457
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93586,
+      "altIds": {
+        "opta": "g2367803"
       }
     }
   ]
