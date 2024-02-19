@@ -820,6 +820,66 @@
         },
         {
           "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          },
+          "position": 14,
+          "startingPosition": 15,
+          "overall": {
+            "played": 25,
+            "won": 7,
+            "drawn": 6,
+            "lost": 12,
+            "goalsFor": 28,
+            "goalsAgainst": 43,
+            "goalsDifference": -15,
+            "points": 27
+          },
+          "home": {
+            "played": 12,
+            "won": 3,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 15,
+            "goalsAgainst": 19,
+            "goalsDifference": -4,
+            "points": 12
+          },
+          "away": {
+            "played": 13,
+            "won": 4,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 13,
+            "goalsAgainst": 24,
+            "goalsDifference": -11,
+            "points": 15
+          },
+          "ground": {
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
+            "location": {
+              "latitude": 51.3979,
+              "longitude": -0.085923
+            },
+            "source": "OPTA",
+            "id": 45
+          }
+        },
+        {
+          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -834,7 +894,7 @@
               "opta": "t94"
             }
           },
-          "position": 14,
+          "position": 15,
           "startingPosition": 14,
           "overall": {
             "played": 24,
@@ -871,66 +931,6 @@
             "city": "Brentford",
             "source": "OPTA",
             "id": 3977
-          }
-        },
-        {
-          "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "position": 15,
-          "startingPosition": 15,
-          "overall": {
-            "played": 25,
-            "won": 6,
-            "drawn": 7,
-            "lost": 12,
-            "goalsFor": 27,
-            "goalsAgainst": 43,
-            "goalsDifference": -16,
-            "points": 25
-          },
-          "home": {
-            "played": 12,
-            "won": 3,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 15,
-            "goalsAgainst": 19,
-            "goalsDifference": -4,
-            "points": 12
-          },
-          "away": {
-            "played": 13,
-            "won": 3,
-            "drawn": 4,
-            "lost": 6,
-            "goalsFor": 12,
-            "goalsAgainst": 24,
-            "goalsDifference": -12,
-            "points": 13
-          },
-          "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
-            "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
-            },
-            "source": "OPTA",
-            "id": 45
           }
         },
         {
@@ -993,72 +993,6 @@
         },
         {
           "team": {
-            "name": "Everton",
-            "club": {
-              "name": "Everton",
-              "shortName": "Everton",
-              "abbr": "EVE",
-              "id": 7
-            },
-            "teamType": "FIRST",
-            "shortName": "Everton",
-            "id": 7,
-            "altIds": {
-              "opta": "t11"
-            }
-          },
-          "position": 17,
-          "startingPosition": 18,
-          "overall": {
-            "played": 25,
-            "won": 8,
-            "drawn": 6,
-            "lost": 11,
-            "goalsFor": 26,
-            "goalsAgainst": 32,
-            "goalsDifference": -6,
-            "points": 20
-          },
-          "home": {
-            "played": 13,
-            "won": 3,
-            "drawn": 4,
-            "lost": 6,
-            "goalsFor": 13,
-            "goalsAgainst": 14,
-            "goalsDifference": -1,
-            "points": 13
-          },
-          "away": {
-            "played": 12,
-            "won": 5,
-            "drawn": 2,
-            "lost": 5,
-            "goalsFor": 13,
-            "goalsAgainst": 18,
-            "goalsDifference": -5,
-            "points": 17
-          },
-          "annotations": [
-            {
-              "type": "PD",
-              "description": "Everton deducted 10 points following a breach of the Premier League’s Profitability and Sustainability Rules. That decision is currently under appeal."
-            }
-          ],
-          "ground": {
-            "name": "Goodison Park",
-            "city": "Liverpool",
-            "capacity": 39571,
-            "location": {
-              "latitude": 53.4387,
-              "longitude": -2.96639
-            },
-            "source": "OPTA",
-            "id": 31
-          }
-        },
-        {
-          "team": {
             "name": "Luton Town",
             "club": {
               "name": "Luton Town",
@@ -1073,7 +1007,7 @@
               "opta": "t102"
             }
           },
-          "position": 18,
+          "position": 17,
           "startingPosition": 17,
           "overall": {
             "played": 24,
@@ -1105,17 +1039,81 @@
             "goalsDifference": -10,
             "points": 9
           },
+          "ground": {
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "id": 81
+          }
+        },
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          },
+          "position": 18,
+          "startingPosition": 18,
+          "overall": {
+            "played": 25,
+            "won": 8,
+            "drawn": 5,
+            "lost": 12,
+            "goalsFor": 26,
+            "goalsAgainst": 33,
+            "goalsDifference": -7,
+            "points": 19
+          },
+          "home": {
+            "played": 13,
+            "won": 3,
+            "drawn": 3,
+            "lost": 7,
+            "goalsFor": 13,
+            "goalsAgainst": 15,
+            "goalsDifference": -2,
+            "points": 12
+          },
+          "away": {
+            "played": 12,
+            "won": 5,
+            "drawn": 2,
+            "lost": 5,
+            "goalsFor": 13,
+            "goalsAgainst": 18,
+            "goalsDifference": -5,
+            "points": 17
+          },
           "annotations": [
+            {
+              "type": "PD",
+              "description": "Everton deducted 10 points following a breach of the Premier League’s Profitability and Sustainability Rules. That decision is currently under appeal."
+            },
             {
               "type": "R",
               "destination": "EN_CH"
             }
           ],
           "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "id": 81
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "capacity": 39571,
+            "location": {
+              "latitude": 53.4387,
+              "longitude": -2.96639
+            },
+            "source": "OPTA",
+            "id": 31
           }
         },
         {
