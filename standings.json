@@ -87,6 +87,72 @@
         },
         {
           "team": {
+            "name": "Manchester City",
+            "club": {
+              "name": "Manchester City",
+              "shortName": "Man City",
+              "abbr": "MCI",
+              "id": 11
+            },
+            "teamType": "FIRST",
+            "shortName": "Man City",
+            "id": 11,
+            "altIds": {
+              "opta": "t43"
+            }
+          },
+          "position": 2,
+          "startingPosition": 2,
+          "overall": {
+            "played": 25,
+            "won": 17,
+            "drawn": 5,
+            "lost": 3,
+            "goalsFor": 58,
+            "goalsAgainst": 26,
+            "goalsDifference": 32,
+            "points": 56
+          },
+          "home": {
+            "played": 13,
+            "won": 9,
+            "drawn": 4,
+            "lost": 0,
+            "goalsFor": 31,
+            "goalsAgainst": 11,
+            "goalsDifference": 20,
+            "points": 31
+          },
+          "away": {
+            "played": 12,
+            "won": 8,
+            "drawn": 1,
+            "lost": 3,
+            "goalsFor": 27,
+            "goalsAgainst": 15,
+            "goalsDifference": 12,
+            "points": 25
+          },
+          "annotations": [
+            {
+              "type": "Q",
+              "destination": "EU_CL"
+            }
+          ],
+          "ground": {
+            "name": "Etihad Stadium",
+            "city": "Manchester",
+            "capacity": 55000,
+            "location": {
+              "latitude": 53.4832,
+              "longitude": -2.20042
+            },
+            "source": "OPTA",
+            "id": 457
+          }
+        },
+        {
+          "team": {
             "name": "Arsenal",
             "club": {
               "name": "Arsenal",
@@ -101,7 +167,7 @@
               "opta": "t3"
             }
           },
-          "position": 2,
+          "position": 3,
           "startingPosition": 3,
           "overall": {
             "played": 25,
@@ -149,72 +215,6 @@
             },
             "source": "OPTA",
             "id": 52
-          }
-        },
-        {
-          "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "position": 3,
-          "startingPosition": 2,
-          "overall": {
-            "played": 25,
-            "won": 16,
-            "drawn": 6,
-            "lost": 3,
-            "goalsFor": 57,
-            "goalsAgainst": 26,
-            "goalsDifference": 31,
-            "points": 54
-          },
-          "home": {
-            "played": 13,
-            "won": 8,
-            "drawn": 5,
-            "lost": 0,
-            "goalsFor": 30,
-            "goalsAgainst": 11,
-            "goalsDifference": 19,
-            "points": 29
-          },
-          "away": {
-            "played": 12,
-            "won": 8,
-            "drawn": 1,
-            "lost": 3,
-            "goalsFor": 27,
-            "goalsAgainst": 15,
-            "goalsDifference": 12,
-            "points": 25
-          },
-          "annotations": [
-            {
-              "type": "Q",
-              "destination": "EU_CL"
-            }
-          ],
-          "ground": {
-            "name": "Etihad Stadium",
-            "city": "Manchester",
-            "capacity": 55000,
-            "location": {
-              "latitude": 53.4832,
-              "longitude": -2.20042
-            },
-            "source": "OPTA",
-            "id": 457
           }
         },
         {
@@ -839,12 +839,12 @@
           "overall": {
             "played": 25,
             "won": 7,
-            "drawn": 5,
-            "lost": 13,
+            "drawn": 4,
+            "lost": 14,
             "goalsFor": 35,
-            "goalsAgainst": 43,
-            "goalsDifference": -8,
-            "points": 26
+            "goalsAgainst": 44,
+            "goalsDifference": -9,
+            "points": 25
           },
           "home": {
             "played": 13,
@@ -859,12 +859,12 @@
           "away": {
             "played": 12,
             "won": 3,
-            "drawn": 2,
-            "lost": 7,
+            "drawn": 1,
+            "lost": 8,
             "goalsFor": 13,
-            "goalsAgainst": 16,
-            "goalsDifference": -3,
-            "points": 11
+            "goalsAgainst": 17,
+            "goalsDifference": -4,
+            "points": 10
           },
           "ground": {
             "name": "Gtech Community Stadium",
