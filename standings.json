@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -170,24 +170,24 @@
           "position": 3,
           "startingPosition": 2,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 16,
-            "drawn": 5,
+            "drawn": 6,
             "lost": 3,
             "goalsFor": 57,
             "goalsAgainst": 26,
             "goalsDifference": 31,
-            "points": 53
+            "points": 54
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 8,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 0,
             "goalsFor": 30,
             "goalsAgainst": 11,
             "goalsDifference": 19,
-            "points": 28
+            "points": 29
           },
           "away": {
             "played": 12,
@@ -837,14 +837,14 @@
           "position": 14,
           "startingPosition": 14,
           "overall": {
-            "played": 24,
+            "played": 25,
             "won": 7,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 13,
             "goalsFor": 35,
             "goalsAgainst": 43,
             "goalsDifference": -8,
-            "points": 25
+            "points": 26
           },
           "home": {
             "played": 13,
@@ -857,14 +857,14 @@
             "points": 15
           },
           "away": {
-            "played": 11,
+            "played": 12,
             "won": 3,
-            "drawn": 1,
+            "drawn": 2,
             "lost": 7,
             "goalsFor": 13,
             "goalsAgainst": 16,
             "goalsDifference": -3,
-            "points": 10
+            "points": 11
           },
           "ground": {
             "name": "Gtech Community Stadium",
