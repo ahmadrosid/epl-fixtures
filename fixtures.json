@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 7,
     "pageSize": 20,
-    "numEntries": 131
+    "numEntries": 130
   },
   "content": [
     {
@@ -96,160 +96,6 @@
       "id": 93575,
       "altIds": {
         "opta": "g2367792"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12293,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 25,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1708543800000,
-        "label": "Wed 21 Feb 2024, 19:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1708543800000,
-        "label": "Wed 21 Feb 2024, 19:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "score": 4
-        },
-        {
-          "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Anfield",
-        "city": "Liverpool",
-        "source": "OPTA",
-        "id": 901
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "clock": {
-        "secs": 5640,
-        "label": "90 +4'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 33128,
-          "clock": {
-            "secs": 720,
-            "label": "12'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 5140,
-          "assistId": 63633,
-          "clock": {
-            "secs": 3360,
-            "label": "56'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 32894,
-          "assistId": 63633,
-          "clock": {
-            "secs": 3480,
-            "label": "58'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 66669,
-          "assistId": 10458,
-          "clock": {
-            "secs": 4260,
-            "label": "71'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 33185,
-          "clock": {
-            "secs": 5400,
-            "label": "90'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93577,
-      "altIds": {
-        "opta": "g2367794"
       }
     },
     {
@@ -1942,6 +1788,100 @@
       "id": 93589,
       "altIds": {
         "opta": "g2367806"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12296,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 28,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1709987400000,
+        "label": "Sat 9 Mar 2024, 12:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1709987400000,
+        "label": "Sat 9 Mar 2024, 12:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Manchester United",
+            "club": {
+              "name": "Manchester United",
+              "shortName": "Man Utd",
+              "abbr": "MUN",
+              "id": 12
+            },
+            "teamType": "FIRST",
+            "shortName": "Man Utd",
+            "id": 12,
+            "altIds": {
+              "opta": "t1"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Everton",
+            "club": {
+              "name": "Everton",
+              "shortName": "Everton",
+              "abbr": "EVE",
+              "id": 7
+            },
+            "teamType": "FIRST",
+            "shortName": "Everton",
+            "id": 7,
+            "altIds": {
+              "opta": "t11"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Old Trafford",
+        "city": "Manchester",
+        "source": "OPTA",
+        "id": 42
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93598,
+      "altIds": {
+        "opta": "g2367815"
       }
     }
   ]
