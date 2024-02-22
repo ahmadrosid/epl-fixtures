@@ -8,7 +8,7 @@
   "content": [
     {
       "gameweek": {
-        "id": 12294,
+        "id": 12306,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -23,7 +23,7 @@
           },
           "id": 578
         },
-        "gameweek": 26,
+        "gameweek": 38,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
