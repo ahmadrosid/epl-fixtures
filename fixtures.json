@@ -152,7 +152,7 @@
               "opta": "t3"
             }
           },
-          "score": 2
+          "score": 4
         },
         {
           "team": {
@@ -185,8 +185,8 @@
       "phase": "2",
       "attendance": 60298,
       "clock": {
-        "secs": 3060,
-        "label": "51'00"
+        "secs": 4140,
+        "label": "69'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -210,6 +210,28 @@
             "label": "24'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 49481,
+          "assistId": 20810,
+          "clock": {
+            "secs": 3900,
+            "label": "65'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 109478,
+          "assistId": 15202,
+          "clock": {
+            "secs": 4140,
+            "label": "69'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
