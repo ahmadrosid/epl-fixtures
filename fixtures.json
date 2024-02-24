@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 7,
     "pageSize": 20,
-    "numEntries": 125
+    "numEntries": 124
   },
   "content": [
     {
@@ -96,162 +96,6 @@
       "id": 93575,
       "altIds": {
         "opta": "g2367792"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12294,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 26,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1708804800000,
-        "label": "Sat 24 Feb 2024, 20:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1708804800000,
-        "label": "Sat 24 Feb 2024, 20:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Arsenal",
-            "club": {
-              "name": "Arsenal",
-              "shortName": "Arsenal",
-              "abbr": "ARS",
-              "id": 1
-            },
-            "teamType": "FIRST",
-            "shortName": "Arsenal",
-            "id": 1,
-            "altIds": {
-              "opta": "t3"
-            }
-          },
-          "score": 4
-        },
-        {
-          "team": {
-            "name": "Newcastle United",
-            "club": {
-              "name": "Newcastle United",
-              "shortName": "Newcastle",
-              "abbr": "NEW",
-              "id": 23
-            },
-            "teamType": "FIRST",
-            "shortName": "Newcastle",
-            "id": 23,
-            "altIds": {
-              "opta": "t4"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Emirates Stadium",
-        "city": "London",
-        "source": "OPTA",
-        "id": 52
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "attendance": 60298,
-      "clock": {
-        "secs": 5400,
-        "label": "90'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 49908,
-          "clock": {
-            "secs": 1080,
-            "label": "18'00"
-          },
-          "phase": "1",
-          "type": "O",
-          "description": "O"
-        },
-        {
-          "personId": 20810,
-          "assistId": 66104,
-          "clock": {
-            "secs": 1440,
-            "label": "24'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 49481,
-          "assistId": 20810,
-          "clock": {
-            "secs": 3900,
-            "label": "65'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 109478,
-          "assistId": 15202,
-          "clock": {
-            "secs": 4140,
-            "label": "69'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 14446,
-          "assistId": 8707,
-          "clock": {
-            "secs": 5040,
-            "label": "84'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93571,
-      "altIds": {
-        "opta": "g2367789"
       }
     },
     {
@@ -1944,6 +1788,100 @@
       "id": 93592,
       "altIds": {
         "opta": "g2367810"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12296,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 28,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1710079200000,
+        "label": "Sun 10 Mar 2024, 14:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1710079200000,
+        "label": "Sun 10 Mar 2024, 14:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Brighton & Hove Albion",
+            "club": {
+              "name": "Brighton and Hove Albion",
+              "shortName": "Brighton",
+              "abbr": "BHA",
+              "id": 131
+            },
+            "teamType": "FIRST",
+            "shortName": "Brighton",
+            "id": 131,
+            "altIds": {
+              "opta": "t36"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "American Express Stadium",
+        "city": "Falmer",
+        "source": "OPTA",
+        "id": 6569
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93594,
+      "altIds": {
+        "opta": "g2367811"
       }
     }
   ]
