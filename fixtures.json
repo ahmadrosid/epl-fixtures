@@ -170,7 +170,7 @@
               "opta": "t17"
             }
           },
-          "score": 0
+          "score": 2
         }
       ],
       "replay": false,
@@ -182,10 +182,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 2880,
+        "label": "48'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -221,6 +221,27 @@
             "label": "39'00"
           },
           "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 50862,
+          "assistId": 15340,
+          "clock": {
+            "secs": 3000,
+            "label": "45 +5'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 15259,
+          "clock": {
+            "secs": 2880,
+            "label": "48'00"
+          },
+          "phase": "2",
           "type": "G",
           "description": "G"
         }
@@ -316,10 +337,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3000,
+        "label": "50'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -416,10 +437,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3120,
+        "label": "52'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -516,10 +537,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2880,
-        "label": "45 +3'00"
+        "secs": 3120,
+        "label": "52'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
