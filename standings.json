@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -170,24 +170,24 @@
           "position": 3,
           "startingPosition": 3,
           "overall": {
-            "played": 25,
+            "played": 26,
             "won": 17,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 4,
             "goalsFor": 58,
             "goalsAgainst": 22,
             "goalsDifference": 36,
-            "points": 55
+            "points": 56
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 9,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 1,
             "goalsFor": 30,
             "goalsAgainst": 11,
             "goalsDifference": 19,
-            "points": 29
+            "points": 30
           },
           "away": {
             "played": 13,
@@ -482,14 +482,14 @@
           "position": 8,
           "startingPosition": 8,
           "overall": {
-            "played": 25,
+            "played": 26,
             "won": 11,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 10,
             "goalsFor": 53,
             "goalsAgainst": 41,
             "goalsDifference": 12,
-            "points": 37
+            "points": 38
           },
           "home": {
             "played": 13,
@@ -502,14 +502,14 @@
             "points": 26
           },
           "away": {
-            "played": 12,
+            "played": 13,
             "won": 3,
-            "drawn": 2,
+            "drawn": 3,
             "lost": 7,
             "goalsFor": 22,
             "goalsAgainst": 25,
             "goalsDifference": -3,
-            "points": 11
+            "points": 12
           },
           "ground": {
             "name": "St. James' Park",
