@@ -240,8 +240,8 @@
             "won": 16,
             "drawn": 4,
             "lost": 6,
-            "goalsFor": 55,
-            "goalsAgainst": 34,
+            "goalsFor": 56,
+            "goalsAgainst": 35,
             "goalsDifference": 21,
             "points": 52
           },
@@ -250,8 +250,8 @@
             "won": 10,
             "drawn": 1,
             "lost": 2,
-            "goalsFor": 34,
-            "goalsAgainst": 14,
+            "goalsFor": 35,
+            "goalsAgainst": 15,
             "goalsDifference": 20,
             "points": 31
           },
@@ -365,22 +365,22 @@
           "overall": {
             "played": 26,
             "won": 14,
-            "drawn": 3,
-            "lost": 9,
+            "drawn": 2,
+            "lost": 10,
             "goalsFor": 35,
-            "goalsAgainst": 34,
-            "goalsDifference": 1,
-            "points": 45
+            "goalsAgainst": 35,
+            "goalsDifference": 0,
+            "points": 44
           },
           "home": {
             "played": 13,
             "won": 7,
-            "drawn": 2,
-            "lost": 4,
+            "drawn": 1,
+            "lost": 5,
             "goalsFor": 18,
-            "goalsAgainst": 18,
-            "goalsDifference": 0,
-            "points": 23
+            "goalsAgainst": 19,
+            "goalsDifference": -1,
+            "points": 22
           },
           "away": {
             "played": 13,
@@ -718,13 +718,13 @@
           "startingPosition": 12,
           "overall": {
             "played": 26,
-            "won": 8,
-            "drawn": 6,
+            "won": 9,
+            "drawn": 5,
             "lost": 12,
-            "goalsFor": 34,
+            "goalsFor": 35,
             "goalsAgainst": 41,
-            "goalsDifference": -7,
-            "points": 30
+            "goalsDifference": -6,
+            "points": 32
           },
           "home": {
             "played": 13,
@@ -738,13 +738,13 @@
           },
           "away": {
             "played": 13,
-            "won": 1,
-            "drawn": 5,
+            "won": 2,
+            "drawn": 4,
             "lost": 7,
-            "goalsFor": 11,
+            "goalsFor": 12,
             "goalsAgainst": 26,
-            "goalsDifference": -15,
-            "points": 8
+            "goalsDifference": -14,
+            "points": 10
           },
           "ground": {
             "name": "Craven Cottage",
@@ -838,23 +838,23 @@
           "startingPosition": 15,
           "overall": {
             "played": 26,
-            "won": 6,
-            "drawn": 8,
+            "won": 7,
+            "drawn": 7,
             "lost": 12,
-            "goalsFor": 28,
+            "goalsFor": 29,
             "goalsAgainst": 44,
-            "goalsDifference": -16,
-            "points": 26
+            "goalsDifference": -15,
+            "points": 28
           },
           "home": {
             "played": 13,
-            "won": 3,
-            "drawn": 4,
+            "won": 4,
+            "drawn": 3,
             "lost": 6,
-            "goalsFor": 15,
+            "goalsFor": 16,
             "goalsAgainst": 19,
-            "goalsDifference": -4,
-            "points": 13
+            "goalsDifference": -3,
+            "points": 15
           },
           "away": {
             "played": 13,
@@ -956,8 +956,8 @@
             "won": 6,
             "drawn": 6,
             "lost": 14,
-            "goalsFor": 33,
-            "goalsAgainst": 47,
+            "goalsFor": 34,
+            "goalsAgainst": 48,
             "goalsDifference": -14,
             "points": 24
           },
@@ -976,8 +976,8 @@
             "won": 2,
             "drawn": 3,
             "lost": 8,
-            "goalsFor": 14,
-            "goalsAgainst": 27,
+            "goalsFor": 15,
+            "goalsAgainst": 28,
             "goalsDifference": -13,
             "points": 9
           },
@@ -1139,12 +1139,12 @@
           "overall": {
             "played": 26,
             "won": 3,
-            "drawn": 5,
-            "lost": 18,
+            "drawn": 4,
+            "lost": 19,
             "goalsFor": 25,
-            "goalsAgainst": 55,
-            "goalsDifference": -30,
-            "points": 14
+            "goalsAgainst": 56,
+            "goalsDifference": -31,
+            "points": 13
           },
           "home": {
             "played": 13,
@@ -1159,12 +1159,12 @@
           "away": {
             "played": 13,
             "won": 2,
-            "drawn": 3,
-            "lost": 8,
+            "drawn": 2,
+            "lost": 9,
             "goalsFor": 12,
-            "goalsAgainst": 23,
-            "goalsDifference": -11,
-            "points": 9
+            "goalsAgainst": 24,
+            "goalsDifference": -12,
+            "points": 8
           },
           "annotations": [
             {
