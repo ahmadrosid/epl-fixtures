@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 7,
     "pageSize": 20,
-    "numEntries": 124
+    "numEntries": 123
   },
   "content": [
     {
@@ -96,118 +96,6 @@
       "id": 93575,
       "altIds": {
         "opta": "g2367792"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12294,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 26,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1708867800000,
-        "label": "Sun 25 Feb 2024, 13:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1708867800000,
-        "label": "Sun 25 Feb 2024, 13:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Wolverhampton Wanderers",
-            "club": {
-              "name": "Wolverhampton Wanderers",
-              "shortName": "Wolves",
-              "abbr": "WOL",
-              "id": 38
-            },
-            "teamType": "FIRST",
-            "shortName": "Wolves",
-            "id": 38,
-            "altIds": {
-              "opta": "t39"
-            }
-          },
-          "score": 1
-        },
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "score": 0
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Molineux Stadium",
-        "city": "Wolverhampton",
-        "source": "OPTA",
-        "id": 913
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "clock": {
-        "secs": 4860,
-        "label": "81'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 19814,
-          "assistId": 71432,
-          "clock": {
-            "secs": 1800,
-            "label": "30'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93580,
-      "altIds": {
-        "opta": "g2367797"
       }
     },
     {
@@ -1900,6 +1788,100 @@
       "id": 93594,
       "altIds": {
         "opta": "g2367811"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12296,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 28,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1710079200000,
+        "label": "Sun 10 Mar 2024, 14:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1710079200000,
+        "label": "Sun 10 Mar 2024, 14:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "West Ham United",
+            "club": {
+              "name": "West Ham United",
+              "shortName": "West Ham",
+              "abbr": "WHU",
+              "id": 25
+            },
+            "teamType": "FIRST",
+            "shortName": "West Ham",
+            "id": 25,
+            "altIds": {
+              "opta": "t21"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "London Stadium",
+        "city": "London",
+        "source": "OPTA",
+        "id": 433
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93599,
+      "altIds": {
+        "opta": "g2367816"
       }
     }
   ]
