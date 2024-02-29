@@ -664,7 +664,7 @@
     },
     {
       "gameweek": {
-        "id": 12306,
+        "id": 12295,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -679,7 +679,7 @@
           },
           "id": 578
         },
-        "gameweek": 38,
+        "gameweek": 27,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
