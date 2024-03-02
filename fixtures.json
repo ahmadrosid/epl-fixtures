@@ -733,11 +733,11 @@
         "id": 2025
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 900,
+        "label": "15'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
