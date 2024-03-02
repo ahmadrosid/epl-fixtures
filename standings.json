@@ -303,23 +303,23 @@
           "startingPosition": 5,
           "overall": {
             "played": 26,
-            "won": 14,
+            "won": 15,
             "drawn": 5,
-            "lost": 7,
-            "goalsFor": 52,
+            "lost": 6,
+            "goalsFor": 54,
             "goalsAgainst": 39,
-            "goalsDifference": 13,
-            "points": 47
+            "goalsDifference": 15,
+            "points": 50
           },
           "home": {
             "played": 14,
-            "won": 9,
+            "won": 10,
             "drawn": 0,
-            "lost": 5,
-            "goalsFor": 26,
+            "lost": 4,
+            "goalsFor": 28,
             "goalsAgainst": 19,
-            "goalsDifference": 7,
-            "points": 27
+            "goalsDifference": 9,
+            "points": 30
           },
           "away": {
             "played": 12,
@@ -661,12 +661,12 @@
           "overall": {
             "played": 26,
             "won": 10,
-            "drawn": 5,
-            "lost": 11,
-            "goalsFor": 43,
+            "drawn": 6,
+            "lost": 10,
+            "goalsFor": 44,
             "goalsAgainst": 43,
-            "goalsDifference": 0,
-            "points": 35
+            "goalsDifference": 1,
+            "points": 36
           },
           "home": {
             "played": 12,
@@ -681,12 +681,12 @@
           "away": {
             "played": 14,
             "won": 5,
-            "drawn": 2,
-            "lost": 7,
-            "goalsFor": 23,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 24,
             "goalsAgainst": 25,
-            "goalsDifference": -2,
-            "points": 17
+            "goalsDifference": -1,
+            "points": 18
           },
           "ground": {
             "name": "Stamford Bridge",
@@ -762,122 +762,6 @@
         },
         {
           "team": {
-            "name": "Crystal Palace",
-            "club": {
-              "name": "Crystal Palace",
-              "shortName": "Crystal Palace",
-              "abbr": "CRY",
-              "id": 6
-            },
-            "teamType": "FIRST",
-            "shortName": "Crystal Palace",
-            "id": 6,
-            "altIds": {
-              "opta": "t31"
-            }
-          },
-          "position": 13,
-          "startingPosition": 13,
-          "overall": {
-            "played": 27,
-            "won": 8,
-            "drawn": 7,
-            "lost": 12,
-            "goalsFor": 32,
-            "goalsAgainst": 44,
-            "goalsDifference": -12,
-            "points": 31
-          },
-          "home": {
-            "played": 13,
-            "won": 4,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 18,
-            "goalsAgainst": 19,
-            "goalsDifference": -1,
-            "points": 15
-          },
-          "away": {
-            "played": 14,
-            "won": 4,
-            "drawn": 4,
-            "lost": 6,
-            "goalsFor": 14,
-            "goalsAgainst": 25,
-            "goalsDifference": -11,
-            "points": 16
-          },
-          "ground": {
-            "name": "Selhurst Park",
-            "city": "London",
-            "capacity": 25073,
-            "location": {
-              "latitude": 51.3979,
-              "longitude": -0.085923
-            },
-            "source": "OPTA",
-            "id": 45
-          }
-        },
-        {
-          "team": {
-            "name": "Brentford",
-            "club": {
-              "name": "Brentford",
-              "shortName": "Brentford",
-              "abbr": "BRE",
-              "id": 130
-            },
-            "teamType": "FIRST",
-            "shortName": "Brentford",
-            "id": 130,
-            "altIds": {
-              "opta": "t94"
-            }
-          },
-          "position": 14,
-          "startingPosition": 16,
-          "overall": {
-            "played": 27,
-            "won": 8,
-            "drawn": 4,
-            "lost": 15,
-            "goalsFor": 39,
-            "goalsAgainst": 49,
-            "goalsDifference": -10,
-            "points": 28
-          },
-          "home": {
-            "played": 14,
-            "won": 5,
-            "drawn": 3,
-            "lost": 6,
-            "goalsFor": 24,
-            "goalsAgainst": 28,
-            "goalsDifference": -4,
-            "points": 18
-          },
-          "away": {
-            "played": 13,
-            "won": 3,
-            "drawn": 1,
-            "lost": 9,
-            "goalsFor": 15,
-            "goalsAgainst": 21,
-            "goalsDifference": -6,
-            "points": 10
-          },
-          "ground": {
-            "name": "Gtech Community Stadium",
-            "city": "Brentford",
-            "capacity": 17250,
-            "source": "OPTA",
-            "id": 4003
-          }
-        },
-        {
-          "team": {
             "name": "Bournemouth",
             "club": {
               "name": "Bournemouth",
@@ -892,7 +776,7 @@
               "opta": "t91"
             }
           },
-          "position": 15,
+          "position": 13,
           "startingPosition": 14,
           "overall": {
             "played": 25,
@@ -938,6 +822,66 @@
         },
         {
           "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          },
+          "position": 14,
+          "startingPosition": 13,
+          "overall": {
+            "played": 27,
+            "won": 7,
+            "drawn": 7,
+            "lost": 13,
+            "goalsFor": 32,
+            "goalsAgainst": 46,
+            "goalsDifference": -14,
+            "points": 28
+          },
+          "home": {
+            "played": 13,
+            "won": 4,
+            "drawn": 3,
+            "lost": 6,
+            "goalsFor": 18,
+            "goalsAgainst": 19,
+            "goalsDifference": -1,
+            "points": 15
+          },
+          "away": {
+            "played": 14,
+            "won": 3,
+            "drawn": 4,
+            "lost": 7,
+            "goalsFor": 14,
+            "goalsAgainst": 27,
+            "goalsDifference": -13,
+            "points": 13
+          },
+          "ground": {
+            "name": "Selhurst Park",
+            "city": "London",
+            "capacity": 25073,
+            "location": {
+              "latitude": 51.3979,
+              "longitude": -0.085923
+            },
+            "source": "OPTA",
+            "id": 45
+          }
+        },
+        {
+          "team": {
             "name": "Everton",
             "club": {
               "name": "Everton",
@@ -952,7 +896,7 @@
               "opta": "t11"
             }
           },
-          "position": 16,
+          "position": 15,
           "startingPosition": 15,
           "overall": {
             "played": 27,
@@ -1000,6 +944,62 @@
             },
             "source": "OPTA",
             "id": 31
+          }
+        },
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          },
+          "position": 16,
+          "startingPosition": 16,
+          "overall": {
+            "played": 27,
+            "won": 7,
+            "drawn": 5,
+            "lost": 15,
+            "goalsFor": 39,
+            "goalsAgainst": 50,
+            "goalsDifference": -11,
+            "points": 26
+          },
+          "home": {
+            "played": 14,
+            "won": 4,
+            "drawn": 4,
+            "lost": 6,
+            "goalsFor": 24,
+            "goalsAgainst": 29,
+            "goalsDifference": -5,
+            "points": 16
+          },
+          "away": {
+            "played": 13,
+            "won": 3,
+            "drawn": 1,
+            "lost": 9,
+            "goalsFor": 15,
+            "goalsAgainst": 21,
+            "goalsDifference": -6,
+            "points": 10
+          },
+          "ground": {
+            "name": "Gtech Community Stadium",
+            "city": "Brentford",
+            "capacity": 17250,
+            "source": "OPTA",
+            "id": 4003
           }
         },
         {
