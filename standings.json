@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -104,23 +104,23 @@
           "position": 2,
           "startingPosition": 2,
           "overall": {
-            "played": 26,
+            "played": 27,
             "won": 18,
             "drawn": 5,
-            "lost": 3,
+            "lost": 4,
             "goalsFor": 59,
-            "goalsAgainst": 26,
-            "goalsDifference": 33,
+            "goalsAgainst": 27,
+            "goalsDifference": 32,
             "points": 59
           },
           "home": {
-            "played": 13,
+            "played": 14,
             "won": 9,
             "drawn": 4,
-            "lost": 0,
+            "lost": 1,
             "goalsFor": 31,
-            "goalsAgainst": 11,
-            "goalsDifference": 20,
+            "goalsAgainst": 12,
+            "goalsDifference": 19,
             "points": 31
           },
           "away": {
@@ -364,14 +364,14 @@
           "position": 6,
           "startingPosition": 6,
           "overall": {
-            "played": 26,
-            "won": 14,
+            "played": 27,
+            "won": 15,
             "drawn": 2,
             "lost": 10,
-            "goalsFor": 36,
+            "goalsFor": 37,
             "goalsAgainst": 36,
-            "goalsDifference": 0,
-            "points": 44
+            "goalsDifference": 1,
+            "points": 47
           },
           "home": {
             "played": 13,
@@ -384,14 +384,14 @@
             "points": 22
           },
           "away": {
-            "played": 13,
-            "won": 7,
+            "played": 14,
+            "won": 8,
             "drawn": 1,
             "lost": 5,
-            "goalsFor": 17,
+            "goalsFor": 18,
             "goalsAgainst": 16,
-            "goalsDifference": 1,
-            "points": 22
+            "goalsDifference": 2,
+            "points": 25
           },
           "ground": {
             "name": "Old Trafford",
