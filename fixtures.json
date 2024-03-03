@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 6,
     "pageSize": 20,
-    "numEntries": 114
+    "numEntries": 113
   },
   "content": [
     {
@@ -648,140 +648,6 @@
       "id": 93610,
       "altIds": {
         "opta": "g2367827"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12295,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 27,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1709479800000,
-        "label": "Sun 3 Mar 2024, 15:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1709479800000,
-        "label": "Sun 3 Mar 2024, 15:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "score": 2
-        },
-        {
-          "team": {
-            "name": "Manchester United",
-            "club": {
-              "name": "Manchester United",
-              "shortName": "Man Utd",
-              "abbr": "MUN",
-              "id": 12
-            },
-            "teamType": "FIRST",
-            "shortName": "Man Utd",
-            "id": 12,
-            "altIds": {
-              "opta": "t1"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Etihad Stadium",
-        "city": "Manchester",
-        "source": "OPTA",
-        "id": 457
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "clock": {
-        "secs": 4800,
-        "label": "80'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 13565,
-          "assistId": 23396,
-          "clock": {
-            "secs": 480,
-            "label": "08'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 14805,
-          "assistId": 16286,
-          "clock": {
-            "secs": 3360,
-            "label": "56'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 14805,
-          "assistId": 52723,
-          "clock": {
-            "secs": 4800,
-            "label": "80'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93586,
-      "altIds": {
-        "opta": "g2367803"
       }
     },
     {
@@ -1910,6 +1776,100 @@
       "id": 93482,
       "altIds": {
         "opta": "g2367698"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12297,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 29,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1710601200000,
+        "label": "Sat 16 Mar 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1710601200000,
+        "label": "Sat 16 Mar 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Brentford",
+            "club": {
+              "name": "Brentford",
+              "shortName": "Brentford",
+              "abbr": "BRE",
+              "id": 130
+            },
+            "teamType": "FIRST",
+            "shortName": "Brentford",
+            "id": 130,
+            "altIds": {
+              "opta": "t94"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Turf Moor",
+        "city": "Burnley",
+        "source": "OPTA",
+        "id": 47
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93603,
+      "altIds": {
+        "opta": "g2367820"
       }
     }
   ]
