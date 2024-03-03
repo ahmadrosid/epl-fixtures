@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 6,
     "pageSize": 20,
-    "numEntries": 115
+    "numEntries": 114
   },
   "content": [
     {
@@ -648,119 +648,6 @@
       "id": 93610,
       "altIds": {
         "opta": "g2367827"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12295,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 27,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1709470800000,
-        "label": "Sun 3 Mar 2024, 13:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1709470800000,
-        "label": "Sun 3 Mar 2024, 13:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Burnley",
-            "club": {
-              "name": "Burnley",
-              "shortName": "Burnley",
-              "abbr": "BUR",
-              "id": 43
-            },
-            "teamType": "FIRST",
-            "shortName": "Burnley",
-            "id": 43,
-            "altIds": {
-              "opta": "t90"
-            }
-          },
-          "score": 0
-        },
-        {
-          "team": {
-            "name": "Bournemouth",
-            "club": {
-              "name": "Bournemouth",
-              "shortName": "Bournemouth",
-              "abbr": "BOU",
-              "id": 127
-            },
-            "teamType": "FIRST",
-            "shortName": "Bournemouth",
-            "id": 127,
-            "altIds": {
-              "opta": "t91"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Turf Moor",
-        "city": "Burnley",
-        "source": "OPTA",
-        "id": 47
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "attendance": 19713,
-      "clock": {
-        "secs": 4980,
-        "label": "83'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 21519,
-          "assistId": 10766,
-          "clock": {
-            "secs": 780,
-            "label": "13'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93582,
-      "altIds": {
-        "opta": "g2367799"
       }
     },
     {
@@ -1895,6 +1782,100 @@
       "id": 93595,
       "altIds": {
         "opta": "g2367812"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12296,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 28,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1710358200000,
+        "label": "Wed 13 Mar 2024, 19:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1710358200000,
+        "label": "Wed 13 Mar 2024, 19:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Bournemouth",
+            "club": {
+              "name": "Bournemouth",
+              "shortName": "Bournemouth",
+              "abbr": "BOU",
+              "id": 127
+            },
+            "teamType": "FIRST",
+            "shortName": "Bournemouth",
+            "id": 127,
+            "altIds": {
+              "opta": "t91"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Vitality Stadium",
+        "city": "Bournemouth",
+        "source": "OPTA",
+        "id": 914
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93482,
+      "altIds": {
+        "opta": "g2367698"
       }
     }
   ]
