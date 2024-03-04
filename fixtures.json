@@ -722,7 +722,7 @@
               "opta": "t3"
             }
           },
-          "score": 1
+          "score": 4
         }
       ],
       "replay": false,
@@ -736,8 +736,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 600,
-        "label": "10'00"
+        "secs": 1620,
+        "label": "27'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -748,6 +748,38 @@
           "clock": {
             "secs": 300,
             "label": "05'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 14608,
+          "clock": {
+            "secs": 780,
+            "label": "13'00"
+          },
+          "phase": "1",
+          "type": "O",
+          "description": "O"
+        },
+        {
+          "personId": 66104,
+          "assistId": 109478,
+          "clock": {
+            "secs": 900,
+            "label": "15'00"
+          },
+          "phase": "1",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 20810,
+          "assistId": 66104,
+          "clock": {
+            "secs": 1500,
+            "label": "25'00"
           },
           "phase": "1",
           "type": "G",
