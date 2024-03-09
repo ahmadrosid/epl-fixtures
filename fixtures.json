@@ -703,7 +703,8 @@
             "altIds": {
               "opta": "t1"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -720,7 +721,8 @@
             "altIds": {
               "opta": "t11"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
