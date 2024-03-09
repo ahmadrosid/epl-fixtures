@@ -704,7 +704,7 @@
               "opta": "t1"
             }
           },
-          "score": 1
+          "score": 2
         },
         {
           "team": {
@@ -736,8 +736,8 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 1140,
-        "label": "19'00"
+        "secs": 2400,
+        "label": "40'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -748,6 +748,16 @@
           "clock": {
             "secs": 720,
             "label": "12'00"
+          },
+          "phase": "1",
+          "type": "P",
+          "description": "P"
+        },
+        {
+          "personId": 13565,
+          "clock": {
+            "secs": 2160,
+            "label": "36'00"
           },
           "phase": "1",
           "type": "P",
