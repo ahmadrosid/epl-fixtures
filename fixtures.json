@@ -736,8 +736,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 3480,
-        "label": "58'00"
+        "secs": 4800,
+        "label": "80'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -824,7 +824,8 @@
             "altIds": {
               "opta": "t91"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -841,7 +842,8 @@
             "altIds": {
               "opta": "t49"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -854,6 +856,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
@@ -918,7 +924,8 @@
             "altIds": {
               "opta": "t31"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -935,7 +942,8 @@
             "altIds": {
               "opta": "t102"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -948,6 +956,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
@@ -1012,7 +1024,8 @@
             "altIds": {
               "opta": "t39"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -1029,7 +1042,8 @@
             "altIds": {
               "opta": "t54"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -1042,6 +1056,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
