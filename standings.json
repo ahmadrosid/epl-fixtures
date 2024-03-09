@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": false,
+  "live": true,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -599,24 +599,24 @@
           "position": 10,
           "startingPosition": 10,
           "overall": {
-            "played": 27,
+            "played": 28,
             "won": 11,
-            "drawn": 5,
+            "drawn": 6,
             "lost": 11,
             "goalsFor": 40,
             "goalsAgainst": 43,
             "goalsDifference": -3,
-            "points": 38
+            "points": 39
           },
           "home": {
-            "played": 13,
+            "played": 14,
             "won": 6,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 4,
             "goalsFor": 20,
             "goalsAgainst": 20,
             "goalsDifference": 0,
-            "points": 21
+            "points": 22
           },
           "away": {
             "played": 14,
@@ -719,14 +719,14 @@
           "position": 12,
           "startingPosition": 12,
           "overall": {
-            "played": 27,
+            "played": 28,
             "won": 10,
-            "drawn": 5,
+            "drawn": 6,
             "lost": 12,
             "goalsFor": 39,
             "goalsAgainst": 42,
             "goalsDifference": -3,
-            "points": 35
+            "points": 36
           },
           "home": {
             "played": 14,
@@ -739,14 +739,14 @@
             "points": 25
           },
           "away": {
-            "played": 13,
+            "played": 14,
             "won": 2,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 7,
             "goalsFor": 13,
             "goalsAgainst": 27,
             "goalsDifference": -14,
-            "points": 10
+            "points": 11
           },
           "ground": {
             "name": "Craven Cottage",
@@ -779,24 +779,24 @@
           "position": 13,
           "startingPosition": 13,
           "overall": {
-            "played": 26,
+            "played": 27,
             "won": 8,
-            "drawn": 7,
+            "drawn": 8,
             "lost": 11,
             "goalsFor": 35,
             "goalsAgainst": 47,
             "goalsDifference": -12,
-            "points": 31
+            "points": 32
           },
           "home": {
-            "played": 12,
+            "played": 13,
             "won": 3,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 5,
             "goalsFor": 12,
             "goalsAgainst": 18,
             "goalsDifference": -6,
-            "points": 13
+            "points": 14
           },
           "away": {
             "played": 14,
@@ -839,24 +839,24 @@
           "position": 14,
           "startingPosition": 14,
           "overall": {
-            "played": 27,
+            "played": 28,
             "won": 7,
-            "drawn": 7,
+            "drawn": 8,
             "lost": 13,
             "goalsFor": 32,
             "goalsAgainst": 47,
             "goalsDifference": -15,
-            "points": 28
+            "points": 29
           },
           "home": {
-            "played": 13,
+            "played": 14,
             "won": 4,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 6,
             "goalsFor": 18,
             "goalsAgainst": 19,
             "goalsDifference": -1,
-            "points": 15
+            "points": 16
           },
           "away": {
             "played": 14,
@@ -1081,14 +1081,14 @@
           "position": 18,
           "startingPosition": 18,
           "overall": {
-            "played": 26,
+            "played": 27,
             "won": 5,
-            "drawn": 5,
+            "drawn": 6,
             "lost": 16,
             "goalsFor": 37,
             "goalsAgainst": 54,
             "goalsDifference": -17,
-            "points": 20
+            "points": 21
           },
           "home": {
             "played": 14,
@@ -1101,14 +1101,14 @@
             "points": 11
           },
           "away": {
-            "played": 12,
+            "played": 13,
             "won": 2,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 7,
             "goalsFor": 16,
             "goalsAgainst": 29,
             "goalsDifference": -13,
-            "points": 9
+            "points": 10
           },
           "annotations": [
             {
@@ -1122,6 +1122,72 @@
             "capacity": 9975,
             "source": "OPTA",
             "id": 2025
+          }
+        },
+        {
+          "team": {
+            "name": "Sheffield United",
+            "club": {
+              "name": "Sheffield United",
+              "shortName": "Sheffield Utd",
+              "abbr": "SHU",
+              "id": 18
+            },
+            "teamType": "FIRST",
+            "shortName": "Sheffield Utd",
+            "id": 18,
+            "altIds": {
+              "opta": "t49"
+            }
+          },
+          "position": 19,
+          "startingPosition": 20,
+          "overall": {
+            "played": 28,
+            "won": 3,
+            "drawn": 5,
+            "lost": 20,
+            "goalsFor": 22,
+            "goalsAgainst": 72,
+            "goalsDifference": -50,
+            "points": 14
+          },
+          "home": {
+            "played": 14,
+            "won": 2,
+            "drawn": 2,
+            "lost": 10,
+            "goalsFor": 12,
+            "goalsAgainst": 42,
+            "goalsDifference": -30,
+            "points": 8
+          },
+          "away": {
+            "played": 14,
+            "won": 1,
+            "drawn": 3,
+            "lost": 10,
+            "goalsFor": 10,
+            "goalsAgainst": 30,
+            "goalsDifference": -20,
+            "points": 6
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Bramall Lane",
+            "city": "Sheffield",
+            "capacity": 30370,
+            "location": {
+              "latitude": 53.3699,
+              "longitude": -1.47067
+            },
+            "source": "OPTA",
+            "id": 206
           }
         },
         {
@@ -1140,7 +1206,7 @@
               "opta": "t90"
             }
           },
-          "position": 19,
+          "position": 20,
           "startingPosition": 19,
           "overall": {
             "played": 27,
@@ -1188,72 +1254,6 @@
             },
             "source": "OPTA",
             "id": 47
-          }
-        },
-        {
-          "team": {
-            "name": "Sheffield United",
-            "club": {
-              "name": "Sheffield United",
-              "shortName": "Sheffield Utd",
-              "abbr": "SHU",
-              "id": 18
-            },
-            "teamType": "FIRST",
-            "shortName": "Sheffield Utd",
-            "id": 18,
-            "altIds": {
-              "opta": "t49"
-            }
-          },
-          "position": 20,
-          "startingPosition": 20,
-          "overall": {
-            "played": 27,
-            "won": 3,
-            "drawn": 4,
-            "lost": 20,
-            "goalsFor": 22,
-            "goalsAgainst": 72,
-            "goalsDifference": -50,
-            "points": 13
-          },
-          "home": {
-            "played": 14,
-            "won": 2,
-            "drawn": 2,
-            "lost": 10,
-            "goalsFor": 12,
-            "goalsAgainst": 42,
-            "goalsDifference": -30,
-            "points": 8
-          },
-          "away": {
-            "played": 13,
-            "won": 1,
-            "drawn": 2,
-            "lost": 10,
-            "goalsFor": 10,
-            "goalsAgainst": 30,
-            "goalsDifference": -20,
-            "points": 5
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Bramall Lane",
-            "city": "Sheffield",
-            "capacity": 30370,
-            "location": {
-              "latitude": 53.3699,
-              "longitude": -1.47067
-            },
-            "source": "OPTA",
-            "id": 206
           }
         }
       ]
