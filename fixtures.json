@@ -704,7 +704,7 @@
               "opta": "t1"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -736,13 +736,24 @@
       "status": "L",
       "phase": "1",
       "clock": {
-        "secs": 180,
-        "label": "03'00"
+        "secs": 1140,
+        "label": "19'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
-      "goals": [],
+      "goals": [
+        {
+          "personId": 23396,
+          "clock": {
+            "secs": 720,
+            "label": "12'00"
+          },
+          "phase": "1",
+          "type": "P",
+          "description": "P"
+        }
+      ],
       "penaltyShootouts": [],
       "behindClosedDoors": false,
       "id": 93598,
