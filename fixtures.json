@@ -704,7 +704,7 @@
               "opta": "t91"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -736,8 +736,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4140,
-        "label": "69'00"
+        "secs": 5340,
+        "label": "89'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -758,6 +758,17 @@
           "clock": {
             "secs": 3840,
             "label": "64'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
+        },
+        {
+          "personId": 133890,
+          "assistId": 15572,
+          "clock": {
+            "secs": 4440,
+            "label": "74'00"
           },
           "phase": "2",
           "type": "G",
@@ -857,8 +868,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4080,
-        "label": "68'00"
+        "secs": 5160,
+        "label": "86'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -969,8 +980,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4020,
-        "label": "67'00"
+        "secs": 5100,
+        "label": "85'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -988,15 +999,14 @@
           "description": "G"
         },
         {
-          "personId": 16642,
-          "assistId": 133679,
+          "personId": 3894,
           "clock": {
             "secs": 4020,
             "label": "67'00"
           },
           "phase": "2",
-          "type": "G",
-          "description": "G"
+          "type": "O",
+          "description": "O"
         }
       ],
       "penaltyShootouts": [],
