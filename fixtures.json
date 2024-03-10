@@ -736,8 +736,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4020,
-        "label": "67'00"
+        "secs": 5340,
+        "label": "89'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -847,8 +847,8 @@
       "status": "L",
       "phase": "2",
       "clock": {
-        "secs": 4140,
-        "label": "69'00"
+        "secs": 5340,
+        "label": "89'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -975,11 +975,11 @@
         "id": 7305
       },
       "neutralGround": false,
-      "status": "U",
-      "phase": "0",
+      "status": "L",
+      "phase": "1",
       "clock": {
-        "secs": 0,
-        "label": "00'00"
+        "secs": 180,
+        "label": "03'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
