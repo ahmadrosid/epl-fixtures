@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 6,
     "pageSize": 20,
-    "numEntries": 104
+    "numEntries": 103
   },
   "content": [
     {
@@ -648,128 +648,6 @@
       "id": 93610,
       "altIds": {
         "opta": "g2367827"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12296,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 28,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1710085500000,
-        "label": "Sun 10 Mar 2024, 15:45 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1710085500000,
-        "label": "Sun 10 Mar 2024, 15:45 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Liverpool",
-            "club": {
-              "name": "Liverpool",
-              "shortName": "Liverpool",
-              "abbr": "LIV",
-              "id": 10
-            },
-            "teamType": "FIRST",
-            "shortName": "Liverpool",
-            "id": 10,
-            "altIds": {
-              "opta": "t14"
-            }
-          },
-          "score": 1
-        },
-        {
-          "team": {
-            "name": "Manchester City",
-            "club": {
-              "name": "Manchester City",
-              "shortName": "Man City",
-              "abbr": "MCI",
-              "id": 11
-            },
-            "teamType": "FIRST",
-            "shortName": "Man City",
-            "id": 11,
-            "altIds": {
-              "opta": "t43"
-            }
-          },
-          "score": 1
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Anfield",
-        "city": "Liverpool",
-        "source": "OPTA",
-        "id": 7305
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "clock": {
-        "secs": 5040,
-        "label": "84'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 4505,
-          "assistId": 4288,
-          "clock": {
-            "secs": 1380,
-            "label": "23'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 63633,
-          "clock": {
-            "secs": 3000,
-            "label": "50'00"
-          },
-          "phase": "2",
-          "type": "P",
-          "description": "P"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93597,
-      "altIds": {
-        "opta": "g2367814"
       }
     },
     {
@@ -1898,6 +1776,100 @@
       "id": 93620,
       "altIds": {
         "opta": "g2367837"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12298,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 30,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1711819800000,
+        "label": "Sat 30 Mar 2024, 17:30 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1711819800000,
+        "label": "Sat 30 Mar 2024, 17:30 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Aston Villa",
+            "club": {
+              "name": "Aston Villa",
+              "shortName": "Aston Villa",
+              "abbr": "AVL",
+              "id": 2
+            },
+            "teamType": "FIRST",
+            "shortName": "Aston Villa",
+            "id": 2,
+            "altIds": {
+              "opta": "t7"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Wolverhampton Wanderers",
+            "club": {
+              "name": "Wolverhampton Wanderers",
+              "shortName": "Wolves",
+              "abbr": "WOL",
+              "id": 38
+            },
+            "teamType": "FIRST",
+            "shortName": "Wolves",
+            "id": 38,
+            "altIds": {
+              "opta": "t39"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "Villa Park",
+        "city": "Birmingham",
+        "source": "OPTA",
+        "id": 1986
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93611,
+      "altIds": {
+        "opta": "g2367829"
       }
     }
   ]
