@@ -241,8 +241,8 @@
             "drawn": 4,
             "lost": 7,
             "goalsFor": 59,
-            "goalsAgainst": 40,
-            "goalsDifference": 19,
+            "goalsAgainst": 41,
+            "goalsDifference": 18,
             "points": 55
           },
           "home": {
@@ -251,8 +251,8 @@
             "drawn": 1,
             "lost": 3,
             "goalsFor": 35,
-            "goalsAgainst": 18,
-            "goalsDifference": 17,
+            "goalsAgainst": 19,
+            "goalsDifference": 16,
             "points": 31
           },
           "away": {
@@ -306,9 +306,9 @@
             "won": 16,
             "drawn": 5,
             "lost": 6,
-            "goalsFor": 58,
+            "goalsFor": 59,
             "goalsAgainst": 39,
-            "goalsDifference": 19,
+            "goalsDifference": 20,
             "points": 53
           },
           "home": {
@@ -326,9 +326,9 @@
             "won": 6,
             "drawn": 5,
             "lost": 2,
-            "goalsFor": 29,
+            "goalsFor": 30,
             "goalsAgainst": 20,
-            "goalsDifference": 9,
+            "goalsDifference": 10,
             "points": 23
           },
           "annotations": [
@@ -488,9 +488,9 @@
             "won": 12,
             "drawn": 6,
             "lost": 10,
-            "goalsFor": 43,
+            "goalsFor": 44,
             "goalsAgainst": 49,
-            "goalsDifference": -6,
+            "goalsDifference": -5,
             "points": 42
           },
           "home": {
@@ -498,9 +498,9 @@
             "won": 6,
             "drawn": 4,
             "lost": 4,
-            "goalsFor": 22,
+            "goalsFor": 23,
             "goalsAgainst": 21,
-            "goalsDifference": 1,
+            "goalsDifference": 2,
             "points": 22
           },
           "away": {
@@ -1148,8 +1148,8 @@
             "drawn": 4,
             "lost": 20,
             "goalsFor": 27,
-            "goalsAgainst": 60,
-            "goalsDifference": -33,
+            "goalsAgainst": 61,
+            "goalsDifference": -34,
             "points": 16
           },
           "home": {
@@ -1168,8 +1168,8 @@
             "drawn": 2,
             "lost": 9,
             "goalsFor": 14,
-            "goalsAgainst": 26,
-            "goalsDifference": -12,
+            "goalsAgainst": 27,
+            "goalsDifference": -13,
             "points": 11
           },
           "annotations": [

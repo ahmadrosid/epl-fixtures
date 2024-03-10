@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 6,
     "pageSize": 20,
-    "numEntries": 107
+    "numEntries": 106
   },
   "content": [
     {
@@ -679,140 +679,6 @@
       },
       "kickoff": {
         "completeness": 3,
-        "millis": 1710075600000,
-        "label": "Sun 10 Mar 2024, 13:00 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1710075600000,
-        "label": "Sun 10 Mar 2024, 13:00 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Aston Villa",
-            "club": {
-              "name": "Aston Villa",
-              "shortName": "Aston Villa",
-              "abbr": "AVL",
-              "id": 2
-            },
-            "teamType": "FIRST",
-            "shortName": "Aston Villa",
-            "id": 2,
-            "altIds": {
-              "opta": "t7"
-            }
-          },
-          "score": 0
-        },
-        {
-          "team": {
-            "name": "Tottenham Hotspur",
-            "club": {
-              "name": "Tottenham Hotspur",
-              "shortName": "Spurs",
-              "abbr": "TOT",
-              "id": 21
-            },
-            "teamType": "FIRST",
-            "shortName": "Tottenham Hotspur",
-            "id": 21,
-            "altIds": {
-              "opta": "t6"
-            }
-          },
-          "score": 3
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Villa Park",
-        "city": "Birmingham",
-        "source": "OPTA",
-        "id": 1986
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "clock": {
-        "secs": 5460,
-        "label": "90 +1'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 8456,
-          "assistId": 117318,
-          "clock": {
-            "secs": 3000,
-            "label": "50'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 49374,
-          "assistId": 4999,
-          "clock": {
-            "secs": 3180,
-            "label": "53'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 4999,
-          "assistId": 49316,
-          "clock": {
-            "secs": 5460,
-            "label": "90 +1'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93592,
-      "altIds": {
-        "opta": "g2367810"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12296,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 28,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
         "millis": 1710079200000,
         "label": "Sun 10 Mar 2024, 14:00 GMT"
       },
@@ -868,10 +734,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "1",
+      "phase": "2",
       "clock": {
-        "secs": 2820,
-        "label": "45 +2'00"
+        "secs": 3000,
+        "label": "50'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -949,7 +815,7 @@
               "opta": "t21"
             }
           },
-          "score": 0
+          "score": 1
         },
         {
           "team": {
@@ -979,10 +845,10 @@
       },
       "neutralGround": false,
       "status": "L",
-      "phase": "H",
+      "phase": "2",
       "clock": {
-        "secs": 2940,
-        "label": "45 +4'00"
+        "secs": 3060,
+        "label": "51'00"
       },
       "fixtureType": "REGULAR",
       "extraTime": false,
@@ -1007,6 +873,16 @@
           "phase": "1",
           "type": "O",
           "description": "O"
+        },
+        {
+          "personId": 55776,
+          "clock": {
+            "secs": 2760,
+            "label": "46'00"
+          },
+          "phase": "2",
+          "type": "G",
+          "description": "G"
         }
       ],
       "penaltyShootouts": [],
@@ -1960,6 +1836,100 @@
       "id": 93614,
       "altIds": {
         "opta": "g2367831"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12298,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 30,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1711810800000,
+        "label": "Sat 30 Mar 2024, 15:00 GMT"
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1711810800000,
+        "label": "Sat 30 Mar 2024, 15:00 GMT"
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Crystal Palace",
+            "club": {
+              "name": "Crystal Palace",
+              "shortName": "Crystal Palace",
+              "abbr": "CRY",
+              "id": 6
+            },
+            "teamType": "FIRST",
+            "shortName": "Crystal Palace",
+            "id": 6,
+            "altIds": {
+              "opta": "t31"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "The City Ground",
+        "city": "Nottingham",
+        "source": "OPTA",
+        "id": 2548
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93618,
+      "altIds": {
+        "opta": "g2367835"
       }
     }
   ]
