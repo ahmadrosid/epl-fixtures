@@ -238,22 +238,22 @@
           "overall": {
             "played": 28,
             "won": 17,
-            "drawn": 5,
-            "lost": 6,
+            "drawn": 4,
+            "lost": 7,
             "goalsFor": 59,
-            "goalsAgainst": 37,
-            "goalsDifference": 22,
-            "points": 56
+            "goalsAgainst": 38,
+            "goalsDifference": 21,
+            "points": 55
           },
           "home": {
             "played": 14,
             "won": 10,
-            "drawn": 2,
-            "lost": 2,
+            "drawn": 1,
+            "lost": 3,
             "goalsFor": 35,
-            "goalsAgainst": 15,
-            "goalsDifference": 20,
-            "points": 32
+            "goalsAgainst": 16,
+            "goalsDifference": 19,
+            "points": 31
           },
           "away": {
             "played": 14,
@@ -303,13 +303,13 @@
           "startingPosition": 5,
           "overall": {
             "played": 27,
-            "won": 15,
-            "drawn": 6,
+            "won": 16,
+            "drawn": 5,
             "lost": 6,
-            "goalsFor": 55,
+            "goalsFor": 56,
             "goalsAgainst": 39,
-            "goalsDifference": 16,
-            "points": 51
+            "goalsDifference": 17,
+            "points": 53
           },
           "home": {
             "played": 14,
@@ -323,13 +323,13 @@
           },
           "away": {
             "played": 13,
-            "won": 5,
-            "drawn": 6,
+            "won": 6,
+            "drawn": 5,
             "lost": 2,
-            "goalsFor": 26,
+            "goalsFor": 27,
             "goalsAgainst": 20,
-            "goalsDifference": 6,
-            "points": 21
+            "goalsDifference": 7,
+            "points": 23
           },
           "annotations": [
             {
@@ -424,24 +424,24 @@
           "position": 7,
           "startingPosition": 7,
           "overall": {
-            "played": 27,
+            "played": 28,
             "won": 12,
-            "drawn": 6,
+            "drawn": 7,
             "lost": 9,
             "goalsFor": 43,
             "goalsAgainst": 47,
             "goalsDifference": -4,
-            "points": 42
+            "points": 43
           },
           "home": {
-            "played": 13,
+            "played": 14,
             "won": 6,
-            "drawn": 4,
+            "drawn": 5,
             "lost": 3,
             "goalsFor": 22,
             "goalsAgainst": 19,
             "goalsDifference": 3,
-            "points": 22
+            "points": 23
           },
           "away": {
             "played": 14,
@@ -599,24 +599,24 @@
           "position": 10,
           "startingPosition": 9,
           "overall": {
-            "played": 27,
+            "played": 28,
             "won": 10,
-            "drawn": 9,
+            "drawn": 10,
             "lost": 8,
             "goalsFor": 49,
             "goalsAgainst": 44,
             "goalsDifference": 5,
-            "points": 39
+            "points": 40
           },
           "home": {
-            "played": 13,
+            "played": 14,
             "won": 6,
-            "drawn": 6,
+            "drawn": 7,
             "lost": 1,
             "goalsFor": 27,
             "goalsAgainst": 16,
             "goalsDifference": 11,
-            "points": 24
+            "points": 25
           },
           "away": {
             "played": 14,
@@ -1021,14 +1021,14 @@
           "position": 17,
           "startingPosition": 17,
           "overall": {
-            "played": 27,
+            "played": 28,
             "won": 6,
-            "drawn": 6,
+            "drawn": 7,
             "lost": 15,
             "goalsFor": 34,
             "goalsAgainst": 49,
             "goalsDifference": -15,
-            "points": 24
+            "points": 25
           },
           "home": {
             "played": 14,
@@ -1041,14 +1041,14 @@
             "points": 15
           },
           "away": {
-            "played": 13,
+            "played": 14,
             "won": 2,
-            "drawn": 3,
+            "drawn": 4,
             "lost": 8,
             "goalsFor": 15,
             "goalsAgainst": 28,
             "goalsDifference": -13,
-            "points": 9
+            "points": 10
           },
           "ground": {
             "name": "The City Ground",
@@ -1126,6 +1126,72 @@
         },
         {
           "team": {
+            "name": "Burnley",
+            "club": {
+              "name": "Burnley",
+              "shortName": "Burnley",
+              "abbr": "BUR",
+              "id": 43
+            },
+            "teamType": "FIRST",
+            "shortName": "Burnley",
+            "id": 43,
+            "altIds": {
+              "opta": "t90"
+            }
+          },
+          "position": 19,
+          "startingPosition": 19,
+          "overall": {
+            "played": 28,
+            "won": 3,
+            "drawn": 5,
+            "lost": 20,
+            "goalsFor": 25,
+            "goalsAgainst": 60,
+            "goalsDifference": -35,
+            "points": 14
+          },
+          "home": {
+            "played": 14,
+            "won": 1,
+            "drawn": 2,
+            "lost": 11,
+            "goalsFor": 13,
+            "goalsAgainst": 34,
+            "goalsDifference": -21,
+            "points": 5
+          },
+          "away": {
+            "played": 14,
+            "won": 2,
+            "drawn": 3,
+            "lost": 9,
+            "goalsFor": 12,
+            "goalsAgainst": 26,
+            "goalsDifference": -14,
+            "points": 9
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Turf Moor",
+            "city": "Burnley",
+            "capacity": 21401,
+            "location": {
+              "latitude": 53.7885,
+              "longitude": -2.23149
+            },
+            "source": "OPTA",
+            "id": 47
+          }
+        },
+        {
+          "team": {
             "name": "Sheffield United",
             "club": {
               "name": "Sheffield United",
@@ -1140,7 +1206,7 @@
               "opta": "t49"
             }
           },
-          "position": 19,
+          "position": 20,
           "startingPosition": 20,
           "overall": {
             "played": 28,
@@ -1188,72 +1254,6 @@
             },
             "source": "OPTA",
             "id": 206
-          }
-        },
-        {
-          "team": {
-            "name": "Burnley",
-            "club": {
-              "name": "Burnley",
-              "shortName": "Burnley",
-              "abbr": "BUR",
-              "id": 43
-            },
-            "teamType": "FIRST",
-            "shortName": "Burnley",
-            "id": 43,
-            "altIds": {
-              "opta": "t90"
-            }
-          },
-          "position": 20,
-          "startingPosition": 19,
-          "overall": {
-            "played": 27,
-            "won": 3,
-            "drawn": 4,
-            "lost": 20,
-            "goalsFor": 25,
-            "goalsAgainst": 60,
-            "goalsDifference": -35,
-            "points": 13
-          },
-          "home": {
-            "played": 14,
-            "won": 1,
-            "drawn": 2,
-            "lost": 11,
-            "goalsFor": 13,
-            "goalsAgainst": 34,
-            "goalsDifference": -21,
-            "points": 5
-          },
-          "away": {
-            "played": 13,
-            "won": 2,
-            "drawn": 2,
-            "lost": 9,
-            "goalsFor": 12,
-            "goalsAgainst": 26,
-            "goalsDifference": -14,
-            "points": 8
-          },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
-          "ground": {
-            "name": "Turf Moor",
-            "city": "Burnley",
-            "capacity": 21401,
-            "location": {
-              "latitude": 53.7885,
-              "longitude": -2.23149
-            },
-            "source": "OPTA",
-            "id": 47
           }
         }
       ]
