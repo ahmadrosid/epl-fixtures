@@ -17,8 +17,8 @@ The data displayed in 2023 with BST TimeZone.
 | 1 | Arsenal | 28 | 20 | 4 | 4 | 70 | 24 | 46 | 64 |
 | 2 | Liverpool | 27 | 19 | 6 | 2 | 64 | 25 | 39 | 63 |
 | 3 | Manchester City | 27 | 19 | 5 | 3 | 62 | 27 | 35 | 62 |
-| 4 | Aston Villa | 27 | 17 | 4 | 6 | 59 | 37 | 22 | 55 |
-| 5 | Tottenham Hotspur | 26 | 15 | 5 | 6 | 55 | 39 | 16 | 50 |
+| 4 | Aston Villa | 28 | 17 | 5 | 6 | 59 | 37 | 22 | 56 |
+| 5 | Tottenham Hotspur | 27 | 15 | 6 | 6 | 55 | 39 | 16 | 51 |
 | 6 | Manchester United | 28 | 15 | 2 | 11 | 39 | 39 | 0 | 47 |
 | 7 | West Ham United | 27 | 12 | 6 | 9 | 43 | 47 | -4 | 42 |
 | 8 | Wolverhampton Wanderers | 28 | 12 | 5 | 11 | 42 | 44 | -2 | 41 |
