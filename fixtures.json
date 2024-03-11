@@ -703,7 +703,8 @@
             "altIds": {
               "opta": "t8"
             }
-          }
+          },
+          "score": 0
         },
         {
           "team": {
@@ -720,7 +721,8 @@
             "altIds": {
               "opta": "t4"
             }
-          }
+          },
+          "score": 0
         }
       ],
       "replay": false,
@@ -733,6 +735,10 @@
       "neutralGround": false,
       "status": "U",
       "phase": "0",
+      "clock": {
+        "secs": 0,
+        "label": "00'00"
+      },
       "fixtureType": "REGULAR",
       "extraTime": false,
       "shootout": false,
