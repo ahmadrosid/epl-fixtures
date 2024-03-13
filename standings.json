@@ -781,22 +781,22 @@
           "overall": {
             "played": 28,
             "won": 8,
-            "drawn": 8,
-            "lost": 12,
-            "goalsFor": 38,
+            "drawn": 9,
+            "lost": 11,
+            "goalsFor": 40,
             "goalsAgainst": 52,
-            "goalsDifference": -14,
-            "points": 32
+            "goalsDifference": -12,
+            "points": 33
           },
           "home": {
             "played": 14,
             "won": 3,
-            "drawn": 5,
-            "lost": 6,
-            "goalsFor": 15,
+            "drawn": 6,
+            "lost": 5,
+            "goalsFor": 17,
             "goalsAgainst": 23,
-            "goalsDifference": -8,
-            "points": 14
+            "goalsDifference": -6,
+            "points": 15
           },
           "away": {
             "played": 14,
@@ -1004,62 +1004,6 @@
         },
         {
           "team": {
-            "name": "Luton Town",
-            "club": {
-              "name": "Luton Town",
-              "shortName": "Luton",
-              "abbr": "LUT",
-              "id": 163
-            },
-            "teamType": "FIRST",
-            "shortName": "Luton",
-            "id": 163,
-            "altIds": {
-              "opta": "t102"
-            }
-          },
-          "position": 17,
-          "startingPosition": 18,
-          "overall": {
-            "played": 28,
-            "won": 6,
-            "drawn": 6,
-            "lost": 16,
-            "goalsFor": 41,
-            "goalsAgainst": 56,
-            "goalsDifference": -15,
-            "points": 24
-          },
-          "home": {
-            "played": 14,
-            "won": 3,
-            "drawn": 2,
-            "lost": 9,
-            "goalsFor": 21,
-            "goalsAgainst": 25,
-            "goalsDifference": -4,
-            "points": 11
-          },
-          "away": {
-            "played": 14,
-            "won": 3,
-            "drawn": 4,
-            "lost": 7,
-            "goalsFor": 20,
-            "goalsAgainst": 31,
-            "goalsDifference": -11,
-            "points": 13
-          },
-          "ground": {
-            "name": "Kenilworth Road",
-            "city": "Luton",
-            "capacity": 9975,
-            "source": "OPTA",
-            "id": 2025
-          }
-        },
-        {
-          "team": {
             "name": "Nottingham Forest",
             "club": {
               "name": "Nottingham Forest",
@@ -1074,7 +1018,7 @@
               "opta": "t17"
             }
           },
-          "position": 18,
+          "position": 17,
           "startingPosition": 17,
           "overall": {
             "played": 28,
@@ -1106,12 +1050,6 @@
             "goalsDifference": -14,
             "points": 9
           },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
           "ground": {
             "name": "The City Ground",
             "city": "Nottingham",
@@ -1122,6 +1060,68 @@
             },
             "source": "OPTA",
             "id": 2548
+          }
+        },
+        {
+          "team": {
+            "name": "Luton Town",
+            "club": {
+              "name": "Luton Town",
+              "shortName": "Luton",
+              "abbr": "LUT",
+              "id": 163
+            },
+            "teamType": "FIRST",
+            "shortName": "Luton",
+            "id": 163,
+            "altIds": {
+              "opta": "t102"
+            }
+          },
+          "position": 18,
+          "startingPosition": 18,
+          "overall": {
+            "played": 28,
+            "won": 5,
+            "drawn": 7,
+            "lost": 16,
+            "goalsFor": 41,
+            "goalsAgainst": 58,
+            "goalsDifference": -17,
+            "points": 22
+          },
+          "home": {
+            "played": 14,
+            "won": 3,
+            "drawn": 2,
+            "lost": 9,
+            "goalsFor": 21,
+            "goalsAgainst": 25,
+            "goalsDifference": -4,
+            "points": 11
+          },
+          "away": {
+            "played": 14,
+            "won": 2,
+            "drawn": 5,
+            "lost": 7,
+            "goalsFor": 20,
+            "goalsAgainst": 33,
+            "goalsDifference": -13,
+            "points": 11
+          },
+          "annotations": [
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "Kenilworth Road",
+            "city": "Luton",
+            "capacity": 9975,
+            "source": "OPTA",
+            "id": 2025
           }
         },
         {
