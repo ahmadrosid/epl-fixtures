@@ -3,7 +3,7 @@
     "page": 0,
     "numPages": 5,
     "pageSize": 20,
-    "numEntries": 99
+    "numEntries": 98
   },
   "content": [
     {
@@ -648,139 +648,6 @@
       "id": 93610,
       "altIds": {
         "opta": "g2367827"
-      }
-    },
-    {
-      "gameweek": {
-        "id": 12297,
-        "compSeason": {
-          "label": "2023/24",
-          "competition": {
-            "abbreviation": "EN_PR",
-            "description": "Premier League",
-            "level": "SEN",
-            "source": "",
-            "id": 1,
-            "altIds": {
-              "opta": "8"
-            }
-          },
-          "id": 578
-        },
-        "gameweek": 29,
-        "competitionPhase": {
-          "id": 5851,
-          "type": "L",
-          "gameweekRange": [
-            1,
-            38
-          ]
-        }
-      },
-      "kickoff": {
-        "completeness": 3,
-        "millis": 1710610200000,
-        "label": "Sat 16 Mar 2024, 17:30 GMT"
-      },
-      "provisionalKickoff": {
-        "completeness": 3,
-        "millis": 1710610200000,
-        "label": "Sat 16 Mar 2024, 17:30 GMT"
-      },
-      "teams": [
-        {
-          "team": {
-            "name": "Fulham",
-            "club": {
-              "name": "Fulham",
-              "shortName": "Fulham",
-              "abbr": "FUL",
-              "id": 34
-            },
-            "teamType": "FIRST",
-            "shortName": "Fulham",
-            "id": 34,
-            "altIds": {
-              "opta": "t54"
-            }
-          },
-          "score": 3
-        },
-        {
-          "team": {
-            "name": "Tottenham Hotspur",
-            "club": {
-              "name": "Tottenham Hotspur",
-              "shortName": "Spurs",
-              "abbr": "TOT",
-              "id": 21
-            },
-            "teamType": "FIRST",
-            "shortName": "Tottenham Hotspur",
-            "id": 21,
-            "altIds": {
-              "opta": "t6"
-            }
-          },
-          "score": 0
-        }
-      ],
-      "replay": false,
-      "ground": {
-        "name": "Craven Cottage",
-        "city": "London",
-        "source": "OPTA",
-        "id": 16
-      },
-      "neutralGround": false,
-      "status": "L",
-      "phase": "2",
-      "clock": {
-        "secs": 4860,
-        "label": "81'00"
-      },
-      "fixtureType": "REGULAR",
-      "extraTime": false,
-      "shootout": false,
-      "goals": [
-        {
-          "personId": 117763,
-          "assistId": 14624,
-          "clock": {
-            "secs": 2520,
-            "label": "42'00"
-          },
-          "phase": "1",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 16044,
-          "assistId": 6712,
-          "clock": {
-            "secs": 2940,
-            "label": "49'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        },
-        {
-          "personId": 117763,
-          "clock": {
-            "secs": 3660,
-            "label": "61'00"
-          },
-          "phase": "2",
-          "type": "G",
-          "description": "G"
-        }
-      ],
-      "penaltyShootouts": [],
-      "behindClosedDoors": false,
-      "id": 93606,
-      "altIds": {
-        "opta": "g2367823"
       }
     },
     {
@@ -1915,6 +1782,102 @@
       "id": 93630,
       "altIds": {
         "opta": "g2367847"
+      }
+    },
+    {
+      "gameweek": {
+        "id": 12299,
+        "compSeason": {
+          "label": "2023/24",
+          "competition": {
+            "abbreviation": "EN_PR",
+            "description": "Premier League",
+            "level": "SEN",
+            "source": "",
+            "id": 1,
+            "altIds": {
+              "opta": "8"
+            }
+          },
+          "id": 578
+        },
+        "gameweek": 31,
+        "competitionPhase": {
+          "id": 5851,
+          "type": "L",
+          "gameweekRange": [
+            1,
+            38
+          ]
+        }
+      },
+      "kickoff": {
+        "completeness": 3,
+        "millis": 1712082600000,
+        "label": "Tue 2 Apr 2024, 19:30 BST",
+        "gmtOffset": 1
+      },
+      "provisionalKickoff": {
+        "completeness": 3,
+        "millis": 1712082600000,
+        "label": "Tue 2 Apr 2024, 19:30 BST",
+        "gmtOffset": 1
+      },
+      "teams": [
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          }
+        },
+        {
+          "team": {
+            "name": "Fulham",
+            "club": {
+              "name": "Fulham",
+              "shortName": "Fulham",
+              "abbr": "FUL",
+              "id": 34
+            },
+            "teamType": "FIRST",
+            "shortName": "Fulham",
+            "id": 34,
+            "altIds": {
+              "opta": "t54"
+            }
+          }
+        }
+      ],
+      "replay": false,
+      "ground": {
+        "name": "The City Ground",
+        "city": "Nottingham",
+        "source": "OPTA",
+        "id": 2548
+      },
+      "neutralGround": false,
+      "status": "U",
+      "phase": "0",
+      "fixtureType": "REGULAR",
+      "extraTime": false,
+      "shootout": false,
+      "goals": [],
+      "penaltyShootouts": [],
+      "behindClosedDoors": false,
+      "id": 93625,
+      "altIds": {
+        "opta": "g2367842"
       }
     }
   ]
