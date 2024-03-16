@@ -13,7 +13,7 @@
     },
     "id": 578
   },
-  "live": true,
+  "live": false,
   "dynamicallyGenerated": true,
   "tables": [
     {
@@ -882,66 +882,6 @@
         },
         {
           "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "position": 15,
-          "startingPosition": 17,
-          "overall": {
-            "played": 29,
-            "won": 7,
-            "drawn": 6,
-            "lost": 16,
-            "goalsFor": 35,
-            "goalsAgainst": 50,
-            "goalsDifference": -15,
-            "points": 27
-          },
-          "home": {
-            "played": 14,
-            "won": 4,
-            "drawn": 3,
-            "lost": 7,
-            "goalsFor": 19,
-            "goalsAgainst": 21,
-            "goalsDifference": -2,
-            "points": 15
-          },
-          "away": {
-            "played": 15,
-            "won": 3,
-            "drawn": 3,
-            "lost": 9,
-            "goalsFor": 16,
-            "goalsAgainst": 29,
-            "goalsDifference": -13,
-            "points": 12
-          },
-          "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "capacity": 30602,
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "source": "OPTA",
-            "id": 2548
-          }
-        },
-        {
-          "team": {
             "name": "Brentford",
             "club": {
               "name": "Brentford",
@@ -956,7 +896,7 @@
               "opta": "t94"
             }
           },
-          "position": 16,
+          "position": 15,
           "startingPosition": 15,
           "overall": {
             "played": 29,
@@ -1012,7 +952,7 @@
               "opta": "t11"
             }
           },
-          "position": 17,
+          "position": 16,
           "startingPosition": 16,
           "overall": {
             "played": 28,
@@ -1064,6 +1004,66 @@
         },
         {
           "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 17,
+          "startingPosition": 17,
+          "overall": {
+            "played": 29,
+            "won": 6,
+            "drawn": 7,
+            "lost": 16,
+            "goalsFor": 35,
+            "goalsAgainst": 51,
+            "goalsDifference": -16,
+            "points": 25
+          },
+          "home": {
+            "played": 14,
+            "won": 4,
+            "drawn": 3,
+            "lost": 7,
+            "goalsFor": 19,
+            "goalsAgainst": 21,
+            "goalsDifference": -2,
+            "points": 15
+          },
+          "away": {
+            "played": 15,
+            "won": 2,
+            "drawn": 4,
+            "lost": 9,
+            "goalsFor": 16,
+            "goalsAgainst": 30,
+            "goalsDifference": -14,
+            "points": 10
+          },
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "capacity": 30602,
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "source": "OPTA",
+            "id": 2548
+          }
+        },
+        {
+          "team": {
             "name": "Luton Town",
             "club": {
               "name": "Luton Town",
@@ -1083,22 +1083,22 @@
           "overall": {
             "played": 29,
             "won": 5,
-            "drawn": 6,
-            "lost": 18,
-            "goalsFor": 41,
+            "drawn": 7,
+            "lost": 17,
+            "goalsFor": 42,
             "goalsAgainst": 60,
-            "goalsDifference": -19,
-            "points": 21
+            "goalsDifference": -18,
+            "points": 22
           },
           "home": {
             "played": 15,
             "won": 3,
-            "drawn": 2,
-            "lost": 10,
-            "goalsFor": 21,
+            "drawn": 3,
+            "lost": 9,
+            "goalsFor": 22,
             "goalsAgainst": 26,
-            "goalsDifference": -5,
-            "points": 11
+            "goalsDifference": -4,
+            "points": 12
           },
           "away": {
             "played": 14,
