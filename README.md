@@ -28,10 +28,10 @@ The data displayed in 2023 with BST TimeZone.
 | 12 | Fulham | 28 | 10 | 5 | 13 | 40 | 44 | -4 | 35 |
 | 13 | Bournemouth | 28 | 9 | 8 | 11 | 41 | 52 | -11 | 35 |
 | 14 | Crystal Palace | 28 | 7 | 8 | 13 | 33 | 48 | -15 | 29 |
-| 15 | Brentford | 28 | 7 | 5 | 16 | 40 | 52 | -12 | 26 |
+| 15 | Brentford | 29 | 7 | 5 | 17 | 40 | 53 | -13 | 26 |
 | 16 | Everton | 28 | 8 | 7 | 13 | 29 | 39 | -10 | 25 |
-| 17 | Nottingham Forest | 28 | 6 | 6 | 16 | 34 | 50 | -16 | 24 |
-| 18 | Luton Town | 28 | 5 | 6 | 17 | 41 | 59 | -18 | 21 |
-| 19 | Burnley | 28 | 3 | 5 | 20 | 27 | 62 | -35 | 14 |
+| 17 | Nottingham Forest | 29 | 6 | 7 | 16 | 34 | 50 | -16 | 25 |
+| 18 | Luton Town | 29 | 5 | 7 | 17 | 41 | 59 | -18 | 22 |
+| 19 | Burnley | 29 | 4 | 5 | 20 | 28 | 62 | -34 | 17 |
 | 20 | Sheffield United | 28 | 3 | 5 | 20 | 24 | 74 | -50 | 14 |
 <!-- END_STANDINGS -->
