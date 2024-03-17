@@ -12,7 +12,7 @@ The data displayed in 2023 with BST TimeZone.
 ### Standings
 
 <!-- START_STANDINGS -->
-| Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |
+| No | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Point |
 |----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|
 | 1 | Arsenal | 28 | 20 | 4 | 4 | 70 | 24 | 46 | 64 |
 | 2 | Liverpool | 28 | 19 | 7 | 2 | 65 | 26 | 39 | 64 |
