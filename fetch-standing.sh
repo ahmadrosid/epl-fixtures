@@ -41,7 +41,7 @@ cat standings.json | jq -r '
     .overall.points
 ] |
 join(" | ")
-' | awk 'BEGIN {print "| Position | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Points |"; print "|----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|";} {print "| "$0" |";}' > standings_table.txt
+' | awk 'BEGIN {print "| No | Team | Played | Won | Drawn | Lost | Goals For | Goals Against | Goal Difference | Point |"; print "|----------|------|--------|-----|-------|------|-----------|---------------|-----------------|--------|";} {print "| "$0" |";}' > standings_table.txt
 
 
 OS=$(uname)
