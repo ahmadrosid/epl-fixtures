@@ -1004,66 +1004,6 @@
         },
         {
           "team": {
-            "name": "Nottingham Forest",
-            "club": {
-              "name": "Nottingham Forest",
-              "shortName": "Nott'm Forest",
-              "abbr": "NFO",
-              "id": 15
-            },
-            "teamType": "FIRST",
-            "shortName": "Nott'm Forest",
-            "id": 15,
-            "altIds": {
-              "opta": "t17"
-            }
-          },
-          "position": 17,
-          "startingPosition": 17,
-          "overall": {
-            "played": 29,
-            "won": 6,
-            "drawn": 7,
-            "lost": 16,
-            "goalsFor": 35,
-            "goalsAgainst": 51,
-            "goalsDifference": -16,
-            "points": 25
-          },
-          "home": {
-            "played": 14,
-            "won": 4,
-            "drawn": 3,
-            "lost": 7,
-            "goalsFor": 19,
-            "goalsAgainst": 21,
-            "goalsDifference": -2,
-            "points": 15
-          },
-          "away": {
-            "played": 15,
-            "won": 2,
-            "drawn": 4,
-            "lost": 9,
-            "goalsFor": 16,
-            "goalsAgainst": 30,
-            "goalsDifference": -14,
-            "points": 10
-          },
-          "ground": {
-            "name": "The City Ground",
-            "city": "Nottingham",
-            "capacity": 30602,
-            "location": {
-              "latitude": 52.9396,
-              "longitude": -1.13258
-            },
-            "source": "OPTA",
-            "id": 2548
-          }
-        },
-        {
-          "team": {
             "name": "Luton Town",
             "club": {
               "name": "Luton Town",
@@ -1078,7 +1018,7 @@
               "opta": "t102"
             }
           },
-          "position": 18,
+          "position": 17,
           "startingPosition": 18,
           "overall": {
             "played": 29,
@@ -1110,18 +1050,82 @@
             "goalsDifference": -14,
             "points": 10
           },
-          "annotations": [
-            {
-              "type": "R",
-              "destination": "EN_CH"
-            }
-          ],
           "ground": {
             "name": "Kenilworth Road",
             "city": "Luton",
             "capacity": 9975,
             "source": "OPTA",
             "id": 2025
+          }
+        },
+        {
+          "team": {
+            "name": "Nottingham Forest",
+            "club": {
+              "name": "Nottingham Forest",
+              "shortName": "Nott'm Forest",
+              "abbr": "NFO",
+              "id": 15
+            },
+            "teamType": "FIRST",
+            "shortName": "Nott'm Forest",
+            "id": 15,
+            "altIds": {
+              "opta": "t17"
+            }
+          },
+          "position": 18,
+          "startingPosition": 17,
+          "overall": {
+            "played": 29,
+            "won": 6,
+            "drawn": 7,
+            "lost": 16,
+            "goalsFor": 35,
+            "goalsAgainst": 51,
+            "goalsDifference": -16,
+            "points": 21
+          },
+          "home": {
+            "played": 14,
+            "won": 4,
+            "drawn": 3,
+            "lost": 7,
+            "goalsFor": 19,
+            "goalsAgainst": 21,
+            "goalsDifference": -2,
+            "points": 15
+          },
+          "away": {
+            "played": 15,
+            "won": 2,
+            "drawn": 4,
+            "lost": 9,
+            "goalsFor": 16,
+            "goalsAgainst": 30,
+            "goalsDifference": -14,
+            "points": 10
+          },
+          "annotations": [
+            {
+              "type": "PD",
+              "description": "Following a breach of the Premier League’s Profitability and Sustainability Rules"
+            },
+            {
+              "type": "R",
+              "destination": "EN_CH"
+            }
+          ],
+          "ground": {
+            "name": "The City Ground",
+            "city": "Nottingham",
+            "capacity": 30602,
+            "location": {
+              "latitude": 52.9396,
+              "longitude": -1.13258
+            },
+            "source": "OPTA",
+            "id": 2548
           }
         },
         {
