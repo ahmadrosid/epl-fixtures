@@ -8,7 +8,7 @@
   "content": [
     {
       "gameweek": {
-        "id": 12306,
+        "id": 12302,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -23,7 +23,7 @@
           },
           "id": 578
         },
-        "gameweek": 38,
+        "gameweek": 34,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -100,7 +100,7 @@
     },
     {
       "gameweek": {
-        "id": 12306,
+        "id": 12302,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -115,7 +115,7 @@
           },
           "id": 578
         },
-        "gameweek": 38,
+        "gameweek": 34,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -377,7 +377,7 @@
     },
     {
       "gameweek": {
-        "id": 12306,
+        "id": 12302,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -392,7 +392,7 @@
           },
           "id": 578
         },
-        "gameweek": 38,
+        "gameweek": 34,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -469,7 +469,7 @@
     },
     {
       "gameweek": {
-        "id": 12306,
+        "id": 12302,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -484,7 +484,7 @@
           },
           "id": 578
         },
-        "gameweek": 38,
+        "gameweek": 34,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -654,7 +654,7 @@
     },
     {
       "gameweek": {
-        "id": 12306,
+        "id": 12302,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -669,7 +669,7 @@
           },
           "id": 578
         },
-        "gameweek": 38,
+        "gameweek": 34,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
@@ -839,7 +839,7 @@
     },
     {
       "gameweek": {
-        "id": 12306,
+        "id": 12302,
         "compSeason": {
           "label": "2023/24",
           "competition": {
@@ -854,7 +854,7 @@
           },
           "id": 578
         },
-        "gameweek": 38,
+        "gameweek": 34,
         "competitionPhase": {
           "id": 5851,
           "type": "L",
